@@ -1,0 +1,758 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Helvetica Neue LT Std";
+}
+
+.footer-nav li {
+  margin-bottom: 15px;
+}
+
+.page-template-template-biographies {
+  overflow-x: hidden;
+}
+
+.page-template-template-biographies h3 {
+  font-size: 64px;
+  font-weight: 100;
+  line-height: 64px;
+  margin: 60px 0;
+}
+
+.page-template-template-biographies p {
+  font-size: 18px;
+  line-height: 24px;
+  color: #2c2a29;
+}
+
+.page-template-template-biographies .flex-column {
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.page-template-template-biographies .cta-button {
+  border: black solid 8px;
+  background-color: white;
+  color: #a6192e;
+  font-size: 16px;
+  width: 200px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  padding: 10px;
+  font-weight: 600;
+  text-decoration: none;
+  cursor: pointer;
+  line-height: 16px;
+}
+
+.page-template-template-biographies .parallax {
+  width: 100%;
+  height: 80vh;
+  background-position: center -10vw;
+  /*background-attachment: fixed;*/
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment:scroll !important;
+}
+
+.page-template-template-biographies .container-inner {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  position: relative;
+}
+
+.page-template-template-biographies .container-inner .half {
+  width: 50%;
+}
+
+.page-template-template-biographies .container-outer .container-inner {
+  max-width: 1420px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin: auto;
+  text-align: center;
+  padding: 0 100px;
+}
+
+.page-template-template-biographies .container-outer.hero-container {
+  position: relative;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  justify-self: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.page-template-template-biographies .container-outer.hero-container .foreground {
+  background-color: transparent;
+  width: 100%;
+  top: -19vw;
+  position: relative;
+}
+
+.page-template-template-biographies .container-outer.hero-container .container-inner {
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  position: absolute;
+  bottom: 0;
+}
+
+.page-template-template-biographies .container-outer.hero-container .container-inner h3 {
+  color: #a6192e;
+  margin: 0;
+}
+
+.page-template-template-biographies .container-outer.hero-container .container-inner h3, .page-template-template-biographies .container-outer.hero-container .container-inner p {
+  text-align: left;
+}
+
+.page-template-template-biographies .container-outer.hero-container .container-inner .right {
+  -webkit-transform: translateY(-50%);
+          transform: translateY(-50%);
+}
+
+.page-template-template-biographies .container-outer.bio-container {
+  background-color: #a6192e;
+  padding-bottom: 100px;
+}
+
+.page-template-template-biographies .container-outer.bio-container h3 {
+  color: white;
+}
+
+.page-template-template-biographies .container-outer.bio-container .bio-carousel {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+}
+
+.page-template-template-biographies .container-outer.bio-container .bio-carousel .front-bio {
+  width: 33.33%;
+  position: relative;
+}
+
+.page-template-template-biographies .container-outer.bio-container .bio-carousel .front-bio img {
+  width: 100%;
+}
+
+.page-template-template-biographies .container-outer.bio-container .bio-carousel .front-bio .name-container {
+  position: absolute;
+  bottom: 40px;
+  left: 35px;
+  text-align: left;
+}
+
+.page-template-template-biographies .container-outer.bio-container .bio-carousel .front-bio .name-container .name {
+  margin: 0;
+  font-weight: 100;
+  padding: 0;
+  font-size: 50px;
+  line-height: 50px;
+}
+
+.page-template-template-biographies .container-outer.bio-container .bio-carousel .front-bio .name-container .learn-more {
+  color: white;
+  font-size: 16px;
+  font-weight: 500;
+  text-decoration: none;
+  margin: 0;
+  padding: 0;
+}
+
+.page-template-template-biographies .container-outer.bio-container .back-bio {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  pointer-events: none;
+  background-color: black;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  opacity: 0;
+  bottom: 0;
+  -webkit-transform: translateY(100%);
+          transform: translateY(100%);
+  position: absolute;
+  -webkit-transition: opacity .5s, -webkit-transform .5s;
+  transition: opacity .5s, -webkit-transform .5s;
+  transition: transform .5s, opacity .5s;
+  transition: transform .5s, opacity .5s, -webkit-transform .5s;
+}
+
+.page-template-template-biographies .container-outer.bio-container .back-bio.active {
+  opacity: 1;
+  pointer-events: unset;
+  -webkit-transform: translateY(0);
+          transform: translateY(0);
+}
+
+.page-template-template-biographies .container-outer.bio-container .back-bio .bio {
+  width: 30%;
+  overflow-y: scroll;
+  height: 90%;
+  text-align: left;
+  -webkit-transform: translateY(-15px);
+          transform: translateY(-15px);
+}
+
+.page-template-template-biographies .container-outer.bio-container .back-bio .bio h3 {
+  margin: 0;
+  padding: 0;
+}
+
+.page-template-template-biographies .container-outer.bio-container .back-bio .bio p {
+  color: white;
+}
+
+.page-template-template-biographies .container-outer.bio-container .back-bio .bio-vid {
+  width: 70%;
+  height: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.page-template-template-biographies .container-outer.bio-container .back-bio .bio-vid iframe {
+  width: 100%;
+  height: 85%;
+}
+
+.page-template-template-biographies .container-outer.bio-container .back-bio .bio, .page-template-template-biographies .container-outer.bio-container .back-bio .bio-vid {
+  padding: 30px;
+}
+
+.page-template-template-biographies .container-outer.bio-container .back-bio .exitButton {
+  color: white;
+  text-decoration: none;
+  position: absolute;
+  top: 15px;
+  right: 15px;
+  font-size: 18px;
+  padding: 20px;
+  cursor: pointer;
+}
+
+.page-template-template-biographies .container-outer.bottom-cta-container h3 {
+  color: #a6192e;
+}
+
+.page-template-template-biographies .container-outer.bottom-cta-container img {
+  width: 100%;
+  margin-top: 100px;
+}
+
+@media screen and (max-width: 1200px) and (min-width: 768px) {
+  .page-template-template-biographies .container-outer.bio-container .container-inner .bio-carousel .front-bio .name-container {
+    bottom: 3vw;
+    left: 2vw;
+  }
+  .page-template-template-biographies .container-outer.bio-container .container-inner .bio-carousel .front-bio .name-container .name {
+    font-size: 4vw;
+    line-height: 4vw;
+  }
+  .page-template-template-biographies .container-outer.bio-container .container-inner .bio-carousel .front-bio .name-container .learn-more {
+    font-size: 2vw;
+    line-height: 2vw;
+  }
+}
+
+@media screen and (max-width: 1215px) {
+  .page-template-template-biographies .container-outer.hero-container .container-inner .half.right {
+    -webkit-transform: translateY(-25%);
+            transform: translateY(-25%);
+  }
+}
+
+@media screen and (max-width: 1130px) {
+  .page-template-template-biographies .container-outer.hero-container .container-inner {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    position: relative;
+    bottom: unset;
+  }
+  .page-template-template-biographies .container-outer.hero-container .container-inner .half {
+    width: 100%;
+  }
+  .page-template-template-biographies .container-outer.hero-container .container-inner .half h3, .page-template-template-biographies .container-outer.hero-container .container-inner .half p {
+    text-align: center;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .page-template-template-biographies .container-outer.hero-container .container-inner {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    margin: unset;
+  }
+  .page-template-template-biographies .container-outer.hero-container .container-inner .half.right {
+    -webkit-transform: translateY(-17%);
+            transform: translateY(-17%);
+  }
+  .page-template-template-biographies .container-outer .parallax {
+    height: 55vh;
+    background-position: center -13vw;
+  }
+  .page-template-template-biographies .container-outer.bio-container .container-inner {
+    padding: 0;
+  }
+  .page-template-template-biographies .container-outer.bio-container .container-inner .back-bio {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+  .page-template-template-biographies .container-outer.bio-container .container-inner .back-bio .bio {
+    width: 100%;
+    margin-top: 80px;
+  }
+  .page-template-template-biographies .container-outer.bio-container .container-inner .back-bio .bio h3 {
+    font-size: 54px;
+    line-height: 54px;
+  }
+  .page-template-template-biographies .container-outer.bio-container .container-inner .back-bio .bio p {
+    font-size: 16px;
+    line-height: 18px;
+  }
+  .page-template-template-biographies .container-outer.bio-container .container-inner .back-bio .bio-vid {
+    width: 100%;
+  }
+  .page-template-template-biographies .container-outer.bio-container .container-inner .bio-carousel .slick-prev {
+    left: 5%;
+    top: 50%;
+    z-index: 99;
+  }
+  .page-template-template-biographies .container-outer.bio-container .container-inner .bio-carousel .slick-next {
+    right: 5%;
+    left: unset;
+    top: 50%;
+    z-index: 99;
+  }
+}
+
+.tabs-container.small-wrapper {
+  margin: 100px auto;
+}
+
+.tabs-container.small-wrapper h2 {
+  font-weight: 400;
+  text-align: center;
+}
+
+.tabs-container .tabs {
+  overflow: hidden;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  padding: 20px 0;
+}
+
+.tabs-container .tabs button {
+  background-color: white;
+  color: #a6192e;
+  font-weight: 700;
+  text-transform: uppercase;
+  border: solid 1px black;
+  border-radius: 10px;
+  cursor: pointer;
+  padding: 15px 18px;
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+  width: 18%;
+  height: 65px;
+}
+
+.tabs-container .tabs button:hover {
+  background-color: #a6192e;
+  color: white;
+  border: #a6192e 1px solid;
+  opacity: .9;
+}
+
+.tabs-container .tabs button.active {
+  background-color: #a6192e;
+  color: white;
+  border: #a6192e 1px solid;
+}
+
+.tabs-container .tab-contents-container {
+  position: relative;
+  -webkit-transition-duration: .3s;
+          transition-duration: .3s;
+}
+
+.tabs-container .tabcontent {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  position: absolute;
+  top: 0;
+  padding: 6px 12px;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-transition-duration: .3s;
+          transition-duration: .3s;
+  -webkit-transform: translateX(-100%);
+          transform: translateX(-100%);
+  opacity: 0;
+  pointer-events: none;
+}
+
+.tabs-container .tabcontent.active {
+  -webkit-transform: translateX(0);
+          transform: translateX(0);
+  opacity: 1;
+  pointer-events: unset;
+}
+
+.tabs-container .tabcontent p, .tabs-container .tabcontent h4, .tabs-container .tabcontent a {
+  text-align: center;
+}
+
+.tabs-container .tabcontent a {
+  color: #a6192e;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin-bottom: 50px;
+}
+
+.tabs-container .tabcontent a:hover {
+  color: #2c2a29;
+}
+
+.tabs-container .tabcontent .mobile-map {
+  display: none;
+}
+
+.tabs-container .tabcontent .map-container {
+  position: relative;
+}
+
+.tabs-container .tabcontent .halves-container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: start;
+      -ms-flex-align: start;
+          align-items: flex-start;
+  height: 350px;
+}
+
+.tabs-container .tabcontent .halves-container .half {
+  width: 50%;
+  padding: 20px;
+}
+
+.tabs-container .tabcontent .halves-container .half.vid-container {
+  height: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  padding-left: 0;
+}
+
+.tabs-container .tabcontent .halves-container .half.vid-container iframe {
+  width: 100%;
+  height: 90%;
+}
+
+.tabs-container .tabcontent .halves-container .half.info-container {
+  padding-right: 0;
+  text-align: left;
+}
+
+.tabs-container .tabcontent .halves-container .half.info-container h4, .tabs-container .tabcontent .halves-container .half.info-container p {
+  text-align: left;
+}
+
+.tabs-container .tabcontent .quote-container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: start;
+      -ms-flex-align: start;
+          align-items: flex-start;
+  margin: 20px 0;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  width: 100%;
+}
+
+.tabs-container .tabcontent .quote-container img {
+  width: 50px;
+  height: auto;
+}
+
+.tabs-container .tabcontent .quote-container h3 {
+  font-size: 35px;
+  margin: 15px 0 5px 0;
+}
+
+.tabs-container .tabcontent .quote-container p {
+  color: #a6192e;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 18px;
+  margin: 0;
+}
+
+.tabs-container .tabcontent .images-container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  align-items: center;
+}
+
+.tabs-container .tabcontent .images-container .image {
+  width: 33.33%;
+}
+
+.tabs-container .tabcontent .images-container .image:nth-child(2) {
+  margin: 20px;
+}
+
+.tabs-container .tabcontent .images-container .image img {
+  width: 100%;
+}
+
+.ring-container {
+  position: absolute;
+}
+
+.ring-container .circle {
+  width: 10px;
+  height: 10px;
+  background-color: #000;
+  border-radius: 50%;
+  position: absolute;
+  top: 5px;
+  left: 5px;
+}
+
+.ring-container .ringring {
+  border: 3px solid #000;
+  -webkit-border-radius: 30px;
+  height: 20px;
+  width: 20px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  opacity: 0.0;
+}
+
+.ring-container .ringring.true {
+  -webkit-animation: pulsate 1s ease-out;
+  -webkit-animation-iteration-count: infinite;
+}
+
+.ring-container#dot-1 {
+  top: 34px;
+  left: 213px;
+}
+
+.ring-container#dot-2 {
+  top: 194px;
+  left: 180px;
+}
+
+.ring-container#dot-3 {
+  top: 256px;
+  left: 219px;
+}
+
+.ring-container#dot-4 {
+  top: 265px;
+  left: 285px;
+}
+
+.ring-container#dot-5 {
+  top: 347px;
+  left: 266px;
+}
+
+.ring-container#dot-6 {
+  top: 174px;
+  left: 371px;
+}
+
+.ring-container#dot-7 {
+  top: 184px;
+  left: 371px;
+}
+
+.ring-container#dot-8 {
+  top: 185px;
+  left: 388px;
+}
+
+.ring-container#dot-9 {
+  top: 322px;
+  left: 457px;
+}
+
+.ring-container#dot-10 {
+  top: 222px;
+  left: 583px;
+}
+
+.ring-container#dot-11 {
+  top: 150px;
+  left: 700px;
+}
+
+.ring-container#dot-12 {
+  top: 328px;
+  left: 672px;
+}
+
+@-webkit-keyframes pulsate {
+  0% {
+    -webkit-transform: scale(0.1, 0.1);
+    opacity: 0.0;
+  }
+  50% {
+    opacity: 1.0;
+  }
+  100% {
+    -webkit-transform: scale(1.2, 1.2);
+    opacity: 0.0;
+  }
+}
+
+@media screen and (max-width: 980px) {
+  .tabs-container .tabcontent .map-container {
+    display: none;
+  }
+  .tabs-container .tabcontent .mobile-map {
+    display: block;
+  }
+}
+
+@media screen and (max-width: 810px) {
+  .tabs-container .tabs {
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+  }
+  .tabs-container .tabs button {
+    width: 25vw;
+    font-size: 2vw;
+    line-height: 2.5vw;
+    margin: 2vw;
+    height: 11vw;
+  }
+  .tabs-container .tabcontent .halves-container {
+    height: unset;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+  .tabs-container .tabcontent .halves-container .half {
+    width: 100%;
+    padding: 20px 0;
+  }
+  .tabs-container .tabcontent .halves-container .half.vid-container {
+    height: 63vw;
+  }
+  .tabs-container .tabcontent .images-container {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+  .tabs-container .tabcontent .images-container .image {
+    width: 100%;
+  }
+}
+/*# sourceMappingURL=bio-styles.css.map */
