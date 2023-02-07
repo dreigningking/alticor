@@ -236,16 +236,16 @@
 
 
 
-                        <li><a href="{{route('what-we-do')}}" >What We Do</a></li>
+                        <li><a href="{{route('what-we-do.index')}}" >What We Do</a></li>
 
 
-                        <li><a href="{{route('what-we-do/development')}}" >Development</a></li>
+                        <li><a href="{{route('what-we-do.development')}}" >Development</a></li>
 
 
-                        <li><a href="{{route('what-we-do/construction')}}" >Construction</a></li>
+                        <li><a href="{{route('what-we-do.construction')}}" >Construction</a></li>
 
 
-                        <li><a href="{{route('what-we-do/facility-services')}}" >Facility Services</a>
+                        <li><a href="{{route('what-we-do.facility-services')}}" >Facility Services</a>
                         </li>
 
 
@@ -268,7 +268,7 @@
                                 alt="" width="300" height="200" /></p>
                         <p>&nbsp;</p>
                         <h5><span style="color: #ffffff;">Plan. Build. Manage.</span></h5>
-                        <h4><a href="{{asset('what-we-do')}}" >We develop, construct and maintain
+                        <h4><a href="{{asset('what-we-do.index')}}" >We develop, construct and maintain
                                 inspired landmarks that turn our clients’ aspirations into
                                 reality.</a></h4>
 
@@ -284,7 +284,7 @@
                                 srcset="/wp-content/uploads/2017/07/development-300x200.jpg 300w, /wp-content/uploads/2017/07/development.jpg 600w"
                                 sizes="(max-width: 300px) 100vw, 300px" /></p>
                         <h5><span style="color: #ffffff;">A Roadmap to Success</span></h5>
-                        <h4><a href="{{asset('what-we-do/development')}}" >Our development services
+                        <h4><a href="{{asset('what-we-do.development')}}" >Our development services
                                 guide clients through the entire process, from concept to
                                 completion.</a></h4>
 
@@ -300,7 +300,7 @@
                                 srcset="/wp-content/uploads/2017/07/construction-300x200.jpg 300w, /wp-content/uploads/2017/07/construction.jpg 600w"
                                 sizes="(max-width: 300px) 100vw, 300px" /></p>
                         <h5><span style="color: #ffffff;">Building Landmark Properties</span></h5>
-                        <h4><a href="{{asset('what-we-do/construction')}}" >From preconstruction
+                        <h4><a href="{{asset('what-we-do.construction')}}" >From preconstruction
                                 through constructability and field management – Alticor Inc delivers
                                 superior results on time and on budget.</a></h4>
 
@@ -316,7 +316,7 @@
                                 srcset="/wp-content/uploads/2018/10/Technician-in-Server-Room-300x225.jpg 300w, /wp-content/uploads/2018/10/Technician-in-Server-Room-768x576.jpg 768w, /wp-content/uploads/2018/10/Technician-in-Server-Room-1024x768.jpg 1024w"
                                 sizes="(max-width: 300px) 100vw, 300px" /></p>
                         <h5><span style="color: #ffffff;">Optimizing Operations</span></h5>
-                        <h4><a href="{{asset('what-we-do/facility-services')}}" >Even after
+                        <h4><a href="{{asset('what-we-do.facility-services')}}" >Even after
                                 construction is complete, we help our clients achieve their property
                                 goals and objectives.</a></h4>
 
@@ -344,8 +344,6 @@
 
                         <li><a href="{{route('careers.index')}}">Careers</a></li>
 
-
-
                         <li><a href="{{route('careers.job-search')}}" >Job Search</a></li>
 
 
@@ -364,18 +362,18 @@
                         <li><a href="{{route('careers.experienced')}}" >Experienced</a></li>
 
 
-                        <li><a href="{{route('careers.craft')}}" >Craft</a></li>
+                        <li><a href="{{route('careers.craft')}}" >Craft</a></li> 
 
 
-                        <li><a href="{{route('careers.careers-facility-services')}}" >Facilities
+                         <li><a href="{{route('careers.careers-facility-services')}}" >Facilities
                                 Services</a></li>
 
 
-                        <li><a href="{{route('careers.training')}}" >Training</a></li>
+                        <li><a href="{{route('careers.trainings')}}" >Training</a></li>
 
 
                         <li><a href="{{route('careers.employment-email-fraud-warning')}}" >Employment
-                                Fraud Warning</a></li>
+                                Fraud Warning</a></li> 
 
 
                         <li><a href="{{route('careers.equal-opportunity-employer')}}" >Equal
@@ -432,7 +430,7 @@
                                 src="{{ asset('wp-content/uploads/2019/08/recruiting-hensel-Phelps.jpg') }}"
                                 alt="" width="300" height="200" /></p>
                         <h5><span style="color: #ffffff;">Come Meet With Us!</span></h5>
-                        <h4><a href="recruiting-events')}}" >Find out when we&#8217;ll be
+                        <h4><a href="recruiting-events" >Find out when we&#8217;ll be
                                 recruiting in your area.</a></h4>
 
                     </div>
@@ -536,7 +534,7 @@
                                 srcset="/wp-content/uploads/2017/07/training-300x200.jpg 300w, /wp-content/uploads/2017/07/training.jpg 600w"
                                 sizes="(max-width: 300px) 100vw, 300px" /></p>
                         <h5><span style="color: #ffffff;">Invested in Your Growth</span></h5>
-                        <h4><a href="{{route('careers.training')}}" >Our training begins at inception
+                        <h4><a href="{{route('careers.trainings')}}" >Our training begins at inception
                                 and continues throughout all stages of our employees’ career.</a>
                         </h4>
 
@@ -850,11 +848,7 @@
 
         </li>
         <li>
-
             <a id="menu5" href="{{route('contact')}}">Contact Us</a>
-
-
-
         </li>
 
     </ul>

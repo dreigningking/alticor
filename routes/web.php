@@ -72,15 +72,15 @@ Route::group(['prefix'=> 'what-we-do','as'=>'what-we-do.'],function(){
 });
 Route::group(['prefix'=> 'careers','as'=> 'careers.'],function(){
     Route::view('/', 'careers.index')->name('index');
-    Route::view('job-search', '')->name('job-search');
-    Route::view('recruiting-events', '')->name('recruiting-events');
-    Route::view('career-paths', '')->name('career-paths'); 
-    Route::view('internships', '')->name('internships'); 
-    Route::view('graduates', '')->name('graduates'); 
-    Route::view('experienced', '')->name('experienced'); 
-    Route::view('craft', '')->name('craft'); 
-    Route::view('careers-facility-services', '')->name('careers-facility-services'); 
-    Route::view('trainings', '')->name('trainings'); 
-    Route::view('employment-email-fraud-warning', '')->name('employment-email-fraud-warning'); 
-    Route::view('equal-opportunity-employer', '')->name('equal-opportunity-employer'); 
+    Route::view('job-search', 'careers.index')->name('job-search');
+    Route::view('recruiting-events', 'careers.index')->name('recruiting-events');
+    Route::view('career-paths', 'careers.index')->name('career-paths'); 
+    Route::view('internships', 'careers.index')->name('internships'); 
+    Route::view('graduates', 'careers.index')->name('graduates'); 
+    Route::view('experienced', 'careers.index')->name('experienced'); 
+    Route::view('craft', 'careers.index')->name('craft'); 
+    Route::view('careers-facility-services', 'careers.index')->name('careers-facility-services'); 
+    Route::view('trainings', 'careers.index')->name('trainings'); 
+    Route::view('employment-email-fraud-warning', 'careers.index')->name('employment-email-fraud-warning'); 
+    Route::view('equal-opportunity-employer', 'careers.index')->name('equal-opportunity-employer'); 
 });
