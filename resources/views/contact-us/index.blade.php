@@ -1,7 +1,7 @@
 @extends('1layout.others')
 @section('content')
 
-	<div class="page-banner" style="background-image:url('../wp-content/uploads/2017/02/contact-banner-1.jpg');">
+	<div class="page-banner" style="background-image:url('../wp-content/uploads/2017/02/contact-banner-1.jpg')}});">
 		<div class="page-banner-block">
 			<div class="page-banner-content">
 				<h1>Contact Us</h1>

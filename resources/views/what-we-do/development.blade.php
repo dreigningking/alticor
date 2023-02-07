@@ -50,14 +50,14 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<link rel="shortcut icon" href="../../wp-content/themes/henselphelps/favicon.ico" type="img/x-icon" />
+<link rel="shortcut icon" href="../../wp-content/themes/henselphelps/favicon.ico')}}" type="img/x-icon" />
 
-<link rel="icon" type="image/png" href="../../wp-content/themes/henselphelps/favicon.png" sizes="32x32" />
+<link rel="icon" type="image/png" href="../../wp-content/themes/henselphelps/favicon.png')}}" sizes="32x32" />
 
 <link rel="profile" href="http://gmpg.org/xfn/11">
 <link rel="stylesheet" href='../../wp-content/themes/henselphelps/css/ie/font-awesome.min.css' type='text/css' />
 
-<link rel="stylesheet" href="../../wp-content/themes/henselphelps/css/bio-styles.css">
+<link rel="stylesheet" href="{{asset('wp-content/themes/henselphelps/css/bio-styles.css')}}">
 <link rel="stylesheet" type="text/css" href="../../../cdn.jsdelivr.net/npm/slick-carousel%401.8.1/slick/slick.css" />
 <link rel="stylesheet" type="text/css" href="../../../cdn.jsdelivr.net/npm/slick-carousel%401.8.1/slick/slick-theme.css" />
 
@@ -345,7 +345,7 @@ var sv = document.getElementsByTagName('script')[0]; sv.parentNode.insertBefore(
 			</script>
 				<!-- / Google Analytics by MonsterInsights -->
 		<script type="text/javascript">
-window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/henselphelps.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.0.3"}};
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png')}}","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/henselphelps.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.0.3"}};
 /*! This file is auto-generated */
 !function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
 </script>
@@ -892,7 +892,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
 
         	<div class="wrapper">
 
-                <a href="../../index.html" class="logo"><img src="../../wp-content/themes/henselphelps/img/logo.png"></a>
+                <a href="../../index.html" class="logo"><img src="{{asset('wp-content/themes/henselphelps/img/logo.png')}}"></a>
 
                 <div class="nav-container clearfix">
 
@@ -1159,7 +1159,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                         <div class="project-content">
 
                                             <h3>Facility Services</h3>
-<p><img loading="lazy" class="alignright size-medium wp-image-7027" src="../../../www.henselphelps.com/wp-content/uploads/2018/10/Technician-in-Server-Room-300x225.jpg" alt="" width="300" height="225" srcset="/wp-content/uploads/2018/10/Technician-in-Server-Room-300x225.jpg 300w, /wp-content/uploads/2018/10/Technician-in-Server-Room-768x576.jpg 768w, /wp-content/uploads/2018/10/Technician-in-Server-Room-1024x768.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p><img loading="lazy" class="alignright size-medium wp-image-7027" src="../../../www.henselphelps.com/wp-content/uploads/2018/10/Technician-in-Server-Room-300x225.jpg')}}" alt="" width="300" height="225" srcset="/wp-content/uploads/2018/10/Technician-in-Server-Room-300x225.jpg 300w, /wp-content/uploads/2018/10/Technician-in-Server-Room-768x576.jpg 768w, /wp-content/uploads/2018/10/Technician-in-Server-Room-1024x768.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></p>
 <h5><span style="color: #ffffff;">Optimizing Operations</span></h5>
 <h4><a href="../facility-services/index.html">Even after construction is complete, we help our clients achieve their property goals and objectives.</a></h4>
 
@@ -1346,7 +1346,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                         <div class="project-content">
 
                                             <h3>Equal Opportunity Employer</h3>
-<p><img loading="lazy" class="alignnone size-medium wp-image-2470" src="../../../www.henselphelps.com/wp-content/uploads/2017/04/3014162-Microsoft-Data-Center-CYS04-014_Original-300x225.jpg" alt="" width="300" height="225" srcset="/wp-content/uploads/2017/04/3014162-Microsoft-Data-Center-CYS04-014_Original-300x225.jpg 300w, /wp-content/uploads/2017/04/3014162-Microsoft-Data-Center-CYS04-014_Original-768x576.jpg 768w, /wp-content/uploads/2017/04/3014162-Microsoft-Data-Center-CYS04-014_Original.jpg 900w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p><img loading="lazy" class="alignnone size-medium wp-image-2470" src="../../../www.henselphelps.com/wp-content/uploads/2017/04/3014162-Microsoft-Data-Center-CYS04-014_Original-300x225.jpg')}}" alt="" width="300" height="225" srcset="/wp-content/uploads/2017/04/3014162-Microsoft-Data-Center-CYS04-014_Original-300x225.jpg 300w, /wp-content/uploads/2017/04/3014162-Microsoft-Data-Center-CYS04-014_Original-768x576.jpg 768w, /wp-content/uploads/2017/04/3014162-Microsoft-Data-Center-CYS04-014_Original.jpg 900w" sizes="(max-width: 300px) 100vw, 300px" /></p>
 <h5><span style="color: #ffffff;">Providing equal opportunities</span></h5>
 <h4><a href="../../careers/equal-opportunity-employer/index.html">Alticor Inc is an equal opportunity employer and contractor. </a></h4>
 
@@ -1568,7 +1568,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
 
                     <div class="toggle-nav">
 
-                        <a href="#"><img src="../../wp-content/themes/henselphelps/img/toggle-icon.png" alt=""></a>
+                        <a href="#"><img src="{{asset('wp-content/themes/henselphelps/img/toggle-icon.png')}}" alt=""></a>
 
                     </div>
 
@@ -1636,7 +1636,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
 <p>When it comes to creating landmark properties and delivering <a href="../../vision-and-core-values/index.html">EXCELLENCE</a> to our clients, we take a big picture approach – beginning with comprehensive development solutions that lay the groundwork for success and forge a clear path forward. Our development services guide clients through the entire process, from concept to completion. From cost containment and financing to feasibility studies and permitting, Alticor Inc offers a cohesive, turnkey delivery method for the planning and execution of each project. Our comprehensive development services include:</p>
 <ul>
 <li>Project feasibility</li>
-<li>Pro forma modeling &amp; analysis<img class="alignright wp-image-2315 size-large" src="../../../www.henselphelps.com/wp-content/uploads/2017/06/1_inside-development-graphic-1024x744.png" alt="" width="640" height="465" /></li>
+<li>Pro forma modeling &amp; analysis<img class="alignright wp-image-2315 size-large" src="../../../www.henselphelps.com/wp-content/uploads/2017/06/1_inside-development-graphic-1024x744.png')}}" alt="" width="640" height="465" /></li>
 <li>Project entitlement</li>
 <li>Programming and design</li>
 <li>Procurement of project financing</li>
@@ -1655,20 +1655,20 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                             <div class="acc-cont-box">
                             <h4 class="acc-trigger"><a href="#">Project Financing – Support from the Start</a></h4>
                             <div class="acc-para acc-container">
-                                <p><img loading="lazy" class="alignright wp-image-2447 size-thumbnail" src="../../../www.henselphelps.com/wp-content/uploads/2017/02/2_finance-150x150.png" alt="" width="150" height="150" srcset="/wp-content/uploads/2017/02/2_finance-150x150.png 150w, /wp-content/uploads/2017/02/2_finance.png 257w" sizes="(max-width: 150px) 100vw, 150px" />Alticor Inc’ Development Group has closed more than $2 billion in financing deals. Our financing sources include conventional bank construction loans, EB-5 financing, municipality TIFs and subsidies, tax exempt municipal bond financing, permanent real estate loans, and a variety of institutional and hospitality REITs, state grants, private equity, mezzanine loans, internal financing, and private investors. In each case, Alticor Inc provides a completion guaranty for delivery of the project by a fixed date for a guaranteed price, which is required to close the financing in timely manner.</p>
+                                <p><img loading="lazy" class="alignright wp-image-2447 size-thumbnail" src="../../../www.henselphelps.com/wp-content/uploads/2017/02/2_finance-150x150.png')}}" alt="" width="150" height="150" srcset="/wp-content/uploads/2017/02/2_finance-150x150.png 150w, /wp-content/uploads/2017/02/2_finance.png 257w" sizes="(max-width: 150px) 100vw, 150px" />Alticor Inc’ Development Group has closed more than $2 billion in financing deals. Our financing sources include conventional bank construction loans, EB-5 financing, municipality TIFs and subsidies, tax exempt municipal bond financing, permanent real estate loans, and a variety of institutional and hospitality REITs, state grants, private equity, mezzanine loans, internal financing, and private investors. In each case, Alticor Inc provides a completion guaranty for delivery of the project by a fixed date for a guaranteed price, which is required to close the financing in timely manner.</p>
 <p>The Alticor Inc Development team works with several financing partners that offer a variety of debt structures, including syndications, participation loans, interest rate swaps and caps and multi-lender credit facilities.</p>
                             </div>
                         </div>
                                             <div class="acc-cont-box">
                             <h4 class="acc-trigger"><a href="#">Public Private Partnerships – Building Better Together</a></h4>
                             <div class="acc-para acc-container">
-                                <p><img loading="lazy" class="alignright size-thumbnail wp-image-2445" src="../../../www.henselphelps.com/wp-content/uploads/2017/02/3_p3-150x150.png" alt="" width="150" height="150" srcset="/wp-content/uploads/2017/02/3_p3-150x150.png 150w, /wp-content/uploads/2017/02/3_p3.png 246w" sizes="(max-width: 150px) 100vw, 150px" />Alticor Inc has delivered projects under public-private partnerships for more than 20 years. Our team has developed the knowledge and ability to deliver these projects through public-private partnerships driven by public-sector demand. With our ability to structure private development and drive true P3 opportunities, Alticor Inc brings proven value to projects at all levels. From financing to construction to maintaining properties, Alticor Inc understands the full dynamics of P3 delivery.</p>
+                                <p><img loading="lazy" class="alignright size-thumbnail wp-image-2445" src="../../../www.henselphelps.com/wp-content/uploads/2017/02/3_p3-150x150.png')}}" alt="" width="150" height="150" srcset="/wp-content/uploads/2017/02/3_p3-150x150.png 150w, /wp-content/uploads/2017/02/3_p3.png 246w" sizes="(max-width: 150px) 100vw, 150px" />Alticor Inc has delivered projects under public-private partnerships for more than 20 years. Our team has developed the knowledge and ability to deliver these projects through public-private partnerships driven by public-sector demand. With our ability to structure private development and drive true P3 opportunities, Alticor Inc brings proven value to projects at all levels. From financing to construction to maintaining properties, Alticor Inc understands the full dynamics of P3 delivery.</p>
                             </div>
                         </div>
                                             <div class="acc-cont-box">
                             <h4 class="acc-trigger"><a href="#">Project Management/Owner’s Representation</a></h4>
                             <div class="acc-para acc-container">
-                                <p><img loading="lazy" class="alignright size-thumbnail wp-image-2442" src="../../../www.henselphelps.com/wp-content/uploads/2017/02/4_project-management-150x150.png" alt="" width="150" height="150" srcset="/wp-content/uploads/2017/02/4_project-management-150x150.png 150w, /wp-content/uploads/2017/02/4_project-management.png 257w" sizes="(max-width: 150px) 100vw, 150px" />The Alticor Inc Development team provides clients with full service Project Management and Owner’s Representation through all phases of development – from program and design management to owner/tenant move-in to project stabilization. Our team has represented both public and private clients, helping to align team expectations and deliver successful project outcomes.</p>
+                                <p><img loading="lazy" class="alignright size-thumbnail wp-image-2442" src="../../../www.henselphelps.com/wp-content/uploads/2017/02/4_project-management-150x150.png')}}" alt="" width="150" height="150" srcset="/wp-content/uploads/2017/02/4_project-management-150x150.png 150w, /wp-content/uploads/2017/02/4_project-management.png 257w" sizes="(max-width: 150px) 100vw, 150px" />The Alticor Inc Development team provides clients with full service Project Management and Owner’s Representation through all phases of development – from program and design management to owner/tenant move-in to project stabilization. Our team has represented both public and private clients, helping to align team expectations and deliver successful project outcomes.</p>
                             </div>
                         </div>
                                     </div>
@@ -1684,7 +1684,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
             </div>
             
             
-                        <div class="cta-block-wrap" style="background-image:url(../../wp-content/uploads/2017/02/cta-career-bg.jpg);">
+                        <div class="cta-block-wrap" style="background-image:url({{asset('wp-content/uploads/2017/02/cta-career-bg.jpg')}});">
 
                 <div class="cta-block">
         
@@ -1709,18 +1709,18 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
     	<div class="wrapper">
             <div class="footer-top clearfix" style="margin-bottom: 20px;">
                 <a href="../../index.html" class="footer-logo">
-                    <img src="../../wp-content/themes/henselphelps/img/footer-logo.png" alt="">
+                    <img src="{{asset('wp-content/themes/henselphelps/img/footer-logo.png')}}" alt="">
                 </a>
                 <div class="social-links">
                 	<ul>
-                    	<li><a target="_blank" href="https://www.facebook.com/HenselPhelpsCommunications/"><img src="../../wp-content/themes/henselphelps/img/facebook-icon.png" alt=""></a></li>
-                        <li><a target="_blank" href="https://twitter.com/henselphelps"><img src="../../wp-content/themes/henselphelps/img/twitter-icon.png" alt=""></a></li>
-                        <li><a target="_blank" href="https://www.linkedin.com/company/21743?trk=tyah&amp;trkInfo=clickedVertical:company,clickedEntityId:21743,idx:3-1-7,tarId:1473431308021,tas:Hensel%20Phelps"><img src="../../wp-content/themes/henselphelps/img/linkedin-icon.png" alt=""></a></li>
-                        <li><a target="_blank" href="https://www.instagram.com/henselphelps/"><img src="../../wp-content/themes/henselphelps/img/instagram-icon.png" alt=""></a></li>
-						<li><a target="_blank" href="https://www.youtube.com/c/HenselPhelpsConstructionCo"><img height="28" width="28" src="../../../www.henselphelps.com/wp-content/uploads/2021/08/youtube_social_squircle_red.png" alt=""></a></li>
+                    	<li><a target="_blank" href="https://www.facebook.com/HenselPhelpsCommunications/"><img src="{{asset('wp-content/themes/henselphelps/img/facebook-icon.png')}}" alt=""></a></li>
+                        <li><a target="_blank" href="https://twitter.com/henselphelps"><img src="{{asset('wp-content/themes/henselphelps/img/twitter-icon.png')}}" alt=""></a></li>
+                        <li><a target="_blank" href="https://www.linkedin.com/company/21743?trk=tyah&amp;trkInfo=clickedVertical:company,clickedEntityId:21743,idx:3-1-7,tarId:1473431308021,tas:Hensel%20Phelps"><img src="{{asset('wp-content/themes/henselphelps/img/linkedin-icon.png')}}" alt=""></a></li>
+                        <li><a target="_blank" href="https://www.instagram.com/henselphelps/"><img src="{{asset('wp-content/themes/henselphelps/img/instagram-icon.png')}}" alt=""></a></li>
+						<li><a target="_blank" href="https://www.youtube.com/c/HenselPhelpsConstructionCo"><img height="28" width="28" src="../../../www.henselphelps.com/wp-content/uploads/2021/08/youtube_social_squircle_red.png')}}" alt=""></a></li>
                     </ul>
 					<ul style="margin-top: 40px;">
-						<li style="position: relative; top: 20px; margin-right: 24px;"><a target="_blank" href="https://www.glassdoor.com/Overview/Working-at-Hensel-Phelps-EI_IE3218.11,24.htm"><img height="80" width="100" src="../../../www.henselphelps.com/wp-content/uploads/2022/09/glassdoor-logo.png" alt=""></a></li>
+						<li style="position: relative; top: 20px; margin-right: 24px;"><a target="_blank" href="https://www.glassdoor.com/Overview/Working-at-Hensel-Phelps-EI_IE3218.11,24.htm"><img height="80" width="100" src="../../../www.henselphelps.com/wp-content/uploads/2022/09/glassdoor-logo.png')}}" alt=""></a></li>
 						<li ><a target="_blank" ><img height="80" width="60" src="../../../www.henselphelps.com/wp-content/uploads/2022/09/top-work-places-logo.jpg" alt=""></a></li>
                     </ul>
                 </div>
@@ -1778,7 +1778,7 @@ var headJS = {"ajaxurl":"https:\/\/henselphelps.com\/wp-admin\/admin-ajax.php","
 /* ]]> */
 </script>
 <script type='text/javascript' src='../../wp-content/themes/henselphelps/js/script1eb7.js?ver=6.0.3' id='main-js-js'></script>
-<div id="browser-msg"><div><a id="close" href="#">X</a><h3>Oh no... this website is not a fan of Internet Explorer!</h3><p>Due to some geeky technical reasons, the Alticor Inc website is best viewed on any browser other than Internet Explorer. However, if you are a diehard IE fan you can continue to use it, but may have a less than great experience and will receive this annoying reminder every day. We recommend one of the following browsers to take full advantage of the Alticor Inc website. Thank you!</p><p><a href="https://www.google.com/chrome/browser/" target="_blank"><img alt="Chrome" src="../../../www.henselphelps.com/wp-content/uploads/2017/08/chrome-icon.png"/></a>&nbsp;&nbsp;&nbsp;<a href="https://www.mozilla.org/en-US/firefox/new/" target="_blank"><img alt="Firefox" src="../../../www.henselphelps.com/wp-content/uploads/2017/08/Firefox-icon.png"/></a>&nbsp;&nbsp;&nbsp;<a href="https://www.microsoft.com/en-us/windows/microsoft-edge/" target="_blank"><img alt="Edge" src="../../../www.henselphelps.com/wp-content/uploads/2017/08/edge-icon.png"/></a></p></div></div>
+<div id="browser-msg"><div><a id="close" href="#">X</a><h3>Oh no... this website is not a fan of Internet Explorer!</h3><p>Due to some geeky technical reasons, the Alticor Inc website is best viewed on any browser other than Internet Explorer. However, if you are a diehard IE fan you can continue to use it, but may have a less than great experience and will receive this annoying reminder every day. We recommend one of the following browsers to take full advantage of the Alticor Inc website. Thank you!</p><p><a href="https://www.google.com/chrome/browser/" target="_blank"><img alt="Chrome" src="../../../www.henselphelps.com/wp-content/uploads/2017/08/chrome-icon.png')}}"/></a>&nbsp;&nbsp;&nbsp;<a href="https://www.mozilla.org/en-US/firefox/new/" target="_blank"><img alt="Firefox" src="../../../www.henselphelps.com/wp-content/uploads/2017/08/Firefox-icon.png')}}"/></a>&nbsp;&nbsp;&nbsp;<a href="https://www.microsoft.com/en-us/windows/microsoft-edge/" target="_blank"><img alt="Edge" src="../../../www.henselphelps.com/wp-content/uploads/2017/08/edge-icon.png')}}"/></a></p></div></div>
 <script type="text/javascript" src="../../../analytics.clickdimensions.com/ts.js" > </script>
 <script type="text/javascript">
   var cdAnalytics = new clickdimensions.Analytics('analytics.clickdimensions.com');

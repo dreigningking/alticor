@@ -1,7 +1,6 @@
 @extends('1layout.others')
 @section('content')
-    <div class="page-banner"
-        style="background-image:url('../wp-content/uploads/2017/02/what-we-do-hero-1.jpg');">
+    <div class="page-banner" style="background-image:url('../wp-content/uploads/2017/02/what-we-do-hero-1.jpg')}});">
 
         <div class="page-banner-block">
 
@@ -72,8 +71,8 @@
 
 
                 <div class="case-study-post-image"
-                    style="background-image:url(../wp-content/uploads/2017/04/City-of-Austin-New-Central-Library-003_Block.jpg);">
-                    <img alt="" src="../wp-content/themes/henselphelps/img/placeholder.png" />
+                    style="background-image:url(../wp-content/uploads/2017/04/City-of-Austin-New-Central-Library-003_Block.jpg')}});">
+                    <img alt="" src="../wp-content/themes/henselphelps/img/placeholder.png')}}" />
 
 
                 </div>
@@ -105,8 +104,8 @@
 
 
                 <div class="case-study-post-image"
-                    style="background-image:url(../wp-content/uploads/2017/02/construction.jpg);">
-                    <img alt="" src="../wp-content/themes/henselphelps/img/placeholder.png" />
+                    style="background-image:url(../wp-content/uploads/2017/02/construction.jpg')}});">
+                    <img alt="" src="../wp-content/themes/henselphelps/img/placeholder.png')}}" />
 
 
                 </div>
@@ -138,8 +137,8 @@
 
 
                 <div class="case-study-post-image"
-                    style="background-image:url(../wp-content/uploads/2017/04/facility.jpg);">
-                    <img alt="" src="../wp-content/themes/henselphelps/img/placeholder.png" />
+                    style="background-image:url(../wp-content/uploads/2017/04/facility.jpg')}});">
+                    <img alt="" src="../wp-content/themes/henselphelps/img/placeholder.png')}}" />
 
 
                 </div>
@@ -172,7 +171,7 @@
                     <div class="col-4 activate">
 
                         <div class="opportunies-box"><a href="../the-hensel-phelps-way/safety/index.html"><img
-                                    src="../wp-content/uploads/2017/02/image1.jpg"></a>
+                                    src="../wp-content/uploads/2017/02/image1.jpg')}}"></a>
 
                             <div class="opportunies-title">
 
@@ -203,7 +202,7 @@
                     <div class="col-4 activate">
 
                         <div class="opportunies-box"><a href="../the-hensel-phelps-way/quality/index.html"><img
-                                    src="../wp-content/uploads/2017/02/quality-1.jpg"></a>
+                                    src="../wp-content/uploads/2017/02/quality-1.jpg')}}"></a>
 
                             <div class="opportunies-title">
 
@@ -235,7 +234,7 @@
 
                         <div class="opportunies-box"><a
                                 href="../the-hensel-phelps-way/sustainability/index.html"><img
-                                    src="../wp-content/uploads/2017/02/sustain-1.jpg"></a>
+                                    src="../wp-content/uploads/2017/02/sustain-1.jpg')}}"></a>
 
                             <div class="opportunies-title">
 
@@ -269,7 +268,7 @@
 
                         <div class="opportunies-box"><a
                                 href="../the-hensel-phelps-way/technology/vdc/index.html"><img
-                                    src="../wp-content/uploads/2017/02/technology.jpg"></a>
+                                    src="../wp-content/uploads/2017/02/technology.jpg')}}"></a>
 
                             <div class="opportunies-title">
 
@@ -304,7 +303,7 @@
 
         </div>
 
-        <div class="cta-block-wrap" style="background-image:url(../wp-content/uploads/2017/02/cta-bg.jpg);">
+        <div class="cta-block-wrap" style="background-image:url(../wp-content/uploads/2017/02/cta-bg.jpg')}});">
 
 
 

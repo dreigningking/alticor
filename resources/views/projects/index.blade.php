@@ -565,7 +565,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2022/12/AW-Maricopa-County-ITR-day-room.jpg">
+                    <img src="../wp-content/uploads/2022/12/AW-Maricopa-County-ITR-day-room.jpg')}}">
 
 
 
@@ -597,7 +597,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2022/11/HP-TPA-International-Finals-15-reduced-768x511.jpg">
+                    <img src="../wp-content/uploads/2022/11/HP-TPA-International-Finals-15-reduced-768x511.jpg')}}">
 
 
 
@@ -629,7 +629,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2022/09/HP_Website_Main_LAX-APF-768x512.jpg">
+                    <img src="../wp-content/uploads/2022/09/HP_Website_Main_LAX-APF-768x512.jpg')}}">
 
 
 
@@ -660,7 +660,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2022/09/HP_Website_Main_Kaiser-Riverside_new.jpg">
+                    <img src="../wp-content/uploads/2022/09/HP_Website_Main_Kaiser-Riverside_new.jpg')}}">
 
 
 
@@ -692,7 +692,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2022/10/HP_Website_Main_HUCLA_new.png">
+                    <img src="../wp-content/uploads/2022/10/HP_Website_Main_HUCLA_new.png')}}">
 
 
 
@@ -723,7 +723,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2022/07/Main-Image-LAUSD-Belvedere-480x320.jpg">
+                    <img src="../wp-content/uploads/2022/07/Main-Image-LAUSD-Belvedere-480x320.jpg')}}">
 
 
 
@@ -754,7 +754,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2022/07/Main-Image-Caltech-Resnick-05-480x320.jpg">
+                    <img src="../wp-content/uploads/2022/07/Main-Image-Caltech-Resnick-05-480x320.jpg')}}">
 
 
 
@@ -785,7 +785,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2022/07/Main-Image-City-of-Hope-02-1-480x320.jpg">
+                    <img src="../wp-content/uploads/2022/07/Main-Image-City-of-Hope-02-1-480x320.jpg')}}">
 
 
 
@@ -816,7 +816,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2022/06/China-Lake-01.jpg">
+                    <img src="../wp-content/uploads/2022/06/China-Lake-01.jpg')}}">
 
 
 
@@ -847,7 +847,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2022/06/UCR-SOM-EBII-02-480x320.jpg">
+                    <img src="../wp-content/uploads/2022/06/UCR-SOM-EBII-02-480x320.jpg')}}">
 
 
 
@@ -878,7 +878,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2022/06/HP_Website_Main_UCI-ICMC-480x320.jpg">
+                    <img src="../wp-content/uploads/2022/06/HP_Website_Main_UCI-ICMC-480x320.jpg')}}">
 
 
 
@@ -909,7 +909,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2020/05/HP_Website_Main_CARB-480x320.jpg">
+                    <img src="../wp-content/uploads/2020/05/HP_Website_Main_CARB-480x320.jpg')}}">
 
 
 
@@ -941,7 +941,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2022/06/HP_Website_Main_Valencia-COVID-Lab-480x320.jpg">
+                    <img src="../wp-content/uploads/2022/06/HP_Website_Main_Valencia-COVID-Lab-480x320.jpg')}}">
 
 
 
@@ -973,7 +973,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2020/05/HP_Website_Main_LAX-T1.5-480x320.jpg">
+                    <img src="../wp-content/uploads/2020/05/HP_Website_Main_LAX-T1.5-480x320.jpg')}}">
 
 
 
@@ -1004,7 +1004,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2022/06/Main-Image-Western-County-EOC-05-480x320.jpg">
+                    <img src="../wp-content/uploads/2022/06/Main-Image-Western-County-EOC-05-480x320.jpg')}}">
 
 
 
@@ -1035,7 +1035,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2022/03/7768-Woodmont-Avenue-18_web-480x320.jpg">
+                    <img src="../wp-content/uploads/2022/03/7768-Woodmont-Avenue-18_web-480x320.jpg')}}">
 
 
 
@@ -1066,7 +1066,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2022/06/Main-Image-SeaWorld-Aquatica-02-1-480x320.jpg">
+                    <img src="../wp-content/uploads/2022/06/Main-Image-SeaWorld-Aquatica-02-1-480x320.jpg')}}">
 
 
 
@@ -1097,7 +1097,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2022/02/DJC_Final_31Jan2012_010-480x320.jpg">
+                    <img src="../wp-content/uploads/2022/02/DJC_Final_31Jan2012_010-480x320.jpg')}}">
 
 
 
@@ -1129,7 +1129,7 @@
 
 
                     <img
-                        src="../wp-content/uploads/2022/02/4.Midfield-Concourse-at-Washington-Dulles-Intl-Airport-480x320.jpg">
+                        src="../wp-content/uploads/2022/02/4.Midfield-Concourse-at-Washington-Dulles-Intl-Airport-480x320.jpg')}}">
 
 
 
@@ -1160,7 +1160,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2022/02/BWI-Terminal-Ext-122-7x10-72dpi-1-480x320.jpg">
+                    <img src="../wp-content/uploads/2022/02/BWI-Terminal-Ext-122-7x10-72dpi-1-480x320.jpg')}}">
 
 
 
@@ -1192,7 +1192,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2022/02/Interior_Hangar_Bays_10-1-480x320.jpg">
+                    <img src="../wp-content/uploads/2022/02/Interior_Hangar_Bays_10-1-480x320.jpg')}}">
 
 
 
@@ -1225,7 +1225,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2022/02/3Y1A8832-480x320.jpg">
+                    <img src="../wp-content/uploads/2022/02/3Y1A8832-480x320.jpg')}}">
 
 
 
@@ -1257,7 +1257,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2022/01/2020_11_12_T_ZGFnist01_A-480x320.jpg">
+                    <img src="../wp-content/uploads/2022/01/2020_11_12_T_ZGFnist01_A-480x320.jpg')}}">
 
 
 
@@ -1290,7 +1290,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2022/02/Team-Edit-16-480x320.jpg">
+                    <img src="../wp-content/uploads/2022/02/Team-Edit-16-480x320.jpg')}}">
 
 
 
@@ -1321,7 +1321,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2022/01/701-Rio-Main-Image-480x320.jpg">
+                    <img src="../wp-content/uploads/2022/01/701-Rio-Main-Image-480x320.jpg')}}">
 
 
 
@@ -1352,7 +1352,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2021/11/McGregor-Main-Image-480x320.jpg">
+                    <img src="../wp-content/uploads/2021/11/McGregor-Main-Image-480x320.jpg')}}">
 
 
 
@@ -1383,7 +1383,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2021/11/NAS-Pensacola-B633-3-Reduced-scaled-480x320.jpg">
+                    <img src="../wp-content/uploads/2021/11/NAS-Pensacola-B633-3-Reduced-scaled-480x320.jpg')}}">
 
 
 
@@ -1414,7 +1414,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2021/11/MacDillAFB_ARC_Reduced-7-2-scaled-480x320.jpg">
+                    <img src="../wp-content/uploads/2021/11/MacDillAFB_ARC_Reduced-7-2-scaled-480x320.jpg')}}">
 
 
 
@@ -1445,7 +1445,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2021/11/SkyCenter_005-480x320.jpg">
+                    <img src="../wp-content/uploads/2021/11/SkyCenter_005-480x320.jpg')}}">
 
 
 
@@ -1477,7 +1477,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2021/10/Archer-Hotel-HP-Exterior-7_Reduced-480x320.jpg">
+                    <img src="../wp-content/uploads/2021/10/Archer-Hotel-HP-Exterior-7_Reduced-480x320.jpg')}}">
 
 
 
@@ -1508,7 +1508,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2021/10/Entry-from-Skybridge-5-SW-to-Ticketing-Hall-1024x684.jpg">
+                    <img src="../wp-content/uploads/2021/10/Entry-from-Skybridge-5-SW-to-Ticketing-Hall-1024x684.jpg')}}">
 
 
 
@@ -1540,7 +1540,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2020/09/NorthFrom5th-480x320.jpg">
+                    <img src="../wp-content/uploads/2020/09/NorthFrom5th-480x320.jpg')}}">
 
 
 
@@ -1571,7 +1571,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2021/09/HP_Project_Mauka-480x320.jpg">
+                    <img src="../wp-content/uploads/2021/09/HP_Project_Mauka-480x320.jpg')}}">
 
 
 
@@ -1603,7 +1603,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2021/08/Website-Photo-480x320.jpg">
+                    <img src="../wp-content/uploads/2021/08/Website-Photo-480x320.jpg')}}">
 
 
 
@@ -1634,7 +1634,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2021/07/South-Fort-Collins-Hydro3-480x320.jpg">
+                    <img src="../wp-content/uploads/2021/07/South-Fort-Collins-Hydro3-480x320.jpg')}}">
 
 
 
@@ -1665,7 +1665,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2021/07/Drake-Hensel-Phelps2-scaled-480x320.jpg">
+                    <img src="../wp-content/uploads/2021/07/Drake-Hensel-Phelps2-scaled-480x320.jpg')}}">
 
 
 
@@ -1696,7 +1696,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2021/07/DSF3791-scaled-480x320.jpg">
+                    <img src="../wp-content/uploads/2021/07/DSF3791-scaled-480x320.jpg')}}">
 
 
 
@@ -1728,7 +1728,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2021/07/SSA-Altmeyer-Award-Selections-1_Compressed-480x320.jpg">
+                    <img src="../wp-content/uploads/2021/07/SSA-Altmeyer-Award-Selections-1_Compressed-480x320.jpg')}}">
 
 
 
@@ -1760,7 +1760,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2021/08/HP_Project_Waianae-WWTP-480x320.jpg">
+                    <img src="../wp-content/uploads/2021/08/HP_Project_Waianae-WWTP-480x320.jpg')}}">
 
 
 
@@ -1791,7 +1791,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2021/08/HP_Project_KaneoheTIF-480x320.jpg">
+                    <img src="../wp-content/uploads/2021/08/HP_Project_KaneoheTIF-480x320.jpg')}}">
 
 
 
@@ -1822,7 +1822,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2021/06/Featured-Image-480x320.jpg">
+                    <img src="../wp-content/uploads/2021/06/Featured-Image-480x320.jpg')}}">
 
 
 
@@ -1853,7 +1853,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2021/06/HSH-ProjectMain-480x320.jpg">
+                    <img src="../wp-content/uploads/2021/06/HSH-ProjectMain-480x320.jpg')}}">
 
 
 
@@ -1884,7 +1884,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2021/04/phlpoe_AutoBus-480x320.png">
+                    <img src="../wp-content/uploads/2021/04/phlpoe_AutoBus-480x320.png')}}">
 
 
 
@@ -1915,7 +1915,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2021/04/Enscape_2022-05-23-16-03-33-Small.png">
+                    <img src="../wp-content/uploads/2021/04/Enscape_2022-05-23-16-03-33-Small.png')}}">
 
 
 
@@ -1946,7 +1946,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2021/03/GSH-Feature-1-480x320.jpg">
+                    <img src="../wp-content/uploads/2021/03/GSH-Feature-1-480x320.jpg')}}">
 
 
 
@@ -1977,7 +1977,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2021/03/UWAC-Porch-Entrance-Wood_reduced.png">
+                    <img src="../wp-content/uploads/2021/03/UWAC-Porch-Entrance-Wood_reduced.png')}}">
 
 
 
@@ -2009,7 +2009,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2021/01/FSH-AIT_Page_02-480x320.jpg">
+                    <img src="../wp-content/uploads/2021/01/FSH-AIT_Page_02-480x320.jpg')}}">
 
 
 
@@ -2041,7 +2041,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2020/12/Tac-Maze-Exterior-480x320.jpg">
+                    <img src="../wp-content/uploads/2020/12/Tac-Maze-Exterior-480x320.jpg')}}">
 
 
 
@@ -2072,7 +2072,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2020/12/for-website-01-480x320.jpg">
+                    <img src="../wp-content/uploads/2020/12/for-website-01-480x320.jpg')}}">
 
 
 
@@ -2104,7 +2104,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2020/11/IMG_8747-480x320.jpg">
+                    <img src="../wp-content/uploads/2020/11/IMG_8747-480x320.jpg')}}">
 
 
 
@@ -2135,7 +2135,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2021/01/RamaTiru_Kalahari_HP-28-480x320.jpg">
+                    <img src="../wp-content/uploads/2021/01/RamaTiru_Kalahari_HP-28-480x320.jpg')}}">
 
 
 
@@ -2166,7 +2166,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2020/11/Dell-Med-School16-480x320.jpg">
+                    <img src="../wp-content/uploads/2020/11/Dell-Med-School16-480x320.jpg')}}">
 
 
 
@@ -2198,7 +2198,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2020/10/BWI-Terminal-HP-41_Compressed-480x320.jpg">
+                    <img src="../wp-content/uploads/2020/10/BWI-Terminal-HP-41_Compressed-480x320.jpg')}}">
 
 
 
@@ -2230,7 +2230,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2020/09/STIA_Concourse_C-480x320.jpg">
+                    <img src="../wp-content/uploads/2020/09/STIA_Concourse_C-480x320.jpg')}}">
 
 
 
@@ -2261,7 +2261,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2020/09/BOP2_LaserScanning_3-480x320.png">
+                    <img src="../wp-content/uploads/2020/09/BOP2_LaserScanning_3-480x320.png')}}">
 
 
 
@@ -2292,7 +2292,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2020/09/DRLE-480x320.jpg">
+                    <img src="../wp-content/uploads/2020/09/DRLE-480x320.jpg')}}">
 
 
 
@@ -2323,7 +2323,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2020/07/1-480x320.jpg">
+                    <img src="../wp-content/uploads/2020/07/1-480x320.jpg')}}">
 
 
 
@@ -2355,7 +2355,7 @@
 
 
                     <img
-                        src="../wp-content/uploads/2020/06/Cannon-Design-UTMB-League-City-Tower-08Apr2020-15-480x320.jpg">
+                        src="../wp-content/uploads/2020/06/Cannon-Design-UTMB-League-City-Tower-08Apr2020-15-480x320.jpg')}}">
 
 
 
@@ -2386,7 +2386,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2020/05/Delta-Air-Lines-T2-3-Modernization-at-LAX_1-480x320.jpg">
+                    <img src="../wp-content/uploads/2020/05/Delta-Air-Lines-T2-3-Modernization-at-LAX_1-480x320.jpg')}}">
 
 
 
@@ -2418,7 +2418,7 @@
 
 
                     <img
-                        src="../wp-content/uploads/2020/05/LAUSD-Venice-High-School-Comprehensive-Modernization-Project_3-480x320.jpg">
+                        src="../wp-content/uploads/2020/05/LAUSD-Venice-High-School-Comprehensive-Modernization-Project_3-480x320.jpg')}}">
 
 
 
@@ -2450,7 +2450,7 @@
 
 
                     <img
-                        src="../wp-content/uploads/2020/05/American-Airlines-Terminal-4-5-Redevelopment-Program-at-LAX_1-480x320.jpg">
+                        src="../wp-content/uploads/2020/05/American-Airlines-Terminal-4-5-Redevelopment-Program-at-LAX_1-480x320.jpg')}}">
 
 
 
@@ -2481,7 +2481,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2020/05/UCI-Verano-8-CopyrightPlomp_4-480x320.jpg">
+                    <img src="../wp-content/uploads/2020/05/UCI-Verano-8-CopyrightPlomp_4-480x320.jpg')}}">
 
 
 
@@ -2512,7 +2512,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2020/05/CF006599-3-480x320.jpg">
+                    <img src="../wp-content/uploads/2020/05/CF006599-3-480x320.jpg')}}">
 
 
 
@@ -2543,7 +2543,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2020/05/HP_Website_Main_Kaiser-Downey-480x320.jpg">
+                    <img src="../wp-content/uploads/2020/05/HP_Website_Main_Kaiser-Downey-480x320.jpg')}}">
 
 
 
@@ -2574,7 +2574,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2020/05/HP_Website_Main_Kaiser-Irwindale-1-480x320.jpg">
+                    <img src="../wp-content/uploads/2020/05/HP_Website_Main_Kaiser-Irwindale-1-480x320.jpg')}}">
 
 
 
@@ -2606,7 +2606,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2022/06/Main-Image-UCSD-Mesa-Nueva-07-480x320.jpg">
+                    <img src="../wp-content/uploads/2022/06/Main-Image-UCSD-Mesa-Nueva-07-480x320.jpg')}}">
 
 
 
@@ -2638,7 +2638,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/12/HP_Website_Main_UCSD-Nuevo-East-480x320.jpg">
+                    <img src="../wp-content/uploads/2017/12/HP_Website_Main_UCSD-Nuevo-East-480x320.jpg')}}">
 
 
 
@@ -2669,7 +2669,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2020/05/SYLPOE-Ph2-Project-Main-Image-480x320.jpg">
+                    <img src="../wp-content/uploads/2020/05/SYLPOE-Ph2-Project-Main-Image-480x320.jpg')}}">
 
 
 
@@ -2700,7 +2700,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2020/04/UCI-Middle-Earth-Towers-c-Kevin-Scott_3-480x320.jpg">
+                    <img src="../wp-content/uploads/2020/04/UCI-Middle-Earth-Towers-c-Kevin-Scott_3-480x320.jpg')}}">
 
 
 
@@ -2731,7 +2731,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2020/05/UCI-Douglas-Hospital-Project-Main-Image-480x320.jpg">
+                    <img src="../wp-content/uploads/2020/05/UCI-Douglas-Hospital-Project-Main-Image-480x320.jpg')}}">
 
 
 
@@ -2762,7 +2762,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2022/06/HP_Website_Main_SDCCD-ADT-480x320.jpg">
+                    <img src="../wp-content/uploads/2022/06/HP_Website_Main_SDCCD-ADT-480x320.jpg')}}">
 
 
 
@@ -2794,7 +2794,7 @@
 
 
                     <img
-                        src="../wp-content/uploads/2020/04/CTA-Departure-and-Arrival-Levels-Security-Bollards-%e2%80%93-Phase-2-at-LAX_7-480x320.jpg">
+                        src="../wp-content/uploads/2020/04/CTA-Departure-and-Arrival-Levels-Security-Bollards-%e2%80%93-Phase-2-at-LAX_7-480x320.jpg')}}">
 
 
 
@@ -2826,7 +2826,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2020/05/LAUSD-Ortho-HS-Project-Main-Image-480x320.jpg">
+                    <img src="../wp-content/uploads/2020/05/LAUSD-Ortho-HS-Project-Main-Image-480x320.jpg')}}">
 
 
 
@@ -2857,7 +2857,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2022/06/HP_Website_Main_P229-480x320.jpg">
+                    <img src="../wp-content/uploads/2022/06/HP_Website_Main_P229-480x320.jpg')}}">
 
 
 
@@ -2889,7 +2889,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2020/04/HP-Triton-Hangar-Final-47-2-e1587995110872-480x320.jpg">
+                    <img src="../wp-content/uploads/2020/04/HP-Triton-Hangar-Final-47-2-e1587995110872-480x320.jpg')}}">
 
 
 
@@ -2920,7 +2920,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2020/04/WebGOT5-480x320.jpg">
+                    <img src="../wp-content/uploads/2020/04/WebGOT5-480x320.jpg')}}">
 
 
 
@@ -2951,7 +2951,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2020/04/EGE-0694-480x320.jpg">
+                    <img src="../wp-content/uploads/2020/04/EGE-0694-480x320.jpg')}}">
 
 
 
@@ -2982,7 +2982,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2020/01/UTMB_JennieSealy_01-480x320.jpg">
+                    <img src="../wp-content/uploads/2020/01/UTMB_JennieSealy_01-480x320.jpg')}}">
 
 
 
@@ -3015,7 +3015,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2019/12/Avenues-New-York_42450.00-480x320.jpg">
+                    <img src="../wp-content/uploads/2019/12/Avenues-New-York_42450.00-480x320.jpg')}}">
 
 
 
@@ -3046,7 +3046,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2019/11/img-6-e1573221142690-480x320.jpg">
+                    <img src="../wp-content/uploads/2019/11/img-6-e1573221142690-480x320.jpg')}}">
 
 
 
@@ -3077,7 +3077,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2022/06/HP_Website_Main_P730-480x320.jpg">
+                    <img src="../wp-content/uploads/2022/06/HP_Website_Main_P730-480x320.jpg')}}">
 
 
 
@@ -3108,7 +3108,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2019/08/website-image1-480x320.jpg">
+                    <img src="../wp-content/uploads/2019/08/website-image1-480x320.jpg')}}">
 
 
 
@@ -3139,7 +3139,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2019/08/OIAAirside4_016-480x320.jpg">
+                    <img src="../wp-content/uploads/2019/08/OIAAirside4_016-480x320.jpg')}}">
 
 
 
@@ -3171,7 +3171,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2019/07/AlaskaLounge_01-480x320.jpg">
+                    <img src="../wp-content/uploads/2019/07/AlaskaLounge_01-480x320.jpg')}}">
 
 
 
@@ -3202,7 +3202,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2019/08/QAE_Final_02_reduced-480x320.jpg">
+                    <img src="../wp-content/uploads/2019/08/QAE_Final_02_reduced-480x320.jpg')}}">
 
 
 
@@ -3233,7 +3233,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2019/06/GEOGroup_025_reduced-480x320.jpg">
+                    <img src="../wp-content/uploads/2019/06/GEOGroup_025_reduced-480x320.jpg')}}">
 
 
 
@@ -3264,7 +3264,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2019/06/4261_C1A6796_web-480x320.jpg">
+                    <img src="../wp-content/uploads/2019/06/4261_C1A6796_web-480x320.jpg')}}">
 
 
 
@@ -3295,7 +3295,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2019/06/20160128-_DSC2491-sm-480x320.jpg">
+                    <img src="../wp-content/uploads/2019/06/20160128-_DSC2491-sm-480x320.jpg')}}">
 
 
 
@@ -3326,7 +3326,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2019/06/Aventural-Hotel-32_web-480x320.jpg">
+                    <img src="../wp-content/uploads/2019/06/Aventural-Hotel-32_web-480x320.jpg')}}">
 
 
 
@@ -3357,7 +3357,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2019/06/HP_Project_SouthwestGate6-480x320.jpg">
+                    <img src="../wp-content/uploads/2019/06/HP_Project_SouthwestGate6-480x320.jpg')}}">
 
 
 
@@ -3388,7 +3388,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2019/06/HP_Project_PacificDO-480x320.jpg">
+                    <img src="../wp-content/uploads/2019/06/HP_Project_PacificDO-480x320.jpg')}}">
 
 
 
@@ -3419,7 +3419,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2019/06/Straub-DOC-web5-480x320.jpg">
+                    <img src="../wp-content/uploads/2019/06/Straub-DOC-web5-480x320.jpg')}}">
 
 
 
@@ -3450,7 +3450,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2019/06/Aegis-Ashore-web-480x320.jpg">
+                    <img src="../wp-content/uploads/2019/06/Aegis-Ashore-web-480x320.jpg')}}">
 
 
 
@@ -3481,7 +3481,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2019/06/Okkodo-web2-480x320.jpg">
+                    <img src="../wp-content/uploads/2019/06/Okkodo-web2-480x320.jpg')}}">
 
 
 
@@ -3512,7 +3512,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2019/06/Hilton-Hokulani_01-web-480x320.jpg">
+                    <img src="../wp-content/uploads/2019/06/Hilton-Hokulani_01-web-480x320.jpg')}}">
 
 
 
@@ -3544,7 +3544,7 @@
 
 
                     <img
-                        src="../wp-content/uploads/2019/06/Hensel-Phelps-Baptist-Health-Hotel-Exterior-1-480x320.jpg">
+                        src="../wp-content/uploads/2019/06/Hensel-Phelps-Baptist-Health-Hotel-Exterior-1-480x320.jpg')}}">
 
 
 
@@ -3575,7 +3575,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2019/05/CLeanSupply_Containment-Reduced-480x320.jpg">
+                    <img src="../wp-content/uploads/2019/05/CLeanSupply_Containment-Reduced-480x320.jpg')}}">
 
 
 
@@ -3607,7 +3607,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2019/06/hensel_Phelps_UW-Medical-1-480x320.jpg">
+                    <img src="../wp-content/uploads/2019/06/hensel_Phelps_UW-Medical-1-480x320.jpg')}}">
 
 
 
@@ -3639,7 +3639,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2019/03/20180909_Greeley_City_Center_0024_ScreenRes-480x320.jpg">
+                    <img src="../wp-content/uploads/2019/03/20180909_Greeley_City_Center_0024_ScreenRes-480x320.jpg')}}">
 
 
 
@@ -3670,7 +3670,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2019/04/sm5050-S-Syracuse4-480x320.jpg">
+                    <img src="../wp-content/uploads/2019/04/sm5050-S-Syracuse4-480x320.jpg')}}">
 
 
 
@@ -3701,7 +3701,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2019/03/Hensel-Phelps-Colorado-Skyscraper-480x320.jpg">
+                    <img src="../wp-content/uploads/2019/03/Hensel-Phelps-Colorado-Skyscraper-480x320.jpg')}}">
 
 
 
@@ -3732,7 +3732,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2019/03/Maintenance-Bay-480x320.jpg">
+                    <img src="../wp-content/uploads/2019/03/Maintenance-Bay-480x320.jpg')}}">
 
 
 
@@ -3763,7 +3763,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2018/12/OIAAirside4_011-480x320.jpg">
+                    <img src="../wp-content/uploads/2018/12/OIAAirside4_011-480x320.jpg')}}">
 
 
 
@@ -3795,7 +3795,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2018/12/DALGarageC-Corgan-1353-480x320.jpg">
+                    <img src="../wp-content/uploads/2018/12/DALGarageC-Corgan-1353-480x320.jpg')}}">
 
 
 
@@ -3826,7 +3826,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2018/12/SASOfficeExp_476-480x320.jpg">
+                    <img src="../wp-content/uploads/2018/12/SASOfficeExp_476-480x320.jpg')}}">
 
 
 
@@ -3857,7 +3857,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2019/01/Level-6-ICS-7017131-17-480x320.jpg">
+                    <img src="../wp-content/uploads/2019/01/Level-6-ICS-7017131-17-480x320.jpg')}}">
 
 
 
@@ -3890,7 +3890,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2018/12/Columbus-POA-Oct-25-2018-34_v1_current-480x320.jpg">
+                    <img src="../wp-content/uploads/2018/12/Columbus-POA-Oct-25-2018-34_v1_current-480x320.jpg')}}">
 
 
 
@@ -3921,7 +3921,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2018/12/EPIA-7016125-Final-Photo-9-480x320.jpg">
+                    <img src="../wp-content/uploads/2018/12/EPIA-7016125-Final-Photo-9-480x320.jpg')}}">
 
 
 
@@ -3953,7 +3953,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2018/11/Corgan_UTA__014-480x320.jpg">
+                    <img src="../wp-content/uploads/2018/11/Corgan_UTA__014-480x320.jpg')}}">
 
 
 
@@ -3984,7 +3984,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2018/11/Rosewood-Garage_4-480x320.jpg">
+                    <img src="../wp-content/uploads/2018/11/Rosewood-Garage_4-480x320.jpg')}}">
 
 
 
@@ -4015,7 +4015,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2018/11/UMC_EAST_3_2017_016-480x320.jpg">
+                    <img src="../wp-content/uploads/2018/11/UMC_EAST_3_2017_016-480x320.jpg')}}">
 
 
 
@@ -4046,7 +4046,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2018/11/Home-image-480x320.jpg">
+                    <img src="../wp-content/uploads/2018/11/Home-image-480x320.jpg')}}">
 
 
 
@@ -4077,7 +4077,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2018/11/Home-Page-image-480x320.jpg">
+                    <img src="../wp-content/uploads/2018/11/Home-Page-image-480x320.jpg')}}">
 
 
 
@@ -4108,7 +4108,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2018/10/Website-Main-Image-480x320.jpg">
+                    <img src="../wp-content/uploads/2018/10/Website-Main-Image-480x320.jpg')}}">
 
 
 
@@ -4139,7 +4139,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/Main-image1-480x320.jpg">
+                    <img src="../wp-content/uploads/2017/08/Main-image1-480x320.jpg')}}">
 
 
 
@@ -4171,7 +4171,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2018/08/HP-MCO-Terminal-C-Finals-7-reduced-1024x684.jpg">
+                    <img src="../wp-content/uploads/2018/08/HP-MCO-Terminal-C-Finals-7-reduced-1024x684.jpg')}}">
 
 
 
@@ -4202,7 +4202,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2018/07/SJC_Bridge_7369-480x320.jpg">
+                    <img src="../wp-content/uploads/2018/07/SJC_Bridge_7369-480x320.jpg')}}">
 
 
 
@@ -4234,7 +4234,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2018/07/HSC-DWing-RxReno_08-480x320.jpg">
+                    <img src="../wp-content/uploads/2018/07/HSC-DWing-RxReno_08-480x320.jpg')}}">
 
 
 
@@ -4266,7 +4266,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2018/06/MAIN-16.Efacade-480x320.jpg">
+                    <img src="../wp-content/uploads/2018/06/MAIN-16.Efacade-480x320.jpg')}}">
 
 
 
@@ -4297,7 +4297,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2018/06/MAIN-Hyatt-Regency-480x320.jpg">
+                    <img src="../wp-content/uploads/2018/06/MAIN-Hyatt-Regency-480x320.jpg')}}">
 
 
 
@@ -4328,7 +4328,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2018/06/Main-PVH-2-480x320.jpg">
+                    <img src="../wp-content/uploads/2018/06/Main-PVH-2-480x320.jpg')}}">
 
 
 
@@ -4359,7 +4359,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2018/06/MAIN-DSC06761-q-480x320.jpg">
+                    <img src="../wp-content/uploads/2018/06/MAIN-DSC06761-q-480x320.jpg')}}">
 
 
 
@@ -4390,7 +4390,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2018/06/MAIN-sm601-Bway-Aerial-1-q-480x320.jpg">
+                    <img src="../wp-content/uploads/2018/06/MAIN-sm601-Bway-Aerial-1-q-480x320.jpg')}}">
 
 
 
@@ -4421,7 +4421,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2018/06/MAIN-Bordwin_Sage_Eliz_FtColl_0688-480x320.jpg">
+                    <img src="../wp-content/uploads/2018/06/MAIN-Bordwin_Sage_Eliz_FtColl_0688-480x320.jpg')}}">
 
 
 
@@ -4452,7 +4452,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2018/05/website-image-2-480x320.jpg">
+                    <img src="../wp-content/uploads/2018/05/website-image-2-480x320.jpg')}}">
 
 
 
@@ -4483,7 +4483,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2018/05/Exterior-03-Edited-Columns-USE-THIS-ONE-480x320.jpg">
+                    <img src="../wp-content/uploads/2018/05/Exterior-03-Edited-Columns-USE-THIS-ONE-480x320.jpg')}}">
 
 
 
@@ -4514,7 +4514,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2018/05/Atlas-V-TDRSM-Launch-3-480x320.jpg">
+                    <img src="../wp-content/uploads/2018/05/Atlas-V-TDRSM-Launch-3-480x320.jpg')}}">
 
 
 
@@ -4545,7 +4545,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2018/05/20180215_HENSP_1016-reduced-480x320.jpg">
+                    <img src="../wp-content/uploads/2018/05/20180215_HENSP_1016-reduced-480x320.jpg')}}">
 
 
 
@@ -4576,7 +4576,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2018/02/Exterior3-480x320.jpg">
+                    <img src="../wp-content/uploads/2018/02/Exterior3-480x320.jpg')}}">
 
 
 
@@ -4607,7 +4607,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2018/01/MWAA-RailYard-93-480x320.jpg">
+                    <img src="../wp-content/uploads/2018/01/MWAA-RailYard-93-480x320.jpg')}}">
 
 
 
@@ -4638,7 +4638,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/sof-480x320.jpg">
+                    <img src="../wp-content/uploads/2017/08/sof-480x320.jpg')}}">
 
 
 
@@ -4669,7 +4669,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/IMG_9938-768x512.jpg">
+                    <img src="../wp-content/uploads/2017/08/IMG_9938-768x512.jpg')}}">
 
 
 
@@ -4700,7 +4700,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/M5A7965-480x320.jpg">
+                    <img src="../wp-content/uploads/2017/08/M5A7965-480x320.jpg')}}">
 
 
 
@@ -4731,7 +4731,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/Hensel-Phelps_Transformers-480x320.jpg">
+                    <img src="../wp-content/uploads/2017/08/Hensel-Phelps_Transformers-480x320.jpg')}}">
 
 
 
@@ -4762,7 +4762,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/IMG_0984-768x512.jpg">
+                    <img src="../wp-content/uploads/2017/08/IMG_0984-768x512.jpg')}}">
 
 
 
@@ -4793,7 +4793,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/San-Antonio-PSHQ-03-768x511.jpg">
+                    <img src="../wp-content/uploads/2017/08/San-Antonio-PSHQ-03-768x511.jpg')}}">
 
 
 
@@ -4824,7 +4824,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/Main-Image-UCSD-Nuevo-West-07-480x320.jpg">
+                    <img src="../wp-content/uploads/2017/08/Main-Image-UCSD-Nuevo-West-07-480x320.jpg')}}">
 
 
 
@@ -4855,7 +4855,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/Good_Sam_9.jpg">
+                    <img src="../wp-content/uploads/2017/08/Good_Sam_9.jpg')}}">
 
 
 
@@ -4886,7 +4886,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/rotarypark-12-768x513.jpg">
+                    <img src="../wp-content/uploads/2017/08/rotarypark-12-768x513.jpg')}}">
 
 
 
@@ -4917,7 +4917,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/20140217_HEPH_1044-1-480x320.jpg">
+                    <img src="../wp-content/uploads/2017/08/20140217_HEPH_1044-1-480x320.jpg')}}">
 
 
 
@@ -4948,7 +4948,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/20150915_HEPH_1005-1-480x320.jpg">
+                    <img src="../wp-content/uploads/2017/08/20150915_HEPH_1005-1-480x320.jpg')}}">
 
 
 
@@ -4979,7 +4979,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/Mary-Gates-Hall_3-1024x684.jpg">
+                    <img src="../wp-content/uploads/2017/08/Mary-Gates-Hall_3-1024x684.jpg')}}">
 
 
 
@@ -5010,7 +5010,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/King-Cty-Regional-Justice-Center-480x320.jpg">
+                    <img src="../wp-content/uploads/2017/08/King-Cty-Regional-Justice-Center-480x320.jpg')}}">
 
 
 
@@ -5041,7 +5041,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/SSAOps_Exterior.jpg">
+                    <img src="../wp-content/uploads/2017/08/SSAOps_Exterior.jpg')}}">
 
 
 
@@ -5073,7 +5073,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/NASA_Bldg21_PP1026_lg-1024x684.jpg">
+                    <img src="../wp-content/uploads/2017/08/NASA_Bldg21_PP1026_lg-1024x684.jpg')}}">
 
 
 
@@ -5104,7 +5104,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/Pentagon_HallofHeroes.jpg">
+                    <img src="../wp-content/uploads/2017/08/Pentagon_HallofHeroes.jpg')}}">
 
 
 
@@ -5135,7 +5135,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/Main-Image-SD-U.S.-Courthouse-07-480x320.jpg">
+                    <img src="../wp-content/uploads/2017/08/Main-Image-SD-U.S.-Courthouse-07-480x320.jpg')}}">
 
 
 
@@ -5166,7 +5166,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/Hensel-Phelps-UC-San-Diego-Mesa-Nueva2.jpg">
+                    <img src="../wp-content/uploads/2017/08/Hensel-Phelps-UC-San-Diego-Mesa-Nueva2.jpg')}}">
 
 
 
@@ -5198,7 +5198,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/Main-Image-UCR-MRB1-01-480x320.jpg">
+                    <img src="../wp-content/uploads/2017/08/Main-Image-UCR-MRB1-01-480x320.jpg')}}">
 
 
 
@@ -5229,7 +5229,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/UCI-Mesa-Court-01-480x320.jpg">
+                    <img src="../wp-content/uploads/2017/08/UCI-Mesa-Court-01-480x320.jpg')}}">
 
 
 
@@ -5260,7 +5260,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/Main-Image-UCI-Humanities-Gateway-01-480x320.jpg">
+                    <img src="../wp-content/uploads/2017/08/Main-Image-UCI-Humanities-Gateway-01-480x320.jpg')}}">
 
 
 
@@ -5291,7 +5291,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/Main-Image-UCI-Eng-3-01-480x320.jpg">
+                    <img src="../wp-content/uploads/2017/08/Main-Image-UCI-Eng-3-01-480x320.jpg')}}">
 
 
 
@@ -5322,7 +5322,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/Main-Image-UCI-CS-Unit-3-05-480x320.jpg">
+                    <img src="../wp-content/uploads/2017/08/Main-Image-UCI-CS-Unit-3-05-480x320.jpg')}}">
 
 
 
@@ -5353,7 +5353,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/Main-Image-The-Mark-02-480x320.jpg">
+                    <img src="../wp-content/uploads/2017/08/Main-Image-The-Mark-02-480x320.jpg')}}">
 
 
 
@@ -5384,7 +5384,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/Main-Image-Smart-Corner-07-480x320.jpg">
+                    <img src="../wp-content/uploads/2017/08/Main-Image-Smart-Corner-07-480x320.jpg')}}">
 
 
 
@@ -5415,7 +5415,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/Main-Image-Sharp-Rancho-Bernardo-07-480x320.jpg">
+                    <img src="../wp-content/uploads/2017/08/Main-Image-Sharp-Rancho-Bernardo-07-480x320.jpg')}}">
 
 
 
@@ -5446,7 +5446,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/Main-Image-Sharp-Chula-Vista-01-480x320.jpg">
+                    <img src="../wp-content/uploads/2017/08/Main-Image-Sharp-Chula-Vista-01-480x320.jpg')}}">
 
 
 
@@ -5477,7 +5477,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/Main-Image-Sanford-Consortium-01-480x320.jpg">
+                    <img src="../wp-content/uploads/2017/08/Main-Image-Sanford-Consortium-01-480x320.jpg')}}">
 
 
 
@@ -5508,7 +5508,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/San-Ysidro-Land-Port-06-480x320.jpg">
+                    <img src="../wp-content/uploads/2017/08/San-Ysidro-Land-Port-06-480x320.jpg')}}">
 
 
 
@@ -5539,7 +5539,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/Main-Image-NAVFAC-P750-01-480x320.jpg">
+                    <img src="../wp-content/uploads/2017/08/Main-Image-NAVFAC-P750-01-480x320.jpg')}}">
 
 
 
@@ -5570,7 +5570,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/Main-Image-NAVFAC-P742-SMALL-03-480x320.jpg">
+                    <img src="../wp-content/uploads/2017/08/Main-Image-NAVFAC-P742-SMALL-03-480x320.jpg')}}">
 
 
 
@@ -5601,7 +5601,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/NASM_Interior1-480x320.jpg">
+                    <img src="../wp-content/uploads/2017/08/NASM_Interior1-480x320.jpg')}}">
 
 
 
@@ -5633,7 +5633,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/Main-Image-UCIMC-Clinical-Lab-04-480x320.jpg">
+                    <img src="../wp-content/uploads/2017/08/Main-Image-UCIMC-Clinical-Lab-04-480x320.jpg')}}">
 
 
 
@@ -5665,7 +5665,7 @@
 
 
                     <img
-                        src="../wp-content/uploads/2017/08/Arkansas-Travelers-Baseball-Stadium-7005058-EL-4-1024x684.jpg">
+                        src="../wp-content/uploads/2017/08/Arkansas-Travelers-Baseball-Stadium-7005058-EL-4-1024x684.jpg')}}">
 
 
 
@@ -5696,7 +5696,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/Houston-Methodist-Center-2-1024x684.jpg">
+                    <img src="../wp-content/uploads/2017/08/Houston-Methodist-Center-2-1024x684.jpg')}}">
 
 
 
@@ -5727,7 +5727,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2020/01/UTMB_JennieSealy_960x590.jpg">
+                    <img src="../wp-content/uploads/2020/01/UTMB_JennieSealy_960x590.jpg')}}">
 
 
 
@@ -5758,7 +5758,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/7006063_UTDPRI_EL3-480x320.jpg">
+                    <img src="../wp-content/uploads/2017/08/7006063_UTDPRI_EL3-480x320.jpg')}}">
 
 
 
@@ -5789,7 +5789,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/B17E-necropsy-room-480x320.jpg">
+                    <img src="../wp-content/uploads/2017/08/B17E-necropsy-room-480x320.jpg')}}">
 
 
 
@@ -5820,7 +5820,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/MV-22-Hangar-MCBH1-480x320.jpg">
+                    <img src="../wp-content/uploads/2017/08/MV-22-Hangar-MCBH1-480x320.jpg')}}">
 
 
 
@@ -5852,7 +5852,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/UT-Arlington-ERC-3_cropped-1024x684-480x320.jpg">
+                    <img src="../wp-content/uploads/2017/08/UT-Arlington-ERC-3_cropped-1024x684-480x320.jpg')}}">
 
 
 
@@ -5884,7 +5884,7 @@
 
 
                     <img
-                        src="../wp-content/uploads/2017/08/The-University-of-Texas-Frank-C-Erwin-Center-Stage-I-IL-I-480x320.jpg">
+                        src="../wp-content/uploads/2017/08/The-University-of-Texas-Frank-C-Erwin-Center-Stage-I-IL-I-480x320.jpg')}}">
 
 
 
@@ -5916,7 +5916,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/0P6A5488-1-480x320.jpg">
+                    <img src="../wp-content/uploads/2017/08/0P6A5488-1-480x320.jpg')}}">
 
 
 
@@ -5947,7 +5947,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/DSC0730-480x320.jpg">
+                    <img src="../wp-content/uploads/2017/08/DSC0730-480x320.jpg')}}">
 
 
 
@@ -5978,7 +5978,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/UTEP-Exterior_photoshopped-sky-RS-480x320.jpg">
+                    <img src="../wp-content/uploads/2017/08/UTEP-Exterior_photoshopped-sky-RS-480x320.jpg')}}">
 
 
 
@@ -6009,7 +6009,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/300-Third-Condominiums-4-1024x684.jpg">
+                    <img src="../wp-content/uploads/2017/08/300-Third-Condominiums-4-1024x684.jpg')}}">
 
 
 
@@ -6040,7 +6040,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/MikkiPiper_Skyline_25-480x320.jpg">
+                    <img src="../wp-content/uploads/2017/08/MikkiPiper_Skyline_25-480x320.jpg')}}">
 
 
 
@@ -6071,7 +6071,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2021/03/OMFE_Final_13-480x320.jpg">
+                    <img src="../wp-content/uploads/2021/03/OMFE_Final_13-480x320.jpg')}}">
 
 
 
@@ -6102,7 +6102,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/Mercantile-on-Main-3-1024x684.jpg">
+                    <img src="../wp-content/uploads/2017/08/Mercantile-on-Main-3-1024x684.jpg')}}">
 
 
 
@@ -6133,7 +6133,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/Spring-Condominiums-4-1024x684-768x513.jpg">
+                    <img src="../wp-content/uploads/2017/08/Spring-Condominiums-4-1024x684-768x513.jpg')}}">
 
 
 
@@ -6164,7 +6164,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/Guam-BEQ-Elevation-1024x684.jpg">
+                    <img src="../wp-content/uploads/2017/08/Guam-BEQ-Elevation-1024x684.jpg')}}">
 
 
 
@@ -6195,7 +6195,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/2400-Nueces-6-1024x684.jpg">
+                    <img src="../wp-content/uploads/2017/08/2400-Nueces-6-1024x684.jpg')}}">
 
 
 
@@ -6226,7 +6226,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/Homepage-Image-480x320.jpg">
+                    <img src="../wp-content/uploads/2017/08/Homepage-Image-480x320.jpg')}}">
 
 
 
@@ -6257,7 +6257,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/HP_Project_KWWTP-480x320.jpg">
+                    <img src="../wp-content/uploads/2017/08/HP_Project_KWWTP-480x320.jpg')}}">
 
 
 
@@ -6290,7 +6290,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/MikkiPiper_Stanislaus_Jail_7-1024x684.jpg">
+                    <img src="../wp-content/uploads/2017/08/MikkiPiper_Stanislaus_Jail_7-1024x684.jpg')}}">
 
 
 
@@ -6321,7 +6321,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/Love-Field-Modernization-6-1024x684.jpg">
+                    <img src="../wp-content/uploads/2017/08/Love-Field-Modernization-6-1024x684.jpg')}}">
 
 
 
@@ -6352,7 +6352,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/SM_170313_SHC_Emeryville_HybridOR-768x512.jpg">
+                    <img src="../wp-content/uploads/2017/08/SM_170313_SHC_Emeryville_HybridOR-768x512.jpg')}}">
 
 
 
@@ -6383,7 +6383,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/SJC-B-ExtDuskFromNorth-KP-480x320.jpg">
+                    <img src="../wp-content/uploads/2017/08/SJC-B-ExtDuskFromNorth-KP-480x320.jpg')}}">
 
 
 
@@ -6415,7 +6415,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/Main-Image-LAX-Westfield-T2-03-480x320.jpg">
+                    <img src="../wp-content/uploads/2017/08/Main-Image-LAX-Westfield-T2-03-480x320.jpg')}}">
 
 
 
@@ -6446,7 +6446,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/Main-Image-MLK-Jr-Tower-Reno-06-480x320.jpg">
+                    <img src="../wp-content/uploads/2017/08/Main-Image-MLK-Jr-Tower-Reno-06-480x320.jpg')}}">
 
 
 
@@ -6478,7 +6478,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/Main-Image-LAX-United-T-Redev-03-480x320.jpg">
+                    <img src="../wp-content/uploads/2017/08/Main-Image-LAX-United-T-Redev-03-480x320.jpg')}}">
 
 
 
@@ -6509,7 +6509,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/Main-Image-LAX-SWA-T1-03-480x320.jpg">
+                    <img src="../wp-content/uploads/2017/08/Main-Image-LAX-SWA-T1-03-480x320.jpg')}}">
 
 
 
@@ -6540,7 +6540,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/LBUSD-McBride-Sr-HS-01-480x320.jpg">
+                    <img src="../wp-content/uploads/2017/08/LBUSD-McBride-Sr-HS-01-480x320.jpg')}}">
 
 
 
@@ -6571,7 +6571,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/Star-Alliance-Lounge-07-480x320.jpg">
+                    <img src="../wp-content/uploads/2017/08/Star-Alliance-Lounge-07-480x320.jpg')}}">
 
 
 
@@ -6602,7 +6602,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/LAX-Alaska-T6-07-480x320.jpg">
+                    <img src="../wp-content/uploads/2017/08/LAX-Alaska-T6-07-480x320.jpg')}}">
 
 
 
@@ -6633,7 +6633,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/Main-Image-LAUSD-RFK-Phs-1-01-480x320.jpg">
+                    <img src="../wp-content/uploads/2017/08/Main-Image-LAUSD-RFK-Phs-1-01-480x320.jpg')}}">
 
 
 
@@ -6665,7 +6665,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/Main-Image-LAUSD-RFK-Phs-2-04-480x320.jpg">
+                    <img src="../wp-content/uploads/2017/08/Main-Image-LAUSD-RFK-Phs-2-04-480x320.jpg')}}">
 
 
 
@@ -6697,7 +6697,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/Main-Image-Roybal-Learning-Center-02-480x320.jpg">
+                    <img src="../wp-content/uploads/2017/08/Main-Image-Roybal-Learning-Center-02-480x320.jpg')}}">
 
 
 
@@ -6728,7 +6728,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/Main-Image-InterContinental-01-480x320.jpg">
+                    <img src="../wp-content/uploads/2017/08/Main-Image-InterContinental-01-480x320.jpg')}}">
 
 
 
@@ -6759,7 +6759,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/LFN_Gallery_002-480x320.jpg">
+                    <img src="../wp-content/uploads/2017/08/LFN_Gallery_002-480x320.jpg')}}">
 
 
 
@@ -6790,7 +6790,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/LA-Metro-Project-Main-Image-480x320.jpg">
+                    <img src="../wp-content/uploads/2017/08/LA-Metro-Project-Main-Image-480x320.jpg')}}">
 
 
 
@@ -6821,7 +6821,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/Kaiser-Anaheim-Project-Main-Image-480x320.jpg">
+                    <img src="../wp-content/uploads/2017/08/Kaiser-Anaheim-Project-Main-Image-480x320.jpg')}}">
 
 
 
@@ -6852,7 +6852,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/Kaiser-SD-MC_Hospital_Healthcare_Main_011.jpg">
+                    <img src="../wp-content/uploads/2017/08/Kaiser-SD-MC_Hospital_Healthcare_Main_011.jpg')}}">
 
 
 
@@ -6883,7 +6883,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/Hotel-Indigo_Project-Main-Image-480x320.jpg">
+                    <img src="../wp-content/uploads/2017/08/Hotel-Indigo_Project-Main-Image-480x320.jpg')}}">
 
 
 
@@ -6914,7 +6914,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/Hilton-SD-Bayfront-Project-Main-Image-480x320.jpg">
+                    <img src="../wp-content/uploads/2017/08/Hilton-SD-Bayfront-Project-Main-Image-480x320.jpg')}}">
 
 
 
@@ -6946,7 +6946,7 @@
 
 
                     <img
-                        src="../wp-content/uploads/2017/08/Geo-Adelanto-Detention-Facility-West-Expansion_Public_Main_003.jpg">
+                        src="../wp-content/uploads/2017/08/Geo-Adelanto-Detention-Facility-West-Expansion_Public_Main_003.jpg')}}">
 
 
 
@@ -6977,7 +6977,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/Cymer-CSD-6-EUV-TI-Project-Main-Image-480x320.jpg">
+                    <img src="../wp-content/uploads/2017/08/Cymer-CSD-6-EUV-TI-Project-Main-Image-480x320.jpg')}}">
 
 
 
@@ -7008,7 +7008,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/FORSCOM_Exterior-480x320.jpg">
+                    <img src="../wp-content/uploads/2017/08/FORSCOM_Exterior-480x320.jpg')}}">
 
 
 
@@ -7039,7 +7039,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/NMIC_Exterior-480x320.jpg">
+                    <img src="../wp-content/uploads/2017/08/NMIC_Exterior-480x320.jpg')}}">
 
 
 
@@ -7071,7 +7071,7 @@
 
 
                     <img
-                        src="../wp-content/uploads/2019/07/2008054-DASH-William-B.-Hurd-Maintenance-and-Operations-Administration-Facility-003-480x320.jpg">
+                        src="../wp-content/uploads/2019/07/2008054-DASH-William-B.-Hurd-Maintenance-and-Operations-Administration-Facility-003-480x320.jpg')}}">
 
 
 
@@ -7103,7 +7103,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/WMATA_SE_Exterior2-1024x612.jpg">
+                    <img src="../wp-content/uploads/2017/08/WMATA_SE_Exterior2-1024x612.jpg')}}">
 
 
 
@@ -7135,7 +7135,7 @@
 
 
                     <img
-                        src="../wp-content/uploads/2017/08/5-Hilton-Baltimore-Convention-Center-Hotel-010_Original-480x320.jpg">
+                        src="../wp-content/uploads/2017/08/5-Hilton-Baltimore-Convention-Center-Hotel-010_Original-480x320.jpg')}}">
 
 
 
@@ -7166,7 +7166,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2019/07/2004038-TC-Williams-High-School-002.jpg">
+                    <img src="../wp-content/uploads/2019/07/2004038-TC-Williams-High-School-002.jpg')}}">
 
 
 
@@ -7197,7 +7197,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/ECHOJ_1397-480x320.jpg">
+                    <img src="../wp-content/uploads/2017/08/ECHOJ_1397-480x320.jpg')}}">
 
 
 
@@ -7228,7 +7228,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/DSC4032-480x320.jpg">
+                    <img src="../wp-content/uploads/2017/08/DSC4032-480x320.jpg')}}">
 
 
 
@@ -7260,7 +7260,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/Samsung-Fab-A2-Facility-4_cropped-1024x524.jpg">
+                    <img src="../wp-content/uploads/2017/08/Samsung-Fab-A2-Facility-4_cropped-1024x524.jpg')}}">
 
 
 
@@ -7292,7 +7292,7 @@
 
 
                     <img
-                        src="../wp-content/uploads/2019/07/2009059-Circuit-Court-Building-and-Public-Safety-Building-020-480x320.jpg">
+                        src="../wp-content/uploads/2019/07/2009059-Circuit-Court-Building-and-Public-Safety-Building-020-480x320.jpg')}}">
 
 
 
@@ -7323,7 +7323,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/Mule_Creek_6-480x320.jpg">
+                    <img src="../wp-content/uploads/2017/08/Mule_Creek_6-480x320.jpg')}}">
 
 
 
@@ -7354,7 +7354,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/Final-Union-Tower-West14a_Retouched-768x513.jpg">
+                    <img src="../wp-content/uploads/2017/08/Final-Union-Tower-West14a_Retouched-768x513.jpg')}}">
 
 
 
@@ -7385,7 +7385,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/3006083-Skywest-Hangar-040_Original-768x510.jpg">
+                    <img src="../wp-content/uploads/2017/08/3006083-Skywest-Hangar-040_Original-768x510.jpg')}}">
 
 
 
@@ -7416,7 +7416,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/MikkiPiper_Yolo_SC_34.jpg">
+                    <img src="../wp-content/uploads/2017/08/MikkiPiper_Yolo_SC_34.jpg')}}">
 
 
 
@@ -7447,7 +7447,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/History-Colorado-Center-2-768x511.jpg">
+                    <img src="../wp-content/uploads/2017/08/History-Colorado-Center-2-768x511.jpg')}}">
 
 
 
@@ -7478,7 +7478,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/HAATS-Exterior-Dusk-1024x684.jpg">
+                    <img src="../wp-content/uploads/2017/08/HAATS-Exterior-Dusk-1024x684.jpg')}}">
 
 
 
@@ -7509,7 +7509,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/Fort-Collins-Discovery-1024x684.jpg">
+                    <img src="../wp-content/uploads/2017/08/Fort-Collins-Discovery-1024x684.jpg')}}">
 
 
 
@@ -7541,7 +7541,7 @@
 
 
                     <img
-                        src="../wp-content/uploads/2017/08/Fort-Carson-13th-CAB-Control-Tower-012_Original-768x512.jpg">
+                        src="../wp-content/uploads/2017/08/Fort-Carson-13th-CAB-Control-Tower-012_Original-768x512.jpg')}}">
 
 
 
@@ -7573,7 +7573,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/4003037-Chemical-Sciences-Building-020-480x320.jpg">
+                    <img src="../wp-content/uploads/2017/08/4003037-Chemical-Sciences-Building-020-480x320.jpg')}}">
 
 
 
@@ -7604,7 +7604,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/4003040-Medical-Research-Building-014-480x320.jpg">
+                    <img src="../wp-content/uploads/2017/08/4003040-Medical-Research-Building-014-480x320.jpg')}}">
 
 
 
@@ -7636,7 +7636,7 @@
 
 
                     <img
-                        src="../wp-content/uploads/2017/08/University-Village-Thousand-Oaks-Project-Main-Image-480x320.jpg">
+                        src="../wp-content/uploads/2017/08/University-Village-Thousand-Oaks-Project-Main-Image-480x320.jpg')}}">
 
 
 
@@ -7668,7 +7668,7 @@
 
 
                     <img
-                        src="../wp-content/uploads/2017/05/7010092-UT-Austin-Darrell-K-Royal-Texas-Memorial-Stadium-Athletic-Offices-Infill-and-Stadium-Maint-and-Renovation-008_Original-480x320.jpg">
+                        src="../wp-content/uploads/2017/05/7010092-UT-Austin-Darrell-K-Royal-Texas-Memorial-Stadium-Athletic-Offices-Infill-and-Stadium-Maint-and-Renovation-008_Original-480x320.jpg')}}">
 
 
 
@@ -7702,7 +7702,7 @@
 
 
                     <img
-                        src="../wp-content/uploads/2017/08/University-Village-Health-Center-Project-Main-Image-480x320.jpg">
+                        src="../wp-content/uploads/2017/08/University-Village-Health-Center-Project-Main-Image-480x320.jpg')}}">
 
 
 
@@ -7734,7 +7734,7 @@
 
 
                     <img
-                        src="../wp-content/uploads/2017/05/8012119-Benjamin-P.-Grogan-and-Jerry-L.-Dove-Federal-Building-GSA-FOB-028_Original-1-480x320.jpg">
+                        src="../wp-content/uploads/2017/05/8012119-Benjamin-P.-Grogan-and-Jerry-L.-Dove-Federal-Building-GSA-FOB-028_Original-1-480x320.jpg')}}">
 
 
 
@@ -7765,7 +7765,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/SFOT3East_3-480x320.jpg">
+                    <img src="../wp-content/uploads/2017/08/SFOT3East_3-480x320.jpg')}}">
 
 
 
@@ -7797,7 +7797,7 @@
 
 
                     <img
-                        src="../wp-content/uploads/2017/08/Cedars-Sinai-Plaza-Healing-Gardens-Project-Main-Image-480x320.jpg">
+                        src="../wp-content/uploads/2017/08/Cedars-Sinai-Plaza-Healing-Gardens-Project-Main-Image-480x320.jpg')}}">
 
 
 
@@ -7828,7 +7828,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/NFCU-Phase-3-Final-Photos-9-GRASS-480x320.jpg">
+                    <img src="../wp-content/uploads/2017/08/NFCU-Phase-3-Final-Photos-9-GRASS-480x320.jpg')}}">
 
 
 
@@ -7860,7 +7860,7 @@
 
 
                     <img
-                        src="../wp-content/uploads/2017/08/3012146-Fort-Carson-13th-Combat-Aviation-Brigade-ASB-Hangar-060_Original-768x512.jpg">
+                        src="../wp-content/uploads/2017/08/3012146-Fort-Carson-13th-Combat-Aviation-Brigade-ASB-Hangar-060_Original-768x512.jpg')}}">
 
 
 
@@ -7892,7 +7892,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/B5B6-Lobby-003-e1502903519254-480x320.jpg">
+                    <img src="../wp-content/uploads/2017/08/B5B6-Lobby-003-e1502903519254-480x320.jpg')}}">
 
 
 
@@ -7923,7 +7923,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/5915090-Maricopa-County-Intake-Tr-004-480x320.jpg">
+                    <img src="../wp-content/uploads/2017/08/5915090-Maricopa-County-Intake-Tr-004-480x320.jpg')}}">
 
 
 
@@ -7954,7 +7954,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/echostar-2-1024x684.jpg">
+                    <img src="../wp-content/uploads/2017/08/echostar-2-1024x684.jpg')}}">
 
 
 
@@ -7985,7 +7985,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/SFOT3_BAE_2-480x320.jpg">
+                    <img src="../wp-content/uploads/2017/08/SFOT3_BAE_2-480x320.jpg')}}">
 
 
 
@@ -8016,7 +8016,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/Denver-Justice--480x320.jpg">
+                    <img src="../wp-content/uploads/2017/08/Denver-Justice--480x320.jpg')}}">
 
 
 
@@ -8048,7 +8048,7 @@
 
 
                     <img
-                        src="../wp-content/uploads/2017/08/5904028-DIA-Conc-B-Regional-Jet-Facility-009_Original-480x320.jpg">
+                        src="../wp-content/uploads/2017/08/5904028-DIA-Conc-B-Regional-Jet-Facility-009_Original-480x320.jpg')}}">
 
 
 
@@ -8080,7 +8080,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/MikkiPiper_Fresno_VA_12-480x320.jpg">
+                    <img src="../wp-content/uploads/2017/08/MikkiPiper_Fresno_VA_12-480x320.jpg')}}">
 
 
 
@@ -8111,7 +8111,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/Edited-Photo-with-Background-480x320.jpg">
+                    <img src="../wp-content/uploads/2017/08/Edited-Photo-with-Background-480x320.jpg')}}">
 
 
 
@@ -8143,7 +8143,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/M5A9483-480x320.jpg">
+                    <img src="../wp-content/uploads/2017/08/M5A9483-480x320.jpg')}}">
 
 
 
@@ -8176,7 +8176,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/Regional-Biocontainment-Laboratory-480x320.jpg">
+                    <img src="../wp-content/uploads/2017/08/Regional-Biocontainment-Laboratory-480x320.jpg')}}">
 
 
 
@@ -8207,7 +8207,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/Broken-Arrow-e1501881825360-480x320.jpg">
+                    <img src="../wp-content/uploads/2017/08/Broken-Arrow-e1501881825360-480x320.jpg')}}">
 
 
 
@@ -8238,7 +8238,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/Interior1_BRPH-480x320.jpg">
+                    <img src="../wp-content/uploads/2017/08/Interior1_BRPH-480x320.jpg')}}">
 
 
 
@@ -8269,7 +8269,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/DSC_0180-480x320.jpg">
+                    <img src="../wp-content/uploads/2017/08/DSC_0180-480x320.jpg')}}">
 
 
 
@@ -8300,7 +8300,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/getPictures4.jpg">
+                    <img src="../wp-content/uploads/2017/08/getPictures4.jpg')}}">
 
 
 
@@ -8331,7 +8331,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/Ameristar-Large-480x320.jpg">
+                    <img src="../wp-content/uploads/2017/08/Ameristar-Large-480x320.jpg')}}">
 
 
 
@@ -8362,7 +8362,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/BannerAlz_3571-480x320.jpg">
+                    <img src="../wp-content/uploads/2017/08/BannerAlz_3571-480x320.jpg')}}">
 
 
 
@@ -8393,7 +8393,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/MikkiPiper_SQ_53-480x320.jpg">
+                    <img src="../wp-content/uploads/2017/08/MikkiPiper_SQ_53-480x320.jpg')}}">
 
 
 
@@ -8424,7 +8424,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/5904033-US-Embassy-Berlin-003-1.jpg">
+                    <img src="../wp-content/uploads/2017/08/5904033-US-Embassy-Berlin-003-1.jpg')}}">
 
 
 
@@ -8456,7 +8456,7 @@
 
 
                     <img
-                        src="../wp-content/uploads/2017/08/5915093-Banner-University-Medical-002_Original-480x320.png">
+                        src="../wp-content/uploads/2017/08/5915093-Banner-University-Medical-002_Original-480x320.png')}}">
 
 
 
@@ -8489,7 +8489,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/SJCountyAdmin_1-480x320.jpg">
+                    <img src="../wp-content/uploads/2017/08/SJCountyAdmin_1-480x320.jpg')}}">
 
 
 
@@ -8520,7 +8520,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/5908060-University-of-Arizona-Env-004-1024x684.jpg">
+                    <img src="../wp-content/uploads/2017/08/5908060-University-of-Arizona-Env-004-1024x684.jpg')}}">
 
 
 
@@ -8552,7 +8552,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/city-north-768x510.jpg">
+                    <img src="../wp-content/uploads/2017/08/city-north-768x510.jpg')}}">
 
 
 
@@ -8583,7 +8583,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/Lanai-web-480x320.jpg">
+                    <img src="../wp-content/uploads/2017/08/Lanai-web-480x320.jpg')}}">
 
 
 
@@ -8614,7 +8614,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/MikkiPiper_CAFB_2_5.jpg">
+                    <img src="../wp-content/uploads/2017/08/MikkiPiper_CAFB_2_5.jpg')}}">
 
 
 
@@ -8646,7 +8646,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/Pajarito-Cliffs-Site.jpg">
+                    <img src="../wp-content/uploads/2017/08/Pajarito-Cliffs-Site.jpg')}}">
 
 
 
@@ -8677,7 +8677,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/four-seasons-maui-web-480x320.jpg">
+                    <img src="../wp-content/uploads/2017/08/four-seasons-maui-web-480x320.jpg')}}">
 
 
 
@@ -8708,7 +8708,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/621-Capitol-Mall-EP-5005035-32-768x512.jpg">
+                    <img src="../wp-content/uploads/2017/08/621-Capitol-Mall-EP-5005035-32-768x512.jpg')}}">
 
 
 
@@ -8739,7 +8739,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/MAIN-DTG-property-15-480x320.jpg">
+                    <img src="../wp-content/uploads/2017/08/MAIN-DTG-property-15-480x320.jpg')}}">
 
 
 
@@ -8770,7 +8770,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/1-Block-A-Rendering-Creative-Suite-480x320.jpg">
+                    <img src="../wp-content/uploads/2017/08/1-Block-A-Rendering-Creative-Suite-480x320.jpg')}}">
 
 
 
@@ -8801,7 +8801,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/1-Aspire-Apollo-01-480x320.jpg">
+                    <img src="../wp-content/uploads/2017/08/1-Aspire-Apollo-01-480x320.jpg')}}">
 
 
 
@@ -8832,7 +8832,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/1-Gateway-Hotel-001_Original2-480x320.jpg">
+                    <img src="../wp-content/uploads/2017/08/1-Gateway-Hotel-001_Original2-480x320.jpg')}}">
 
 
 
@@ -8863,7 +8863,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/1-NCTD-Sprinter-480x320.jpg">
+                    <img src="../wp-content/uploads/2017/08/1-NCTD-Sprinter-480x320.jpg')}}">
 
 
 
@@ -8894,7 +8894,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/1-Eastman-Kodak-Aerial-480x320.jpg">
+                    <img src="../wp-content/uploads/2017/08/1-Eastman-Kodak-Aerial-480x320.jpg')}}">
 
 
 
@@ -8926,7 +8926,7 @@
 
 
                     <img
-                        src="../wp-content/uploads/2017/08/1-U.S.-Southern-Command-Headquarters-065_Original-480x320.jpg">
+                        src="../wp-content/uploads/2017/08/1-U.S.-Southern-Command-Headquarters-065_Original-480x320.jpg')}}">
 
 
 
@@ -8958,7 +8958,7 @@
 
 
                     <img
-                        src="../wp-content/uploads/2017/08/1-Evolved-Expendable-Launch-Vehicle-_Original-2-480x320.jpg">
+                        src="../wp-content/uploads/2017/08/1-Evolved-Expendable-Launch-Vehicle-_Original-2-480x320.jpg')}}">
 
 
 
@@ -8990,7 +8990,7 @@
 
 
                     <img
-                        src="../wp-content/uploads/2019/07/2011070-Armed-Forces-Retirement-Home-AFRH-New-Commons-Healthcare-Center-The-Scott-Project-032-480x320.jpg">
+                        src="../wp-content/uploads/2019/07/2011070-Armed-Forces-Retirement-Home-AFRH-New-Commons-Healthcare-Center-The-Scott-Project-032-480x320.jpg')}}">
 
 
 
@@ -9024,7 +9024,7 @@
 
 
                     <img
-                        src="../wp-content/uploads/2019/07/2011071-Smithsonian-Environmental-Research-Center-SERC-Charles-McC.-Mathias-Laboratory-066-480x320.jpg">
+                        src="../wp-content/uploads/2019/07/2011071-Smithsonian-Environmental-Research-Center-SERC-Charles-McC.-Mathias-Laboratory-066-480x320.jpg')}}">
 
 
 
@@ -9056,7 +9056,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/OCAR_Aerial-480x320.jpg">
+                    <img src="../wp-content/uploads/2017/08/OCAR_Aerial-480x320.jpg')}}">
 
 
 
@@ -9088,7 +9088,7 @@
 
 
                     <img
-                        src="../wp-content/uploads/2017/05/2010064-Marriott-Marquis-Washington-DC-038_Original-1-480x320.jpg">
+                        src="../wp-content/uploads/2017/05/2010064-Marriott-Marquis-Washington-DC-038_Original-1-480x320.jpg')}}">
 
 
 
@@ -9119,7 +9119,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2022/12/SSANSC_ExteriorDay-5-1024x683-1-768x512.jpg">
+                    <img src="../wp-content/uploads/2022/12/SSANSC_ExteriorDay-5-1024x683-1-768x512.jpg')}}">
 
 
 
@@ -9150,7 +9150,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/SKYTR-_1015F-reduced-768x512.jpg">
+                    <img src="../wp-content/uploads/2017/08/SKYTR-_1015F-reduced-768x512.jpg')}}">
 
 
 
@@ -9182,7 +9182,7 @@
 
 
                     <img
-                        src="../wp-content/uploads/2017/08/5910064-5912075-University-of-Arizona-Can-015-1-e1503605235792-1-480x320.jpg">
+                        src="../wp-content/uploads/2017/08/5910064-5912075-University-of-Arizona-Can-015-1-e1503605235792-1-480x320.jpg')}}">
 
 
 
@@ -9214,7 +9214,7 @@
 
 
                     <img
-                        src="../wp-content/uploads/2017/05/6013001-Okkodo-High-School-Expansion-020_Original-480x320.jpg">
+                        src="../wp-content/uploads/2017/05/6013001-Okkodo-High-School-Expansion-020_Original-480x320.jpg')}}">
 
 
 
@@ -9246,7 +9246,7 @@
 
 
                     <img
-                        src="../wp-content/uploads/2017/05/6014010-Straub-DOC-CLinic-Relocat-003_Original-480x320.jpg">
+                        src="../wp-content/uploads/2017/05/6014010-Straub-DOC-CLinic-Relocat-003_Original-480x320.jpg')}}">
 
 
 
@@ -9278,7 +9278,7 @@
 
 
                     <img
-                        src="../wp-content/uploads/2017/05/5910055-Recovery-Expansion-and-Renovation-Mariposa-Land-Port-of-Entry-Nogales-Arizona-Phases-2-3-and-4-028_Original-480x320.jpg">
+                        src="../wp-content/uploads/2017/05/5910055-Recovery-Expansion-and-Renovation-Mariposa-Land-Port-of-Entry-Nogales-Arizona-Phases-2-3-and-4-028_Original-480x320.jpg')}}">
 
 
 
@@ -9310,7 +9310,7 @@
 
 
                     <img
-                        src="../wp-content/uploads/2017/05/7013102-William-P.-Hobby-Internat-021_Original-480x320.jpg">
+                        src="../wp-content/uploads/2017/05/7013102-William-P.-Hobby-Internat-021_Original-480x320.jpg')}}">
 
 
 
@@ -9342,7 +9342,7 @@
 
 
                     <img
-                        src="../wp-content/uploads/2017/05/5906044-City-North-Phoenix-Phase-I-014_Original-480x320.jpg">
+                        src="../wp-content/uploads/2017/05/5906044-City-North-Phoenix-Phase-I-014_Original-480x320.jpg')}}">
 
 
 
@@ -9373,7 +9373,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/05/MikkiPiper_Stockton_Ph_III_38-480x320.jpg">
+                    <img src="../wp-content/uploads/2017/05/MikkiPiper_Stockton_Ph_III_38-480x320.jpg')}}">
 
 
 
@@ -9404,7 +9404,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/05/SLAC_Bldg-header-480x320.jpg">
+                    <img src="../wp-content/uploads/2017/05/SLAC_Bldg-header-480x320.jpg')}}">
 
 
 
@@ -9436,7 +9436,7 @@
 
 
                     <img
-                        src="../wp-content/uploads/2017/05/2011069-Potomac-Town-Center-Buildings-2-7-020_Original-480x320.jpg">
+                        src="../wp-content/uploads/2017/05/2011069-Potomac-Town-Center-Buildings-2-7-020_Original-480x320.jpg')}}">
 
 
 
@@ -9467,7 +9467,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/04/dk_061915-60-Edit-1-480x320.jpg">
+                    <img src="../wp-content/uploads/2017/04/dk_061915-60-Edit-1-480x320.jpg')}}">
 
 
 
@@ -9499,7 +9499,7 @@
 
 
                     <img
-                        src="../wp-content/uploads/2017/04/6211001-Mamizu-Utilities-and-Site-Improvements-Phase-I-040_Original-480x320.jpg">
+                        src="../wp-content/uploads/2017/04/6211001-Mamizu-Utilities-and-Site-Improvements-Phase-I-040_Original-480x320.jpg')}}">
 
 
 
@@ -9530,7 +9530,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/08/IMG_5745-1024x684.jpg">
+                    <img src="../wp-content/uploads/2017/08/IMG_5745-1024x684.jpg')}}">
 
 
 
@@ -9561,7 +9561,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/04/SCFamlyJust_4883-480x320.jpg">
+                    <img src="../wp-content/uploads/2017/04/SCFamlyJust_4883-480x320.jpg')}}">
 
 
 
@@ -9592,7 +9592,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/04/SKYTR-_1586F-480x320.jpg">
+                    <img src="../wp-content/uploads/2017/04/SKYTR-_1586F-480x320.jpg')}}">
 
 
 
@@ -9623,7 +9623,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/04/UCI-Medical-Center_2-e1502905327895-480x320.jpg">
+                    <img src="../wp-content/uploads/2017/04/UCI-Medical-Center_2-e1502905327895-480x320.jpg')}}">
 
 
 
@@ -9655,7 +9655,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/04/Grand-Islander-Horizontal-12-480x320.jpg">
+                    <img src="../wp-content/uploads/2017/04/Grand-Islander-Horizontal-12-480x320.jpg')}}">
 
 
 
@@ -9686,7 +9686,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/04/austin-central-library_ext-480x320.jpg">
+                    <img src="../wp-content/uploads/2017/04/austin-central-library_ext-480x320.jpg')}}">
 
 
 
@@ -9717,7 +9717,7 @@
 
 
 
-                    <img src="../wp-content/uploads/2017/04/Ascend_Apollo_02_960_560_c1-480x320.jpg">
+                    <img src="../wp-content/uploads/2017/04/Ascend_Apollo_02_960_560_c1-480x320.jpg')}}">
 
 
 
@@ -9749,7 +9749,7 @@
 
 
                     <img
-                        src="../wp-content/uploads/2017/04/8014137-Bethune-Cookman-Universit-031_Original-480x320.jpg">
+                        src="../wp-content/uploads/2017/04/8014137-Bethune-Cookman-Universit-031_Original-480x320.jpg')}}">
 
 
 

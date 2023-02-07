@@ -151,7 +151,7 @@
                         <a
                             href="the-nashville-international-airport-terminal-lobby-and-international-arrivals-facility-team-reveals-the-new-grand-lobby/index.html">
                             <div class="news-post-image"
-                                style="background-image: url(wp-content/uploads/2023/02/Low-Res-3-768x511.jpg);">
+                                style="background-image: url(wp-content/uploads/2023/02/Low-Res-3-768x511.jpg')}});">
                                 <img width="311" height="225"
                                     src="{{asset('wp-content/uploads/2023/02/Low-Res-3-311x225.jpg') }}"
                                     class="attachment-news-thumbnail size-news-thumbnail wp-post-image" alt=""
@@ -179,7 +179,7 @@
                     <div class="post-box career">
                         <a href="celebrating-a-successful-career-kirk-j-hazen/index.html">
                             <div class="news-post-image"
-                                style="background-image: url(wp-content/uploads/2023/01/Kirk-Celebration-Post1-1024x684.jpg);">
+                                style="background-image: url(wp-content/uploads/2023/01/Kirk-Celebration-Post1-1024x684.jpg')}});">
                                 <img width="311" height="225"
                                     src="{{asset('wp-content/uploads/2023/01/Kirk-Celebration-Post1-311x225.jpg') }}"
                                     class="attachment-news-thumbnail size-news-thumbnail wp-post-image" alt=""
@@ -208,7 +208,7 @@
                         <a
                             href="hensel-phelps-launches-diverge-a-construction-innovation-and-technology-investment-company/index.html">
                             <div class="news-post-image"
-                                style="background-image: url(wp-content/uploads/2023/01/Diverge_Article_Graphics_1200x628_v2.jpg);">
+                                style="background-image: url(wp-content/uploads/2023/01/Diverge_Article_Graphics_1200x628_v2.jpg')}});">
                                 <img width="311" height="225"
                                     src="{{asset('wp-content/uploads/2023/01/Diverge_Article_Graphics_1200x628_v2-311x225.jpg') }}"
                                     class="attachment-news-thumbnail size-news-thumbnail wp-post-image" alt=""
@@ -237,7 +237,7 @@
                     <div class="post-box community">
                         <a href="construction-executive-from-the-ground-up/index.html">
                             <div class="news-post-image"
-                                style="background-image: url(wp-content/uploads/2022/12/QAE_Final_04-1024x684.jpg);">
+                                style="background-image: url(wp-content/uploads/2022/12/QAE_Final_04-1024x684.jpg')}});">
                                 <img width="311" height="225"
                                     src="{{asset('wp-content/uploads/2022/12/QAE_Final_04-311x225.jpg') }}"
                                     class="attachment-news-thumbnail size-news-thumbnail wp-post-image" alt=""
@@ -265,7 +265,7 @@
                     <div class="post-box special announcement">
                         <a href="hensel-phelps-board-of-directors-announces-promotion-of-key-personnel/index.html">
                             <div class="news-post-image"
-                                style="background-image: url(wp-content/uploads/2022/12/Promotions-Justin-Starnes-Scott-Bills-Hensel-Phelps.jpg);">
+                                style="background-image: url(wp-content/uploads/2022/12/Promotions-Justin-Starnes-Scott-Bills-Hensel-Phelps.jpg')}});">
                                 <img width="311" height="225"
                                     src="{{asset('wp-content/uploads/2022/12/Promotions-Justin-Starnes-Scott-Bills-Hensel-Phelps-311x225.jpg') }}"
                                     class="attachment-news-thumbnail size-news-thumbnail wp-post-image" alt=""
@@ -293,7 +293,7 @@
                     <div class="post-box award">
                         <a href="celebrating-winning-teams-hensel-phelps-receives-seven-dbia-awards/index.html">
                             <div class="news-post-image"
-                                style="background-image: url(wp-content/uploads/2022/12/52476878843_1029b1b227_c-768x512.jpg);">
+                                style="background-image: url(wp-content/uploads/2022/12/52476878843_1029b1b227_c-768x512.jpg')}});">
                                 <img width="311" height="225"
                                     src="{{asset('wp-content/uploads/2022/12/52476878843_1029b1b227_c-311x225.jpg') }}"
                                     class="attachment-news-thumbnail size-news-thumbnail wp-post-image" alt=""
@@ -322,7 +322,7 @@
                         <a
                             href="hensel-phelps-wins-536m-uc-san-diego-ridge-walk-north-living-and-learning-neighborhood-project/index.html">
                             <div class="news-post-image"
-                                style="background-image: url(wp-content/uploads/2022/12/SM-22-30162_HNPL_UCSD_STILLS_V05_EYELEVEL_DUSK-1024x684.jpg);">
+                                style="background-image: url(wp-content/uploads/2022/12/SM-22-30162_HNPL_UCSD_STILLS_V05_EYELEVEL_DUSK-1024x684.jpg')}});">
                                 <img width="311" height="225"
                                     src="{{asset('wp-content/uploads/2022/12/SM-22-30162_HNPL_UCSD_STILLS_V05_EYELEVEL_DUSK-311x225.jpg') }}"
                                     class="attachment-news-thumbnail size-news-thumbnail wp-post-image"
@@ -351,7 +351,7 @@
                     <div class="post-box community">
                         <a href="hensel-phelps-celebrates-a-culture-of-giving-back/index.html">
                             <div class="news-post-image"
-                                style="background-image: url(wp-content/uploads/2022/12/BT-December-Website-Graphics_1200x720-1024x684.jpg);">
+                                style="background-image: url(wp-content/uploads/2022/12/BT-December-Website-Graphics_1200x720-1024x684.jpg')}});">
                                 <img width="311" height="225"
                                     src="{{ asset('wp-content/uploads/2022/12/BT-December-Website-Graphics_1200x720-311x225.jpg') }}"
                                     class="attachment-news-thumbnail size-news-thumbnail wp-post-image" alt=""
@@ -382,7 +382,7 @@
         </div>
     </div>
 
-    <div class="cta-block-wrap" style="background-image:url(wp-content/uploads/2017/02/career-bg.jpg);">
+    <div class="cta-block-wrap" style="background-image:url(wp-content/uploads/2017/02/career-bg.jpg')}});">
         <div class="cta-block">
             <div class="cta-block-content">
                 <h3>Build Your Own Legacy</h3>

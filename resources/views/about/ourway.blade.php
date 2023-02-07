@@ -1,6 +1,6 @@
 @extends('1layout.others')
 @section('content')
-    <div class="page-banner" style="background-image:url('../wp-content/uploads/2017/02/the-hp-way.jpg');">
+    <div class="page-banner" style="background-image:url('../wp-content/uploads/2017/02/the-hp-way.jpg')}});">
 
         <div class="page-banner-block">
 
@@ -297,7 +297,7 @@
                     <div class="col-4 activate">
 
                         <div class="opportunies-box"><a href="safety/index.html"><img
-                                    src="../wp-content/uploads/2017/02/image1.jpg"></a>
+                                    src="../wp-content/uploads/2017/02/image1.jpg')}}"></a>
 
                             <div class="opportunies-title">
 
@@ -327,7 +327,7 @@
                     <div class="col-4 activate">
 
                         <div class="opportunies-box"><a href="quality/index.html"><img
-                                    src="../wp-content/uploads/2017/02/quality-1.jpg"></a>
+                                    src="../wp-content/uploads/2017/02/quality-1.jpg')}}"></a>
 
                             <div class="opportunies-title">
 
@@ -357,7 +357,7 @@
                     <div class="col-4 activate">
 
                         <div class="opportunies-box"><a href="sustainability/index.html"><img
-                                    src="../wp-content/uploads/2017/02/sustain-1.jpg"></a>
+                                    src="../wp-content/uploads/2017/02/sustain-1.jpg')}}"></a>
 
                             <div class="opportunies-title">
 
@@ -387,7 +387,7 @@
                     <div class="col-4 activate">
 
                         <div class="opportunies-box"><a href="technology/vdc/index.html"><img
-                                    src="../wp-content/uploads/2017/02/technology.jpg"></a>
+                                    src="../wp-content/uploads/2017/02/technology.jpg')}}"></a>
 
                             <div class="opportunies-title">
 
@@ -419,7 +419,7 @@
 
         </div>
 
-        <div class="cta-block-wrap" style="background-image:url(../wp-content/uploads/2017/02/cta-bg.jpg);">
+        <div class="cta-block-wrap" style="background-image:url(../wp-content/uploads/2017/02/cta-bg.jpg')}});">
 
 
 
