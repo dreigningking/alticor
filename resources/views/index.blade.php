@@ -4,7 +4,7 @@
         <div class="index-video-wrapper">
             <div class="inner-video-container" id="index-video">
                 <video autoplay loop class="inner-video" preload="auto" width="100%" height="100%"
-                    src="{{ asset('wp-content/uploads/vision_banner_video_low.mp4')}}" poster="{{ asset('wp-content/uploads/2020/06/Hensel-Phelps-website-Banner_1.jpg') }}"></video>
+                    src="{{asset('wp-content/uploads/vision_banner_video_low.mp4')}}" poster="{{asset('wp-content/uploads/2020/06/Hensel-Phelps-website-Banner_1.jpg') }}"></video>
             </div>
         </div>
         <div class="hero-slider">
@@ -81,7 +81,7 @@
             <!-- <div class="case-study-post-image" style="background-image:url()">-->
             <div class="case-study-post-image"
                 style="background-image:url(wp-content/uploads/2022/03/7768-Woodmont-Avenue-18_web.jpg)"><img
-                    alt="" src="{{ asset('wp-content/themes/henselphelps/img/placeholder.png') }}" /></div>
+                    alt="" src="{{asset('wp-content/themes/henselphelps/img/placeholder.png') }}" /></div>
         </div>
         <div class="case-study-post clearfix ">
             <div class="case-study-detail">
@@ -98,7 +98,7 @@
             <!-- <div class="case-study-post-image" style="background-image:url()">-->
             <div class="case-study-post-image"
                 style="background-image:url(wp-content/uploads/2022/01/2020_11_12_T_ZGFnist01_A.jpg)"><img
-                    alt="" src="{{ asset('wp-content/themes/henselphelps/img/placeholder.png') }}" /></div>
+                    alt="" src="{{asset('wp-content/themes/henselphelps/img/placeholder.png') }}" /></div>
         </div>
         <div class="case-study-post clearfix ">
             <div class="case-study-detail">
@@ -113,7 +113,7 @@
             <!-- <div class="case-study-post-image" style="background-image:url()">-->
             <div class="case-study-post-image"
                 style="background-image:url(wp-content/uploads/2022/01/McGregor-Square-Case-Study.png)"><img
-                    alt="" src="{{ asset('wp-content/themes/henselphelps/img/placeholder.png') }}" /></div>
+                    alt="" src="{{asset('wp-content/themes/henselphelps/img/placeholder.png') }}" /></div>
         </div>
 
         <div class="btn-center"><a href="projects/index.html" class="btn inverse">view all projects</a></div>
@@ -153,7 +153,7 @@
                             <div class="news-post-image"
                                 style="background-image: url(wp-content/uploads/2023/02/Low-Res-3-768x511.jpg);">
                                 <img width="311" height="225"
-                                    src="{{ asset('wp-content/uploads/2023/02/Low-Res-3-311x225.jpg') }}"
+                                    src="{{asset('wp-content/uploads/2023/02/Low-Res-3-311x225.jpg') }}"
                                     class="attachment-news-thumbnail size-news-thumbnail wp-post-image" alt=""
                                     loading="lazy" />
                             </div>
@@ -181,7 +181,7 @@
                             <div class="news-post-image"
                                 style="background-image: url(wp-content/uploads/2023/01/Kirk-Celebration-Post1-1024x684.jpg);">
                                 <img width="311" height="225"
-                                    src="{{ asset('wp-content/uploads/2023/01/Kirk-Celebration-Post1-311x225.jpg') }}"
+                                    src="{{asset('wp-content/uploads/2023/01/Kirk-Celebration-Post1-311x225.jpg') }}"
                                     class="attachment-news-thumbnail size-news-thumbnail wp-post-image" alt=""
                                     loading="lazy" />
                             </div>
@@ -210,7 +210,7 @@
                             <div class="news-post-image"
                                 style="background-image: url(wp-content/uploads/2023/01/Diverge_Article_Graphics_1200x628_v2.jpg);">
                                 <img width="311" height="225"
-                                    src="{{ asset('wp-content/uploads/2023/01/Diverge_Article_Graphics_1200x628_v2-311x225.jpg') }}"
+                                    src="{{asset('wp-content/uploads/2023/01/Diverge_Article_Graphics_1200x628_v2-311x225.jpg') }}"
                                     class="attachment-news-thumbnail size-news-thumbnail wp-post-image" alt=""
                                     loading="lazy" />
                             </div>
@@ -239,7 +239,7 @@
                             <div class="news-post-image"
                                 style="background-image: url(wp-content/uploads/2022/12/QAE_Final_04-1024x684.jpg);">
                                 <img width="311" height="225"
-                                    src="{{ asset('wp-content/uploads/2022/12/QAE_Final_04-311x225.jpg') }}"
+                                    src="{{asset('wp-content/uploads/2022/12/QAE_Final_04-311x225.jpg') }}"
                                     class="attachment-news-thumbnail size-news-thumbnail wp-post-image" alt=""
                                     loading="lazy" />
                             </div>
@@ -267,7 +267,7 @@
                             <div class="news-post-image"
                                 style="background-image: url(wp-content/uploads/2022/12/Promotions-Justin-Starnes-Scott-Bills-Hensel-Phelps.jpg);">
                                 <img width="311" height="225"
-                                    src="{{ asset('wp-content/uploads/2022/12/Promotions-Justin-Starnes-Scott-Bills-Hensel-Phelps-311x225.jpg') }}"
+                                    src="{{asset('wp-content/uploads/2022/12/Promotions-Justin-Starnes-Scott-Bills-Hensel-Phelps-311x225.jpg') }}"
                                     class="attachment-news-thumbnail size-news-thumbnail wp-post-image" alt=""
                                     loading="lazy" />
                             </div>
@@ -295,7 +295,7 @@
                             <div class="news-post-image"
                                 style="background-image: url(wp-content/uploads/2022/12/52476878843_1029b1b227_c-768x512.jpg);">
                                 <img width="311" height="225"
-                                    src="{{ asset('wp-content/uploads/2022/12/52476878843_1029b1b227_c-311x225.jpg') }}"
+                                    src="{{asset('wp-content/uploads/2022/12/52476878843_1029b1b227_c-311x225.jpg') }}"
                                     class="attachment-news-thumbnail size-news-thumbnail wp-post-image" alt=""
                                     loading="lazy" />
                             </div>
@@ -324,7 +324,7 @@
                             <div class="news-post-image"
                                 style="background-image: url(wp-content/uploads/2022/12/SM-22-30162_HNPL_UCSD_STILLS_V05_EYELEVEL_DUSK-1024x684.jpg);">
                                 <img width="311" height="225"
-                                    src="{{ asset('wp-content/uploads/2022/12/SM-22-30162_HNPL_UCSD_STILLS_V05_EYELEVEL_DUSK-311x225.jpg') }}"
+                                    src="{{asset('wp-content/uploads/2022/12/SM-22-30162_HNPL_UCSD_STILLS_V05_EYELEVEL_DUSK-311x225.jpg') }}"
                                     class="attachment-news-thumbnail size-news-thumbnail wp-post-image"
                                     alt="UC San Diego Ridge Walk North Living and Learning Neighborhood project"
                                     loading="lazy" />

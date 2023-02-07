@@ -13,16 +13,16 @@
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <link rel="shortcut icon" href="{{ asset('wp-content/themes/henselphelps/favicon.ico') }}" type="img/x-icon" />
+    <link rel="shortcut icon" href="{{asset('wp-content/themes/henselphelps/favicon.ico') }}" type="img/x-icon" />
 
-    <link rel="icon" type="image/png" href="{{ asset('wp-content/themes/henselphelps/favicon.png') }}"
+    <link rel="icon" type="image/png" href="{{asset('wp-content/themes/henselphelps/favicon.png') }}"
         sizes="32x32" />
 
     <link rel="profile" href="http://gmpg.org/xfn/11">
-    <link rel="stylesheet" href="{{ asset('wp-content/themes/henselphelps/css/ie/font-awesome.min.css') }}"
+    <link rel="stylesheet" href="{{asset('wp-content/themes/henselphelps/css/ie/font-awesome.min.css') }}"
         type='text/css' />
 
-    <link rel="stylesheet" href="{{ asset('wp-content/themes/henselphelps/css/bio-styles.css') }}">
+    <link rel="stylesheet" href="{{asset('wp-content/themes/henselphelps/css/bio-styles.css') }}">
     <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css" />
     <link rel="stylesheet" type="text/css"
         href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick-theme.css" />
@@ -132,34 +132,34 @@
         }
     </style>
     <link rel='stylesheet' id='mec-select2-style-css'
-        href="{{ asset('wp-content/plugins/modern-events-calendar-lite/assets/packages/select2/select2.minc945.css?ver=5.19.0') }}"
+        href="{{asset('wp-content/plugins/modern-events-calendar-lite/assets/packages/select2/select2.minc945.css?ver=5.19.0') }}"
         type='text/css' media='all' />
     <link rel='stylesheet' id='mec-font-icons-css'
-        href="{{ asset('wp-content/plugins/modern-events-calendar-lite/assets/css/iconfonts1eb7.css?ver=6.0.3') }}"
+        href="{{asset('wp-content/plugins/modern-events-calendar-lite/assets/css/iconfonts1eb7.css?ver=6.0.3') }}"
         type='text/css' media='all' />
     <link rel='stylesheet' id='mec-frontend-style-css'
-        href="{{ asset('wp-content/plugins/modern-events-calendar-lite/assets/css/frontend.minc945.css?ver=5.19.0') }}"
+        href="{{asset('wp-content/plugins/modern-events-calendar-lite/assets/css/frontend.minc945.css?ver=5.19.0') }}"
         type='text/css' media='all' />
     <link rel='stylesheet' id='mec-tooltip-style-css'
-        href="{{ asset('wp-content/plugins/modern-events-calendar-lite/assets/packages/tooltip/tooltip1eb7.css?ver=6.0.3') }}"
+        href="{{asset('wp-content/plugins/modern-events-calendar-lite/assets/packages/tooltip/tooltip1eb7.css?ver=6.0.3') }}"
         type='text/css' media='all' />
     <link rel='stylesheet' id='mec-tooltip-shadow-style-css'
-        href="{{ asset('wp-content/plugins/modern-events-calendar-lite/assets/packages/tooltip/tooltipster-sideTip-shadow.min1eb7.css?ver=6.0.3') }}"
+        href="{{asset('wp-content/plugins/modern-events-calendar-lite/assets/packages/tooltip/tooltipster-sideTip-shadow.min1eb7.css?ver=6.0.3') }}"
         type='text/css' media='all' />
     <link rel='stylesheet' id='mec-featherlight-style-css'
-        href="{{ asset('wp-content/plugins/modern-events-calendar-lite/assets/packages/featherlight/featherlight1eb7.css?ver=6.0.3') }}"
+        href="{{asset('wp-content/plugins/modern-events-calendar-lite/assets/packages/featherlight/featherlight1eb7.css?ver=6.0.3') }}"
         type='text/css' media='all' />
     <link rel='stylesheet' id='mec-lity-style-css'
-        href="{{ asset('wp-content/plugins/modern-events-calendar-lite/assets/packages/lity/lity.min1eb7.css?ver=6.0.3') }}"
+        href="{{asset('wp-content/plugins/modern-events-calendar-lite/assets/packages/lity/lity.min1eb7.css?ver=6.0.3') }}"
         type='text/css' media='all' />
     <link rel='stylesheet' id='wp-block-library-css'
-        href="{{ asset('wp-includes/css/dist/block-library/style.min1eb7.css?ver=6.0.3') }}" type='text/css'
+        href="{{asset('wp-includes/css/dist/block-library/style.min1eb7.css?ver=6.0.3') }}" type='text/css'
         media='all' />
     <link rel='stylesheet' id='quotescollection-block-quotes-css'
-        href="{{ asset('wp-content/plugins/quotes-collection/blocks/quotes/stylea0f0.css?ver=1656041768') }}"
+        href="{{asset('wp-content/plugins/quotes-collection/blocks/quotes/stylea0f0.css?ver=1656041768') }}"
         type='text/css' media='all' />
     <link rel='stylesheet' id='quotescollection-block-random-quote-css'
-        href="{{ asset('wp-content/plugins/quotes-collection/blocks/random-quote/style5611.css?ver=1656041769') }}"
+        href="{{asset('wp-content/plugins/quotes-collection/blocks/random-quote/style5611.css?ver=1656041769') }}"
         type='text/css' media='all' />
     <style id='global-styles-inline-css' type='text/css'>
         body {
@@ -410,19 +410,19 @@
         }
     </style>
     <link rel='stylesheet' id='share-this-share-buttons-sticky-css'
-        href="{{ asset('wp-content/plugins/sharethis-share-buttons/css/mu-style2ba9.css?ver=1670411415') }}"
+        href="{{asset('wp-content/plugins/sharethis-share-buttons/css/mu-style2ba9.css?ver=1670411415') }}"
         type='text/css' media='all' />
     <link rel='stylesheet' id='wpos-font-awesome-css'
-        href="{{ asset('wp-content/plugins/timeline-and-history-slider-pro/assets/css/font-awesome.min19f6.css?ver=1.0.7') }}"
+        href="{{asset('wp-content/plugins/timeline-and-history-slider-pro/assets/css/font-awesome.min19f6.css?ver=1.0.7') }}"
         type='text/css' media='all' />
     <link rel='stylesheet' id='wpos-slick-style-css'
-        href="{{ asset('wp-content/plugins/timeline-and-history-slider-pro/assets/css/slick19f6.css?ver=1.0.7') }}"
+        href="{{asset('wp-content/plugins/timeline-and-history-slider-pro/assets/css/slick19f6.css?ver=1.0.7') }}"
         type='text/css' media='all' />
     <link rel='stylesheet' id='wphts-pro-public-style-css'
-        href="{{ asset('wp-content/plugins/timeline-and-history-slider-pro/assets/css/wphtsp-pro-public19f6.css?ver=1.0.7') }}"
+        href="{{asset('wp-content/plugins/timeline-and-history-slider-pro/assets/css/wphtsp-pro-public19f6.css?ver=1.0.7') }}"
         type='text/css' media='all' />
     <link rel='stylesheet' id='quotescollection-css'
-        href="{{ asset('wp-content/plugins/quotes-collection/css/quotes-collection16b9.css?ver=2.5.2') }}"
+        href="{{asset('wp-content/plugins/quotes-collection/css/quotes-collection16b9.css?ver=2.5.2') }}"
         type='text/css' media='all' />
 
     <link rel='stylesheet' id='font-awesome-style-css'
@@ -432,20 +432,20 @@
         href='https://fonts.googleapis.com/css?family=Open+Sans%3A300%2C300i%2C400%2C400i%2C600%2C600i%2C700%2C700i%2C800%2C800i&amp;ver=6.0.3')}}"
         type='text/css' media='all' />
     <link rel='stylesheet' id='flexslider-css'
-        href="{{ asset('wp-content/themes/henselphelps/css/flexslider1eb7.css?ver=6.0.3') }}" type='text/css'
+        href="{{asset('wp-content/themes/henselphelps/css/flexslider1eb7.css?ver=6.0.3') }}" type='text/css'
         media='all' />
     <link rel='stylesheet' id='swiper-slider-css'
-        href="{{ asset('wp-content/themes/henselphelps/css/swiper.min1eb7.css?ver=6.0.3') }}" type='text/css'
+        href="{{asset('wp-content/themes/henselphelps/css/swiper.min1eb7.css?ver=6.0.3') }}" type='text/css'
         media='all' />
     <link rel='stylesheet' id='mediaelementplayer-css'
-        href="{{ asset('wp-content/themes/henselphelps/mediaelement/mediaelementplayer.min1eb7.css?ver=6.0.3') }}"
+        href="{{asset('wp-content/themes/henselphelps/mediaelement/mediaelementplayer.min1eb7.css?ver=6.0.3') }}"
         type='text/css' media='all' />
     <link rel='stylesheet' id='henselphelps-style-css'
-        href="{{ asset('wp-content/themes/henselphelps/style1eb7.css?ver=6.0.3') }}" type='text/css'
+        href="{{asset('wp-content/themes/henselphelps/style1eb7.css?ver=6.0.3') }}" type='text/css'
         media='all' />
-    <script type='text/javascript' src="{{ asset('wp-includes/js/jquery/jquery.minaf6c.js?ver=3.6.0') }}"
+    <script type='text/javascript' src="{{asset('wp-includes/js/jquery/jquery.minaf6c.js?ver=3.6.0') }}"
         id='jquery-core-js'></script>
-    <script type='text/javascript' src="{{ asset('wp-includes/js/jquery/jquery-migrate.mind617.js?ver=3.3.2') }}"
+    <script type='text/javascript' src="{{asset('wp-includes/js/jquery/jquery-migrate.mind617.js?ver=3.3.2') }}"
         id='jquery-migrate-js'></script>
     <script type='text/javascript' id='mec-frontend-script-js-extra'>
         /* <![CDATA[ */
@@ -469,13 +469,13 @@
         /* ]]> */
     </script>
     <script type='text/javascript'
-        src="{{ asset('wp-content/plugins/modern-events-calendar-lite/assets/js/frontendc945.js?ver=5.19.0') }}"
+        src="{{asset('wp-content/plugins/modern-events-calendar-lite/assets/js/frontendc945.js?ver=5.19.0') }}"
         id='mec-frontend-script-js'></script>
     <script type='text/javascript'
-        src="{{ asset('wp-content/plugins/modern-events-calendar-lite/assets/js/eventsc945.js?ver=5.19.0') }}"
+        src="{{asset('wp-content/plugins/modern-events-calendar-lite/assets/js/eventsc945.js?ver=5.19.0') }}"
         id='mec-events-script-js'></script>
     <script type='text/javascript'
-        src="{{ asset('wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend-gtag.min79da.js?ver=8.12.1') }}"
+        src="{{asset('wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend-gtag.min79da.js?ver=8.12.1') }}"
         id='monsterinsights-frontend-script-js'></script>
     <script data-cfasync="false" data-wpfc-render="false" type="text/javascript"
         id='monsterinsights-frontend-script-js-extra'>
@@ -505,7 +505,7 @@
         /* ]]> */
     </script>
     <script type='text/javascript'
-        src="{{ asset('wp-content/plugins/quotes-collection/js/quotes-collection16b9.js?ver=2.5.2') }}"
+        src="{{asset('wp-content/plugins/quotes-collection/js/quotes-collection16b9.js?ver=2.5.2') }}"
         id='quotescollection-js'></script>
     <link rel="https://api.w.org/" href="wp-json/index.html" />
     <link rel="alternate" type="application/json" href="wp-json/wp/v2/pages/51.json" />
@@ -756,7 +756,7 @@
             <div class="wrapper">
 
                 <a href="{{ url('/') }}" class="logo"><img
-                        src="{{ asset('wp-content/themes/henselphelps/img/logo.png') }}"></a>
+                        src="{{asset('wp-content/themes/henselphelps/img/logo.png') }}"></a>
 
                 <div class="nav-container clearfix">
 
@@ -788,7 +788,7 @@
                     <div class="toggle-nav">
 
                         <a href="#"><img
-                                src="{{ asset('wp-content/themes/henselphelps/img/toggle-icon.png') }}"
+                                src="{{asset('wp-content/themes/henselphelps/img/toggle-icon.png') }}"
                                 alt=""></a>
 
                     </div>
@@ -808,36 +808,36 @@
         <div class="wrapper">
             <div class="footer-top clearfix" style="margin-bottom: 20px;">
                 <a href="index.html" class="footer-logo">
-                    <img src="{{ asset('wp-content/themes/henselphelps/img/footer-logo.png') }}" alt="">
+                    <img src="{{asset('wp-content/themes/henselphelps/img/footer-logo.png') }}" alt="">
                 </a>
                 <div class="social-links">
                     <ul>
                         <li><a target="_blank" href="https://www.facebook.com/HenselPhelpsCommunications/"><img
-                                    src="{{ asset('wp-content/themes/henselphelps/img/facebook-icon.png') }}"
+                                    src="{{asset('wp-content/themes/henselphelps/img/facebook-icon.png') }}"
                                     alt=""></a></li>
                         <li><a target="_blank" href="https://twitter.com/henselphelps"><img
-                                    src="{{ asset('wp-content/themes/henselphelps/img/twitter-icon.png') }}"
+                                    src="{{asset('wp-content/themes/henselphelps/img/twitter-icon.png') }}"
                                     alt=""></a></li>
                         <li><a target="_blank"
                                 href="https://www.linkedin.com/company/21743?trk=tyah&amp;trkInfo=clickedVertical:company,clickedEntityId:21743,idx:3-1-7,tarId:1473431308021,tas:Hensel%20Phelps"><img
-                                    src="{{ asset('wp-content/themes/henselphelps/img/linkedin-icon.png') }}"
+                                    src="{{asset('wp-content/themes/henselphelps/img/linkedin-icon.png') }}"
                                     alt=""></a></li>
                         <li><a target="_blank" href="https://www.instagram.com/henselphelps/"><img
-                                    src="{{ asset('wp-content/themes/henselphelps/img/instagram-icon.png') }}"
+                                    src="{{asset('wp-content/themes/henselphelps/img/instagram-icon.png') }}"
                                     alt=""></a></li>
                         <li><a target="_blank" href="https://www.youtube.com/c/HenselPhelpsConstructionCo"><img
                                     height="28" width="28"
-                                    src="{{ asset('wp-content/uploads/2021/08/youtube_social_squircle_red.png') }}"
+                                    src="{{asset('wp-content/uploads/2021/08/youtube_social_squircle_red.png') }}"
                                     alt=""></a></li>
                     </ul>
                     <ul style="margin-top: 40px;">
                         <li style="position: relative; top: 20px; margin-right: 24px;"><a target="_blank"
                                 href="https://www.glassdoor.com/Overview/Working-at-Hensel-Phelps-EI_IE3218.11,24.htm"><img
                                     height="80" width="100"
-                                    src="{{ asset('wp-content/uploads/2022/09/glassdoor-logo.png') }}"
+                                    src="{{asset('wp-content/uploads/2022/09/glassdoor-logo.png') }}"
                                     alt=""></a></li>
                         <li><a target="_blank"><img height="80" width="60"
-                                    src="{{ asset('wp-content/uploads/2022/09/top-work-places-logo.jpg') }}"
+                                    src="{{asset('wp-content/uploads/2022/09/top-work-places-logo.jpg') }}"
                                     alt=""></a></li>
                     </ul>
                 </div>
@@ -883,9 +883,9 @@
         </div>
     </footer>
 
-    <script type='text/javascript' src="{{ asset('wp-includes/js/jquery/ui/core.min0028.js?ver=1.13.1') }}"
+    <script type='text/javascript' src="{{asset('wp-includes/js/jquery/ui/core.min0028.js?ver=1.13.1') }}"
         id='jquery-ui-core-js'></script>
-    <script type='text/javascript' src="{{ asset('wp-includes/js/jquery/ui/datepicker.min0028.js?ver=1.13.1') }}"
+    <script type='text/javascript' src="{{asset('wp-includes/js/jquery/ui/datepicker.min0028.js?ver=1.13.1') }}"
         id='jquery-ui-datepicker-js'></script>
     <script type='text/javascript' id='jquery-ui-datepicker-js-after'>
         jQuery(function(jQuery) {
@@ -910,61 +910,61 @@
         });
     </script>
     <script type='text/javascript'
-        src="{{ asset('wp-content/plugins/modern-events-calendar-lite/assets/js/jquery.typewatchc945.js?ver=5.19.0') }}"
+        src="{{asset('wp-content/plugins/modern-events-calendar-lite/assets/js/jquery.typewatchc945.js?ver=5.19.0') }}"
         id='mec-typekit-script-js'></script>
     <script type='text/javascript'
-        src="{{ asset('wp-content/plugins/modern-events-calendar-lite/assets/packages/featherlight/featherlightc945.js?ver=5.19.0') }}"
+        src="{{asset('wp-content/plugins/modern-events-calendar-lite/assets/packages/featherlight/featherlightc945.js?ver=5.19.0') }}"
         id='mec-featherlight-script-js'></script>
     <script type='text/javascript'
-        src="{{ asset('wp-content/plugins/modern-events-calendar-lite/assets/packages/select2/select2.full.minc945.js?ver=5.19.0') }}"
+        src="{{asset('wp-content/plugins/modern-events-calendar-lite/assets/packages/select2/select2.full.minc945.js?ver=5.19.0') }}"
         id='mec-select2-script-js'></script>
     <script type='text/javascript'
-        src="{{ asset('wp-content/plugins/modern-events-calendar-lite/assets/packages/tooltip/tooltipc945.js?ver=5.19.0') }}"
+        src="{{asset('wp-content/plugins/modern-events-calendar-lite/assets/packages/tooltip/tooltipc945.js?ver=5.19.0') }}"
         id='mec-tooltip-script-js'></script>
     <script type='text/javascript'
-        src="{{ asset('wp-content/plugins/modern-events-calendar-lite/assets/packages/lity/lity.minc945.js?ver=5.19.0') }}"
+        src="{{asset('wp-content/plugins/modern-events-calendar-lite/assets/packages/lity/lity.minc945.js?ver=5.19.0') }}"
         id='mec-lity-script-js'></script>
     <script type='text/javascript'
-        src="{{ asset('wp-content/plugins/modern-events-calendar-lite/assets/packages/colorbrightness/colorbrightness.minc945.js?ver=5.19.0') }}"
+        src="{{asset('wp-content/plugins/modern-events-calendar-lite/assets/packages/colorbrightness/colorbrightness.minc945.js?ver=5.19.0') }}"
         id='mec-colorbrightness-script-js'></script>
     <script type='text/javascript'
-        src="{{ asset('wp-content/plugins/modern-events-calendar-lite/assets/packages/owl-carousel/owl.carousel.minc945.js?ver=5.19.0') }}"
+        src="{{asset('wp-content/plugins/modern-events-calendar-lite/assets/packages/owl-carousel/owl.carousel.minc945.js?ver=5.19.0') }}"
         id='mec-owl-carousel-script-js'></script>
     <script type='text/javascript'
-        src="{{ asset('wp-content/themes/henselphelps/js/jquery.popupwindow1eb7.js?ver=6.0.3') }}"
+        src="{{asset('wp-content/themes/henselphelps/js/jquery.popupwindow1eb7.js?ver=6.0.3') }}"
         id='jquery.popupwindow-js'></script>
     <script type='text/javascript'
-        src="{{ asset('wp-content/themes/henselphelps/js/isotope.pkgd.min1eb7.js?ver=6.0.3') }}" id='jquery.isotope-js'>
+        src="{{asset('wp-content/themes/henselphelps/js/isotope.pkgd.min1eb7.js?ver=6.0.3') }}" id='jquery.isotope-js'>
     </script>
-    <script type='text/javascript' src="{{ asset('wp-content/themes/henselphelps/js/waypoints.min1eb7.js?ver=6.0.3') }}"
+    <script type='text/javascript' src="{{asset('wp-content/themes/henselphelps/js/waypoints.min1eb7.js?ver=6.0.3') }}"
         id='jquery.waypoints-js'></script>
     <script type='text/javascript'
-        src="{{ asset('wp-content/themes/henselphelps/js/jquery.counterup1eb7.js?ver=6.0.3') }}" id='jquery.counterup-js'>
+        src="{{asset('wp-content/themes/henselphelps/js/jquery.counterup1eb7.js?ver=6.0.3') }}" id='jquery.counterup-js'>
     </script>
-    <script type='text/javascript' src="{{ asset('wp-content/themes/henselphelps/js/swiper.min1eb7.js?ver=6.0.3') }}"
+    <script type='text/javascript' src="{{asset('wp-content/themes/henselphelps/js/swiper.min1eb7.js?ver=6.0.3') }}"
         id='jquery.swiper-slider-js'></script>
-    <script type='text/javascript' src="{{ asset('wp-content/themes/henselphelps/js/imagesloaded1eb7.js?ver=6.0.3') }}"
+    <script type='text/javascript' src="{{asset('wp-content/themes/henselphelps/js/imagesloaded1eb7.js?ver=6.0.3') }}"
         id='jquery.imagesloaded-js'></script>
     <script type='text/javascript'
-        src="{{ asset('wp-content/themes/henselphelps/js/jquery.flexslider1eb7.js?ver=6.0.3') }}"
+        src="{{asset('wp-content/themes/henselphelps/js/jquery.flexslider1eb7.js?ver=6.0.3') }}"
         id='jquery.flexslider-js'></script>
-    <script type='text/javascript' src="{{ asset('wp-content/themes/henselphelps/js/jquery.jscroll1eb7.js?ver=6.0.3') }}"
+    <script type='text/javascript' src="{{asset('wp-content/themes/henselphelps/js/jquery.jscroll1eb7.js?ver=6.0.3') }}"
         id='jquery.jscroll-js'></script>
-    <script type='text/javascript' src="{{ asset('wp-content/themes/henselphelps/js/map1eb7.js?ver=6.0.3') }}"
+    <script type='text/javascript' src="{{asset('wp-content/themes/henselphelps/js/map1eb7.js?ver=6.0.3') }}"
         id='jquery.map-js'></script>
-    <script type='text/javascript' src="{{ asset('wp-content/themes/henselphelps/js/jquery.inview1eb7.js?ver=6.0.3') }}"
+    <script type='text/javascript' src="{{asset('wp-content/themes/henselphelps/js/jquery.inview1eb7.js?ver=6.0.3') }}"
         id='jquery.inview-js'></script>
     <script type='text/javascript' id='jquery.custom-js-extra'>
         /* <![CDATA[ */
         var ajaxurl = "index.html\/\/henselphelps.com\/wp-admin\/admin-ajax.php";
         /* ]]> */
     </script>
-    <script type='text/javascript' src="{{ asset('wp-content/themes/henselphelps/js/custom1eb7.js?ver=6.0.3') }}"
+    <script type='text/javascript' src="{{asset('wp-content/themes/henselphelps/js/custom1eb7.js?ver=6.0.3') }}"
         id='jquery.custom-js'></script>
-    <script type='text/javascript' src="{{ asset('wp-content/themes/henselphelps/js/bio-scripts1eb7.js?ver=6.0.3') }}"
+    <script type='text/javascript' src="{{asset('wp-content/themes/henselphelps/js/bio-scripts1eb7.js?ver=6.0.3') }}"
         id='jquery.bio-scripts-js'></script>
     <script type='text/javascript'
-        src="{{ asset('wp-content/plugins/easy-twitter-feed-widget/js/twitter-widgets5152.js?ver=1.0') }}"
+        src="{{asset('wp-content/plugins/easy-twitter-feed-widget/js/twitter-widgets5152.js?ver=1.0') }}"
         id='do-etfw-twitter-widgets-js'></script>
     <script type='text/javascript' id='main-js-js-extra'>
         /* <![CDATA[ */
@@ -975,7 +975,7 @@
         };
         /* ]]> */
     </script>
-    <script type='text/javascript' src="{{ asset('wp-content/themes/henselphelps/js/script1eb7.js?ver=6.0.3') }}"
+    <script type='text/javascript' src="{{asset('wp-content/themes/henselphelps/js/script1eb7.js?ver=6.0.3') }}"
         id='main-js-js'></script>
     <div id="browser-msg">
         <div>
@@ -987,13 +987,13 @@
                 following browsers to take full advantage of the Alticor Inc website. Thank you!</p>
             <p>
                 <a href="https://www.google.com/chrome/browser/" target="_blank">
-                    <img alt="Chrome" src="{{ asset('wp-content/uploads/2017/08/chrome-icon.png') }}" />
+                    <img alt="Chrome" src="{{asset('wp-content/uploads/2017/08/chrome-icon.png') }}" />
                 </a>&nbsp;&nbsp;&nbsp;
                 <a href="https://www.mozilla.org/en-US/firefox/new/" target="_blank">
-                    <img alt="Firefox" src="{{ asset('wp-content/uploads/2017/08/Firefox-icon.png') }}" />
+                    <img alt="Firefox" src="{{asset('wp-content/uploads/2017/08/Firefox-icon.png') }}" />
                 </a>&nbsp;&nbsp;&nbsp;
                 <a href="https://www.microsoft.com/en-us/windows/microsoft-edge/" target="_blank">
-                    <img alt="Edge" src="{{ asset('wp-content/uploads/2017/08/edge-icon.png') }}" />
+                    <img alt="Edge" src="{{asset('wp-content/uploads/2017/08/edge-icon.png') }}" />
                 </a>
             </p>
         </div>
