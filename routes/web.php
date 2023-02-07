@@ -13,7 +13,7 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::view('/', 'index')->name('index');
+Route::get('/', function(){return view('index');})->name('index');
 Route::group(['prefix'=> 'about','as'=>'about.'],function(){
     Route::view('vision-and-core-values', 'about.vision_core_values')->name('vision-and-core-values');
     Route::view('ourway', 'index')->name('ourway');
