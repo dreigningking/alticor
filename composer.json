@@ -59,7 +59,7 @@
         "allow-plugins": {
             "pestphp/pest-plugin": true
         },
-        "cache-dir": "/home/altiwdxl/public_html/canadian/cache"
+        "cache-dir": "/home/altiwdxl/public_html/cache"
     },
     "minimum-stability": "stable",
     "prefer-stable": true

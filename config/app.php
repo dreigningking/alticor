@@ -54,7 +54,7 @@ return [
     |
     */
 
-    'url' => env('APP_URL', 'http://alticorconstruction.com/canadian'),
+    'url' => env('APP_URL', 'http://alticorconstruction.com'),
 
     'asset_url' => env('ASSET_URL'),
 
@@ -121,7 +121,7 @@ return [
     |
     */
 
-    'key' => env('APP_KEY','oakxx26ctf7tlbjtjfy4uphrb25pe7z7'),
+    'key' => env('APP_KEY','5viv4trzxyodzz3jyiqeogrz4iofhqxz'),
 
     'cipher' => 'AES-256-CBC',
 
