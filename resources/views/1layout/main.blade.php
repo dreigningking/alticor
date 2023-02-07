@@ -60,9 +60,9 @@
 
     <link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
     <link rel='dns-prefetch' href='http://s.w.org/' />
-    <link rel="alternate" type="application/rss+xml" title="Alticor Inc &raquo; Feed" href="feed/index.html" />
+    <link rel="alternate" type="application/rss+xml" title="Alticor Inc &raquo; Feed" href="feed/index.html')}}"  />
     <link rel="alternate" type="application/rss+xml" title="Alticor Inc &raquo; Comments Feed"
-        href="comments/feed/index.html" />
+        href="comments/feed/index.html')}}"  />
 
     <style type="text/css">
         img.wp-smiley,
@@ -452,7 +452,7 @@
     <script type='text/javascript'
         src="{{asset('wp-content/plugins/quotes-collection/js/quotes-collection16b9.js?ver=2.5.2')}}"
         id='quotescollection-js'></script>
-    <link rel="https://api.w.org/" href="wp-json/index.html" />
+    <link rel="https://api.w.org/" href="wp-json/index.html')}}"  />
     <link rel="alternate" type="application/json" href="wp-json/wp/v2/pages/51.json" />
     <link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc0db0.php?rsd" />
     <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="wp-includes/wlwmanifest.xml" />
@@ -752,7 +752,7 @@
     <footer class="footer">
         <div class="wrapper">
             <div class="footer-top clearfix" style="margin-bottom: 20px;">
-                <a href="index.html" class="footer-logo">
+                <a href="index.html')}}"  class="footer-logo">
                     <img src="{{asset('wp-content/themes/henselphelps/img/footer-logo.png')}}" alt="">
                 </a>
                 <div class="social-links">
@@ -792,22 +792,22 @@
                     <ul id="menu-footer-menu" class="">
                         <li id="menu-item-115"
                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-115"><a
-                                href="projects/index.html">Projects</a></li>
+                                href="projects/index.html')}}" >Projects</a></li>
                         <li id="menu-item-116"
                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-116"><a
-                                href="what-we-do/index.html">What We Do</a></li>
+                                href="what-we-do/index.html')}}" >What We Do</a></li>
                         <li id="menu-item-105"
                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-105"><a
                                 href="{{route('careers.index')}}">Careers</a></li>
                         <li id="menu-item-4379"
                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4379"><a
-                                href="the-hensel-phelps-way/index.html">The Alticor Inc Way</a></li>
+                                href="the-hensel-phelps-way/index.html')}}" >The Alticor Inc Way</a></li>
                         <li id="menu-item-2779"
                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2779"><a
                                 href="/careers/trade-partners/">Trade Partners</a></li>
                         <li id="menu-item-5227"
                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5227"><a
-                                href="sustainability-corporate-governance/index.html">Sustainability and Corporate
+                                href="sustainability-corporate-governance/index.html')}}" >Sustainability and Corporate
                                 Governance</a></li>
                         <li id="menu-item-113"
                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113"><a

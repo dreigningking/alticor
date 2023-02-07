@@ -1,6 +1,6 @@
 @extends('1layout.others')
 @section('content')
-    <div class="page-banner" style="background-image:url('../wp-content/uploads/2017/02/the-hp-way.jpg')}});">
+    <div class="page-banner" style="background-image:url({{ asset('wp-content/uploads/2017/02/the-hp-way.jpg') }});">
 
         <div class="page-banner-block">
 
@@ -89,11 +89,11 @@
 
 
                             <!--[if lt IE 9]>
-                               <style>
-                                  .ie-hide{ display:none !important;}
-                                </style>
-                                 
-                                 <a href="https://youtu.be/WmPizSReeO4" target="_blank" ><img src="https://img.youtube.com/vi/WmPizSReeO4/maxresdefault.jpg" ></a>                                <![endif]-->
+                                   <style>
+                                      .ie-hide{ display:none !important;}
+                                    </style>
+                                     
+                                     <a href="https://youtu.be/WmPizSReeO4" target="_blank" ><img src="https://img.youtube.com/vi/WmPizSReeO4/maxresdefault.jpg')}}"  ></a>                                <![endif]-->
                             <iframe class="ie-hide" width="100%" height="100%"
                                 src="https://www.youtube.com/embed/WmPizSReeO4?rel=0&amp;controls=0&amp;showinfo=0"
                                 frameborder="0" allowfullscreen>
@@ -143,11 +143,11 @@
 
 
                             <!--[if lt IE 9]>
-                               <style>
-                                  .ie-hide{ display:none !important;}
-                                </style>
-                                 
-                                 <a href="https://youtu.be/7u2ire6K8mQ" target="_blank" ><img src="https://img.youtube.com/vi/7u2ire6K8mQ/maxresdefault.jpg" ></a>                                <![endif]-->
+                                   <style>
+                                      .ie-hide{ display:none !important;}
+                                    </style>
+                                     
+                                     <a href="https://youtu.be/7u2ire6K8mQ" target="_blank" ><img src="https://img.youtube.com/vi/7u2ire6K8mQ/maxresdefault.jpg')}}"  ></a>                                <![endif]-->
                             <iframe class="ie-hide" width="100%" height="100%"
                                 src="https://www.youtube.com/embed/7u2ire6K8mQ?rel=0&amp;controls=0&amp;showinfo=0"
                                 frameborder="0" allowfullscreen>
@@ -198,11 +198,11 @@
 
 
                             <!--[if lt IE 9]>
-                               <style>
-                                  .ie-hide{ display:none !important;}
-                                </style>
-                                 
-                                 <a href="https://youtu.be/PX0MR4ehbA0" target="_blank" ><img src="https://img.youtube.com/vi/PX0MR4ehbA0/maxresdefault.jpg" ></a>                                <![endif]-->
+                                   <style>
+                                      .ie-hide{ display:none !important;}
+                                    </style>
+                                     
+                                     <a href="https://youtu.be/PX0MR4ehbA0" target="_blank" ><img src="https://img.youtube.com/vi/PX0MR4ehbA0/maxresdefault.jpg')}}"  ></a>                                <![endif]-->
                             <iframe class="ie-hide" width="100%" height="100%"
                                 src="https://www.youtube.com/embed/PX0MR4ehbA0?rel=0&amp;controls=0&amp;showinfo=0"
                                 frameborder="0" allowfullscreen>
@@ -231,8 +231,8 @@
                         component of the Alticor Inc Way.</p>
                     </p>
 
-                    <a href="technology/index.html"><i class="fa fa-arrow-circle-right"
-                            aria-hidden="true"></i><span>Learn More</span></a>
+                    <a href="technology/index.html"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
+                            More</span></a>
 
                 </div>
 
@@ -255,11 +255,11 @@
 
 
                             <!--[if lt IE 9]>
-                               <style>
-                                  .ie-hide{ display:none !important;}
-                                </style>
-                                 
-                                 <a href="https://youtu.be/tGFHnLrMyp8" target="_blank" ><img src="https://img.youtube.com/vi/tGFHnLrMyp8/maxresdefault.jpg" ></a>                                <![endif]-->
+                                   <style>
+                                      .ie-hide{ display:none !important;}
+                                    </style>
+                                     
+                                     <a href="https://youtu.be/tGFHnLrMyp8" target="_blank" ><img src="https://img.youtube.com/vi/tGFHnLrMyp8/maxresdefault.jpg')}}"  ></a>                                <![endif]-->
                             <iframe class="ie-hide" width="100%" height="100%"
                                 src="https://www.youtube.com/embed/tGFHnLrMyp8?rel=0&amp;controls=0&amp;showinfo=0"
                                 frameborder="0" allowfullscreen>
@@ -297,7 +297,7 @@
                     <div class="col-4 activate">
 
                         <div class="opportunies-box"><a href="safety/index.html"><img
-                                    src="../wp-content/uploads/2017/02/image1.jpg')}}"></a>
+                                    src="{{ asset('wp-content/uploads/2017/02/image1.jpg') }}"></a>
 
                             <div class="opportunies-title">
 
@@ -327,7 +327,7 @@
                     <div class="col-4 activate">
 
                         <div class="opportunies-box"><a href="quality/index.html"><img
-                                    src="../wp-content/uploads/2017/02/quality-1.jpg')}}"></a>
+                                    src="{{ asset('wp-content/uploads/2017/02/quality-1.jpg') }}"></a>
 
                             <div class="opportunies-title">
 
@@ -357,7 +357,7 @@
                     <div class="col-4 activate">
 
                         <div class="opportunies-box"><a href="sustainability/index.html"><img
-                                    src="../wp-content/uploads/2017/02/sustain-1.jpg')}}"></a>
+                                    src="{{ asset('wp-content/uploads/2017/02/sustain-1.jpg') }}"></a>
 
                             <div class="opportunies-title">
 
@@ -387,7 +387,7 @@
                     <div class="col-4 activate">
 
                         <div class="opportunies-box"><a href="technology/vdc/index.html"><img
-                                    src="../wp-content/uploads/2017/02/technology.jpg')}}"></a>
+                                    src="{{ asset('wp-content/uploads/2017/02/technology.jpg') }}"></a>
 
                             <div class="opportunies-title">
 
@@ -419,7 +419,7 @@
 
         </div>
 
-        <div class="cta-block-wrap" style="background-image:url(../wp-content/uploads/2017/02/cta-bg.jpg')}});">
+        <div class="cta-block-wrap" style="background-image:url({{ asset('wp-content/uploads/2017/02/cta-bg.jpg') }});">
 
 
 
@@ -440,9 +440,9 @@
                     </blockquote>
 
                     <!-- <blockquote><blockquote class="quotescollection-quote"><p>The Alticor Inc Development team demonstrated unparalleled leadership in both technical and management aspects, while demonstrating outstanding sensitivity to the architectural aspects of this key Urban Development. Their ability to work professionally and amiably is second to none; all while maintaining budgets and time restraints through candid clear communication. I have full confidence in the capability and talent of Alticor Inc and believe they are a premier developer and builder with tremendous experience.</p></blockquote>
-			</blockquote>
+       </blockquote>
 
-                <h6></h6>-->
+                    <h6></h6>-->
                 </div>
 
 
@@ -457,7 +457,3 @@
 
     </div>
 @endsection
-
-
-
-

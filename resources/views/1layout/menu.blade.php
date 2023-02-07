@@ -65,7 +65,7 @@
                                     src="{{ asset('wp-content/uploads/2017/05/University-of-California-menu.jpg') }}"
                                     alt="" width="300" height="200" /></a></p>
                         <h5><span style="color: #ffffff;">Project Portfolio</span></h5>
-                        <h4><a href="projects/index.html">View Alticor Inc Projects</a></h4>
+                        <h4><a href="projects')}}" >View Alticor Inc Projects</a></h4>
 
                     </div>
 
@@ -183,13 +183,13 @@
                     <div class="project-content">
 
                         <h3>Science + Technology</h3>
-                        <p><a href="industry/science-technology/index.html"><img loading="lazy"
+                        <p><a href="industry/science-technology')}}" ><img loading="lazy"
                                     class="alignnone wp-image-822 size-full"
                                     src="{{ asset('wp-content/uploads/2017/06/technology-menu.jpg') }}"
                                     alt="" width="300" height="200" /></a></p>
                         <h5><span style="color: #ffffff;">Featured Science + Technology Case
                                 Study</span></h5>
-                        <h4><a href="industry/science-technology/index.html">Science +
+                        <h4><a href="industry/science-technology')}}" >Science +
                                 Technology</a></h4>
 
                     </div>
@@ -224,7 +224,7 @@
 
         <li>
 
-            <a id="menu2" href="what-we-do/index.html">What We Do</a>
+            <a id="menu2" href="{{route('what-we-do.index')}}">What We Do</a>
 
             <div class="projects-menu menu-content">
 
@@ -236,16 +236,16 @@
 
 
 
-                        <li><a href="what-we-do/index.html">What We Do</a></li>
+                        <li><a href="{{route('what-we-do')}}" >What We Do</a></li>
 
 
-                        <li><a href="what-we-do/development/index.html">Development</a></li>
+                        <li><a href="{{route('what-we-do/development')}}" >Development</a></li>
 
 
-                        <li><a href="what-we-do/construction/index.html">Construction</a></li>
+                        <li><a href="{{route('what-we-do/construction')}}" >Construction</a></li>
 
 
-                        <li><a href="what-we-do/facility-services/index.html">Facility Services</a>
+                        <li><a href="{{route('what-we-do/facility-services')}}" >Facility Services</a>
                         </li>
 
 
@@ -268,7 +268,7 @@
                                 alt="" width="300" height="200" /></p>
                         <p>&nbsp;</p>
                         <h5><span style="color: #ffffff;">Plan. Build. Manage.</span></h5>
-                        <h4><a href="what-we-do/index.html">We develop, construct and maintain
+                        <h4><a href="{{asset('what-we-do')}}" >We develop, construct and maintain
                                 inspired landmarks that turn our clients’ aspirations into
                                 reality.</a></h4>
 
@@ -284,7 +284,7 @@
                                 srcset="/wp-content/uploads/2017/07/development-300x200.jpg 300w, /wp-content/uploads/2017/07/development.jpg 600w"
                                 sizes="(max-width: 300px) 100vw, 300px" /></p>
                         <h5><span style="color: #ffffff;">A Roadmap to Success</span></h5>
-                        <h4><a href="what-we-do/development/index.html">Our development services
+                        <h4><a href="{{asset('what-we-do/development')}}" >Our development services
                                 guide clients through the entire process, from concept to
                                 completion.</a></h4>
 
@@ -300,7 +300,7 @@
                                 srcset="/wp-content/uploads/2017/07/construction-300x200.jpg 300w, /wp-content/uploads/2017/07/construction.jpg 600w"
                                 sizes="(max-width: 300px) 100vw, 300px" /></p>
                         <h5><span style="color: #ffffff;">Building Landmark Properties</span></h5>
-                        <h4><a href="what-we-do/construction/index.html">From preconstruction
+                        <h4><a href="{{asset('what-we-do/construction')}}" >From preconstruction
                                 through constructability and field management – Alticor Inc delivers
                                 superior results on time and on budget.</a></h4>
 
@@ -316,7 +316,7 @@
                                 srcset="/wp-content/uploads/2018/10/Technician-in-Server-Room-300x225.jpg 300w, /wp-content/uploads/2018/10/Technician-in-Server-Room-768x576.jpg 768w, /wp-content/uploads/2018/10/Technician-in-Server-Room-1024x768.jpg 1024w"
                                 sizes="(max-width: 300px) 100vw, 300px" /></p>
                         <h5><span style="color: #ffffff;">Optimizing Operations</span></h5>
-                        <h4><a href="what-we-do/facility-services/index.html">Even after
+                        <h4><a href="{{asset('what-we-do/facility-services')}}" >Even after
                                 construction is complete, we help our clients achieve their property
                                 goals and objectives.</a></h4>
 
@@ -346,39 +346,39 @@
 
 
 
-                        <li><a href="careers/job-search/index.html">Job Search</a></li>
+                        <li><a href="{{route('careers.job-search')}}" >Job Search</a></li>
 
 
-                        <li><a href="recruiting-events/index.html">Recruitment Events</a></li>
+                        <li><a href="{{route('careers.recruiting-events')}}" >Recruitment Events</a></li>
 
 
-                        <li><a href="careers/career-paths/index.html">Career Paths</a></li>
+                        <li><a href="{{route('careers.career-paths')}}" >Career Paths</a></li>
 
 
-                        <li><a href="careers/internships/index.html">Internships</a></li>
+                        <li><a href="{{route('careers.internships')}}" >Internships</a></li>
 
 
-                        <li><a href="careers/graduates/index.html">Graduates</a></li>
+                        <li><a href="{{route('careers.graduates')}}" >Graduates</a></li>
 
 
-                        <li><a href="careers/experienced/index.html">Experienced</a></li>
+                        <li><a href="{{route('careers.experienced')}}" >Experienced</a></li>
 
 
-                        <li><a href="careers/craft/index.html">Craft</a></li>
+                        <li><a href="{{route('careers.craft')}}" >Craft</a></li>
 
 
-                        <li><a href="careers/careers-facility-services/index.html">Facilities
+                        <li><a href="{{route('careers.careers-facility-services')}}" >Facilities
                                 Services</a></li>
 
 
-                        <li><a href="careers/training/index.html">Training</a></li>
+                        <li><a href="{{route('careers.training')}}" >Training</a></li>
 
 
-                        <li><a href="careers/employment-email-fraud-warning/index.html">Employment
+                        <li><a href="{{route('careers.employment-email-fraud-warning')}}" >Employment
                                 Fraud Warning</a></li>
 
 
-                        <li><a href="careers/equal-opportunity-employer/index.html">Equal
+                        <li><a href="{{route('careers.equal-opportunity-employer')}}" >Equal
                                 Opportunity Employer</a></li>
 
 
@@ -432,7 +432,7 @@
                                 src="{{ asset('wp-content/uploads/2019/08/recruiting-hensel-Phelps.jpg') }}"
                                 alt="" width="300" height="200" /></p>
                         <h5><span style="color: #ffffff;">Come Meet With Us!</span></h5>
-                        <h4><a href="recruiting-events/index.html">Find out when we&#8217;ll be
+                        <h4><a href="recruiting-events')}}" >Find out when we&#8217;ll be
                                 recruiting in your area.</a></h4>
 
                     </div>
@@ -446,7 +446,7 @@
                                 alt="" width="300" height="225" /></p>
                         <h5><span style="color: #ffffff;">Find Your Path With Alticor Inc</span>
                         </h5>
-                        <h4><a href="careers/career-paths/index.html">Whether it be construction,
+                        <h4><a href="{{route('careers.career-paths')}}" >Whether it be construction,
                                 estimating, safety or facility services, we have a path for you.
                             </a></h4>
 
@@ -456,12 +456,12 @@
                     <div class="project-content">
 
                         <h3>Internships</h3>
-                        <p><a href="careers/internships/index.html"><img loading="lazy"
+                        <p><a href="{{route('careers.internships')}}" ><img loading="lazy"
                                     class="alignnone"
                                     src="{{ asset('wp-content/uploads/2017/05/internships-menu.jpg') }}"
                                     alt="" width="300" height="200" /></a></p>
                         <h5><span style="color: #ffffff;">Engaged in Your Future</span></h5>
-                        <h4><a href="careers/internships/index.html">Our interns receive a
+                        <h4><a href="{{route('careers.internships')}}" >Our interns receive a
                                 competitive wage and gain valuable industry experience.</a></h4>
 
                     </div>
@@ -476,7 +476,7 @@
                                 srcset="/wp-content/uploads/2017/07/graduates-1-300x200.jpg 300w, /wp-content/uploads/2017/07/graduates-1.jpg 600w"
                                 sizes="(max-width: 300px) 100vw, 300px" /></p>
                         <h5><span style="color: #ffffff;">Dedicated to Your Career</span></h5>
-                        <h4><a href="careers/graduates/index.html">We support the growth of our
+                        <h4><a href="{{route('careers.graduates')}}" >We support the growth of our
                                 employees through exceptional training and flexible career
                                 paths.</a></h4>
 
@@ -492,7 +492,7 @@
                                 srcset="/wp-content/uploads/2017/07/experienced-300x200.jpg 300w, /wp-content/uploads/2017/07/experienced.jpg 600w"
                                 sizes="(max-width: 300px) 100vw, 300px" /></p>
                         <h5><span style="color: #ffffff;">Committed to your development</span></h5>
-                        <h4><a href="careers/experienced/index.html">Let us show you why so many of
+                        <h4><a href="{{route('careers.experienced')}}" >Let us show you why so many of
                                 our employees call HP their “last employer.”</a></h4>
 
                     </div>
@@ -501,12 +501,12 @@
                     <div class="project-content">
 
                         <h3>Craft</h3>
-                        <p><a href="careers/craft/index.html"><img loading="lazy"
+                        <p><a href="{{route('careers.craft')}}" ><img loading="lazy"
                                     class="alignnone"
                                     src="{{ asset('wp-content/uploads/2017/05/craft-menu.jpg') }}"
                                     alt="" width="300" height="200" /></a></p>
                         <h5><span style="color: #ffffff;">Inspired by Your Talents</span></h5>
-                        <h4><a href="careers/craft/index.html">As a craftsperson, you have skills
+                        <h4><a href="{{route('careers.craft')}}" >As a craftsperson, you have skills
                                 Alticor Inc needs and values.</a></h4>
 
                     </div>
@@ -515,13 +515,13 @@
                     <div class="project-content">
 
                         <h3>Careers in Facilities Services</h3>
-                        <p><a href="careers/careers-facility-services/index.html"><img
+                        <p><a href="{{route('careers.careers-facility-services')}}" ><img
                                     loading="lazy" class="alignnone"
                                     src="{{ asset('wp-content/uploads/2017/02/hensel-phelps-safety-300x300.html') }}"
                                     alt="" width="300" height="200" /></a></p>
                         <h5><span style="color: #ffffff;">Ready to Advance Your Experience</span>
                         </h5>
-                        <h4><a href="careers/careers-facility-services/index.html">From entry level
+                        <h4><a href="{{route('careers.careers-facility-services')}}" >From entry level
                                 to industry veteran, grow your career in Facility Services.</a></h4>
 
                     </div>
@@ -536,7 +536,7 @@
                                 srcset="/wp-content/uploads/2017/07/training-300x200.jpg 300w, /wp-content/uploads/2017/07/training.jpg 600w"
                                 sizes="(max-width: 300px) 100vw, 300px" /></p>
                         <h5><span style="color: #ffffff;">Invested in Your Growth</span></h5>
-                        <h4><a href="careers/training/index.html">Our training begins at inception
+                        <h4><a href="{{route('careers.training')}}" >Our training begins at inception
                                 and continues throughout all stages of our employees’ career.</a>
                         </h4>
 
@@ -552,7 +552,7 @@
                                 srcset="{{ asset('wp-content/uploads/2017/07/email-warning-300x200.jpg') }} 300w, /wp-content/uploads/2017/07/email-warning.jpg 600w"
                                 sizes="(max-width: 300px) 100vw, 300px" /></p>
                         <h5><span style="color: #ffffff;">Be Careful</span></h5>
-                        <h4><a href="careers/employment-email-fraud-warning/index.html">Employment
+                        <h4><a href="{{route('careers.employment-email-fraud-warning')}}" >Employment
                                 Solicitation Fraud Warning.</a></h4>
 
                     </div>
@@ -567,7 +567,7 @@
                                 srcset="/wp-content/uploads/2017/04/3014162-Microsoft-Data-Center-CYS04-014_Original-300x225.jpg 300w, /wp-content/uploads/2017/04/3014162-Microsoft-Data-Center-CYS04-014_Original-768x576.jpg 768w, /wp-content/uploads/2017/04/3014162-Microsoft-Data-Center-CYS04-014_Original.jpg 900w"
                                 sizes="(max-width: 300px) 100vw, 300px" /></p>
                         <h5><span style="color: #ffffff;">Providing equal opportunities</span></h5>
-                        <h4><a href="careers/equal-opportunity-employer/index.html">Alticor Inc is
+                        <h4><a href="{{route('careers.equal-opportunity-employer')}}" >Alticor Inc is
                                 an equal opportunity employer and contractor. </a></h4>
 
                     </div>
@@ -592,51 +592,51 @@
 
 
 
-                        <li><a href="vision-and-core-values/index.html">Vision and Core Values</a>
+                        <li><a href="{{route('about.vision-and-core-values')}}" >Vision and Core Values</a>
                         </li>
 
 
-                        <li><a href="the-hensel-phelps-way/index.html">The Alticor Inc Way</a></li>
+                        <li><a href="{{route('about.ourway')}}" >The Alticor Inc Way</a></li>
 
 
-                        <li><a href="the-hensel-phelps-way/safety/index.html">Safety</a></li>
+                        <li><a href="{{asset('about.safety')}}" >Safety</a></li>
 
 
-                        <li><a href="the-hensel-phelps-way/quality/index.html">Quality</a></li>
+                        <li><a href="{{asset('about.quality')}}" >Quality</a></li>
 
 
                         <li><a
-                                href="the-hensel-phelps-way/sustainability/index.html">Sustainability</a>
+                                href="{{asset('about.sustainability')}}" >Sustainability</a>
                         </li>
 
 
-                        <li><a href="the-hensel-phelps-way/technology/index.html">Technology</a>
+                        <li><a href="{{asset('about.technology')}}" >Technology</a>
                         </li>
 
 
-                        <li><a href="the-hensel-phelps-way/history/index.html">History</a></li>
+                        <li><a href="{{asset('about.history')}}" >History</a></li>
 
 
-                        <li><a href="the-hensel-phelps-way/community/index.html">Community</a></li>
+                        <li><a href="{{asset('about.community')}}" >Community</a></li>
 
 
-                        <li><a href="employee-diversity/index.html">Diversity and Inclusion</a>
+                        <li><a href="{{route('about.employee-diversity')}}" >Diversity and Inclusion</a>
                         </li>
 
 
-                        <li><a href="the-hensel-phelps-way/news-center/index.html">News Center</a>
+                        <li><a href="{{asset('about.news-center')}}" >News Center</a>
                         </li>
 
 
-                        <li><a href="the-hensel-phelps-way/leadership/index.html">Leadership</a>
+                        <li><a href="{{asset('about.leadership')}}" >Leadership</a>
                         </li>
 
 
-                        <li><a href="the-hensel-phelps-way/recognition-awards/index.html">Recognition
+                        <li><a href="{{asset('about.recognition-awards')}}" >Recognition
                                 & Awards</a></li>
 
 
-                        <li><a href="trade-partners/index.html">Trade Partners</a></li>
+                        <li><a href="trade-partners')}}" >Trade Partners</a></li>
 
 
 
@@ -781,7 +781,7 @@
                                 alt="" width="300" height="200" /></p>
                         <h5><span style="color: #ffffff;">Creating and Inclusive Environment</span>
                         </h5>
-                        <h4><a href="employee-diversity/index.html">Cultivating a diverse workforce
+                        <h4><a href="employee-diversity')}}" >Cultivating a diverse workforce
                                 is an important part of Alticor Inc’ culture.</a></h4>
 
                     </div>

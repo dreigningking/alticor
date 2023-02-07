@@ -14,20 +14,21 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::view('/', 'index')->name('index');
+
 Route::group(['prefix'=> 'about','as'=>'about.'],function(){
     Route::view('vision-and-core-values', 'about.vision_core_values')->name('vision-and-core-values');
-    Route::view('ourway', 'index')->name('ourway');
-    Route::view('safety', 'index')->name('safety');
-    Route::view('quality', 'index')->name('quality');
-    Route::view('sustainability', 'index')->name('sustainability');
-    Route::view('technology', 'index')->name('technology');
-    Route::view('history', 'index')->name('history');
-    Route::view('community', 'index')->name('community');
-    Route::view('employee-diversity', 'index')->name('employee-diversity');
-    Route::view('news-center', 'index')->name('news-center');
-    Route::view('leadership', 'index')->name('leadership');
-    Route::view('recognition-awards', 'index')->name('recognition-awards');
-    Route::view('trade-partners', 'index')->name('trade-partners');
+    Route::view('ourway', 'about.ourway')->name('ourway');
+    Route::view('safety', 'about.safety')->name('safety');
+    Route::view('quality', 'about.quality')->name('quality');
+    Route::view('sustainability', 'about.sustainability')->name('sustainability');
+    Route::view('technology', 'about.technology')->name('technology');
+    Route::view('history', 'about.history')->name('history');
+    Route::view('community', 'about.community')->name('community');
+    Route::view('employee-diversity', 'about.employee-diversity')->name('employee-diversity');
+    Route::view('news-center', 'about.news-center')->name('news-center');
+    Route::view('leadership', 'about.leadership')->name('leadership');
+    Route::view('recognition-awards', 'about.recognition-awards')->name('recognition-awards');
+    Route::view('trade-partners', 'about.trade-partners')->name('trade-partners');
 });
 
 Route::view('contact-us','contact-us.index')->name('contact');

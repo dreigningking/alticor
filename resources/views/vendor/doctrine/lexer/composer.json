@@ -24,7 +24,7 @@
             "email": "schmittjoh@gmail.com"
         }
     ],
-    "homepage": "https://www.doctrine-project.org/projects/lexer.html",
+    "homepage": "https://www.doctrine-project.org/projects/lexer.html')}}" ,
     "require": {
         "php": "^7.1 || ^8.0",
         "doctrine/deprecations": "^1.0"

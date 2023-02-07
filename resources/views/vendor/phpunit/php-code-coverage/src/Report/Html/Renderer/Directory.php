@@ -81,14 +81,14 @@ final class Directory extends Renderer
 
             if ($node instanceof DirectoryNode) {
                 $data['name'] = sprintf(
-                    '<a href="%s/index.html">%s</a>',
+                    '<a href="%s/index.html')}}" >%s</a>',
                     $node->name(),
                     $node->name()
                 );
                 $data['icon'] = sprintf('<img src="%s_icons/file-directory.svg" class="octicon" />', $up);
             } elseif ($this->hasBranchCoverage) {
                 $data['name'] = sprintf(
-                    '%s <a class="small" href="%s.html">[line]</a> <a class="small" href="%s_branch.html">[branch]</a> <a class="small" href="%s_path.html">[path]</a>',
+                    '%s <a class="small" href="%s.html')}}" >[line]</a> <a class="small" href="%s_branch.html')}}" >[branch]</a> <a class="small" href="%s_path.html')}}" >[path]</a>',
                     $node->name(),
                     $node->name(),
                     $node->name(),
@@ -96,7 +96,7 @@ final class Directory extends Renderer
                 );
             } else {
                 $data['name'] = sprintf(
-                    '<a href="%s.html">%s</a>',
+                    '<a href="%s.html')}}" >%s</a>',
                     $node->name(),
                     $node->name()
                 );
