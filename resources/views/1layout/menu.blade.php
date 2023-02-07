@@ -597,40 +597,40 @@
                         <li><a href="{{route('about.ourway')}}" >The Alticor Inc Way</a></li>
 
 
-                        <li><a href="{{asset('about.safety')}}" >Safety</a></li>
+                        <li><a href="{{route('about.safety')}}" >Safety</a></li>
 
 
-                        <li><a href="{{asset('about.quality')}}" >Quality</a></li>
+                        <li><a href="{{route('about.quality')}}" >Quality</a></li>
 
 
                         <li><a
-                                href="{{asset('about.sustainability')}}" >Sustainability</a>
+                                href="{{route('about.sustainability')}}" >Sustainability</a>
                         </li>
 
 
-                        <li><a href="{{asset('about.technology')}}" >Technology</a>
+                        <li><a href="{{route('about.technology')}}" >Technology</a>
                         </li>
 
 
-                        <li><a href="{{asset('about.history')}}" >History</a></li>
+                        <li><a href="{{route('about.history')}}" >History</a></li>
 
 
-                        <li><a href="{{asset('about.community')}}" >Community</a></li>
+                        <li><a href="{{route('about.community')}}" >Community</a></li>
 
 
                         <li><a href="{{route('about.employee-diversity')}}" >Diversity and Inclusion</a>
                         </li>
 
 
-                        <li><a href="{{asset('about.news-center')}}" >News Center</a>
+                        <li><a href="{{route('about.news-center')}}" >News Center</a>
                         </li>
 
 
-                        <li><a href="{{asset('about.leadership')}}" >Leadership</a>
+                        <li><a href="{{route('about.leadership')}}" >Leadership</a>
                         </li>
 
 
-                        <li><a href="{{asset('about.recognition-awards')}}" >Recognition
+                        <li><a href="{{route('about.recognition-awards')}}" >Recognition
                                 & Awards</a></li>
 
 
