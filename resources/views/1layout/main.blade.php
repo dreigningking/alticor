@@ -792,10 +792,10 @@
                     <ul id="menu-footer-menu" class="">
                         <li id="menu-item-115"
                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-115"><a
-                                href="{{route('projects/index')}}" >Projects</a></li>
+                                href="{{route('projects.index')}}" >Projects</a></li>
                         <li id="menu-item-116"
                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-116"><a
-                                href="{{route('about.what-we-do')}}" >What We Do</a></li>
+                                href="{{route('what-we-do.index')}}" >What We Do</a></li>
                         <li id="menu-item-105"
                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-105"><a
                                 href="{{route('careers.index')}}">Careers</a></li>
@@ -804,7 +804,7 @@
                                 href="{{route('about.ourway')}}" >The Alticor Inc Way</a></li>
                         <li id="menu-item-2779"
                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2779"><a
-                                href="{{route('careers.trade-partners')}}">Trade Partners</a></li>
+                                href="{{route('about.trade-partners')}}">Trade Partners</a></li>
                         <li id="menu-item-5227"
                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5227"><a
                                 href="about.sustainability-corporate-governance/index.html" >Sustainability and Corporate
