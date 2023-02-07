@@ -449,7 +449,7 @@
 
 
 
-        <div class="perks" style="background-image: url({{asset('wp-content/uploads/2017/02/perks-bg.jpg)">
+        <div class="perks" style="background-image: url({{asset('wp-content/uploads/2017/02/perks-bg.jpg')}})">
 
             <div class="small-wrapper clearfix">
 

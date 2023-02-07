@@ -347,7 +347,7 @@
                         <li><a href="{{route('careers.job-search')}}" >Job Search</a></li>
 
 
-                        <li><a href="{{route('careers.recruiting-events')}}" >Recruitment Events</a></li>
+                        {{-- <li><a href="{{route('careers.recruiting-events')}}" >Recruitment Events</a></li> --}}
 
 
                         <li><a href="{{route('careers.career-paths')}}" >Career Paths</a></li>
