@@ -14,7 +14,7 @@
 <!--[if (gt IE 9)|!(IE)]><!--> <html class="" lang="en-US"> <!--<![endif]-->
 
 
-<!-- Mirrored from henselphelps.com/careers/careers-facility-services/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 04 Feb 2023 17:24:59 GMT -->
+<!-- Mirrored from henselphelps.com/careers/graduates/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 04 Feb 2023 17:24:24 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
 <head>
 
@@ -50,14 +50,14 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<link rel="shortcut icon" href="../../wp-content/themes/henselphelps/favicon.ico" type="img/x-icon" />
+<link rel="shortcut icon" href="../../wp-content/themes/henselphelps/favicon.ico')}}" type="img/x-icon" />
 
-<link rel="icon" type="image/png" href="../../wp-content/themes/henselphelps/favicon.png" sizes="32x32" />
+<link rel="icon" type="image/png" href="../../wp-content/themes/henselphelps/favicon.png')}}" sizes="32x32" />
 
 <link rel="profile" href="http://gmpg.org/xfn/11">
 <link rel="stylesheet" href='../../wp-content/themes/henselphelps/css/ie/font-awesome.min.css' type='text/css' />
 
-<link rel="stylesheet" href="../../wp-content/themes/henselphelps/css/bio-styles.css">
+<link rel="stylesheet" href="{{asset('wp-content/themes/henselphelps/css/bio-styles.css')}}">
 <link rel="stylesheet" type="text/css" href="../../../cdn.jsdelivr.net/npm/slick-carousel%401.8.1/slick/slick.css" />
 <link rel="stylesheet" type="text/css" href="../../../cdn.jsdelivr.net/npm/slick-carousel%401.8.1/slick/slick-theme.css" />
 
@@ -116,26 +116,28 @@ var sv = document.getElementsByTagName('script')[0]; sv.parentNode.insertBefore(
 <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
 
 	<!-- This site is optimized with the Yoast SEO Premium plugin v19.3 (Yoast SEO v20.0) - https://yoast.com/wordpress/plugins/seo/ -->
-	<title>Facility Services Careers - Alticor Inc</title>
-	<meta name="description" content="From entry level to industry veteran, we need your skills so you can grow your Facility Services career with Alticor Inc." />
+	<title>Construction Management Graduate &amp; Construction Management Career | Alticor Inc</title>
+	<meta name="description" content="Are you a recent construction management graduate? Kick off your construction management career with one of the leading construction companies in the U.S.!" />
 	<link rel="canonical" href="index.html" />
 	<meta property="og:locale" content="en_US" />
 	<meta property="og:type" content="article" />
-	<meta property="og:title" content="Facility Services Careers" />
-	<meta property="og:description" content="From entry level to industry veteran, we need your skills so you can grow your Facility Services career with Alticor Inc." />
-	<meta property="og:url" content="https://www.henselphelps.com/careers/careers-facility-services/" />
+	<meta property="og:title" content="Careers with Alticor Inc" />
+	<meta property="og:description" content="If you have recently graduated from a construction management degree program, engineering or similar field of study, we invite you to consider a career with Alticor Inc." />
+	<meta property="og:url" content="https://www.henselphelps.com/careers/graduates/" />
 	<meta property="og:site_name" content="Alticor Inc" />
 	<meta property="article:publisher" content="https://www.facebook.com/HenselPhelpsCommunications/" />
-	<meta property="article:modified_time" content="2021-07-07T00:09:43+00:00" />
-	<meta property="og:image" content="https://henselphelps.com/wp-content/uploads/2018/01/HP_Small-Website-Cover_Facility-Services.jpg" />
+	<meta property="article:modified_time" content="2021-07-07T00:12:09+00:00" />
+	<meta property="og:image" content="https://henselphelps.com/wp-content/uploads/2017/04/hero16.jpg')}}"  />
 	<meta property="og:image:width" content="1440" />
 	<meta property="og:image:height" content="340" />
 	<meta property="og:image:type" content="image/jpeg" />
 	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:title" content="Careers with Alticor Inc" />
+	<meta name="twitter:description" content="If you have recently graduated from a construction management degree program, engineering or similar field of study, we invite you to consider a career with Alticor Inc." />
 	<meta name="twitter:site" content="@HenselPhelps" />
 	<meta name="twitter:label1" content="Est. reading time" />
 	<meta name="twitter:data1" content="1 minute" />
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.henselphelps.com/careers/careers-facility-services/","url":"https://www.henselphelps.com/careers/careers-facility-services/","name":"Facility Services Careers - Alticor Inc","isPartOf":{"@id":"https://publicwebsite.azurewebsites.net/#website"},"primaryImageOfPage":{"@id":"https://www.henselphelps.com/careers/careers-facility-services/#primaryimage"},"image":{"@id":"https://www.henselphelps.com/careers/careers-facility-services/#primaryimage"},"thumbnailUrl":"/wp-content/uploads/2018/01/HP_Small-Website-Cover_Facility-Services.jpg","datePublished":"2018-01-11T18:07:34+00:00","dateModified":"2021-07-07T00:09:43+00:00","description":"From entry level to industry veteran, we need your skills so you can grow your Facility Services career with Alticor Inc.","breadcrumb":{"@id":"https://www.henselphelps.com/careers/careers-facility-services/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.henselphelps.com/careers/careers-facility-services/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.henselphelps.com/careers/careers-facility-services/#primaryimage","url":"/wp-content/uploads/2018/01/HP_Small-Website-Cover_Facility-Services.jpg","contentUrl":"/wp-content/uploads/2018/01/HP_Small-Website-Cover_Facility-Services.jpg","width":1440,"height":340},{"@type":"BreadcrumbList","@id":"https://www.henselphelps.com/careers/careers-facility-services/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://publicwebsite.azurewebsites.net/"},{"@type":"ListItem","position":2,"name":"Careers","item":"https://www.henselphelps.com/careers/"},{"@type":"ListItem","position":3,"name":"Facility Services Careers"}]},{"@type":"WebSite","@id":"https://publicwebsite.azurewebsites.net/#website","url":"https://publicwebsite.azurewebsites.net/","name":"Alticor Inc","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://publicwebsite.azurewebsites.net/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"}]}</script>
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.henselphelps.com/careers/graduates/","url":"https://www.henselphelps.com/careers/graduates/","name":"Construction Management Graduate & Construction Management Career | Alticor Inc","isPartOf":{"@id":"https://publicwebsite.azurewebsites.net/#website"},"primaryImageOfPage":{"@id":"https://www.henselphelps.com/careers/graduates/#primaryimage"},"image":{"@id":"https://www.henselphelps.com/careers/graduates/#primaryimage"},"thumbnailUrl":"/wp-content/uploads/2017/04/hero16.jpg')}}" ,"datePublished":"2017-04-04T05:45:45+00:00","dateModified":"2021-07-07T00:12:09+00:00","description":"Are you a recent construction management graduate? Kick off your construction management career with one of the leading construction companies in the U.S.!","breadcrumb":{"@id":"https://www.henselphelps.com/careers/graduates/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.henselphelps.com/careers/graduates/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.henselphelps.com/careers/graduates/#primaryimage","url":"/wp-content/uploads/2017/04/hero16.jpg')}}" ,"contentUrl":"/wp-content/uploads/2017/04/hero16.jpg')}}" ,"width":1440,"height":340},{"@type":"BreadcrumbList","@id":"https://www.henselphelps.com/careers/graduates/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://publicwebsite.azurewebsites.net/"},{"@type":"ListItem","position":2,"name":"Careers","item":"https://www.henselphelps.com/careers/"},{"@type":"ListItem","position":3,"name":"Recent Graduates"}]},{"@type":"WebSite","@id":"https://publicwebsite.azurewebsites.net/#website","url":"https://publicwebsite.azurewebsites.net/","name":"Alticor Inc","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://publicwebsite.azurewebsites.net/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"}]}</script>
 	<!-- / Yoast SEO Premium plugin. -->
 
 
@@ -345,7 +347,7 @@ var sv = document.getElementsByTagName('script')[0]; sv.parentNode.insertBefore(
 			</script>
 				<!-- / Google Analytics by MonsterInsights -->
 		<script type="text/javascript">
-window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/henselphelps.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.0.3"}};
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png')}}","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/henselphelps.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.0.3"}};
 /*! This file is auto-generated */
 !function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
 </script>
@@ -407,12 +409,12 @@ var quotescollectionAjax = {"ajaxUrl":"https:\/\/henselphelps.com\/wp-admin\/adm
 /* ]]> */
 </script>
 <script type='text/javascript' src='../../wp-content/plugins/quotes-collection/js/quotes-collection16b9.js?ver=2.5.2' id='quotescollection-js'></script>
-<link rel="https://api.w.org/" href="../../wp-json/index.html" /><link rel="alternate" type="application/json" href="../../wp-json/wp/v2/pages/5671.json" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="../../xmlrpc0db0.php?rsd" />
+<link rel="https://api.w.org/" href="../../wp-json/index.html" /><link rel="alternate" type="application/json" href="../../wp-json/wp/v2/pages/534.json" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="../../xmlrpc0db0.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../../wp-includes/wlwmanifest.xml" /> 
 <meta name="generator" content="WordPress 6.0.3" />
-<link rel='shortlink' href='../../index0ec8.html?p=5671' />
-<link rel="alternate" type="application/json+oembed" href="../../wp-json/oembed/1.0/embedd1d4.json?url=https%3A%2F%2Fhenselphelps.com%2Fcareers%2Fcareers-facility-services%2F" />
-<link rel="alternate" type="text/xml+oembed" href="../../wp-json/oembed/1.0/embed01d3?url=https%3A%2F%2Fhenselphelps.com%2Fcareers%2Fcareers-facility-services%2F&amp;format=xml" />
+<link rel='shortlink' href='../../index6ca3.html?p=534' />
+<link rel="alternate" type="application/json+oembed" href="../../wp-json/oembed/1.0/embeda17f.json?url=https%3A%2F%2Fhenselphelps.com%2Fcareers%2Fgraduates%2F" />
+<link rel="alternate" type="text/xml+oembed" href="../../wp-json/oembed/1.0/embed7960?url=https%3A%2F%2Fhenselphelps.com%2Fcareers%2Fgraduates%2F&amp;format=xml" />
 
 <!-- Dynamic Widgets by QURL loaded - http://www.dynamic-widgets.com //-->
 <style type="text/css">
@@ -458,7 +460,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
 
 </head>
 
-<body class="page-template-default page page-id-5671 page-child parent-pageid-16 do-etfw">
+<body class="page-template-default page page-id-534 page-child parent-pageid-16 do-etfw">
 	
 	<header class="header">
 
@@ -527,7 +529,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                             <div class="white-content project-content">
 
 								<h3>Select a Location</h3>
-<div class="map-wrapper"><img loading="lazy" class="alignnone size-full wp-image-297" src="../../../www.henselphelps.com/wp-content/uploads/2017/05/map.jpg" alt="" width="484" height="316" /><br />
+<div class="map-wrapper"><img loading="lazy" class="alignnone size-full wp-image-297" src="{{asset('wp-content/uploads/2017/05/map.jpg')}}" alt="" width="484" height="316" /><br />
 <a id="hydro" class="map-dot" href="../../contact-us/hydro/index.html"><span class="hideme">Hydro</span><i></i></a><br />
 <a id="mid-atlantic" class="map-dot" href="../../contact-us/mid-atlantic/index.html"><span class="hideme">Mid Atlantic</span><i></i></a><br />
 <a id="northern-cali" class="map-dot" href="../../contact-us/northern-california/index.html"><span class="hideme">Northern California</span><i></i></a><br />
@@ -547,7 +549,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                 <div class="white-content project-content">
 
                                     <h3>Select a Location</h3>
-<div class="map-wrapper"><img loading="lazy" class="alignnone size-full wp-image-297" src="../../../www.henselphelps.com/wp-content/uploads/2017/05/map.jpg" alt="" width="484" height="316" /><br />
+<div class="map-wrapper"><img loading="lazy" class="alignnone size-full wp-image-297" src="{{asset('wp-content/uploads/2017/05/map.jpg')}}" alt="" width="484" height="316" /><br />
 <a id="hydro" class="map-dot" href="../../contact-us/hydro/index.html"><span class="hideme">Hydro</span><i></i></a><br />
 <a id="mid-atlantic" class="map-dot" href="../../contact-us/mid-atlantic/index.html"><span class="hideme">Mid Atlantic</span><i></i></a><br />
 <a id="northern-cali" class="map-dot" href="../../contact-us/northern-california/index.html"><span class="hideme">Northern California</span><i></i></a><br />
@@ -566,7 +568,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                 <div class="white-content project-content">
 
                                     <h3>Select a Location</h3>
-<div class="map-wrapper"><img loading="lazy" class="alignnone size-full wp-image-297" src="../../../www.henselphelps.com/wp-content/uploads/2017/05/map.jpg" alt="" width="484" height="316" /><br />
+<div class="map-wrapper"><img loading="lazy" class="alignnone size-full wp-image-297" src="{{asset('wp-content/uploads/2017/05/map.jpg')}}" alt="" width="484" height="316" /><br />
 <a id="hydro" class="map-dot" href="../../contact-us/hydro/index.html"><span class="hideme">Hydro</span><i></i></a><br />
 <a id="mid-atlantic" class="map-dot" href="../../contact-us/mid-atlantic/index.html"><span class="hideme">Mid Atlantic</span><i></i></a><br />
 <a id="northern-cali" class="map-dot" href="../../contact-us/northern-california/index.html"><span class="hideme">Northern California</span><i></i></a><br />
@@ -585,7 +587,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                 <div class="white-content project-content">
 
                                     <h3>Select a Location</h3>
-<div class="map-wrapper"><img loading="lazy" class="alignnone size-full wp-image-297" src="../../../www.henselphelps.com/wp-content/uploads/2017/05/map.jpg" alt="" width="484" height="316" /><br />
+<div class="map-wrapper"><img loading="lazy" class="alignnone size-full wp-image-297" src="{{asset('wp-content/uploads/2017/05/map.jpg')}}" alt="" width="484" height="316" /><br />
 <a id="hydro" class="map-dot" href="../../contact-us/hydro/index.html"><span class="hideme">Hydro</span><i></i></a><br />
 <a id="mid-atlantic" class="map-dot" href="../../contact-us/mid-atlantic/index.html"><span class="hideme">Mid Atlantic</span><i></i></a><br />
 <a id="northern-cali" class="map-dot" href="../../contact-us/northern-california/index.html"><span class="hideme">Northern California</span><i></i></a><br />
@@ -604,7 +606,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                 <div class="white-content project-content">
 
                                     <h3>Select a Location</h3>
-<div class="map-wrapper"><img loading="lazy" class="alignnone size-full wp-image-297" src="../../../www.henselphelps.com/wp-content/uploads/2017/05/map.jpg" alt="" width="484" height="316" /><br />
+<div class="map-wrapper"><img loading="lazy" class="alignnone size-full wp-image-297" src="{{asset('wp-content/uploads/2017/05/map.jpg')}}" alt="" width="484" height="316" /><br />
 <a id="hydro" class="map-dot" href="../../contact-us/hydro/index.html"><span class="hideme">Hydro</span><i></i></a><br />
 <a id="mid-atlantic" class="map-dot" href="../../contact-us/mid-atlantic/index.html"><span class="hideme">Mid Atlantic</span><i></i></a><br />
 <a id="northern-cali" class="map-dot" href="../../contact-us/northern-california/index.html"><span class="hideme">Northern California</span><i></i></a><br />
@@ -623,7 +625,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                 <div class="white-content project-content">
 
                                     <h3>Select a Location</h3>
-<div class="map-wrapper"><img loading="lazy" class="alignnone size-full wp-image-297" src="../../../www.henselphelps.com/wp-content/uploads/2017/05/map.jpg" alt="" width="484" height="316" /><br />
+<div class="map-wrapper"><img loading="lazy" class="alignnone size-full wp-image-297" src="{{asset('wp-content/uploads/2017/05/map.jpg')}}" alt="" width="484" height="316" /><br />
 <a id="hydro" class="map-dot" href="../../contact-us/hydro/index.html"><span class="hideme">Hydro</span><i></i></a><br />
 <a id="mid-atlantic" class="map-dot" href="../../contact-us/mid-atlantic/index.html"><span class="hideme">Mid Atlantic</span><i></i></a><br />
 <a id="northern-cali" class="map-dot" href="../../contact-us/northern-california/index.html"><span class="hideme">Northern California</span><i></i></a><br />
@@ -642,7 +644,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                 <div class="white-content project-content">
 
                                     <h3>Select a Location</h3>
-<div class="map-wrapper"><img loading="lazy" class="alignnone size-full wp-image-297" src="../../../www.henselphelps.com/wp-content/uploads/2017/05/map.jpg" alt="" width="484" height="316" /><br />
+<div class="map-wrapper"><img loading="lazy" class="alignnone size-full wp-image-297" src="{{asset('wp-content/uploads/2017/05/map.jpg')}}" alt="" width="484" height="316" /><br />
 <a id="hydro" class="map-dot" href="../../contact-us/hydro/index.html"><span class="hideme">Hydro</span><i></i></a><br />
 <a id="mid-atlantic" class="map-dot" href="../../contact-us/mid-atlantic/index.html"><span class="hideme">Mid Atlantic</span><i></i></a><br />
 <a id="northern-cali" class="map-dot" href="../../contact-us/northern-california/index.html"><span class="hideme">Northern California</span><i></i></a><br />
@@ -661,7 +663,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                 <div class="white-content project-content">
 
                                     <h3>Select a Location</h3>
-<div class="map-wrapper"><img loading="lazy" class="alignnone size-full wp-image-297" src="../../../www.henselphelps.com/wp-content/uploads/2017/05/map.jpg" alt="" width="484" height="316" /><br />
+<div class="map-wrapper"><img loading="lazy" class="alignnone size-full wp-image-297" src="{{asset('wp-content/uploads/2017/05/map.jpg')}}" alt="" width="484" height="316" /><br />
 <a id="hydro" class="map-dot" href="../../contact-us/hydro/index.html"><span class="hideme">Hydro</span><i></i></a><br />
 <a id="mid-atlantic" class="map-dot" href="../../contact-us/mid-atlantic/index.html"><span class="hideme">Mid Atlantic</span><i></i></a><br />
 <a id="northern-cali" class="map-dot" href="../../contact-us/northern-california/index.html"><span class="hideme">Northern California</span><i></i></a><br />
@@ -680,7 +682,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                 <div class="white-content project-content">
 
                                     <h3>Select a Location</h3>
-<div class="map-wrapper"><img loading="lazy" class="alignnone size-full wp-image-297" src="../../../www.henselphelps.com/wp-content/uploads/2017/05/map.jpg" alt="" width="484" height="316" /><br />
+<div class="map-wrapper"><img loading="lazy" class="alignnone size-full wp-image-297" src="{{asset('wp-content/uploads/2017/05/map.jpg')}}" alt="" width="484" height="316" /><br />
 <a id="hydro" class="map-dot" href="../../contact-us/hydro/index.html"><span class="hideme">Hydro</span><i></i></a><br />
 <a id="mid-atlantic" class="map-dot" href="../../contact-us/mid-atlantic/index.html"><span class="hideme">Mid Atlantic</span><i></i></a><br />
 <a id="northern-cali" class="map-dot" href="../../contact-us/northern-california/index.html"><span class="hideme">Northern California</span><i></i></a><br />
@@ -699,7 +701,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                 <div class="white-content project-content">
 
                                     <h3>Select a Location</h3>
-<div class="map-wrapper"><img loading="lazy" class="alignnone size-full wp-image-297" src="../../../www.henselphelps.com/wp-content/uploads/2017/05/map.jpg" alt="" width="484" height="316" /><br />
+<div class="map-wrapper"><img loading="lazy" class="alignnone size-full wp-image-297" src="{{asset('wp-content/uploads/2017/05/map.jpg')}}" alt="" width="484" height="316" /><br />
 <a id="hydro" class="map-dot" href="../../contact-us/hydro/index.html"><span class="hideme">Hydro</span><i></i></a><br />
 <a id="mid-atlantic" class="map-dot" href="../../contact-us/mid-atlantic/index.html"><span class="hideme">Mid Atlantic</span><i></i></a><br />
 <a id="northern-cali" class="map-dot" href="../../contact-us/northern-california/index.html"><span class="hideme">Northern California</span><i></i></a><br />
@@ -718,7 +720,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                 <div class="white-content project-content">
 
                                     <h3>Select a Location</h3>
-<div class="map-wrapper"><img loading="lazy" class="alignnone size-full wp-image-297" src="../../../www.henselphelps.com/wp-content/uploads/2017/05/map.jpg" alt="" width="484" height="316" /><br />
+<div class="map-wrapper"><img loading="lazy" class="alignnone size-full wp-image-297" src="{{asset('wp-content/uploads/2017/05/map.jpg')}}" alt="" width="484" height="316" /><br />
 <a id="hydro" class="map-dot" href="../../contact-us/hydro/index.html"><span class="hideme">Hydro</span><i></i></a><br />
 <a id="mid-atlantic" class="map-dot" href="../../contact-us/mid-atlantic/index.html"><span class="hideme">Mid Atlantic</span><i></i></a><br />
 <a id="northern-cali" class="map-dot" href="../../contact-us/northern-california/index.html"><span class="hideme">Northern California</span><i></i></a><br />
@@ -737,7 +739,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                 <div class="white-content project-content">
 
                                     <h3>Select a Location</h3>
-<div class="map-wrapper"><img loading="lazy" class="alignnone size-full wp-image-297" src="../../../www.henselphelps.com/wp-content/uploads/2017/05/map.jpg" alt="" width="484" height="316" /><br />
+<div class="map-wrapper"><img loading="lazy" class="alignnone size-full wp-image-297" src="{{asset('wp-content/uploads/2017/05/map.jpg')}}" alt="" width="484" height="316" /><br />
 <a id="hydro" class="map-dot" href="../../contact-us/hydro/index.html"><span class="hideme">Hydro</span><i></i></a><br />
 <a id="mid-atlantic" class="map-dot" href="../../contact-us/mid-atlantic/index.html"><span class="hideme">Mid Atlantic</span><i></i></a><br />
 <a id="northern-cali" class="map-dot" href="../../contact-us/northern-california/index.html"><span class="hideme">Northern California</span><i></i></a><br />
@@ -892,7 +894,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
 
         	<div class="wrapper">
 
-                <a href="../../index.html" class="logo"><img src="../../wp-content/themes/henselphelps/img/logo.png"></a>
+                <a href="../../index.html" class="logo"><img src="{{asset('wp-content/themes/henselphelps/img/logo.png')}}"></a>
 
                 <div class="nav-container clearfix">
 
@@ -979,7 +981,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                       	<div class="project-content">
 
                                         	<h3>View All Projects</h3>
-<p><a href="../../projects/index.html"><img loading="lazy" class="alignnone" src="../../../www.henselphelps.com/wp-content/uploads/2017/05/University-of-California-menu.jpg" alt="" width="300" height="200" /></a></p>
+<p><a href="../../projects/index.html"><img loading="lazy" class="alignnone" src="{{asset('wp-content/uploads/2017/05/University-of-California-menu.jpg')}}"  alt="" width="300" height="200" /></a></p>
 <h5><span style="color: #ffffff;">Project Portfolio</span></h5>
 <h4><a href="../../projects/index.html">View Alticor Inc Projects</a></h4>
 
@@ -990,7 +992,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                          <div class="project-content">
 
                                          	<h3>Aviation</h3>
-<p><a href="../../project/eagle-county-regional-airport-expansion-remodel/index.html"><img loading="lazy" class="alignnone" src="../../../www.henselphelps.com/wp-content/uploads/2021/07/Eagle-County-Airport-Website.jpg" alt="" width="300" height="200" /></a></p>
+<p><a href="../../project/eagle-county-regional-airport-expansion-remodel/index.html"><img loading="lazy" class="alignnone" src="{{asset('wp-content/uploads/2021/07/Eagle-County-Airport-Website.jpg')}}"  alt="" width="300" height="200" /></a></p>
 <h5><span style="color: #ffffff;">Featured Aviation Case Study</span></h5>
 <h4><a href="../../project/eagle-county-regional-airport-expansion-remodel/index.html">Eagle County Regional Airport Expansion Remodel</a></h4>
 
@@ -1000,7 +1002,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                          <div class="project-content">
 
                                          	<h3>Commercial</h3>
-<p><a href="../../project/1144-15th-street-office-building/index.html"><img loading="lazy" class="alignnone wp-image-961 size-full" src="../../../www.henselphelps.com/wp-content/uploads/2019/03/Hensel-Phelps-Colorado-Skyscraper.jpg" alt="" width="300" height="200" /></a></p>
+<p><a href="../../project/1144-15th-street-office-building/index.html"><img loading="lazy" class="alignnone wp-image-961 size-full" src="{{asset('wp-content/uploads/2019/03/Hensel-Phelps-Colorado-Skyscraper.jpg')}}"  alt="" width="300" height="200" /></a></p>
 <h5><span style="color: #ffffff;">Featured Commercial Case Study</span></h5>
 <h4><a href="../../project/ascend-apollo/index.html">1144 15th Street Office Building</a></h4>
 
@@ -1010,7 +1012,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                          <div class="project-content">
 
                                          	<h3>Education</h3>
-<p><a href="../../project/bethune-cookman-university-residence-halls/index.html"><img loading="lazy" class="alignnone wp-image-954 size-full" src="../../../www.henselphelps.com/wp-content/uploads/2017/06/education-menu.jpg" alt="" width="300" height="200" /></a></p>
+<p><a href="../../project/bethune-cookman-university-residence-halls/index.html"><img loading="lazy" class="alignnone wp-image-954 size-full" src="{{asset('wp-content/uploads/2017/06/education-menu.jpg')}}"  alt="" width="300" height="200" /></a></p>
 <h5><span style="color: #ffffff;">Featured Education Case Study</span></h5>
 <h4><a href="../../project/bethune-cookman-university-residence-halls/index.html">Bethune-Cookman University Residence Halls</a></h4>
 
@@ -1020,7 +1022,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                          <div class="project-content">
 
                                          	<h3>Government + Justice</h3>
-<p><a href="../../project/foreign-affairs-security-training-center-fastc-contracts-1-3/index.html"><img loading="lazy" class="alignnone wp-image-991 size-full" src="../../../www.henselphelps.com/wp-content/uploads/2021/07/Foreign-Affairs-.jpg" alt="" width="300" height="200" /></a></p>
+<p><a href="../../project/foreign-affairs-security-training-center-fastc-contracts-1-3/index.html"><img loading="lazy" class="alignnone wp-image-991 size-full" src="{{asset('wp-content/uploads/2021/07/Foreign-Affairs-.jpg')}}"  alt="" width="300" height="200" /></a></p>
 <h5><span style="color: #ffffff;">Featured Government + Justice Case Study</span></h5>
 <h4><a href="../../project/foreign-affairs-security-training-center-fastc-contracts-1-3/index.html">Foreign Affairs Security Training Center (FASTC) Contracts 1 and 3</a></h4>
 
@@ -1030,7 +1032,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                          <div class="project-content">
 
                                          	<h3>Healthcare</h3>
-<p><a href="../../project/the-university-of-texas-medical-branch-at-galveston-jennie-sealy-replacement-hospital/index.html"><img loading="lazy" class="wp-image-2837 size-medium alignnone" src="../../../www.henselphelps.com/wp-content/uploads/2020/01/UTMB_JennieSealy_01.jpg" alt="" width="300" height="200" /></a></p>
+<p><a href="../../project/the-university-of-texas-medical-branch-at-galveston-jennie-sealy-replacement-hospital/index.html"><img loading="lazy" class="wp-image-2837 size-medium alignnone" src="{{asset('wp-content/uploads/2020/01/UTMB_JennieSealy_01.jpg')}}"  alt="" width="300" height="200" /></a></p>
 <p>&nbsp;</p>
 <h5><span style="color: #ffffff;">Featured Healthcare Case Study</span></h5>
 <h4><a href="../../project/the-university-of-texas-medical-branch-at-galveston-jennie-sealy-replacement-hospital/index.html">The University of Texas Medical Branch at Galveston Jennie Sealy Replacement Hospital</a></h4>
@@ -1041,7 +1043,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                          <div class="project-content">
 
                                          	<h3>Hospitality</h3>
-<p><a href="../../project/kalahari-resort-convention-center/index.html"><img loading="lazy" class="alignnone wp-image-790 size-full" src="../../../www.henselphelps.com/wp-content/uploads/2021/07/Kalahari-Website.jpg" alt="" width="300" height="200" /></a></p>
+<p><a href="../../project/kalahari-resort-convention-center/index.html"><img loading="lazy" class="alignnone wp-image-790 size-full" src="{{asset('wp-content/uploads/2021/07/Kalahari-Website.jpg')}}"  alt="" width="300" height="200" /></a></p>
 <h5><span style="color: #ffffff;">Featured Hospitality Case Study</span></h5>
 <h4><a href="../../project/kalahari-resort-convention-center/index.html">Kalahari Resort and Convention Center</a></h4>
 
@@ -1051,7 +1053,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                          <div class="project-content">
 
                                          	<h3>Infrastructure + Transportation</h3>
-<p><a href="../../project/wmata-andrews-federal-center-bus-garage/index.html"><img loading="lazy" class="alignnone wp-image-979 size-full" src="../../../www.henselphelps.com/wp-content/uploads/2021/07/WMATA-Bus-Garage-2.jpg" alt="" width="300" height="200" /></a></p>
+<p><a href="../../project/wmata-andrews-federal-center-bus-garage/index.html"><img loading="lazy" class="alignnone wp-image-979 size-full" src="{{asset('wp-content/uploads/2021/07/WMATA-Bus-Garage-2.jpg')}}"  alt="" width="300" height="200" /></a></p>
 <h5><span style="color: #ffffff;">Featured Infrastructure + Transportation Case Study</span></h5>
 <h4><a href="../../project/wmata-andrews-federal-center-bus-garage/index.html">WMATA Andrews Federal Center Bus Garage</a></h4>
 
@@ -1061,7 +1063,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                          <div class="project-content">
 
                                          	<h3>Science + Technology</h3>
-<p><a href="../../industry/science-technology/index.html"><img loading="lazy" class="alignnone wp-image-822 size-full" src="../../../www.henselphelps.com/wp-content/uploads/2017/06/technology-menu.jpg" alt="" width="300" height="200" /></a></p>
+<p><a href="../../industry/science-technology/index.html"><img loading="lazy" class="alignnone wp-image-822 size-full" src="{{asset('wp-content/uploads/2017/06/technology-menu.jpg')}}"  alt="" width="300" height="200" /></a></p>
 <h5><span style="color: #ffffff;">Featured Science + Technology Case Study</span></h5>
 <h4><a href="../../industry/science-technology/index.html">Science + Technology</a></h4>
 
@@ -1071,7 +1073,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                          <div class="project-content">
 
                                          	<h3>Water + Wastewater</h3>
-<p><a href="../../project/kailua-regional-wastewater-treatment-plant-tunnel-influent-pump-station-headworks-facility/index.html"><img loading="lazy" class="wp-image-2837 size-medium alignnone" src="../../../www.henselphelps.com/wp-content/uploads/2017/08/KWWTP_0030-1024x684.jpg" alt="" width="300" height="200" /></a></p>
+<p><a href="../../project/kailua-regional-wastewater-treatment-plant-tunnel-influent-pump-station-headworks-facility/index.html"><img loading="lazy" class="wp-image-2837 size-medium alignnone" src="{{asset('wp-content/uploads/2017/08/KWWTP_0030-1024x684.jpg')}}"  alt="" width="300" height="200" /></a></p>
 <p>&nbsp;</p>
 <h5><span style="color: #ffffff;">Featured Water + Wastewater Case Study</span></h5>
 <h4><a href="../../project/kailua-regional-wastewater-treatment-plant-tunnel-influent-pump-station-headworks-facility/index.html">Kailua Regional Wastewater Treatment Plant</a></h4>
@@ -1128,7 +1130,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                         <div class="project-content">
 
                                             <h3>What We Do</h3>
-<p><img loading="lazy" class="alignnone size-full alignnone" src="../../../www.henselphelps.com/wp-content/uploads/2017/09/hp_whatwedo.jpg" alt="" width="300" height="200" /></p>
+<p><img loading="lazy" class="alignnone size-full alignnone" src="{{asset('wp-content/uploads/2017/09/hp_whatwedo.jpg')}}"  alt="" width="300" height="200" /></p>
 <p>&nbsp;</p>
 <h5><span style="color: #ffffff;">Plan. Build. Manage.</span></h5>
 <h4><a href="../../what-we-do/index.html">We develop, construct and maintain inspired landmarks that turn our clients’ aspirations into reality.</a></h4>
@@ -1139,7 +1141,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                         <div class="project-content">
 
                                             <h3>Development</h3>
-<p><img loading="lazy" class="wp-image-2524 size-medium alignnone" src="../../../www.henselphelps.com/wp-content/uploads/2017/07/development-300x200.jpg" alt="" width="300" height="200" srcset="/wp-content/uploads/2017/07/development-300x200.jpg 300w, /wp-content/uploads/2017/07/development.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p><img loading="lazy" class="wp-image-2524 size-medium alignnone" src="{{asset('wp-content/uploads/2017/07/development-300x200.jpg')}}"  alt="" width="300" height="200" srcset="/wp-content/uploads/2017/07/development-300x200.jpg 300w, /wp-content/uploads/2017/07/development.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></p>
 <h5><span style="color: #ffffff;">A Roadmap to Success</span></h5>
 <h4><a href="../../what-we-do/development/index.html">Our development services guide clients through the entire process, from concept to completion.</a></h4>
 
@@ -1149,7 +1151,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                         <div class="project-content">
 
                                             <h3>Construction</h3>
-<p><img loading="lazy" class="wp-image-2525 size-medium alignnone" src="../../../www.henselphelps.com/wp-content/uploads/2017/07/construction-300x200.jpg" alt="" width="300" height="200" srcset="/wp-content/uploads/2017/07/construction-300x200.jpg 300w, /wp-content/uploads/2017/07/construction.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p><img loading="lazy" class="wp-image-2525 size-medium alignnone" src="{{asset('wp-content/uploads/2017/07/construction-300x200.jpg')}}"  alt="" width="300" height="200" srcset="/wp-content/uploads/2017/07/construction-300x200.jpg 300w, /wp-content/uploads/2017/07/construction.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></p>
 <h5><span style="color: #ffffff;">Building Landmark Properties</span></h5>
 <h4><a href="../../what-we-do/construction/index.html">From preconstruction through constructability and field management – Alticor Inc delivers superior results on time and on budget.</a></h4>
 
@@ -1159,7 +1161,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                         <div class="project-content">
 
                                             <h3>Facility Services</h3>
-<p><img loading="lazy" class="alignright size-medium wp-image-7027" src="../../../www.henselphelps.com/wp-content/uploads/2018/10/Technician-in-Server-Room-300x225.jpg" alt="" width="300" height="225" srcset="/wp-content/uploads/2018/10/Technician-in-Server-Room-300x225.jpg 300w, /wp-content/uploads/2018/10/Technician-in-Server-Room-768x576.jpg 768w, /wp-content/uploads/2018/10/Technician-in-Server-Room-1024x768.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p><img loading="lazy" class="alignright size-medium wp-image-7027" src="{{asset('wp-content/uploads/2018/10/Technician-in-Server-Room-300x225.jpg')}}" alt="" width="300" height="225" srcset="/wp-content/uploads/2018/10/Technician-in-Server-Room-300x225.jpg 300w, /wp-content/uploads/2018/10/Technician-in-Server-Room-768x576.jpg 768w, /wp-content/uploads/2018/10/Technician-in-Server-Room-1024x768.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></p>
 <h5><span style="color: #ffffff;">Optimizing Operations</span></h5>
 <h4><a href="../../what-we-do/facility-services/index.html">Even after construction is complete, we help our clients achieve their property goals and objectives.</a></h4>
 
@@ -1201,7 +1203,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                             <li><a href="../internships/index.html">Internships</a></li>
 
                                             
-                                            <li><a href="../graduates/index.html">Graduates</a></li>
+                                            <li><a href="index.html">Graduates</a></li>
 
                                             
                                             <li><a href="../experienced/index.html">Experienced</a></li>
@@ -1210,7 +1212,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                             <li><a href="../craft/index.html">Craft</a></li>
 
                                             
-                                            <li><a href="index.html">Facilities Services</a></li>
+                                            <li><a href="../careers-facility-services/index.html">Facilities Services</a></li>
 
                                             
                                             <li><a href="../training/index.html">Training</a></li>
@@ -1234,7 +1236,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                         <div class="project-content">
 
 											<h3>Careers</h3>
-<p><img loading="lazy" class="alignnone size-medium wp-image-2314" src="../../../www.henselphelps.com/wp-content/uploads/2017/06/hp_careers-300x200.jpg" alt="" width="300" height="200" srcset="/wp-content/uploads/2017/06/hp_careers-300x200.jpg 300w, /wp-content/uploads/2017/06/hp_careers-768x513.jpg 768w, /wp-content/uploads/2017/06/hp_careers-1024x684.jpg 1024w, /wp-content/uploads/2017/06/hp_careers.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p><img loading="lazy" class="alignnone size-medium wp-image-2314" src="{{asset('wp-content/uploads/2017/06/hp_careers-300x200.jpg')}}"  alt="" width="300" height="200" srcset="/wp-content/uploads/2017/06/hp_careers-300x200.jpg 300w, /wp-content/uploads/2017/06/hp_careers-768x513.jpg 768w, /wp-content/uploads/2017/06/hp_careers-1024x684.jpg 1024w, /wp-content/uploads/2017/06/hp_careers.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" /></p>
 <p>&nbsp;</p>
 <h5><span style="color: #ffffff;">It&#8217;s Not a Job. It&#8217;s a Career</span></h5>
 <h4><a href="../index.html">Learn how you can build your legacy at Alticor Inc.</a></h4>
@@ -1246,7 +1248,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                         <div class="project-content">
 
                                             <h3>Search Job Openings</h3>
-<p><a href="https://recruiting2.ultipro.com/HEN1009HPCC/JobBoard/b27ab828-18a9-4f10-8ee1-8259de6c9e73/" target="_blank" rel="noopener"><img loading="lazy" class="alignnone" src="../../../www.henselphelps.com/wp-content/uploads/2017/05/opportunities-menu.jpg" alt="" width="300" height="200" /></a></p>
+<p><a href="https://recruiting2.ultipro.com/HEN1009HPCC/JobBoard/b27ab828-18a9-4f10-8ee1-8259de6c9e73/" target="_blank" rel="noopener"><img loading="lazy" class="alignnone" src="{{asset('wp-content/uploads/2017/05/opportunities-menu.jpg')}}"  alt="" width="300" height="200" /></a></p>
 <h5><span style="color: #ffffff;">Your Future Starts Here</span></h5>
 <h4><a href="https://recruiting2.ultipro.com/HEN1009HPCC/JobBoard/b27ab828-18a9-4f10-8ee1-8259de6c9e73/" target="_blank" rel="noopener">Find your career opportunity at Alticor Inc.</a></h4>
 
@@ -1256,7 +1258,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                         <div class="project-content">
 
                                             <h3>Recruitment Events</h3>
-<p><img loading="lazy" class="size-medium wp-image-2529 alignnone" src="../../../www.henselphelps.com/wp-content/uploads/2019/08/recruiting-hensel-Phelps.jpg" alt="" width="300" height="200" /></p>
+<p><img loading="lazy" class="size-medium wp-image-2529 alignnone" src="{{asset('wp-content/uploads/2019/08/recruiting-hensel-Phelps.jpg')}}"  alt="" width="300" height="200" /></p>
 <h5><span style="color: #ffffff;">Come Meet With Us!</span></h5>
 <h4><a href="../../recruiting-events/index.html">Find out when we&#8217;ll be recruiting in your area.</a></h4>
 
@@ -1266,7 +1268,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                         <div class="project-content">
 
                                             <h3>Career Paths</h3>
-<p><img loading="lazy" class="alignnone size-medium wp-image-2470" src="../../../www.henselphelps.com/wp-content/uploads/2017/07/dsc_0085-300x242.jpg" alt="" width="300" height="225" /></p>
+<p><img loading="lazy" class="alignnone size-medium wp-image-2470" src="{{asset('wp-content/uploads/2017/07/dsc_0085-300x242.jpg')}}"  alt="" width="300" height="225" /></p>
 <h5><span style="color: #ffffff;">Find Your Path With Alticor Inc</span></h5>
 <h4><a href="../career-paths/index.html">Whether it be construction, estimating, safety or facility services, we have a path for you. </a></h4>
 
@@ -1276,7 +1278,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                         <div class="project-content">
 
                                             <h3>Internships</h3>
-<p><a href="../internships/index.html"><img loading="lazy" class="alignnone" src="../../../www.henselphelps.com/wp-content/uploads/2017/05/internships-menu.jpg" alt="" width="300" height="200" /></a></p>
+<p><a href="../internships/index.html"><img loading="lazy" class="alignnone" src="{{asset('wp-content/uploads/2017/05/internships-menu.jpg')}}"  alt="" width="300" height="200" /></a></p>
 <h5><span style="color: #ffffff;">Engaged in Your Future</span></h5>
 <h4><a href="../internships/index.html">Our interns receive a competitive wage and gain valuable industry experience.</a></h4>
 
@@ -1286,9 +1288,9 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                         <div class="project-content">
 
                                             <h3>Graduates</h3>
-<p><img loading="lazy" class="size-medium wp-image-2528 alignnone" src="../../../www.henselphelps.com/wp-content/uploads/2017/07/graduates-1-300x200.jpg" alt="" width="300" height="200" srcset="/wp-content/uploads/2017/07/graduates-1-300x200.jpg 300w, /wp-content/uploads/2017/07/graduates-1.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p><img loading="lazy" class="size-medium wp-image-2528 alignnone" src="{{asset('wp-content/uploads/2017/07/graduates-1-300x200.jpg')}}"  alt="" width="300" height="200" srcset="/wp-content/uploads/2017/07/graduates-1-300x200.jpg 300w, /wp-content/uploads/2017/07/graduates-1.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></p>
 <h5><span style="color: #ffffff;">Dedicated to Your Career</span></h5>
-<h4><a href="../graduates/index.html">We support the growth of our employees through exceptional training and flexible career paths.</a></h4>
+<h4><a href="index.html">We support the growth of our employees through exceptional training and flexible career paths.</a></h4>
 
                                         </div>
 
@@ -1296,7 +1298,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                         <div class="project-content">
 
                                             <h3>Experienced</h3>
-<p><img loading="lazy" class="size-medium wp-image-2529 alignnone" src="../../../www.henselphelps.com/wp-content/uploads/2017/07/experienced-300x200.jpg" alt="" width="300" height="200" srcset="/wp-content/uploads/2017/07/experienced-300x200.jpg 300w, /wp-content/uploads/2017/07/experienced.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p><img loading="lazy" class="size-medium wp-image-2529 alignnone" src="{{asset('wp-content/uploads/2017/07/experienced-300x200.jpg')}}"  alt="" width="300" height="200" srcset="/wp-content/uploads/2017/07/experienced-300x200.jpg 300w, /wp-content/uploads/2017/07/experienced.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></p>
 <h5><span style="color: #ffffff;">Committed to your development</span></h5>
 <h4><a href="../experienced/index.html">Let us show you why so many of our employees call HP their “last employer.”</a></h4>
 
@@ -1306,7 +1308,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                         <div class="project-content">
 
                                             <h3>Craft</h3>
-<p><a href="../craft/index.html"><img loading="lazy" class="alignnone" src="../../../www.henselphelps.com/wp-content/uploads/2017/05/craft-menu.jpg" alt="" width="300" height="200" /></a></p>
+<p><a href="../craft/index.html"><img loading="lazy" class="alignnone" src="{{asset('wp-content/uploads/2017/05/craft-menu.jpg')}}"  alt="" width="300" height="200" /></a></p>
 <h5><span style="color: #ffffff;">Inspired by Your Talents</span></h5>
 <h4><a href="../craft/index.html">As a craftsperson, you have skills Alticor Inc needs and values.</a></h4>
 
@@ -1316,9 +1318,9 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                         <div class="project-content">
 
                                             <h3>Careers in Facilities Services</h3>
-<p><a href="index.html"><img loading="lazy" class="alignnone" src="../../../www.henselphelps.com/wp-content/uploads/2017/02/hensel-phelps-safety-300x300.html" alt="" width="300" height="200" /></a></p>
+<p><a href="../careers-facility-services/index.html"><img loading="lazy" class="alignnone" src="{{asset('wp-content/uploads/2017/02/hensel-phelps-safety-300x300.html')}}" alt="" width="300" height="200" /></a></p>
 <h5><span style="color: #ffffff;">Ready to Advance Your Experience</span></h5>
-<h4><a href="index.html">From entry level to industry veteran, grow your career in Facility Services.</a></h4>
+<h4><a href="../careers-facility-services/index.html">From entry level to industry veteran, grow your career in Facility Services.</a></h4>
 
                                         </div>
 
@@ -1326,7 +1328,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                         <div class="project-content">
 
                                             <h3>Training</h3>
-<p><img loading="lazy" class="size-medium wp-image-2530 alignnone" src="../../../www.henselphelps.com/wp-content/uploads/2017/07/training-300x200.jpg" alt="" width="300" height="200" srcset="/wp-content/uploads/2017/07/training-300x200.jpg 300w, /wp-content/uploads/2017/07/training.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p><img loading="lazy" class="size-medium wp-image-2530 alignnone" src="{{asset('wp-content/uploads/2017/07/training-300x200.jpg')}}"  alt="" width="300" height="200" srcset="/wp-content/uploads/2017/07/training-300x200.jpg 300w, /wp-content/uploads/2017/07/training.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></p>
 <h5><span style="color: #ffffff;">Invested in Your Growth</span></h5>
 <h4><a href="../training/index.html">Our training begins at inception and continues throughout all stages of our employees’ career.</a></h4>
 
@@ -1336,7 +1338,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                         <div class="project-content">
 
                                             <h3>Employment Solicitation Fraud</h3>
-<p><img loading="lazy" class="size-medium wp-image-2531 alignnone" src="../../../www.henselphelps.com/wp-content/uploads/2017/07/email-warning-300x200.jpg" alt="" width="300" height="200" srcset="/wp-content/uploads/2017/07/email-warning-300x200.jpg 300w, /wp-content/uploads/2017/07/email-warning.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p><img loading="lazy" class="size-medium wp-image-2531 alignnone" src="{{asset('wp-content/uploads/2017/07/email-warning-300x200.jpg')}}"  alt="" width="300" height="200" srcset="/wp-content/uploads/2017/07/email-warning-300x200.jpg 300w, /wp-content/uploads/2017/07/email-warning.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></p>
 <h5><span style="color: #ffffff;">Be Careful</span></h5>
 <h4><a href="../employment-email-fraud-warning/index.html">Employment Solicitation Fraud Warning.</a></h4>
 
@@ -1346,7 +1348,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                         <div class="project-content">
 
                                             <h3>Equal Opportunity Employer</h3>
-<p><img loading="lazy" class="alignnone size-medium wp-image-2470" src="../../../www.henselphelps.com/wp-content/uploads/2017/04/3014162-Microsoft-Data-Center-CYS04-014_Original-300x225.jpg" alt="" width="300" height="225" srcset="/wp-content/uploads/2017/04/3014162-Microsoft-Data-Center-CYS04-014_Original-300x225.jpg 300w, /wp-content/uploads/2017/04/3014162-Microsoft-Data-Center-CYS04-014_Original-768x576.jpg 768w, /wp-content/uploads/2017/04/3014162-Microsoft-Data-Center-CYS04-014_Original.jpg 900w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p><img loading="lazy" class="alignnone size-medium wp-image-2470" src="{{asset('wp-content/uploads/2017/04/3014162-Microsoft-Data-Center-CYS04-014_Original-300x225.jpg')}}" alt="" width="300" height="225" srcset="/wp-content/uploads/2017/04/3014162-Microsoft-Data-Center-CYS04-014_Original-300x225.jpg 300w, /wp-content/uploads/2017/04/3014162-Microsoft-Data-Center-CYS04-014_Original-768x576.jpg 768w, /wp-content/uploads/2017/04/3014162-Microsoft-Data-Center-CYS04-014_Original.jpg 900w" sizes="(max-width: 300px) 100vw, 300px" /></p>
 <h5><span style="color: #ffffff;">Providing equal opportunities</span></h5>
 <h4><a href="../equal-opportunity-employer/index.html">Alticor Inc is an equal opportunity employer and contractor. </a></h4>
 
@@ -1423,7 +1425,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                         <div class="project-content">
 
                                             <h3>Our Vision and Core Values</h3>
-<p><img loading="lazy" class="size-medium wp-image-2532 alignnone" src="../../../www.henselphelps.com/wp-content/uploads/2017/07/experienced-300x200.jpg" alt="" width="300" height="200" /></p>
+<p><img loading="lazy" class="size-medium wp-image-2532 alignnone" src="{{asset('wp-content/uploads/2017/07/experienced-300x200.jpg')}}"  alt="" width="300" height="200" /></p>
 <h5><span style="color: #ffffff;">Delivering EXCELLENCE in all we do.</span></h5>
 <h4><a href="https://www.henselphelps.com/about/the-hensel-phelps-way/">The Alticor Inc core values: Ownership, Integrity, Builder, Diversity and Community.</a></h4>
 
@@ -1433,7 +1435,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                         <div class="project-content">
 
                                             <h3>The Alticor Inc Way</h3>
-<p><img loading="lazy" class="size-medium wp-image-2532 alignnone" src="../../../www.henselphelps.com/wp-content/uploads/2017/07/the-hp-way-300x200.jpg" alt="" width="300" height="200" srcset="/wp-content/uploads/2017/07/the-hp-way-300x200.jpg 300w, /wp-content/uploads/2017/07/the-hp-way.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p><img loading="lazy" class="size-medium wp-image-2532 alignnone" src="{{asset('wp-content/uploads/2017/07/the-hp-way-300x200.jpg')}}"  alt="" width="300" height="200" srcset="/wp-content/uploads/2017/07/the-hp-way-300x200.jpg 300w, /wp-content/uploads/2017/07/the-hp-way.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></p>
 <h5><span style="color: #ffffff;">More Than a Mantra</span></h5>
 <h4><a href="https://www.henselphelps.com/about/the-hensel-phelps-way/">The Alticor Inc Way: People, Process, Partnership and Technology.</a></h4>
 
@@ -1443,7 +1445,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                         <div class="project-content">
 
                                             <h3>Safety</h3>
-<p><img loading="lazy" class="size-medium wp-image-2533 alignnone" src="../../../www.henselphelps.com/wp-content/uploads/2017/07/safety-300x200.jpg" alt="" width="300" height="200" srcset="/wp-content/uploads/2017/07/safety-300x200.jpg 300w, /wp-content/uploads/2017/07/safety.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p><img loading="lazy" class="size-medium wp-image-2533 alignnone" src="{{asset('wp-content/uploads/2017/07/safety-300x200.jpg')}}"  alt="" width="300" height="200" srcset="/wp-content/uploads/2017/07/safety-300x200.jpg 300w, /wp-content/uploads/2017/07/safety.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></p>
 <h5><span style="color: #ffffff;">A Zero-Accident Safety Culture</span></h5>
 <h4><a href="https://www.henselphelps.com/what-we-do/safety/">We maintain an unwavering commitment to the safety of our people and trade partners.<br />
 </a></h4>
@@ -1454,7 +1456,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                         <div class="project-content">
 
                                             <h3>Quality</h3>
-<p><img loading="lazy" class="size-medium wp-image-2534 alignnone" src="../../../www.henselphelps.com/wp-content/uploads/2017/07/quality-300x200.jpg" alt="" width="300" height="200" srcset="/wp-content/uploads/2017/07/quality-300x200.jpg 300w, /wp-content/uploads/2017/07/quality.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p><img loading="lazy" class="size-medium wp-image-2534 alignnone" src="{{asset('wp-content/uploads/2017/07/quality-300x200.jpg')}}"  alt="" width="300" height="200" srcset="/wp-content/uploads/2017/07/quality-300x200.jpg 300w, /wp-content/uploads/2017/07/quality.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></p>
 <h5><span style="color: #ffffff;">Producing the Very Best</span></h5>
 <h4><a href="https://www.henselphelps.com/what-we-do/quality/">Alticor Inc uses a proven six-step process to ensure quality in all projects.<br />
 </a></h4>
@@ -1465,7 +1467,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                         <div class="project-content">
 
                                             <h3>Sustainability</h3>
-<p><img loading="lazy" class="size-medium wp-image-2535 alignnone" src="../../../www.henselphelps.com/wp-content/uploads/2017/07/sustainability-300x200.jpg" alt="" width="300" height="200" srcset="/wp-content/uploads/2017/07/sustainability-300x200.jpg 300w, /wp-content/uploads/2017/07/sustainability.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p><img loading="lazy" class="size-medium wp-image-2535 alignnone" src="{{asset('wp-content/uploads/2017/07/sustainability-300x200.jpg')}}"  alt="" width="300" height="200" srcset="/wp-content/uploads/2017/07/sustainability-300x200.jpg 300w, /wp-content/uploads/2017/07/sustainability.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></p>
 <h5><span style="color: #ffffff;">Benefiting the Environment</span></h5>
 <h4><a href="https://www.henselphelps.com/what-we-do/sustainability/">We help you make informed decisions that benefit the environment as well as your budget.</a></h4>
 
@@ -1475,7 +1477,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                         <div class="project-content">
 
                                             <h3>Technology</h3>
-<p><img loading="lazy" class="size-medium wp-image-2536 alignnone" src="../../../www.henselphelps.com/wp-content/uploads/2017/07/technology-300x200.jpg" alt="" width="300" height="200" srcset="/wp-content/uploads/2017/07/technology-300x200.jpg 300w, /wp-content/uploads/2017/07/technology.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p><img loading="lazy" class="size-medium wp-image-2536 alignnone" src="{{asset('wp-content/uploads/2017/07/technology-300x200.jpg')}}"  alt="" width="300" height="200" srcset="/wp-content/uploads/2017/07/technology-300x200.jpg 300w, /wp-content/uploads/2017/07/technology.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></p>
 <h5><span style="color: #ffffff;">Leading the Way in Innovation</span></h5>
 <h4><a href="https://www.henselphelps.com/what-we-do/technology/">We are constantly creating new efficiencies that translate into better value for our clients.</a></h4>
 
@@ -1485,7 +1487,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                         <div class="project-content">
 
                                             <h3>History</h3>
-<p><img loading="lazy" class="alignnone size-medium wp-image-2313" src="../../../www.henselphelps.com/wp-content/uploads/2017/06/hp_aboutus-300x167.jpg" alt="" width="300" height="167" srcset="/wp-content/uploads/2017/06/hp_aboutus-300x167.jpg 300w, /wp-content/uploads/2017/06/hp_aboutus-768x426.jpg 768w, /wp-content/uploads/2017/06/hp_aboutus-1024x568.jpg 1024w, /wp-content/uploads/2017/06/hp_aboutus.jpg 1427w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p><img loading="lazy" class="alignnone size-medium wp-image-2313" src="{{asset('wp-content/uploads/2017/06/hp_aboutus-300x167.jpg')}}"  alt="" width="300" height="167" srcset="/wp-content/uploads/2017/06/hp_aboutus-300x167.jpg 300w, /wp-content/uploads/2017/06/hp_aboutus-768x426.jpg 768w, /wp-content/uploads/2017/06/hp_aboutus-1024x568.jpg 1024w, /wp-content/uploads/2017/06/hp_aboutus.jpg 1427w" sizes="(max-width: 300px) 100vw, 300px" /></p>
 <p>&nbsp;</p>
 <h5><span style="color: #ffffff;">Celebrating 80 Years</span></h5>
 <h4><a href="https://www.henselphelps.com/about/history/">From one man’s dream to one of America’s most successful contractors.</a></h4>
@@ -1496,7 +1498,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                         <div class="project-content">
 
                                             <h3>Community</h3>
-<p><img loading="lazy" class="size-medium wp-image-2537 alignnone" src="../../../www.henselphelps.com/wp-content/uploads/2017/07/community-300x200.jpg" alt="" width="300" height="200" srcset="/wp-content/uploads/2017/07/community-300x200.jpg 300w, /wp-content/uploads/2017/07/community.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p><img loading="lazy" class="size-medium wp-image-2537 alignnone" src="{{asset('wp-content/uploads/2017/07/community-300x200.jpg')}}"  alt="" width="300" height="200" srcset="/wp-content/uploads/2017/07/community-300x200.jpg 300w, /wp-content/uploads/2017/07/community.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></p>
 <h5><span style="color: #ffffff;">Doing Our Part</span></h5>
 <h4><a href="https://www.henselphelps.com/about/community/">Building Stronger Communities Together.</a></h4>
 
@@ -1506,7 +1508,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                         <div class="project-content">
 
                                             <h3>Diversity and Inclusion</h3>
-<p><img loading="lazy" class="size-medium wp-image-2539 alignnone" src="../../../www.henselphelps.com/wp-content/uploads/2017/07/dsc_0085-300x242.jpg" alt="" width="300" height="200" /></p>
+<p><img loading="lazy" class="size-medium wp-image-2539 alignnone" src="{{asset('wp-content/uploads/2017/07/dsc_0085-300x242.jpg')}}"  alt="" width="300" height="200" /></p>
 <h5><span style="color: #ffffff;">Creating and Inclusive Environment</span></h5>
 <h4><a href="../../employee-diversity/index.html">Cultivating a diverse workforce is an important part of Alticor Inc’ culture.</a></h4>
 
@@ -1516,7 +1518,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                         <div class="project-content">
 
                                             <h3>News Center</h3>
-<p><a href="https://www.henselphelps.com/about/news-center/"><img loading="lazy" class="alignnone" src="../../../www.henselphelps.com/wp-content/uploads/2017/05/news-news.jpg" alt="" width="300" height="200" /></a></p>
+<p><a href="https://www.henselphelps.com/about/news-center/"><img loading="lazy" class="alignnone" src="{{asset('wp-content/uploads/2017/05/news-news.jpg')}}"  alt="" width="300" height="200" /></a></p>
 <h5><span style="color: #ffffff;">What’s Happening</span></h5>
 <h4><a href="https://www.henselphelps.com/about/news-center/">Stay in the know with Alticor Inc news and events.</a></h4>
 
@@ -1526,7 +1528,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                         <div class="project-content">
 
                                             <h3>Leadership</h3>
-<p><img loading="lazy" class="size-medium wp-image-2538 alignnone" src="../../../www.henselphelps.com/wp-content/uploads/2017/07/leadership-300x200.jpg" alt="" width="300" height="200" srcset="/wp-content/uploads/2017/07/leadership-300x200.jpg 300w, /wp-content/uploads/2017/07/leadership.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p><img loading="lazy" class="size-medium wp-image-2538 alignnone" src="{{asset('wp-content/uploads/2017/07/leadership-300x200.jpg')}}"  alt="" width="300" height="200" srcset="/wp-content/uploads/2017/07/leadership-300x200.jpg 300w, /wp-content/uploads/2017/07/leadership.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></p>
 <h5><span style="color: #ffffff;">Empowered Teams</span></h5>
 <h4><a href="https://www.henselphelps.com/about/leadership/">Project leadership is one of the cornerstones of our company structure.</a></h4>
 
@@ -1536,7 +1538,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                         <div class="project-content">
 
                                             <h3>Recognition &amp; Awards</h3>
-<p><img loading="lazy" class="size-medium wp-image-2539 alignnone" src="../../../www.henselphelps.com/wp-content/uploads/2017/07/awards-300x200.jpg" alt="" width="300" height="200" srcset="/wp-content/uploads/2017/07/awards-300x200.jpg 300w, /wp-content/uploads/2017/07/awards.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p><img loading="lazy" class="size-medium wp-image-2539 alignnone" src="{{asset('wp-content/uploads/2017/07/awards-300x200.jpg')}}"  alt="" width="300" height="200" srcset="/wp-content/uploads/2017/07/awards-300x200.jpg 300w, /wp-content/uploads/2017/07/awards.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></p>
 <h5><span style="color: #ffffff;">Jobs Well Done</span></h5>
 <h4><a href="https://www.henselphelps.com/about/recognition-awards/">At Alticor Inc, our work speaks for itself.</a></h4>
 
@@ -1546,7 +1548,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                         <div class="project-content">
 
                                             <h3>Trade Partners</h3>
-<p><img loading="lazy" class="size-medium wp-image-2539 alignnone" src="../../../www.henselphelps.com/wp-content/uploads/2017/04/Subcontractor-Outreach-300x247.jpg" alt="" width="300" height="200" /></p>
+<p><img loading="lazy" class="size-medium wp-image-2539 alignnone" src="{{asset('wp-content/uploads/2017/04/Subcontractor-Outreach-300x247.jpg')}}"  alt="" width="300" height="200" /></p>
 <h5><span style="color: #ffffff;">Partnering with Alticor Inc</span></h5>
 <h4><a href="https://www.henselphelps.com/about/recognition-awards/">We welcome the opportunity to work with trade partners who share our dedication and goals.</a></h4>
 
@@ -1568,7 +1570,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
 
                     <div class="toggle-nav">
 
-                        <a href="#"><img src="../../wp-content/themes/henselphelps/img/toggle-icon.png" alt=""></a>
+                        <a href="#"><img src="{{asset('wp-content/themes/henselphelps/img/toggle-icon.png')}}" alt=""></a>
 
                     </div>
 
@@ -1587,18 +1589,16 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
 		
 <style type="text/css">
  .page-banner{               
- filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/wp-content/uploads/2018/01/HP_Small-Website-Cover_Facility-Services.jpg', sizingMethod='scale');
--ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/wp-content/uploads/2018/01/HP_Small-Website-Cover_Facility-Services.jpg', sizingMethod='scale')"; 
+ filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/wp-content/uploads/2017/04/hero16.jpg', sizingMethod='scale');
+-ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/wp-content/uploads/2017/04/hero16.jpg', sizingMethod='scale')"; 
  }
 </style>        
 <![endif]-->
         
-<div class="page-banner" style="background-image:url(
-	'../../wp-content/uploads/2018/01/HP_Small-Website-Cover_Facility-Services.jpg'	
-);">
+<div class="page-banner" style="background-image:url({{asset('wp-content/uploads/2017/04/hero16.jpg')}});">
     <div class="page-banner-block">
         <div class="page-banner-content">
-            <h1>Facility Services Careers</h1>
+            <h1>Recent Graduates</h1>
         </div>
     </div>
 </div>
@@ -1621,10 +1621,10 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
 								<li class="page_item page-item-1231"><a href="../job-search/index.html">Job Search</a></li>
 <li class="page_item page-item-5319"><a href="../career-paths/index.html">Career Paths</a></li>
 <li class="page_item page-item-20"><a href="../internships/index.html">Internships</a></li>
-<li class="page_item page-item-534"><a href="../graduates/index.html">Recent Graduates</a></li>
+<li class="page_item page-item-534 current_page_item"><a href="index.html" aria-current="page">Recent Graduates</a></li>
 <li class="page_item page-item-22"><a href="../experienced/index.html">Experienced</a></li>
 <li class="page_item page-item-26"><a href="../craft/index.html">Craft</a></li>
-<li class="page_item page-item-5671 current_page_item"><a href="index.html" aria-current="page">Facility Services Careers</a></li>
+<li class="page_item page-item-5671"><a href="../careers-facility-services/index.html">Facility Services Careers</a></li>
 <li class="page_item page-item-24"><a href="../training/index.html">Training</a></li>
 <li class="page_item page-item-5511"><a href="../equal-opportunity-employer/index.html">Equal Opportunity Employer</a></li>
 <li class="page_item page-item-28"><a href="../employment-email-fraud-warning/index.html">Employment Solicitation Fraud Warning</a></li>
@@ -1636,19 +1636,14 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                 
                 
                 <div class="main-content">
-                    <h2>Advancing Your Career in Facility Services</h2>
-<p>At Alticor Inc, we understand the challenges our clients face after construction is complete. Our facility services team helps our clients meet these challenges head on. From anticipating market changes to satisfying tenant occupant demands to navigating complex regulatory requirements, we help our clients achieve their goals and objectives for each property. As the builders of the properties we manage, we have unique knowledge and familiarity that allow us to anticipate and remedy issues before they happen.</p>
-<h3>Company-Funded Benefits For Facility Services Personnel</h3>
-<p>Alticor Inc offers a competitive benefits package along with exceptional opportunities for career growth. The actual terms and conditions of these benefits are governed by official plan documents and current Alticor Inc policies for employees of each legal entity. Our employee benefit packages include the following:</p>
-<p>• Health Insurance<br />
-• Life Insurance and Accidental Death Benefits<br />
-• Long-Term Disability Insurance<br />
-• Optional Dental Plan<br />
-• Optional Vision Plan<br />
-• Performance Evaluations &amp; Salary Reviews<br />
-• Holidays and Vacation</p>
-<p>We invite you to explore our Facility Services career opportunities and job postings, to find out how to become part of the Alticor Inc team.</p>
-<p><a class="btn inverse" href="https://www.henselphelps.com/careers/job-search-facility-services/" target="_blank" rel="noopener">Find Your Career</a></p>
+                    <h2>Dedicated to Your Career</h2>
+<p>If you have recently graduated from a construction management degree program, engineering or similar field of study, we invite you to consider a career with Alticor Inc. As one of the largest general contractors in the US, we have <a href="../../contact-us/index.html">office locations</a> located throughout the nation, all with the same opportunities for career advancement, mentorship, competitive benefits and a company culture second to none. We support the continued growth of our employees through exceptional training, and provide a flexible career path that lets new grads explore field, office, safety, estimating, virtual design and construction (VDC) and a variety of other rewarding positions.</p>
+<p>We invite you to explore our up-to-date career opportunities and job postings, to find out how to join our Alticor Inc team. We look forward to welcoming you to the Alticor Inc family! Apply Today!</p>
+<p><a class="btn inverse" href="https://www.henselphelps.com/careers/job-search-graduates/" target="_blank" rel="noopener">Find Your Career<br />
+</a></p>
+<h4>Experience the Alticor Inc Culture</h4>
+<p>Everyone knows we&#8217;re a top builder, but what truly sets Alticor Inc apart is our company culture. Below is just one of the many examples of what you can expect to experience in your first year with Alticor Inc. For more &#8220;a-day-in-the-life&#8221; at Alticor Inc, visit <a href="https://www.youtube.com/playlist?list=PLnJlrqi4anRKkktFU5mR-vlXpwI5vPGfm">our videos page</a>.</p>
+<p><iframe src="https://www.youtube.com/embed/raj2rvGqfhA" width="1120" height="630" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
                                         	                    
                     		
                     
@@ -1665,19 +1660,19 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
     	<div class="wrapper">
             <div class="footer-top clearfix" style="margin-bottom: 20px;">
                 <a href="../../index.html" class="footer-logo">
-                    <img src="../../wp-content/themes/henselphelps/img/footer-logo.png" alt="">
+                    <img src="{{asset('wp-content/themes/henselphelps/img/footer-logo.png')}}" alt="">
                 </a>
                 <div class="social-links">
                 	<ul>
-                    	<li><a target="_blank" href="https://www.facebook.com/HenselPhelpsCommunications/"><img src="../../wp-content/themes/henselphelps/img/facebook-icon.png" alt=""></a></li>
-                        <li><a target="_blank" href="https://twitter.com/henselphelps"><img src="../../wp-content/themes/henselphelps/img/twitter-icon.png" alt=""></a></li>
-                        <li><a target="_blank" href="https://www.linkedin.com/company/21743?trk=tyah&amp;trkInfo=clickedVertical:company,clickedEntityId:21743,idx:3-1-7,tarId:1473431308021,tas:Hensel%20Phelps"><img src="../../wp-content/themes/henselphelps/img/linkedin-icon.png" alt=""></a></li>
-                        <li><a target="_blank" href="https://www.instagram.com/henselphelps/"><img src="../../wp-content/themes/henselphelps/img/instagram-icon.png" alt=""></a></li>
-						<li><a target="_blank" href="https://www.youtube.com/c/HenselPhelpsConstructionCo"><img height="28" width="28" src="../../../www.henselphelps.com/wp-content/uploads/2021/08/youtube_social_squircle_red.png" alt=""></a></li>
+                    	<li><a target="_blank" href="https://www.facebook.com/HenselPhelpsCommunications/"><img src="{{asset('wp-content/themes/henselphelps/img/facebook-icon.png')}}" alt=""></a></li>
+                        <li><a target="_blank" href="https://twitter.com/henselphelps"><img src="{{asset('wp-content/themes/henselphelps/img/twitter-icon.png')}}" alt=""></a></li>
+                        <li><a target="_blank" href="https://www.linkedin.com/company/21743?trk=tyah&amp;trkInfo=clickedVertical:company,clickedEntityId:21743,idx:3-1-7,tarId:1473431308021,tas:Hensel%20Phelps"><img src="{{asset('wp-content/themes/henselphelps/img/linkedin-icon.png')}}" alt=""></a></li>
+                        <li><a target="_blank" href="https://www.instagram.com/henselphelps/"><img src="{{asset('wp-content/themes/henselphelps/img/instagram-icon.png')}}" alt=""></a></li>
+						<li><a target="_blank" href="https://www.youtube.com/c/HenselPhelpsConstructionCo"><img height="28" width="28" src="{{asset('wp-content/uploads/2021/08/youtube_social_squircle_red.png')}}" alt=""></a></li>
                     </ul>
 					<ul style="margin-top: 40px;">
-						<li style="position: relative; top: 20px; margin-right: 24px;"><a target="_blank" href="https://www.glassdoor.com/Overview/Working-at-Hensel-Phelps-EI_IE3218.11,24.htm"><img height="80" width="100" src="../../../www.henselphelps.com/wp-content/uploads/2022/09/glassdoor-logo.png" alt=""></a></li>
-						<li ><a target="_blank" ><img height="80" width="60" src="../../../www.henselphelps.com/wp-content/uploads/2022/09/top-work-places-logo.jpg" alt=""></a></li>
+						<li style="position: relative; top: 20px; margin-right: 24px;"><a target="_blank" href="https://www.glassdoor.com/Overview/Working-at-Hensel-Phelps-EI_IE3218.11,24.htm"><img height="80" width="100" src="{{asset('wp-content/uploads/2022/09/glassdoor-logo.png')}}" alt=""></a></li>
+						<li ><a target="_blank" ><img height="80" width="60" src="{{asset('wp-content/uploads/2022/09/top-work-places-logo.jpg')}}"  alt=""></a></li>
                     </ul>
                 </div>
             </div>
@@ -1734,7 +1729,7 @@ var headJS = {"ajaxurl":"https:\/\/henselphelps.com\/wp-admin\/admin-ajax.php","
 /* ]]> */
 </script>
 <script type='text/javascript' src='../../wp-content/themes/henselphelps/js/script1eb7.js?ver=6.0.3' id='main-js-js'></script>
-<div id="browser-msg"><div><a id="close" href="#">X</a><h3>Oh no... this website is not a fan of Internet Explorer!</h3><p>Due to some geeky technical reasons, the Alticor Inc website is best viewed on any browser other than Internet Explorer. However, if you are a diehard IE fan you can continue to use it, but may have a less than great experience and will receive this annoying reminder every day. We recommend one of the following browsers to take full advantage of the Alticor Inc website. Thank you!</p><p><a href="https://www.google.com/chrome/browser/" target="_blank"><img alt="Chrome" src="../../../www.henselphelps.com/wp-content/uploads/2017/08/chrome-icon.png"/></a>&nbsp;&nbsp;&nbsp;<a href="https://www.mozilla.org/en-US/firefox/new/" target="_blank"><img alt="Firefox" src="../../../www.henselphelps.com/wp-content/uploads/2017/08/Firefox-icon.png"/></a>&nbsp;&nbsp;&nbsp;<a href="https://www.microsoft.com/en-us/windows/microsoft-edge/" target="_blank"><img alt="Edge" src="../../../www.henselphelps.com/wp-content/uploads/2017/08/edge-icon.png"/></a></p></div></div>
+<div id="browser-msg"><div><a id="close" href="#">X</a><h3>Oh no... this website is not a fan of Internet Explorer!</h3><p>Due to some geeky technical reasons, the Alticor Inc website is best viewed on any browser other than Internet Explorer. However, if you are a diehard IE fan you can continue to use it, but may have a less than great experience and will receive this annoying reminder every day. We recommend one of the following browsers to take full advantage of the Alticor Inc website. Thank you!</p><p><a href="https://www.google.com/chrome/browser/" target="_blank"><img alt="Chrome" src="{{asset('wp-content/uploads/2017/08/chrome-icon.png')}}"/></a>&nbsp;&nbsp;&nbsp;<a href="https://www.mozilla.org/en-US/firefox/new/" target="_blank"><img alt="Firefox" src="{{asset('wp-content/uploads/2017/08/Firefox-icon.png')}}"/></a>&nbsp;&nbsp;&nbsp;<a href="https://www.microsoft.com/en-us/windows/microsoft-edge/" target="_blank"><img alt="Edge" src="{{asset('wp-content/uploads/2017/08/edge-icon.png')}}"/></a></p></div></div>
 <script type="text/javascript" src="../../../analytics.clickdimensions.com/ts.js" > </script>
 <script type="text/javascript">
   var cdAnalytics = new clickdimensions.Analytics('analytics.clickdimensions.com');
@@ -1745,5 +1740,5 @@ var headJS = {"ajaxurl":"https:\/\/henselphelps.com\/wp-admin\/admin-ajax.php","
 </script>
 </body>
 
-<!-- Mirrored from henselphelps.com/careers/careers-facility-services/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 04 Feb 2023 17:25:07 GMT -->
+<!-- Mirrored from henselphelps.com/careers/graduates/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 04 Feb 2023 17:24:33 GMT -->
 </html>

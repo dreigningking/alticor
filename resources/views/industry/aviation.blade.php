@@ -2,8 +2,7 @@
 @section('content')
 
 
-    <div class="page-banner"
-        style="background-image:url({{asset('wp-content/uploads/2017/07/Aviation-hero.jpg')}});">
+    <div class="page-banner" style="background-image:url({{asset('wp-content/uploads/2017/07/Aviation-hero.jpg')}});">
 
         <div class="page-banner-block">
 
@@ -106,7 +105,7 @@
 
 
                         <img
-                            src="../../wp-content/uploads/2022/11/HP-TPA-International-Finals-15-reduced-768x511.jpg">
+                            src="{{asset('wp-content/uploads/2022/11/HP-TPA-International-Finals-15-reduced-768x511.jpg')}}">
 
 
 
@@ -139,7 +138,7 @@
 
 
 
-                        <img src="../../wp-content/uploads/2022/06/China-Lake-01.jpg">
+                        <img src="{{asset('wp-content/uploads/2022/06/China-Lake-01.jpg')}}">
 
 
 
@@ -171,7 +170,7 @@
 
 
 
-                        <img src="../../wp-content/uploads/2020/05/HP_Website_Main_LAX-T1.5-480x320.jpg">
+                        <img src="{{asset('wp-content/uploads/2020/05/HP_Website_Main_LAX-T1.5-480x320.jpg')}}">
 
 
 
@@ -204,7 +203,7 @@
 
 
 
-                        <img src="../../wp-content/uploads/2022/02/DJC_Final_31Jan2012_010-480x320.jpg">
+                        <img src="{{asset('wp-content/uploads/2022/02/DJC_Final_31Jan2012_010-480x320.jpg')}}">
 
 
 
@@ -237,7 +236,7 @@
 
 
                         <img
-                            src="../../wp-content/uploads/2022/02/4.Midfield-Concourse-at-Washington-Dulles-Intl-Airport-480x320.jpg">
+                            src="{{asset('wp-content/uploads/2022/02/4.Midfield-Concourse-at-Washington-Dulles-Intl-Airport-480x320.jpg')}}">
 
 
 
@@ -270,7 +269,7 @@
 
 
 
-                        <img src="../../wp-content/uploads/2022/02/BWI-Terminal-Ext-122-7x10-72dpi-1-480x320.jpg">
+                        <img src="{{asset('wp-content/uploads/2022/02/BWI-Terminal-Ext-122-7x10-72dpi-1-480x320.jpg')}}">
 
 
 
@@ -341,11 +340,11 @@
                                         href="../../the-nashville-international-airport-terminal-lobby-and-international-arrivals-facility-team-reveals-the-new-grand-lobby/index.html">
 
                                         <div class="news-post-image"
-                                            style="background-image: url(../../wp-content/uploads/2023/02/Low-Res-3-768x511.jpg);">
+                                            style="background-image: url({{asset('wp-content/uploads/2023/02/Low-Res-3-768x511.jpg')}});">
 
 
                                             <img width="311" height="225"
-                                                src="../../wp-content/uploads/2023/02/Low-Res-3-311x225.jpg"
+                                                src="{{asset('wp-content/uploads/2023/02/Low-Res-3-311x225.jpg')}}"
                                                 class="attachment-news-thumbnail size-news-thumbnail wp-post-image"
                                                 alt="" loading="lazy" />
 
@@ -393,11 +392,11 @@
                                     <a href="../../southwest-airlines-phx-tech-ops-final-pick-topping-out/index.html">
 
                                         <div class="news-post-image"
-                                            style="background-image: url(../../wp-content/uploads/2022/11/HP-Team-Picture2-1024x684.jpg);">
+                                            style="background-image: url({{asset('wp-content/uploads/2022/11/HP-Team-Picture2-1024x684.jpg')}});">
 
 
                                             <img width="311" height="225"
-                                                src="../../wp-content/uploads/2022/11/HP-Team-Picture2-311x225.jpg"
+                                                src="{{asset('wp-content/uploads/2022/11/HP-Team-Picture2-311x225.jpg')}}"
                                                 class="attachment-news-thumbnail size-news-thumbnail wp-post-image"
                                                 alt="" loading="lazy" />
 
@@ -446,11 +445,11 @@
                                         href="../../hensel-phelps-continues-to-hit-the-high-notes-at-the-nashville-international-airport/index.html">
 
                                         <div class="news-post-image"
-                                            style="background-image: url(../../wp-content/uploads/2022/08/BNA-Exterior-Reduced-480x320.png);">
+                                            style="background-image: url({{asset('wp-content/uploads/2022/08/BNA-Exterior-Reduced-480x320.png')}});">
 
 
                                             <img width="311" height="225"
-                                                src="../../wp-content/uploads/2022/08/BNA-Exterior-Reduced-311x225.png"
+                                                src="{{asset('wp-content/uploads/2022/08/BNA-Exterior-Reduced-311x225.png')}}"
                                                 class="attachment-news-thumbnail size-news-thumbnail wp-post-image"
                                                 alt="" loading="lazy" />
 
@@ -499,11 +498,11 @@
                                         href="../../tampa-international-airports-blue-express-curbside-expansion-project-wins-fdot-2022-commercial-service-airport-project-of-the-year/index.html">
 
                                         <div class="news-post-image"
-                                            style="background-image: url(../../wp-content/uploads/2022/08/HP-TPA-International-Finals-18-scaled-480x320.jpg);">
+                                            style="background-image: url({{asset('wp-content/uploads/2022/08/HP-TPA-International-Finals-18-scaled-480x320.jpg')}});">
 
 
                                             <img width="311" height="225"
-                                                src="../../wp-content/uploads/2022/08/HP-TPA-International-Finals-18-311x225.jpg"
+                                                src="{{asset('wp-content/uploads/2022/08/HP-TPA-International-Finals-18-311x225.jpg')}}"
                                                 class="attachment-news-thumbnail size-news-thumbnail wp-post-image"
                                                 alt="" loading="lazy" />
 

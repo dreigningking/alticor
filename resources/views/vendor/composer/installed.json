@@ -244,7 +244,7 @@
                 }
             ],
             "description": "PHP Doctrine Inflector is a small library that can perform string manipulations with regard to upper/lowercase and singular/plural forms of words.",
-            "homepage": "https://www.doctrine-project.org/projects/inflector.html",
+            "homepage": "https://www.doctrine-project.org/projects/inflector.html')}}" ,
             "keywords": [
                 "inflection",
                 "inflector",
@@ -263,7 +263,7 @@
             },
             "funding": [
                 {
-                    "url": "https://www.doctrine-project.org/sponsorship.html",
+                    "url": "https://www.doctrine-project.org/sponsorship.html')}}" ,
                     "type": "custom"
                 },
                 {
@@ -325,7 +325,7 @@
                 }
             ],
             "description": "A small, lightweight utility to instantiate objects in PHP without invoking their constructors",
-            "homepage": "https://www.doctrine-project.org/projects/instantiator.html",
+            "homepage": "https://www.doctrine-project.org/projects/instantiator.html')}}" ,
             "keywords": [
                 "constructor",
                 "instantiate"
@@ -336,7 +336,7 @@
             },
             "funding": [
                 {
-                    "url": "https://www.doctrine-project.org/sponsorship.html",
+                    "url": "https://www.doctrine-project.org/sponsorship.html')}}" ,
                     "type": "custom"
                 },
                 {
@@ -403,7 +403,7 @@
                 }
             ],
             "description": "PHP Doctrine Lexer parser library that can be used in Top-Down, Recursive Descent Parsers.",
-            "homepage": "https://www.doctrine-project.org/projects/lexer.html",
+            "homepage": "https://www.doctrine-project.org/projects/lexer.html')}}" ,
             "keywords": [
                 "annotations",
                 "docblock",
@@ -417,7 +417,7 @@
             },
             "funding": [
                 {
-                    "url": "https://www.doctrine-project.org/sponsorship.html",
+                    "url": "https://www.doctrine-project.org/sponsorship.html')}}" ,
                     "type": "custom"
                 },
                 {
@@ -3475,7 +3475,7 @@
             },
             "funding": [
                 {
-                    "url": "https://phpunit.de/sponsors.html",
+                    "url": "https://phpunit.de/sponsors.html')}}" ,
                     "type": "custom"
                 },
                 {

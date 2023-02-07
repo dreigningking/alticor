@@ -242,7 +242,7 @@ abstract class Renderer
         );
 
         if ($node instanceof DirectoryNode) {
-            $buffer .= '         <li class="breadcrumb-item">(<a href="dashboard.html">Dashboard</a>)</li>' . "\n";
+            $buffer .= '         <li class="breadcrumb-item">(<a href="dashboard.html')}}" >Dashboard</a>)</li>' . "\n";
         }
 
         return $buffer;
@@ -251,7 +251,7 @@ abstract class Renderer
     protected function inactiveBreadcrumb(AbstractNode $node, string $pathToRoot): string
     {
         return sprintf(
-            '         <li class="breadcrumb-item"><a href="%sindex.html">%s</a></li>' . "\n",
+            '         <li class="breadcrumb-item"><a href="%sindex.html')}}" >%s</a></li>' . "\n",
             $pathToRoot,
             $node->name()
         );

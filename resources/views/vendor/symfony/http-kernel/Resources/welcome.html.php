@@ -98,14 +98,14 @@
             <div class="resource">
                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M0 0h24v24H0z" fill="none"/><path d="M12 11.55C9.64 9.35 6.48 8 3 8v11c3.48 0 6.64 1.35 9 3.55 2.36-2.19 5.52-3.55 9-3.55V8c-3.48 0-6.64 1.35-9 3.55zM12 8c1.66 0 3-1.34 3-3s-1.34-3-3-3-3 1.34-3 3 1.34 3 3 3z"/></svg>
                 <h2>Documentation</h2>
-                <a href="https://symfony.com/doc/<?= $docVersion; ?>/index.html">
+                <a href="https://symfony.com/doc/<?= $docVersion; ?>/index.html')}}" >
                     Guides, components, references
                 </a>
             </div>
             <div class="resource">
                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path fill="none" d="M0 0h24v24H0V0z"/><path d="M9.4 16.6L4.8 12l4.6-4.6L8 6l-6 6 6 6 1.4-1.4zm5.2 0l4.6-4.6-4.6-4.6L16 6l6 6-6 6-1.4-1.4z"/></svg>
                 <h2>Tutorials</h2>
-                <a href="https://symfony.com/doc/<?= $docVersion; ?>/page_creation.html">
+                <a href="https://symfony.com/doc/<?= $docVersion; ?>/page_creation.html')}}" >
                     Create your first page
                 </a>
             </div>

@@ -1,6 +1,6 @@
 @extends('1layout.others')
 @section('content')
-    <div class="page-banner" style="background-image:url({{asset('wp-content/uploads/2020/05/Banner-01-1440x340.jpg')}});">
+    <div class="page-banner" style="background-image:url({{asset('wp-content/uploads/2020/05/Banner-01-1440x340.jpg') }});">
 
         <div class="page-banner-block">
 
@@ -86,11 +86,11 @@
 
 
                             <!--[if lt IE 9]>
-                               <style>
-                                  .ie-hide{ display:none !important;}
-                                </style>
-                                 
-                                 <a href="https://youtu.be/B7xj8QMNi1g" target="_blank" ><img src="https://img.youtube.com/vi/B7xj8QMNi1g/maxresdefault.jpg')}}" ></a>                                <![endif]-->
+                                       <style>
+                                          .ie-hide{ display:none !important;}
+                                        </style>
+                                         
+                                         <a href="https://youtu.be/B7xj8QMNi1g" target="_blank" ><img src="https://img.youtube.com/vi/B7xj8QMNi1g/maxresdefault.jpg')}}" ></a>                                <![endif]-->
                             <iframe class="ie-hide" width="100%" height="100%"
                                 src="https://www.youtube.com/embed/B7xj8QMNi1g?rel=0&amp;controls=0&amp;showinfo=0"
                                 frameborder="0" allowfullscreen>
@@ -120,7 +120,7 @@
 
 
                 <div class="grid-box2">
-                    <img src="{{asset('wp-content/uploads/2020/05/Acropolis-black-and-yellow.jpg')}}" alt="">
+                    <img src="{{ asset('wp-content/uploads/2020/05/Acropolis-black-and-yellow.jpg') }}" alt="">
                 </div>
 
                 <div class="grid-box1 ">
@@ -133,7 +133,7 @@
                     <h4>The Alticor Inc Way:</h4>
                     <h5><strong>People, Process, Partnership and Technology.</strong><br />
                         The four pillars that define our collaborative approach and project success. We invite you to
-                        learn more about <a href="../the-hensel-phelps-way/index.html">The Alticor Inc Way</a>.</h5>
+                        learn more about <a href="../the-hensel-phelps-way/index.html')}}">The Alticor Inc Way</a>.</h5>
                     <h4></h4>
                     <h4></h4>
                     <p>&nbsp;</p>
@@ -165,7 +165,7 @@
                     <div class="col-5 activate" style="white-space: normal;">
 
                         <div class="opportunies-box"><a href="#"><img
-                                    src="{{asset('wp-content/uploads/2020/05/Core-Values-OWNERSHIP-360x360.jpg')}}"></a>
+                                    src="{{ asset('wp-content/uploads/2020/05/Core-Values-OWNERSHIP-360x360.jpg') }}"></a>
 
                             <div class="opportunies-title">
 
@@ -193,7 +193,7 @@
                     <div class="col-5 activate" style="white-space: normal;">
 
                         <div class="opportunies-box"><a href="#"><img
-                                    src="{{asset('wp-content/uploads/2020/05/Core-Values-INTEGRITY-360x360.jpg')}}"></a>
+                                    src="{{ asset('wp-content/uploads/2020/05/Core-Values-INTEGRITY-360x360.jpg') }}"></a>
 
                             <div class="opportunies-title">
 
@@ -221,7 +221,7 @@
                     <div class="col-5 activate" style="white-space: normal;">
 
                         <div class="opportunies-box"><a href="#"><img
-                                    src="{{asset('wp-content/uploads/2020/05/Core-Values-BUILDER-360x360.jpg')}}"></a>
+                                    src="{{ asset('wp-content/uploads/2020/05/Core-Values-BUILDER-360x360.jpg') }}"></a>
 
                             <div class="opportunies-title">
 
@@ -249,7 +249,7 @@
                     <div class="col-5 activate" style="white-space: normal;">
 
                         <div class="opportunies-box"><a href="#"><img
-                                    src="{{asset('wp-content/uploads/2020/05/Core-Values-DIVERSITY-360x360.jpg')}}"></a>
+                                    src="{{ asset('wp-content/uploads/2020/05/Core-Values-DIVERSITY-360x360.jpg') }}"></a>
 
                             <div class="opportunies-title">
 
@@ -277,7 +277,7 @@
                     <div class="col-5 activate" style="white-space: normal;">
 
                         <div class="opportunies-box"><a href="#"><img
-                                    src="{{asset('wp-content/uploads/2020/05/Core-Values-COMMUNITY-360x360.jpg')}}"></a>
+                                    src="{{ asset('wp-content/uploads/2020/05/Core-Values-COMMUNITY-360x360.jpg') }}"></a>
 
                             <div class="opportunies-title">
 
@@ -308,7 +308,7 @@
         </div>
 
         <div class="cta-block-wrap"
-            style="background-image:url({{asset('wp-content/uploads/2020/05/Banner-18-1440x477.jpg')}});">
+            style="background-image:url({{ asset('wp-content/uploads/2020/05/Banner-18-1440x477.jpg') }});">
 
 
 
@@ -329,12 +329,12 @@
                     </blockquote>
 
                     <!-- <blockquote><blockquote><p>“Since 1937, Alticor Inc has thrived thanks to the hard work and dedication of our employees. Our vision, paired with our core values provides a clear plan that we can follow today, and for the next generation.”</p>
-                    <p>&nbsp;</p>
-                    <p>Mike Choutka<br />
-                    President | Chief Executive Officer</p></blockquote>
-                    </blockquote>
+                            <p>&nbsp;</p>
+                            <p>Mike Choutka<br />
+                            President | Chief Executive Officer</p></blockquote>
+                            </blockquote>
 
-                    <h6></h6>-->
+                            <h6></h6>-->
                 </div>
 
 
@@ -348,5 +348,4 @@
 
 
     </div>
-
 @endsection
