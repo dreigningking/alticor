@@ -52,8 +52,8 @@ Route::group(['prefix'=> 'projects','as'=> 'projects.'],function(){
 });
 Route::group(['prefix'=> 'industry','as'=> 'industry.'],function(){
     Route::view('aviation', 'industry.aviation')->name('aviation');
-    Route::view('commercial', '')->name('commercial');
-    Route::view('education', '')->name('education');
+    Route::view('commercial', 'industry.commercial')->name('commercial');
+    Route::view('education', 'industry.education')->name('education');
     Route::view('government-justice', '')->name('government-justice');
     Route::view('healthcare', '')->name('healthcare');
     Route::view('hospitality', '')->name('hospitality');
