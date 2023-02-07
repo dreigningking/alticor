@@ -1,0 +1,20 @@
+[06-Feb-2023 13:18:32 America/New_York] PHP Warning:  require(/home/altiwdxl/public_html/canadian/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/altiwdxl/public_html/canadian/public/index.php on line 34
+[06-Feb-2023 13:18:32 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/altiwdxl/public_html/canadian/public/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/altiwdxl/public_html/canadian/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/altiwdxl/public_html/canadian/public/index.php on line 34
+[06-Feb-2023 13:18:36 America/New_York] PHP Warning:  require(/home/altiwdxl/public_html/canadian/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/altiwdxl/public_html/canadian/public/index.php on line 34
+[06-Feb-2023 13:18:36 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/altiwdxl/public_html/canadian/public/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/altiwdxl/public_html/canadian/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/altiwdxl/public_html/canadian/public/index.php on line 34
+[06-Feb-2023 13:36:31 America/New_York] PHP Warning:  require(/home/altiwdxl/public_html/canadian/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/altiwdxl/public_html/canadian/public/index.php on line 34
+[06-Feb-2023 13:36:31 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/altiwdxl/public_html/canadian/public/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/altiwdxl/public_html/canadian/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/altiwdxl/public_html/canadian/public/index.php on line 34
+[06-Feb-2023 13:36:33 America/New_York] PHP Warning:  require(/home/altiwdxl/public_html/canadian/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/altiwdxl/public_html/canadian/public/index.php on line 34
+[06-Feb-2023 13:36:33 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/altiwdxl/public_html/canadian/public/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/altiwdxl/public_html/canadian/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/altiwdxl/public_html/canadian/public/index.php on line 34
