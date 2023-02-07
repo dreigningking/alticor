@@ -20,31 +20,31 @@
 
 
 
-                        <li><a href="{{route('projects.aviation.index')}}">Aviation</a></li>
+                        <li><a href="{{route('industry.aviation')}}">Aviation</a></li>
 
 
-                        <li><a href="{{route('projects.commercial')}}">Commercial</a></li>
+                        <li><a href="{{route('industry.commercial')}}">Commercial</a></li>
 
 
-                        <li><a href="{{route('projects.education')}}">Education</a></li>
+                        <li><a href="{{route('industry.education')}}">Education</a></li>
 
 
-                        <li><a href="{{route('projects.government-justice')}}">Government + Justice</a></li>
+                        <li><a href="{{route('industry.government-justice')}}">Government + Justice</a></li>
 
 
-                        <li><a href="{{route('projects.healthcare')}}">Healthcare</a></li>
+                        <li><a href="{{route('industry.healthcare')}}">Healthcare</a></li>
 
 
-                        <li><a href="{{route('projects.hospitality')}}">Hospitality</a></li>
+                        <li><a href="{{route('industry.hospitality')}}">Hospitality</a></li>
 
 
-                        <li><a href="{{route('projects.infrastructure-transportation')}}">Infrastructure + Transportation</a></li>
+                        <li><a href="{{route('industry.infrastructure-transportation')}}">Infrastructure + Transportation</a></li>
 
 
-                        <li><a href="{{route('projects.science-technology')}}">Science + Technology</a></li>
+                        <li><a href="{{route('industry.science-technology')}}">Science + Technology</a></li>
 
 
-                        <li><a href="{{route('projects.water-wastewater')}}">Water + Wastewater</a> </li>
+                        <li><a href="{{route('industry.water-wastewater')}}">Water + Wastewater</a> </li>
 
 
 

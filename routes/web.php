@@ -48,11 +48,10 @@ Route::view('contact-us','contact-us.index')->name('contact');
 
 Route::group(['prefix'=> 'projects','as'=> 'projects.'],function(){
     Route::view('/', 'projects.index')->name('index');
-    Route::group(['prefix'=> 'aviation','as'=> 'aviation.'],function(){
-        Route::view('/', 'industry.aviation')->name('index');
-        Route::view('eagle-county-regional-airport-expansion-remodel', 'industry.aviation')->name('eagle-county-regional-airport-expansion-remodel');
-    });
-    
+    Route::view('eagle-county-regional-airport-expansion-remodel', 'industry.aviation')->name('eagle-county-regional-airport-expansion-remodel');
+});
+Route::group(['prefix'=> 'industry','as'=> 'industry.'],function(){
+    Route::view('aviation', 'industry.aviation')->name('aviation');
     Route::view('commercial', '')->name('commercial');
     Route::view('education', '')->name('education');
     Route::view('government-justice', '')->name('government-justice');
@@ -62,6 +61,7 @@ Route::group(['prefix'=> 'projects','as'=> 'projects.'],function(){
     Route::view('science-technology', '')->name('science-technology');
     Route::view('water-wastewater', '')->name('water-wastewater');
 });
+    
 
 Route::group(['prefix'=> 'what-we-do','as'=>'what-we-do.'],function(){
     Route::view('/', 'what-we-do.index')->name('index');
