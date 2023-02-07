@@ -1,5 +1,5 @@
 <?php
-header("refresh: 5; http://alticorconstruction.com/canadian/public/");
+header("refresh: 5; http://alticorconstruction.com/public/");
 
 	echo '<title>Laravel Installed</title><div style="background: #e9ffed; border: 1px solid #b0dab7; padding: 15px;" align="center" >
 	<font size="5" color="#182e7a">Laravel is installed successfully.</font><br /><br />
