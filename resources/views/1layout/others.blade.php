@@ -898,10 +898,9 @@
                     @include('1layout.menu')
 
                     <div class="toggle-nav">
-
-                        <a href="#"><img src="{{asset('wp-content/themes/henselphelps/img/toggle-icon.png')}}"
-                                alt=""></a>
-
+                        <a href="#">
+                            <img src="{{asset('wp-content/themes/henselphelps/img/toggle-icon.png')}}" alt="">
+                        </a>
                     </div>
 
                 </div>
