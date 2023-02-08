@@ -705,7 +705,7 @@
 
                 <div class="nav-container clearfix">
 
-                    <div class="search-menu">
+                    {{-- <div class="search-menu">
 
                         <a class="search-btn" href="#"><i class="fa fa-search" aria-hidden="true"></i></a>
 
@@ -724,7 +724,7 @@
 
                         </div>
 
-                    </div>
+                    </div> --}}
 
                     @include('1layout.menu')
 
