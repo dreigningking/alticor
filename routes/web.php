@@ -13,8 +13,16 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
+<<<<<<< HEAD
+<<<<<<< HEAD
+Route::view('/', 'index');
+Route::view('/contact', 'contact-us.index');
+=======
+Route::get('/', function(){return view('index');})->name('index');
+=======
 Route::view('/', 'index')->name('index');
 
+>>>>>>> 3bf6f26c043fa36058bcb804f11b102b551e5dfb
 Route::group(['prefix'=> 'about','as'=>'about.'],function(){
     Route::view('vision-and-core-values', 'about.vision_core_values')->name('vision-and-core-values');
     Route::view('ourway', 'about.ourway')->name('ourway');
@@ -72,6 +80,36 @@ Route::group(['prefix'=> 'what-we-do','as'=>'what-we-do.'],function(){
 });
 Route::group(['prefix'=> 'careers','as'=> 'careers.'],function(){
     Route::view('/', 'careers.index')->name('index');
+<<<<<<< HEAD
+<<<<<<< HEAD
+    Route::view('job-search', '')->name('job-search');
+    Route::view('recruiting-events', '')->name('recruiting-events');
+    Route::view('career-paths', '')->name('career-paths'); 
+    Route::view('internships', '')->name('internships'); 
+    Route::view('graduates', '')->name('graduates'); 
+    Route::view('experienced', '')->name('experienced'); 
+    Route::view('craft', '')->name('craft'); 
+    Route::view('careers-facility-services', '')->name('careers-facility-services'); 
+    Route::view('trainings', '')->name('trainings'); 
+    Route::view('employment-email-fraud-warning', '')->name('employment-email-fraud-warning'); 
+    Route::view('equal-opportunity-employer', '')->name('equal-opportunity-employer'); 
+});
+>>>>>>> 02028c9ede1ba1de425324caf3f60f4ef5e406a3
+=======
+    Route::view('job-search', 'careers.index')->name('job-search');
+    Route::view('recruiting-events', 'careers.index')->name('recruiting-events');
+    Route::view('career-paths', 'careers.index')->name('career-paths'); 
+    Route::view('internships', 'careers.index')->name('internships'); 
+    Route::view('graduates', 'careers.index')->name('graduates'); 
+    Route::view('experienced', 'careers.index')->name('experienced'); 
+    Route::view('craft', 'careers.index')->name('craft'); 
+    Route::view('careers-facility-services', 'careers.index')->name('careers-facility-services'); 
+    Route::view('trainings', 'careers.index')->name('trainings'); 
+    Route::view('employment-email-fraud-warning', 'careers.index')->name('employment-email-fraud-warning'); 
+    Route::view('equal-opportunity-employer', 'careers.index')->name('equal-opportunity-employer'); 
+});
+>>>>>>> 3bf6f26c043fa36058bcb804f11b102b551e5dfb
+=======
     Route::view('job-search', 'careers.job-search')->name('job-search');
     Route::view('recruiting-events', 'careers.recruiting-events')->name('recruiting-events');
     Route::view('career-paths', 'careers.career-paths')->name('career-paths'); 
@@ -84,3 +122,4 @@ Route::group(['prefix'=> 'careers','as'=> 'careers.'],function(){
     Route::view('employment-email-fraud-warning', 'careers.employment-email-fraud-warning')->name('employment-email-fraud-warning'); 
     Route::view('equal-opportunity-employer', 'careers.equal-opportunity-employer')->name('equal-opportunity-employer'); 
 });
+>>>>>>> 2b319d001071e561e62af3b12816dda8a7c1698f
