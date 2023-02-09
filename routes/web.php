@@ -52,8 +52,12 @@ Route::group(['prefix'=> 'projects','as'=> 'projects.'],function(){
     Route::view('701-rio', 'project.701-rio')->name('701-rio');
     Route::view('1144-15th-street-office-building', 'project.1144-15th-street-office-building')->name('1144-15th-street-office-building');
     Route::view('2400-nueces', 'project.2400-nueces')->name('2400-nueces');
+    Route::view('aegis-ashore-missile-defense-test-complex', 'project.aegis-ashore-missile-defense-test-complex')->name('aegis-ashore-missile-defense-test-complex');
+    Route::view('allure-apollo', 'project.allure-apollo')->name('allure-apollo');
+    
     Route::view('eagle-county-regional-airport-expansion-remodel', 'project.eagle-county-regional-airport-expansion-remodel')->name('eagle-county-regional-airport-expansion-remodel');
 });
+
 Route::group(['prefix'=> 'industry','as'=> 'industry.'],function(){
     Route::view('aviation', 'industry.aviation')->name('aviation');
     Route::view('commercial', 'industry.commercial')->name('commercial');
