@@ -990,9 +990,9 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                          <div class="project-content">
 
                                          	<h3>Aviation</h3>
-<p><a href="../eagle-county-regional-airport-expansion-remodel/index.html"><img loading="lazy" class="alignnone" src="{{asset('wp-content/uploads/2021/07/Eagle-County-Airport-Website.jpg')}}" alt="" width="300" height="200" /></a></p>
+<p><a href="{{route('projects.eagle-county-regional-airport-expansion-remodel')}}"><img loading="lazy" class="alignnone" src="{{asset('wp-content/uploads/2021/07/Eagle-County-Airport-Website.jpg')}}" alt="" width="300" height="200" /></a></p>
 <h5><span style="color: #ffffff;">Featured Aviation Case Study</span></h5>
-<h4><a href="../eagle-county-regional-airport-expansion-remodel/index.html">Eagle County Regional Airport Expansion Remodel</a></h4>
+<h4><a href="{{route('projects.eagle-county-regional-airport-expansion-remodel')}}">Eagle County Regional Airport Expansion Remodel</a></h4>
 
                                         </div>
 
@@ -1767,7 +1767,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                             <div class="pro-hover-content">
                                 <h4><em>Commercial project</em><b></b></h4>
                                 <span>Allure Apollo</span>
-                                <a href="../allure-apollo/index.html"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="{{route('projects.allure-apollo')}}"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>

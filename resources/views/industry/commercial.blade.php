@@ -180,7 +180,7 @@
 
                             <span>Allure Apollo</span>
 
-                            <a href="../../project/allure-apollo/index.html"><i class="fa fa-arrow-circle-right"
+                            <a href="{{route('projects.allure-apollo')}}"><i class="fa fa-arrow-circle-right"
                                     aria-hidden="true"></i><span>Learn More</span></a>
 
                         </div>

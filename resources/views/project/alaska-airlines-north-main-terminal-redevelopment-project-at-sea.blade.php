@@ -14,7 +14,7 @@
 <!--[if (gt IE 9)|!(IE)]><!--> <html class="" lang="en-US"> <!--<![endif]-->
 
 
-<!-- Mirrored from henselphelps.com/project/alaska-airlines-north-main-terminal-redevelopment-project-at-sea/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 04 Feb 2023 17:53:08 GMT -->
+<!-- Not important cos its already commented  -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
 <head>
 
@@ -123,7 +123,7 @@ var sv = document.getElementsByTagName('script')[0]; sv.parentNode.insertBefore(
 	<meta property="og:type" content="article" />
 	<meta property="og:title" content="Alaska Airlines North Main Terminal Redevelopment Project at SEA" />
 	<meta property="og:description" content="The $250 million, progressive design-build project modernizes Zones 6 and 7 ticket lobby, Security Checkpoint 5 and the existing promenade." />
-	<meta property="og:url" content="https://henselphelps.com/project/alaska-airlines-north-main-terminal-redevelopment-project-at-sea/" />
+	<meta property="og:url" content="{{route('projects.alaska-airlines-north-main-terminal-redevelopment-project-at-sea')}}" />
 	<meta property="og:site_name" content="Alticor Inc" />
 	<meta property="article:publisher" content="https://www.facebook.com/HenselPhelpsCommunications/" />
 	<meta property="article:modified_time" content="2022-12-28T23:59:20+00:00" />
@@ -135,9 +135,7 @@ var sv = document.getElementsByTagName('script')[0]; sv.parentNode.insertBefore(
 	<meta name="twitter:site" content="@HenselPhelps" />
 	<meta name="twitter:label1" content="Est. reading time" />
 	<meta name="twitter:data1" content="2 minutes" />
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://henselphelps.com/project/alaska-airlines-north-main-terminal-redevelopment-project-at-sea/","url":"https://henselphelps.com/project/alaska-airlines-north-main-terminal-redevelopment-project-at-sea/","name":"Alaska Airlines North Main Terminal Redevelopment Project","isPartOf":{"@id":"https://publicwebsite.azurewebsites.net/#website"},"primaryImageOfPage":{"@id":"https://henselphelps.com/project/alaska-airlines-north-main-terminal-redevelopment-project-at-sea/#primaryimage"},"image":{"@id":"https://henselphelps.com/project/alaska-airlines-north-main-terminal-redevelopment-project-at-sea/#primaryimage"},"thumbnailUrl":"/wp-content/uploads/2021/10/HP_Large_Website_NMTR.jpg')}}" ,"datePublished":"2021-10-12T18:15:13+00:00","dateModified":"2022-12-28T23:59:20+00:00","description":"The $250 million, progressive design-build project modernizes Zones 6 and 7 ticket lobby, Security Checkpoint 5 and the existing promenade.","breadcrumb":{"@id":"https://henselphelps.com/project/alaska-airlines-north-main-terminal-redevelopment-project-at-sea/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://henselphelps.com/project/alaska-airlines-north-main-terminal-redevelopment-project-at-sea/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://henselphelps.com/project/alaska-airlines-north-main-terminal-redevelopment-project-at-sea/#primaryimage","url":"/wp-content/uploads/2021/10/HP_Large_Website_NMTR.jpg')}}" ,"contentUrl":"/wp-content/uploads/2021/10/HP_Large_Website_NMTR.jpg')}}" ,"width":1440,"height":720},{"@type":"BreadcrumbList","@id":"https://henselphelps.com/project/alaska-airlines-north-main-terminal-redevelopment-project-at-sea/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://publicwebsite.azurewebsites.net/"},{"@type":"ListItem","position":2,"name":"Alaska Airlines North Main Terminal Redevelopment Project at SEA"}]},{"@type":"WebSite","@id":"https://publicwebsite.azurewebsites.net/#website","url":"https://publicwebsite.azurewebsites.net/","name":"Alticor Inc","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://publicwebsite.azurewebsites.net/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"}]}</script>
-	<!-- / Yoast SEO Premium plugin. -->
-
+	
 
 <link rel='dns-prefetch' href='http://platform-api.sharethis.com/' />
 <link rel='dns-prefetch' href='http://maxcdn.bootstrapcdn.com/' />
@@ -411,8 +409,6 @@ var quotescollectionAjax = {"ajaxUrl":"https:\/\/henselphelps.com\/wp-admin\/adm
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../../wp-includes/wlwmanifest.xml" /> 
 <meta name="generator" content="WordPress 6.0.3" />
 <link rel='shortlink' href='../../index4dec.html?p=12452' />
-<link rel="alternate" type="application/json+oembed" href="../../wp-json/oembed/1.0/embed4400.json?url=https%3A%2F%2Fhenselphelps.com%2Fproject%2Falaska-airlines-north-main-terminal-redevelopment-project-at-sea%2F" />
-<link rel="alternate" type="text/xml+oembed" href="../../wp-json/oembed/1.0/embeded6f?url=https%3A%2F%2Fhenselphelps.com%2Fproject%2Falaska-airlines-north-main-terminal-redevelopment-project-at-sea%2F&amp;format=xml" />
 
 <!-- Dynamic Widgets by QURL loaded - http://www.dynamic-widgets.com //-->
 <style type="text/css">
@@ -990,9 +986,9 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                          <div class="project-content">
 
                                          	<h3>Aviation</h3>
-<p><a href="../eagle-county-regional-airport-expansion-remodel/index.html"><img loading="lazy" class="alignnone" src="{{asset('wp-content/uploads/2021/07/Eagle-County-Airport-Website.jpg')}}" alt="" width="300" height="200" /></a></p>
+<p><a href="{{route('projects.eagle-county-regional-airport-expansion-remodel')}}"><img loading="lazy" class="alignnone" src="{{asset('wp-content/uploads/2021/07/Eagle-County-Airport-Website.jpg')}}" alt="" width="300" height="200" /></a></p>
 <h5><span style="color: #ffffff;">Featured Aviation Case Study</span></h5>
-<h4><a href="../eagle-county-regional-airport-expansion-remodel/index.html">Eagle County Regional Airport Expansion Remodel</a></h4>
+<h4><a href="{{route('projects.eagle-county-regional-airport-expansion-remodel')}}">Eagle County Regional Airport Expansion Remodel</a></h4>
 
                                         </div>
 
@@ -1981,5 +1977,4 @@ var headJS = {"ajaxurl":"https:\/\/henselphelps.com\/wp-admin\/admin-ajax.php","
 </script>
 </body>
 
-<!-- Mirrored from henselphelps.com/project/alaska-airlines-north-main-terminal-redevelopment-project-at-sea/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 04 Feb 2023 17:53:17 GMT -->
 </html>

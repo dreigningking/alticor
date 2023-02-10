@@ -1900,12 +1900,12 @@
 
                                             <h3>Aviation</h3>
                                             <p><a
-                                                    href="../../project/eagle-county-regional-airport-expansion-remodel/index.html')}}" ><img
+                                                    href="{{route('projects.eagle-county-regional-airport-expansion-remodel')}}')}}" ><img
                                                         loading="lazy" class="alignnone"
                                                         src="{{asset('wp-content/uploads/2021/07/Eagle-County-Airport-Website.jpg')}}" alt="" width="300" height="200" /></a></p>
                                             <h5><span style="color: #ffffff;">Featured Aviation Case Study</span></h5>
                                             <h4><a
-                                                    href="../../project/eagle-county-regional-airport-expansion-remodel/index.html')}}" >Eagle
+                                                    href="{{route('projects.eagle-county-regional-airport-expansion-remodel')}}')}}" >Eagle
                                                     County Regional Airport Expansion Remodel</a></h4>
 
                                         </div>

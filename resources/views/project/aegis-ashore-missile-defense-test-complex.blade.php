@@ -123,7 +123,7 @@ var sv = document.getElementsByTagName('script')[0]; sv.parentNode.insertBefore(
 	<meta property="og:type" content="article" />
 	<meta property="og:title" content="Aegis Ashore Missile Defense Test Complex" />
 	<meta property="og:description" content="Alticor Inc pursued the Aegis Ashore project as a &quot;Super Sub&quot; to URS Group, Inc., and developed the project estimate, technical proposal and schedule." />
-	<meta property="og:url" content="https://henselphelps.com/project/aegis-ashore-missile-defense-test-complex/" />
+	<meta property="og:url" content="{{route('projects.aegis-ashore-missile-defense-test-complex')}}/" />
 	<meta property="og:site_name" content="Alticor Inc" />
 	<meta property="article:publisher" content="https://www.facebook.com/HenselPhelpsCommunications/" />
 	<meta property="article:modified_time" content="2019-08-20T17:09:18+00:00" />
@@ -135,7 +135,7 @@ var sv = document.getElementsByTagName('script')[0]; sv.parentNode.insertBefore(
 	<meta name="twitter:site" content="@HenselPhelps" />
 	<meta name="twitter:label1" content="Est. reading time" />
 	<meta name="twitter:data1" content="1 minute" />
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://henselphelps.com/project/aegis-ashore-missile-defense-test-complex/","url":"https://henselphelps.com/project/aegis-ashore-missile-defense-test-complex/","name":"Aegis Ashore Missile Defense Test Complex - Alticor Inc","isPartOf":{"@id":"https://publicwebsite.azurewebsites.net/#website"},"primaryImageOfPage":{"@id":"https://henselphelps.com/project/aegis-ashore-missile-defense-test-complex/#primaryimage"},"image":{"@id":"https://henselphelps.com/project/aegis-ashore-missile-defense-test-complex/#primaryimage"},"thumbnailUrl":"/wp-content/uploads/2019/06/Aegis-Ashore-web-red.jpg')}}" ,"datePublished":"2019-06-20T17:51:12+00:00","dateModified":"2019-08-20T17:09:18+00:00","description":"Alticor Inc pursued the Aegis Ashore project as a \"Super Sub\" to URS Group, Inc., and developed the project estimate, technical proposal and schedule.","breadcrumb":{"@id":"https://henselphelps.com/project/aegis-ashore-missile-defense-test-complex/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://henselphelps.com/project/aegis-ashore-missile-defense-test-complex/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://henselphelps.com/project/aegis-ashore-missile-defense-test-complex/#primaryimage","url":"/wp-content/uploads/2019/06/Aegis-Ashore-web-red.jpg')}}" ,"contentUrl":"/wp-content/uploads/2019/06/Aegis-Ashore-web-red.jpg')}}" ,"width":1440,"height":720},{"@type":"BreadcrumbList","@id":"https://henselphelps.com/project/aegis-ashore-missile-defense-test-complex/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://publicwebsite.azurewebsites.net/"},{"@type":"ListItem","position":2,"name":"Aegis Ashore Missile Defense Test Complex"}]},{"@type":"WebSite","@id":"https://publicwebsite.azurewebsites.net/#website","url":"https://publicwebsite.azurewebsites.net/","name":"Alticor Inc","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://publicwebsite.azurewebsites.net/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"}]}</script>
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"{{route('projects.aegis-ashore-missile-defense-test-complex')}}/","url":"{{route('projects.aegis-ashore-missile-defense-test-complex')}}/","name":"Aegis Ashore Missile Defense Test Complex - Alticor Inc","isPartOf":{"@id":"https://publicwebsite.azurewebsites.net/#website"},"primaryImageOfPage":{"@id":"{{route('projects.aegis-ashore-missile-defense-test-complex')}}/#primaryimage"},"image":{"@id":"{{route('projects.aegis-ashore-missile-defense-test-complex')}}/#primaryimage"},"thumbnailUrl":"/wp-content/uploads/2019/06/Aegis-Ashore-web-red.jpg')}}" ,"datePublished":"2019-06-20T17:51:12+00:00","dateModified":"2019-08-20T17:09:18+00:00","description":"Alticor Inc pursued the Aegis Ashore project as a \"Super Sub\" to URS Group, Inc., and developed the project estimate, technical proposal and schedule.","breadcrumb":{"@id":"{{route('projects.aegis-ashore-missile-defense-test-complex')}}/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["{{route('projects.aegis-ashore-missile-defense-test-complex')}}/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"{{route('projects.aegis-ashore-missile-defense-test-complex')}}/#primaryimage","url":"/wp-content/uploads/2019/06/Aegis-Ashore-web-red.jpg')}}" ,"contentUrl":"/wp-content/uploads/2019/06/Aegis-Ashore-web-red.jpg')}}" ,"width":1440,"height":720},{"@type":"BreadcrumbList","@id":"{{route('projects.aegis-ashore-missile-defense-test-complex')}}/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://publicwebsite.azurewebsites.net/"},{"@type":"ListItem","position":2,"name":"Aegis Ashore Missile Defense Test Complex"}]},{"@type":"WebSite","@id":"https://publicwebsite.azurewebsites.net/#website","url":"https://publicwebsite.azurewebsites.net/","name":"Alticor Inc","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://publicwebsite.azurewebsites.net/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"}]}</script>
 	<!-- / Yoast SEO Premium plugin. -->
 
 
@@ -411,10 +411,8 @@ var quotescollectionAjax = {"ajaxUrl":"https:\/\/henselphelps.com\/wp-admin\/adm
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../../wp-includes/wlwmanifest.xml" /> 
 <meta name="generator" content="WordPress 6.0.3" />
 <link rel='shortlink' href='../../index27d0.html?p=7925' />
-<link rel="alternate" type="application/json+oembed" href="../../wp-json/oembed/1.0/embeded9c.json?url=https%3A%2F%2Fhenselphelps.com%2Fproject%2Faegis-ashore-missile-defense-test-complex%2F" />
-<link rel="alternate" type="text/xml+oembed" href="../../wp-json/oembed/1.0/embed151a?url=https%3A%2F%2Fhenselphelps.com%2Fproject%2Faegis-ashore-missile-defense-test-complex%2F&amp;format=xml" />
 
-<!-- Dynamic Widgets by QURL loaded - http://www.dynamic-widgets.com //-->
+
 <style type="text/css">
 .wphtsp-history-design-2 .wphtsp-timeline-block:nth-child(odd) .wphtsp-timeline-content {
     border-right: 5px solid #a6192e;
@@ -990,9 +988,9 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                          <div class="project-content">
 
                                          	<h3>Aviation</h3>
-<p><a href="../eagle-county-regional-airport-expansion-remodel/index.html"><img loading="lazy" class="alignnone" src="{{asset('wp-content/uploads/2021/07/Eagle-County-Airport-Website.jpg')}}" alt="" width="300" height="200" /></a></p>
+<p><a href="{{route('projects.eagle-county-regional-airport-expansion-remodel')}}"><img loading="lazy" class="alignnone" src="{{asset('wp-content/uploads/2021/07/Eagle-County-Airport-Website.jpg')}}" alt="" width="300" height="200" /></a></p>
 <h5><span style="color: #ffffff;">Featured Aviation Case Study</span></h5>
-<h4><a href="../eagle-county-regional-airport-expansion-remodel/index.html">Eagle County Regional Airport Expansion Remodel</a></h4>
+<h4><a href="{{route('projects.eagle-county-regional-airport-expansion-remodel')}}">Eagle County Regional Airport Expansion Remodel</a></h4>
 
                                         </div>
 
@@ -1970,5 +1968,5 @@ var headJS = {"ajaxurl":"https:\/\/henselphelps.com\/wp-admin\/admin-ajax.php","
 </script>
 </body>
 
-<!-- Mirrored from henselphelps.com/project/aegis-ashore-missile-defense-test-complex/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 04 Feb 2023 18:10:52 GMT -->
+<!--Not important -->
 </html>

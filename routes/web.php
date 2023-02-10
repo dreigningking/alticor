@@ -53,6 +53,8 @@ Route::group(['prefix'=> 'projects','as'=> 'projects.'],function(){
     Route::view('701-rio', '701-rio')->name('701-rio');
     Route::view('1144-15th-street-office-building', '1144-15th-street-office-building')->name('1144-15th-street-office-building');
     Route::view('2400-nueces', '2400-nueces')->name('2400-nueces');
+    
+    
     Route::view('aegis-ashore-missile-defense-test-complex', 'aegis-ashore-missile-defense-test-complex')->name('aegis-ashore-missile-defense-test-complex');
     Route::view('alaska-airlines-north-main-terminal-redevelopment-project-at-sea', 'alaska-airlines-north-main-terminal-redevelopment-project-at-sea')->name('alaska-airlines-north-main-terminal-redevelopment-project-at-sea');
     Route::view('allure-apollo', 'allure-apollo')->name('allure-apollo');
@@ -96,7 +98,6 @@ Route::group(['prefix'=> 'projects','as'=> 'projects.'],function(){
     Route::view('columbus-land-port-entry', 'columbus-land-port-entry')->name('columbus-land-port-entry');
     Route::view('commercial-crew-cargo-processing-facility-c3pf-phases-1-3', 'commercial-crew-cargo-processing-facility-c3pf-phases-1-3')->name('commercial-crew-cargo-processing-facility-c3pf-phases-1-3');
     Route::view('commercial-crew-transportation-capability-cctcap-tower', 'commercial-crew-transportation-capability-cctcap-tower')->name('commercial-crew-transportation-capability-cctcap-tower');
-    Route::view("working-fine","working-fine");
     
 });
 Route::group(['prefix'=> 'industry','as'=> 'industry.'],function(){

@@ -14,8 +14,6 @@
 <!--[if (gt IE 9)|!(IE)]><!--> <html class="" lang="en-US"> <!--<![endif]-->
 
 
-<!-- Mirrored from henselphelps.com/project/allure-apollo/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 04 Feb 2023 18:08:54 GMT -->
-<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
 <head>
 
 <!--[if lt IE 9]>
@@ -123,7 +121,7 @@ var sv = document.getElementsByTagName('script')[0]; sv.parentNode.insertBefore(
 	<meta property="og:type" content="article" />
 	<meta property="og:title" content="Allure Apollo" />
 	<meta property="og:description" content="The Allure Apollo project includes 384 Class-A apartment units consisting of 18 studio units, 176 one-bedroom units, and 190 two-bedroom units." />
-	<meta property="og:url" content="https://henselphelps.com/project/allure-apollo/" />
+
 	<meta property="og:site_name" content="Alticor Inc" />
 	<meta property="article:publisher" content="https://www.facebook.com/HenselPhelpsCommunications/" />
 	<meta property="article:modified_time" content="2019-08-20T17:17:50+00:00" />
@@ -135,10 +133,7 @@ var sv = document.getElementsByTagName('script')[0]; sv.parentNode.insertBefore(
 	<meta name="twitter:site" content="@HenselPhelps" />
 	<meta name="twitter:label1" content="Est. reading time" />
 	<meta name="twitter:data1" content="1 minute" />
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://henselphelps.com/project/allure-apollo/","url":"https://henselphelps.com/project/allure-apollo/","name":"Allure Apollo - Alticor Inc","isPartOf":{"@id":"https://publicwebsite.azurewebsites.net/#website"},"primaryImageOfPage":{"@id":"https://henselphelps.com/project/allure-apollo/#primaryimage"},"image":{"@id":"https://henselphelps.com/project/allure-apollo/#primaryimage"},"thumbnailUrl":"/wp-content/uploads/2019/08/website-image.jpg')}}" ,"datePublished":"2019-08-20T17:15:38+00:00","dateModified":"2019-08-20T17:17:50+00:00","description":"The Allure Apollo project includes 384 Class-A apartment units consisting of 18 studio units, 176 one-bedroom units, and 190 two-bedroom units.","breadcrumb":{"@id":"https://henselphelps.com/project/allure-apollo/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://henselphelps.com/project/allure-apollo/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://henselphelps.com/project/allure-apollo/#primaryimage","url":"/wp-content/uploads/2019/08/website-image.jpg')}}" ,"contentUrl":"/wp-content/uploads/2019/08/website-image.jpg')}}" ,"width":1440,"height":720},{"@type":"BreadcrumbList","@id":"https://henselphelps.com/project/allure-apollo/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://publicwebsite.azurewebsites.net/"},{"@type":"ListItem","position":2,"name":"Allure Apollo"}]},{"@type":"WebSite","@id":"https://publicwebsite.azurewebsites.net/#website","url":"https://publicwebsite.azurewebsites.net/","name":"Alticor Inc","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://publicwebsite.azurewebsites.net/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"}]}</script>
-	<!-- / Yoast SEO Premium plugin. -->
-
-
+	
 <link rel='dns-prefetch' href='http://platform-api.sharethis.com/' />
 <link rel='dns-prefetch' href='http://maxcdn.bootstrapcdn.com/' />
 <link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
@@ -990,9 +985,9 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                          <div class="project-content">
 
                                          	<h3>Aviation</h3>
-<p><a href="../eagle-county-regional-airport-expansion-remodel/index.html"><img loading="lazy" class="alignnone" src="{{asset('wp-content/uploads/2021/07/Eagle-County-Airport-Website.jpg')}}" alt="" width="300" height="200" /></a></p>
+<p><a href="{{route('projects.eagle-county-regional-airport-expansion-remodel')}}"><img loading="lazy" class="alignnone" src="{{asset('wp-content/uploads/2021/07/Eagle-County-Airport-Website.jpg')}}" alt="" width="300" height="200" /></a></p>
 <h5><span style="color: #ffffff;">Featured Aviation Case Study</span></h5>
-<h4><a href="../eagle-county-regional-airport-expansion-remodel/index.html">Eagle County Regional Airport Expansion Remodel</a></h4>
+<h4><a href="{{route('projects.eagle-county-regional-airport-expansion-remodel')}}">Eagle County Regional Airport Expansion Remodel</a></h4>
 
                                         </div>
 
@@ -2023,5 +2018,4 @@ var headJS = {"ajaxurl":"https:\/\/henselphelps.com\/wp-admin\/admin-ajax.php","
 </script>
 </body>
 
-<!-- Mirrored from henselphelps.com/project/allure-apollo/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 04 Feb 2023 18:09:04 GMT -->
 </html>

@@ -1517,7 +1517,7 @@
                         <span>Alaska Airlines North Main Terminal Redevelopment Project at SEA</span>
 
                         <a
-                            href="../project/alaska-airlines-north-main-terminal-redevelopment-project-at-sea/index.html')}}" ><i
+                            href="{{route('projects.alaska-airlines-north-main-terminal-redevelopment-project-at-sea')}}')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -2959,7 +2959,7 @@
 
                         <span>Eagle County Regional Airport Expansion and Remodel</span>
 
-                        <a href="../project/eagle-county-regional-airport-expansion-remodel/index.html')}}" ><i
+                        <a href="{{route('projects.eagle-county-regional-airport-expansion-remodel')}}')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -3116,7 +3116,7 @@
 
                         <span>Allure Apollo</span>
 
-                        <a href="../project/allure-apollo/index.html')}}" ><i class="fa fa-arrow-circle-right"
+                        <a href="{{route('projects.allure-apollo')}}" ><i class="fa fa-arrow-circle-right"
                                 aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -3458,7 +3458,7 @@
 
                         <span>Aegis Ashore Missile Defense Test Complex</span>
 
-                        <a href="../project/aegis-ashore-missile-defense-test-complex/index.html')}}" ><i
+                        <a href="{{route('projects.aegis-ashore-missile-defense-test-complex')}}')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
