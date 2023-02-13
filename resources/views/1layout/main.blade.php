@@ -116,15 +116,11 @@
                         <li id="menu-item-116"
                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-116"><a
                                 href="{{route('what-we-do.index')}}" >What We Do</a></li>
-                        <li id="menu-item-105"
-                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-105"><a
-                                href="{{route('careers.index')}}">Careers</a></li>
+                        
                         <li id="menu-item-4379"
                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4379"><a
                                 href="{{route('about.ourway')}}" >The Alticor Inc Way</a></li>
-                        <li id="menu-item-2779"
-                            class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2779"><a
-                                href="{{route('about.trade-partners')}}">Trade Partners</a></li>
+                        
                         <li id="menu-item-5227"
                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5227"><a
                                 href="about.sustainability-corporate-governance/index.html" >Sustainability and Corporate

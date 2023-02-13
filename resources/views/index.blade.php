@@ -382,14 +382,7 @@
         </div>
     </div>
 
-    <div class="cta-block-wrap" style="background-image:url(wp-content/uploads/2017/02/career-bg.jpg')}});">
-        <div class="cta-block">
-            <div class="cta-block-content">
-                <h3>Build Your Own Legacy</h3>
-                <a href="{{route('careers.index')}}" class="btn">View Career Opportunities</a>
-            </div>
-        </div>
-    </div>
+    
 @endsection
 
     
