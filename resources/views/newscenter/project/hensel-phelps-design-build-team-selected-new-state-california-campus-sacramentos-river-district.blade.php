@@ -246,7 +246,7 @@
                 
 
                 
-                <div class="my-post-image"><img width="1000" height="716" src="{{asset('wp-content/uploads/2020/02/1_RBOC-Plaza-View.jpg')}}"  class="attachment-full size-full wp-post-image" alt="" srcset="/wp-content/uploads/2020/02/1_RBOC-Plaza-View.jpg 1000w, /wp-content/uploads/2020/02/1_RBOC-Plaza-View-300x215.jpg 300w, /wp-content/uploads/2020/02/1_RBOC-Plaza-View-768x550.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></div>
+                <div class="my-post-image"><img width="1000" height="716" src="{{asset('wp-content/uploads/2020/02/1_RBOC-Plaza-View.jpg')}}"  class="attachment-full size-full wp-post-image" alt="" srcset="{{asset('wp-content/uploads/2020/02/1_RBOC-Plaza-View.jpg 1000w, {{asset('wp-content/uploads/2020/02/1_RBOC-Plaza-View-300x215.jpg 300w, {{asset('wp-content/uploads/2020/02/1_RBOC-Plaza-View-768x550.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></div>
 
                 
                 

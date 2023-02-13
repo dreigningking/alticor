@@ -236,7 +236,7 @@
                 
 
                 
-                <div class="my-post-image"><img width="1319" height="737" src="{{asset('wp-content/uploads/2020/03/Rendering-1.jpg')}}"  class="attachment-full size-full wp-post-image" alt="" srcset="/wp-content/uploads/2020/03/Rendering-1.jpg 1319w, /wp-content/uploads/2020/03/Rendering-1-300x168.jpg 300w, /wp-content/uploads/2020/03/Rendering-1-768x429.jpg 768w, /wp-content/uploads/2020/03/Rendering-1-1024x572.jpg 1024w" sizes="(max-width: 1319px) 100vw, 1319px" /></div>
+                <div class="my-post-image"><img width="1319" height="737" src="{{asset('wp-content/uploads/2020/03/Rendering-1.jpg')}}"  class="attachment-full size-full wp-post-image" alt="" srcset="{{asset('wp-content/uploads/2020/03/Rendering-1.jpg 1319w, {{asset('wp-content/uploads/2020/03/Rendering-1-300x168.jpg 300w, {{asset('wp-content/uploads/2020/03/Rendering-1-768x429.jpg 768w, {{asset('wp-content/uploads/2020/03/Rendering-1-1024x572.jpg 1024w" sizes="(max-width: 1319px) 100vw, 1319px" /></div>
 
                 
                 

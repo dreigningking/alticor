@@ -329,7 +329,7 @@
                             <img width="1000" height="600"
                                 src="{{ asset('wp-content/uploads/2017/07/CYO-Rick-Tucker-and-family.jpg') }}"
                                 class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt=""
-                                srcset="/wp-content/uploads/2017/07/CYO-Rick-Tucker-and-family.jpg 1000w, /wp-content/uploads/2017/07/CYO-Rick-Tucker-and-family-300x180.jpg 300w, /wp-content/uploads/2017/07/CYO-Rick-Tucker-and-family-768x461.jpg 768w, /wp-content/uploads/2017/07/CYO-Rick-Tucker-and-family-372x224.jpg 372w"
+                                srcset="{{asset('wp-content/uploads/2017/07/CYO-Rick-Tucker-and-family.jpg 1000w, {{asset('wp-content/uploads/2017/07/CYO-Rick-Tucker-and-family-300x180.jpg 300w, {{asset('wp-content/uploads/2017/07/CYO-Rick-Tucker-and-family-768x461.jpg 768w, {{asset('wp-content/uploads/2017/07/CYO-Rick-Tucker-and-family-372x224.jpg 372w"
                                 sizes="(max-width: 1000px) 100vw, 1000px" />
 
 
@@ -373,7 +373,7 @@
                                 src="{{ asset('wp-content/uploads/2017/08/Hensel-Phelps-Mike-Choutka-President-.jpg') }}"
                                 class="attachment-post-thumbnail size-post-thumbnail wp-post-image"
                                 alt="Alticor Inc President" loading="lazy"
-                                srcset="/wp-content/uploads/2017/08/Hensel-Phelps-Mike-Choutka-President-.jpg 1000w, /wp-content/uploads/2017/08/Hensel-Phelps-Mike-Choutka-President--300x180.jpg 300w, /wp-content/uploads/2017/08/Hensel-Phelps-Mike-Choutka-President--768x461.jpg 768w, /wp-content/uploads/2017/08/Hensel-Phelps-Mike-Choutka-President--372x224.jpg 372w"
+                                srcset="{{asset('wp-content/uploads/2017/08/Hensel-Phelps-Mike-Choutka-President-.jpg 1000w, {{asset('wp-content/uploads/2017/08/Hensel-Phelps-Mike-Choutka-President--300x180.jpg 300w, {{asset('wp-content/uploads/2017/08/Hensel-Phelps-Mike-Choutka-President--768x461.jpg 768w, {{asset('wp-content/uploads/2017/08/Hensel-Phelps-Mike-Choutka-President--372x224.jpg 372w"
                                 sizes="(max-width: 1000px) 100vw, 1000px" />
 
 
@@ -417,7 +417,7 @@
                                 src="{{ asset('wp-content/uploads/2017/07/Attachment-1_Brad-J.jpg') }}"
                                 class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt=""
                                 loading="lazy"
-                                srcset="/wp-content/uploads/2017/07/Attachment-1_Brad-J.jpg 1000w, /wp-content/uploads/2017/07/Attachment-1_Brad-J-300x180.jpg 300w, /wp-content/uploads/2017/07/Attachment-1_Brad-J-768x461.jpg 768w, /wp-content/uploads/2017/07/Attachment-1_Brad-J-372x224.jpg 372w"
+                                srcset="{{asset('wp-content/uploads/2017/07/Attachment-1_Brad-J.jpg 1000w, {{asset('wp-content/uploads/2017/07/Attachment-1_Brad-J-300x180.jpg 300w, {{asset('wp-content/uploads/2017/07/Attachment-1_Brad-J-768x461.jpg 768w, {{asset('wp-content/uploads/2017/07/Attachment-1_Brad-J-372x224.jpg 372w"
                                 sizes="(max-width: 1000px) 100vw, 1000px" />
 
 
@@ -461,7 +461,7 @@
                                 src="{{ asset('wp-content/uploads/2017/07/IMG_4441_Allan-B.jpg') }}"
                                 class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt=""
                                 loading="lazy"
-                                srcset="/wp-content/uploads/2017/07/IMG_4441_Allan-B.jpg 1000w, /wp-content/uploads/2017/07/IMG_4441_Allan-B-300x180.jpg 300w, /wp-content/uploads/2017/07/IMG_4441_Allan-B-768x461.jpg 768w, /wp-content/uploads/2017/07/IMG_4441_Allan-B-372x224.jpg 372w"
+                                srcset="{{asset('wp-content/uploads/2017/07/IMG_4441_Allan-B.jpg 1000w, {{asset('wp-content/uploads/2017/07/IMG_4441_Allan-B-300x180.jpg 300w, {{asset('wp-content/uploads/2017/07/IMG_4441_Allan-B-768x461.jpg 768w, {{asset('wp-content/uploads/2017/07/IMG_4441_Allan-B-372x224.jpg 372w"
                                 sizes="(max-width: 1000px) 100vw, 1000px" />
 
 
@@ -505,7 +505,7 @@
                                 src="{{ asset('wp-content/uploads/2021/01/Joel-B.-Douglass-Hensel-Phelps-Family.jpg') }}"
                                 class="attachment-post-thumbnail size-post-thumbnail wp-post-image"
                                 alt="Joel B. Douglass" loading="lazy"
-                                srcset="/wp-content/uploads/2021/01/Joel-B.-Douglass-Hensel-Phelps-Family.jpg 1000w, /wp-content/uploads/2021/01/Joel-B.-Douglass-Hensel-Phelps-Family-300x180.jpg 300w, /wp-content/uploads/2021/01/Joel-B.-Douglass-Hensel-Phelps-Family-768x461.jpg 768w, /wp-content/uploads/2021/01/Joel-B.-Douglass-Hensel-Phelps-Family-372x224.jpg 372w"
+                                srcset="{{asset('wp-content/uploads/2021/01/Joel-B.-Douglass-Hensel-Phelps-Family.jpg 1000w, {{asset('wp-content/uploads/2021/01/Joel-B.-Douglass-Hensel-Phelps-Family-300x180.jpg 300w, {{asset('wp-content/uploads/2021/01/Joel-B.-Douglass-Hensel-Phelps-Family-768x461.jpg 768w, {{asset('wp-content/uploads/2021/01/Joel-B.-Douglass-Hensel-Phelps-Family-372x224.jpg 372w"
                                 sizes="(max-width: 1000px) 100vw, 1000px" />
 
 
@@ -550,7 +550,7 @@
                                 src="{{ asset('wp-content/uploads/2017/07/Tom-D_4EDDC1F5-9960-41CE-ADB7-56C5B429A690.jpg') }}"
                                 class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt=""
                                 loading="lazy"
-                                srcset="/wp-content/uploads/2017/07/Tom-D_4EDDC1F5-9960-41CE-ADB7-56C5B429A690.jpg 1000w, /wp-content/uploads/2017/07/Tom-D_4EDDC1F5-9960-41CE-ADB7-56C5B429A690-300x180.jpg 300w, /wp-content/uploads/2017/07/Tom-D_4EDDC1F5-9960-41CE-ADB7-56C5B429A690-768x461.jpg 768w, /wp-content/uploads/2017/07/Tom-D_4EDDC1F5-9960-41CE-ADB7-56C5B429A690-372x224.jpg 372w"
+                                srcset="{{asset('wp-content/uploads/2017/07/Tom-D_4EDDC1F5-9960-41CE-ADB7-56C5B429A690.jpg 1000w, {{asset('wp-content/uploads/2017/07/Tom-D_4EDDC1F5-9960-41CE-ADB7-56C5B429A690-300x180.jpg 300w, {{asset('wp-content/uploads/2017/07/Tom-D_4EDDC1F5-9960-41CE-ADB7-56C5B429A690-768x461.jpg 768w, {{asset('wp-content/uploads/2017/07/Tom-D_4EDDC1F5-9960-41CE-ADB7-56C5B429A690-372x224.jpg 372w"
                                 sizes="(max-width: 1000px) 100vw, 1000px" />
 
 
@@ -593,7 +593,7 @@
                                 src="{{ asset('wp-content/uploads/2017/07/IMG_1599_Grauer.jpg') }}"
                                 class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt=""
                                 loading="lazy"
-                                srcset="/wp-content/uploads/2017/07/IMG_1599_Grauer.jpg 1000w, /wp-content/uploads/2017/07/IMG_1599_Grauer-300x180.jpg 300w, /wp-content/uploads/2017/07/IMG_1599_Grauer-768x461.jpg 768w, /wp-content/uploads/2017/07/IMG_1599_Grauer-372x224.jpg 372w"
+                                srcset="{{asset('wp-content/uploads/2017/07/IMG_1599_Grauer.jpg 1000w, {{asset('wp-content/uploads/2017/07/IMG_1599_Grauer-300x180.jpg 300w, {{asset('wp-content/uploads/2017/07/IMG_1599_Grauer-768x461.jpg 768w, {{asset('wp-content/uploads/2017/07/IMG_1599_Grauer-372x224.jpg 372w"
                                 sizes="(max-width: 1000px) 100vw, 1000px" />
 
 
@@ -636,7 +636,7 @@
                                 src="{{ asset('wp-content/uploads/2017/07/Will-Thompson-DSC_00211.jpg') }}"
                                 class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt=""
                                 loading="lazy"
-                                srcset="/wp-content/uploads/2017/07/Will-Thompson-DSC_00211.jpg 1000w, /wp-content/uploads/2017/07/Will-Thompson-DSC_00211-300x180.jpg 300w, /wp-content/uploads/2017/07/Will-Thompson-DSC_00211-768x461.jpg 768w, /wp-content/uploads/2017/07/Will-Thompson-DSC_00211-372x224.jpg 372w"
+                                srcset="{{asset('wp-content/uploads/2017/07/Will-Thompson-DSC_00211.jpg 1000w, {{asset('wp-content/uploads/2017/07/Will-Thompson-DSC_00211-300x180.jpg 300w, {{asset('wp-content/uploads/2017/07/Will-Thompson-DSC_00211-768x461.jpg 768w, {{asset('wp-content/uploads/2017/07/Will-Thompson-DSC_00211-372x224.jpg 372w"
                                 sizes="(max-width: 1000px) 100vw, 1000px" />
 
 
@@ -679,7 +679,7 @@
                                 src="{{ asset('wp-content/uploads/2017/08/Hensel-Phelps-Team-Michelle.jpg') }}"
                                 class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt=""
                                 loading="lazy"
-                                srcset="/wp-content/uploads/2017/08/Hensel-Phelps-Team-Michelle.jpg 1000w, /wp-content/uploads/2017/08/Hensel-Phelps-Team-Michelle-300x180.jpg 300w, /wp-content/uploads/2017/08/Hensel-Phelps-Team-Michelle-768x461.jpg 768w, /wp-content/uploads/2017/08/Hensel-Phelps-Team-Michelle-372x224.jpg 372w"
+                                srcset="{{asset('wp-content/uploads/2017/08/Hensel-Phelps-Team-Michelle.jpg 1000w, {{asset('wp-content/uploads/2017/08/Hensel-Phelps-Team-Michelle-300x180.jpg 300w, {{asset('wp-content/uploads/2017/08/Hensel-Phelps-Team-Michelle-768x461.jpg 768w, {{asset('wp-content/uploads/2017/08/Hensel-Phelps-Team-Michelle-372x224.jpg 372w"
                                 sizes="(max-width: 1000px) 100vw, 1000px" />
 
 
@@ -722,7 +722,7 @@
                                 src="{{ asset('wp-content/uploads/2017/07/Brad-Cole-Fishing_Brad-W.jpg') }}"
                                 class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt=""
                                 loading="lazy"
-                                srcset="/wp-content/uploads/2017/07/Brad-Cole-Fishing_Brad-W.jpg 1000w, /wp-content/uploads/2017/07/Brad-Cole-Fishing_Brad-W-300x180.jpg 300w, /wp-content/uploads/2017/07/Brad-Cole-Fishing_Brad-W-768x461.jpg 768w, /wp-content/uploads/2017/07/Brad-Cole-Fishing_Brad-W-372x224.jpg 372w"
+                                srcset="{{asset('wp-content/uploads/2017/07/Brad-Cole-Fishing_Brad-W.jpg 1000w, {{asset('wp-content/uploads/2017/07/Brad-Cole-Fishing_Brad-W-300x180.jpg 300w, {{asset('wp-content/uploads/2017/07/Brad-Cole-Fishing_Brad-W-768x461.jpg 768w, {{asset('wp-content/uploads/2017/07/Brad-Cole-Fishing_Brad-W-372x224.jpg 372w"
                                 sizes="(max-width: 1000px) 100vw, 1000px" />
 
 
@@ -766,7 +766,7 @@
                                 src="{{ asset('wp-content/uploads/2017/07/Laird-Heikens-Profile-Photo_Adjusted_HW-2.jpg') }}"
                                 class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt=""
                                 loading="lazy"
-                                srcset="/wp-content/uploads/2017/07/Laird-Heikens-Profile-Photo_Adjusted_HW-2.jpg 1000w, /wp-content/uploads/2017/07/Laird-Heikens-Profile-Photo_Adjusted_HW-2-300x180.jpg 300w, /wp-content/uploads/2017/07/Laird-Heikens-Profile-Photo_Adjusted_HW-2-768x461.jpg 768w, /wp-content/uploads/2017/07/Laird-Heikens-Profile-Photo_Adjusted_HW-2-372x224.jpg 372w"
+                                srcset="{{asset('wp-content/uploads/2017/07/Laird-Heikens-Profile-Photo_Adjusted_HW-2.jpg 1000w, {{asset('wp-content/uploads/2017/07/Laird-Heikens-Profile-Photo_Adjusted_HW-2-300x180.jpg 300w, {{asset('wp-content/uploads/2017/07/Laird-Heikens-Profile-Photo_Adjusted_HW-2-768x461.jpg 768w, {{asset('wp-content/uploads/2017/07/Laird-Heikens-Profile-Photo_Adjusted_HW-2-372x224.jpg 372w"
                                 sizes="(max-width: 1000px) 100vw, 1000px" />
 
 
@@ -810,7 +810,7 @@
                                 src="{{ asset('wp-content/uploads/2017/07/Jenny-Sholz-Hensel-Phelps.jpg') }}"
                                 class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt=""
                                 loading="lazy"
-                                srcset="/wp-content/uploads/2017/07/Jenny-Sholz-Hensel-Phelps.jpg 1000w, /wp-content/uploads/2017/07/Jenny-Sholz-Hensel-Phelps-300x180.jpg 300w, /wp-content/uploads/2017/07/Jenny-Sholz-Hensel-Phelps-768x461.jpg 768w, /wp-content/uploads/2017/07/Jenny-Sholz-Hensel-Phelps-372x224.jpg 372w"
+                                srcset="{{asset('wp-content/uploads/2017/07/Jenny-Sholz-Hensel-Phelps.jpg 1000w, {{asset('wp-content/uploads/2017/07/Jenny-Sholz-Hensel-Phelps-300x180.jpg 300w, {{asset('wp-content/uploads/2017/07/Jenny-Sholz-Hensel-Phelps-768x461.jpg 768w, {{asset('wp-content/uploads/2017/07/Jenny-Sholz-Hensel-Phelps-372x224.jpg 372w"
                                 sizes="(max-width: 1000px) 100vw, 1000px" />
 
 
@@ -853,7 +853,7 @@
                                 src="{{ asset('wp-content/uploads/2017/07/2543-1.jpg') }}"
                                 class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt=""
                                 loading="lazy"
-                                srcset="/wp-content/uploads/2017/07/2543-1.jpg 1000w, /wp-content/uploads/2017/07/2543-1-300x180.jpg 300w, /wp-content/uploads/2017/07/2543-1-768x461.jpg 768w, /wp-content/uploads/2017/07/2543-1-372x224.jpg 372w"
+                                srcset="{{asset('wp-content/uploads/2017/07/2543-1.jpg 1000w, {{asset('wp-content/uploads/2017/07/2543-1-300x180.jpg 300w, {{asset('wp-content/uploads/2017/07/2543-1-768x461.jpg 768w, {{asset('wp-content/uploads/2017/07/2543-1-372x224.jpg 372w"
                                 sizes="(max-width: 1000px) 100vw, 1000px" />
 
 
@@ -896,7 +896,7 @@
                                 src="{{ asset('wp-content/uploads/2017/01/Shannon-Hensel-Phelps_resized.jpg') }}"
                                 class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt=""
                                 loading="lazy"
-                                srcset="/wp-content/uploads/2017/01/Shannon-Hensel-Phelps_resized.jpg 1000w, /wp-content/uploads/2017/01/Shannon-Hensel-Phelps_resized-300x180.jpg 300w, /wp-content/uploads/2017/01/Shannon-Hensel-Phelps_resized-768x461.jpg 768w, /wp-content/uploads/2017/01/Shannon-Hensel-Phelps_resized-372x224.jpg 372w"
+                                srcset="{{asset('wp-content/uploads/2017/01/Shannon-Hensel-Phelps_resized.jpg 1000w, {{asset('wp-content/uploads/2017/01/Shannon-Hensel-Phelps_resized-300x180.jpg 300w, {{asset('wp-content/uploads/2017/01/Shannon-Hensel-Phelps_resized-768x461.jpg 768w, {{asset('wp-content/uploads/2017/01/Shannon-Hensel-Phelps_resized-372x224.jpg 372w"
                                 sizes="(max-width: 1000px) 100vw, 1000px" />
 
 
@@ -939,7 +939,7 @@
                                 src="{{ asset('wp-content/uploads/2021/01/Derek-H.-Hoffine-Family.jpg') }}"
                                 class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt=""
                                 loading="lazy"
-                                srcset="/wp-content/uploads/2021/01/Derek-H.-Hoffine-Family.jpg 1000w, /wp-content/uploads/2021/01/Derek-H.-Hoffine-Family-300x180.jpg 300w, /wp-content/uploads/2021/01/Derek-H.-Hoffine-Family-768x461.jpg 768w, /wp-content/uploads/2021/01/Derek-H.-Hoffine-Family-372x224.jpg 372w"
+                                srcset="{{asset('wp-content/uploads/2021/01/Derek-H.-Hoffine-Family.jpg 1000w, {{asset('wp-content/uploads/2021/01/Derek-H.-Hoffine-Family-300x180.jpg 300w, {{asset('wp-content/uploads/2021/01/Derek-H.-Hoffine-Family-768x461.jpg 768w, {{asset('wp-content/uploads/2021/01/Derek-H.-Hoffine-Family-372x224.jpg 372w"
                                 sizes="(max-width: 1000px) 100vw, 1000px" />
 
 
@@ -982,7 +982,7 @@
                                 src="{{ asset('wp-content/uploads/2023/01/Scott-Bills-Family-Hensel-Phelps.jpg') }}"
                                 class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt=""
                                 loading="lazy"
-                                srcset="/wp-content/uploads/2023/01/Scott-Bills-Family-Hensel-Phelps.jpg 1000w, /wp-content/uploads/2023/01/Scott-Bills-Family-Hensel-Phelps-300x180.jpg 300w, /wp-content/uploads/2023/01/Scott-Bills-Family-Hensel-Phelps-768x461.jpg 768w, /wp-content/uploads/2023/01/Scott-Bills-Family-Hensel-Phelps-372x224.jpg 372w"
+                                srcset="{{asset('wp-content/uploads/2023/01/Scott-Bills-Family-Hensel-Phelps.jpg 1000w, {{asset('wp-content/uploads/2023/01/Scott-Bills-Family-Hensel-Phelps-300x180.jpg 300w, {{asset('wp-content/uploads/2023/01/Scott-Bills-Family-Hensel-Phelps-768x461.jpg 768w, {{asset('wp-content/uploads/2023/01/Scott-Bills-Family-Hensel-Phelps-372x224.jpg 372w"
                                 sizes="(max-width: 1000px) 100vw, 1000px" />
 
 
@@ -1025,7 +1025,7 @@
                                 src="{{ asset('wp-content/uploads/2017/08/Justin-Starnes-and-Family-Hensel-Phelps.jpg') }}"
                                 class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt=""
                                 loading="lazy"
-                                srcset="/wp-content/uploads/2017/08/Justin-Starnes-and-Family-Hensel-Phelps.jpg 1000w, /wp-content/uploads/2017/08/Justin-Starnes-and-Family-Hensel-Phelps-300x180.jpg 300w, /wp-content/uploads/2017/08/Justin-Starnes-and-Family-Hensel-Phelps-768x461.jpg 768w, /wp-content/uploads/2017/08/Justin-Starnes-and-Family-Hensel-Phelps-372x224.jpg 372w"
+                                srcset="{{asset('wp-content/uploads/2017/08/Justin-Starnes-and-Family-Hensel-Phelps.jpg 1000w, {{asset('wp-content/uploads/2017/08/Justin-Starnes-and-Family-Hensel-Phelps-300x180.jpg 300w, {{asset('wp-content/uploads/2017/08/Justin-Starnes-and-Family-Hensel-Phelps-768x461.jpg 768w, {{asset('wp-content/uploads/2017/08/Justin-Starnes-and-Family-Hensel-Phelps-372x224.jpg 372w"
                                 sizes="(max-width: 1000px) 100vw, 1000px" />
 
 

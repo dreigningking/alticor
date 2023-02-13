@@ -246,7 +246,7 @@
                 
 
                 
-                <div class="my-post-image"><img width="1920" height="1080" src="{{asset('wp-content/uploads/2020/12/Untitled-2-01.jpg')}}"  class="attachment-full size-full wp-post-image" alt="" srcset="/wp-content/uploads/2020/12/Untitled-2-01.jpg 1920w, /wp-content/uploads/2020/12/Untitled-2-01-300x169.jpg 300w, /wp-content/uploads/2020/12/Untitled-2-01-1024x576.jpg 1024w, /wp-content/uploads/2020/12/Untitled-2-01-768x432.jpg 768w, /wp-content/uploads/2020/12/Untitled-2-01-1536x864.jpg 1536w" sizes="(max-width: 1920px) 100vw, 1920px" /></div>
+                <div class="my-post-image"><img width="1920" height="1080" src="{{asset('wp-content/uploads/2020/12/Untitled-2-01.jpg')}}"  class="attachment-full size-full wp-post-image" alt="" srcset="{{asset('wp-content/uploads/2020/12/Untitled-2-01.jpg 1920w, {{asset('wp-content/uploads/2020/12/Untitled-2-01-300x169.jpg 300w, {{asset('wp-content/uploads/2020/12/Untitled-2-01-1024x576.jpg 1024w, {{asset('wp-content/uploads/2020/12/Untitled-2-01-768x432.jpg 768w, {{asset('wp-content/uploads/2020/12/Untitled-2-01-1536x864.jpg 1536w" sizes="(max-width: 1920px) 100vw, 1920px" /></div>
 
                 
                 
@@ -271,7 +271,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="214" src="{{asset('wp-content/uploads/2022/11/NIA_Modular-Construction4-cropped-1024x214.jpg')}}"  alt="" class="wp-image-15576" srcset="/wp-content/uploads/2022/11/NIA_Modular-Construction4-cropped-1024x214.jpg 1024w, /wp-content/uploads/2022/11/NIA_Modular-Construction4-cropped-300x63.jpg 300w, /wp-content/uploads/2022/11/NIA_Modular-Construction4-cropped-768x160.jpg 768w, /wp-content/uploads/2022/11/NIA_Modular-Construction4-cropped-1536x321.jpg 1536w, /wp-content/uploads/2022/11/NIA_Modular-Construction4-cropped-2048x427.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Progress of a module from construction at the off-site manufacturing plant to setting on foundations on-site through final completion.</figcaption></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="214" src="{{asset('wp-content/uploads/2022/11/NIA_Modular-Construction4-cropped-1024x214.jpg')}}"  alt="" class="wp-image-15576" srcset="{{asset('wp-content/uploads/2022/11/NIA_Modular-Construction4-cropped-1024x214.jpg 1024w, {{asset('wp-content/uploads/2022/11/NIA_Modular-Construction4-cropped-300x63.jpg 300w, {{asset('wp-content/uploads/2022/11/NIA_Modular-Construction4-cropped-768x160.jpg 768w, {{asset('wp-content/uploads/2022/11/NIA_Modular-Construction4-cropped-1536x321.jpg 1536w, {{asset('wp-content/uploads/2022/11/NIA_Modular-Construction4-cropped-2048x427.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Progress of a module from construction at the off-site manufacturing plant to setting on foundations on-site through final completion.</figcaption></figure>
 
 
 
@@ -283,7 +283,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="217" src="{{asset('wp-content/uploads/2022/11/NIA_Modular-Construction2-1024x217.jpg')}}"  alt="" class="wp-image-15577" srcset="/wp-content/uploads/2022/11/NIA_Modular-Construction2-1024x217.jpg 1024w, /wp-content/uploads/2022/11/NIA_Modular-Construction2-300x63.jpg 300w, /wp-content/uploads/2022/11/NIA_Modular-Construction2-768x162.jpg 768w, /wp-content/uploads/2022/11/NIA_Modular-Construction2-1536x325.jpg 1536w, /wp-content/uploads/2022/11/NIA_Modular-Construction2-2048x433.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Each module was wrapped in Tyvek for protection during their journey from Florida to Maryland. On-site, they were set to the foundation system using meld plates. </figcaption></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="217" src="{{asset('wp-content/uploads/2022/11/NIA_Modular-Construction2-1024x217.jpg')}}"  alt="" class="wp-image-15577" srcset="{{asset('wp-content/uploads/2022/11/NIA_Modular-Construction2-1024x217.jpg 1024w, {{asset('wp-content/uploads/2022/11/NIA_Modular-Construction2-300x63.jpg 300w, {{asset('wp-content/uploads/2022/11/NIA_Modular-Construction2-768x162.jpg 768w, {{asset('wp-content/uploads/2022/11/NIA_Modular-Construction2-1536x325.jpg 1536w, {{asset('wp-content/uploads/2022/11/NIA_Modular-Construction2-2048x433.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Each module was wrapped in Tyvek for protection during their journey from Florida to Maryland. On-site, they were set to the foundation system using meld plates. </figcaption></figure>
 
 
 

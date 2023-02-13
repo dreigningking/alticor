@@ -239,7 +239,7 @@
                 
 
                 
-                <div class="my-post-image"><img width="675" height="380" src="{{asset('wp-content/uploads/2022/08/BNA-Exterior-Reduced.png')}}" class="attachment-full size-full wp-post-image" alt="" srcset="/wp-content/uploads/2022/08/BNA-Exterior-Reduced.png 675w, /wp-content/uploads/2022/08/BNA-Exterior-Reduced-300x169.png 300w" sizes="(max-width: 675px) 100vw, 675px" /></div>
+                <div class="my-post-image"><img width="675" height="380" src="{{asset('wp-content/uploads/2022/08/BNA-Exterior-Reduced.png')}}" class="attachment-full size-full wp-post-image" alt="" srcset="{{asset('wp-content/uploads/2022/08/BNA-Exterior-Reduced.png')}} 675w, {{asset('wp-content/uploads/2022/08/BNA-Exterior-Reduced-300x169.png')}} 300w" sizes="(max-width: 675px) 100vw, 675px" /></div>
 
                 
                 
@@ -256,7 +256,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="302" src="{{asset('wp-content/uploads/2022/08/Screen-Shot-2022-08-18-at-8.57.13-AM-1024x302.png')}}" alt="" class="wp-image-14791" srcset="/wp-content/uploads/2022/08/Screen-Shot-2022-08-18-at-8.57.13-AM-1024x302.png 1024w, /wp-content/uploads/2022/08/Screen-Shot-2022-08-18-at-8.57.13-AM-300x88.png 300w, /wp-content/uploads/2022/08/Screen-Shot-2022-08-18-at-8.57.13-AM-768x226.png 768w, /wp-content/uploads/2022/08/Screen-Shot-2022-08-18-at-8.57.13-AM-1536x453.png 1536w, /wp-content/uploads/2022/08/Screen-Shot-2022-08-18-at-8.57.13-AM.png 1690w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="302" src="{{asset('wp-content/uploads/2022/08/Screen-Shot-2022-08-18-at-8.57.13-AM-1024x302.png')}}" alt="" class="wp-image-14791" srcset="{{asset('wp-content/uploads/2022/08/Screen-Shot-2022-08-18-at-8.57.13-AM-1024x302.png')}} 1024w, {{asset('wp-content/uploads/2022/08/Screen-Shot-2022-08-18-at-8.57.13-AM-300x88.png')}} 300w, {{asset('wp-content/uploads/2022/08/Screen-Shot-2022-08-18-at-8.57.13-AM-768x226.png')}} 768w, {{asset('wp-content/uploads/2022/08/Screen-Shot-2022-08-18-at-8.57.13-AM-1536x453.png')}} 1536w, {{asset('wp-content/uploads/2022/08/Screen-Shot-2022-08-18-at-8.57.13-AM.png')}} 1690w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

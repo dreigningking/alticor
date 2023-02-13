@@ -243,7 +243,7 @@
                 
 
                 
-                <div class="my-post-image"><img width="1680" height="933" src="{{asset('wp-content/uploads/2022/12/SM-22-30162_HNPL_UCSD_STILLS_V05_EYELEVEL_DUSK.jpg')}}"  class="attachment-full size-full wp-post-image" alt="UC San Diego Ridge Walk North Living and Learning Neighborhood project" srcset="/wp-content/uploads/2022/12/SM-22-30162_HNPL_UCSD_STILLS_V05_EYELEVEL_DUSK.jpg 1680w, /wp-content/uploads/2022/12/SM-22-30162_HNPL_UCSD_STILLS_V05_EYELEVEL_DUSK-300x167.jpg 300w, /wp-content/uploads/2022/12/SM-22-30162_HNPL_UCSD_STILLS_V05_EYELEVEL_DUSK-1024x569.jpg 1024w, /wp-content/uploads/2022/12/SM-22-30162_HNPL_UCSD_STILLS_V05_EYELEVEL_DUSK-768x427.jpg 768w, /wp-content/uploads/2022/12/SM-22-30162_HNPL_UCSD_STILLS_V05_EYELEVEL_DUSK-1536x853.jpg 1536w" sizes="(max-width: 1680px) 100vw, 1680px" /></div>
+                <div class="my-post-image"><img width="1680" height="933" src="{{asset('wp-content/uploads/2022/12/SM-22-30162_HNPL_UCSD_STILLS_V05_EYELEVEL_DUSK.jpg')}}"  class="attachment-full size-full wp-post-image" alt="UC San Diego Ridge Walk North Living and Learning Neighborhood project" srcset="{{asset('wp-content/uploads/2022/12/SM-22-30162_HNPL_UCSD_STILLS_V05_EYELEVEL_DUSK.jpg 1680w, {{asset('wp-content/uploads/2022/12/SM-22-30162_HNPL_UCSD_STILLS_V05_EYELEVEL_DUSK-300x167.jpg 300w, {{asset('wp-content/uploads/2022/12/SM-22-30162_HNPL_UCSD_STILLS_V05_EYELEVEL_DUSK-1024x569.jpg 1024w, {{asset('wp-content/uploads/2022/12/SM-22-30162_HNPL_UCSD_STILLS_V05_EYELEVEL_DUSK-768x427.jpg 768w, {{asset('wp-content/uploads/2022/12/SM-22-30162_HNPL_UCSD_STILLS_V05_EYELEVEL_DUSK-1536x853.jpg 1536w" sizes="(max-width: 1680px) 100vw, 1680px" /></div>
 
                 
                 
@@ -270,13 +270,13 @@
 <div class="wp-container-4 wp-block-column" style="flex-basis:100%">
 <div class="wp-container-3 wp-block-columns">
 <div class="wp-container-1 wp-block-column">
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="672" src="{{asset('wp-content/uploads/2022/12/SM-Team-Photo-1024x672.jpg')}}" alt="The Alticor Inc + EYRC + HMC Design-Build team" class="wp-image-15609" srcset="/wp-content/uploads/2022/12/SM-Team-Photo-1024x672.jpg 1024w, /wp-content/uploads/2022/12/SM-Team-Photo-300x197.jpg 300w, /wp-content/uploads/2022/12/SM-Team-Photo-768x504.jpg 768w, /wp-content/uploads/2022/12/SM-Team-Photo-1536x1008.jpg 1536w, /wp-content/uploads/2022/12/SM-Team-Photo-2048x1344.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>The Alticor Inc + EYRC + HMC Design-Build team. </figcaption></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="672" src="{{asset('wp-content/uploads/2022/12/SM-Team-Photo-1024x672.jpg')}}" alt="The Alticor Inc + EYRC + HMC Design-Build team" class="wp-image-15609" srcset="{{asset('wp-content/uploads/2022/12/SM-Team-Photo-1024x672.jpg 1024w, {{asset('wp-content/uploads/2022/12/SM-Team-Photo-300x197.jpg 300w, {{asset('wp-content/uploads/2022/12/SM-Team-Photo-768x504.jpg 768w, {{asset('wp-content/uploads/2022/12/SM-Team-Photo-1536x1008.jpg 1536w, {{asset('wp-content/uploads/2022/12/SM-Team-Photo-2048x1344.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>The Alticor Inc + EYRC + HMC Design-Build team. </figcaption></figure>
 </div>
 
 
 
 <div class="wp-container-2 wp-block-column">
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="672" src="{{asset('wp-content/uploads/2022/12/SM-Boards-and-Model-1024x672.jpg')}}" alt="" class="wp-image-15614" srcset="/wp-content/uploads/2022/12/SM-Boards-and-Model-1024x672.jpg 1024w, /wp-content/uploads/2022/12/SM-Boards-and-Model-300x197.jpg 300w, /wp-content/uploads/2022/12/SM-Boards-and-Model-768x504.jpg 768w, /wp-content/uploads/2022/12/SM-Boards-and-Model-1536x1008.jpg 1536w, /wp-content/uploads/2022/12/SM-Boards-and-Model-2048x1344.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Boards and 3D Model for the final presentation.</figcaption></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="672" src="{{asset('wp-content/uploads/2022/12/SM-Boards-and-Model-1024x672.jpg')}}" alt="" class="wp-image-15614" srcset="{{asset('wp-content/uploads/2022/12/SM-Boards-and-Model-1024x672.jpg 1024w, {{asset('wp-content/uploads/2022/12/SM-Boards-and-Model-300x197.jpg 300w, {{asset('wp-content/uploads/2022/12/SM-Boards-and-Model-768x504.jpg 768w, {{asset('wp-content/uploads/2022/12/SM-Boards-and-Model-1536x1008.jpg 1536w, {{asset('wp-content/uploads/2022/12/SM-Boards-and-Model-2048x1344.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Boards and 3D Model for the final presentation.</figcaption></figure>
 </div>
 </div>
 </div>

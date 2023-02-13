@@ -244,7 +244,7 @@
                 
 
                 
-                <div class="my-post-image"><img width="1000" height="621" src="{{asset('wp-content/uploads/2021/12/Reduced-1.png')}}" class="attachment-full size-full wp-post-image" alt="" srcset="/wp-content/uploads/2021/12/Reduced-1.png 1000w, /wp-content/uploads/2021/12/Reduced-1-300x186.png 300w, /wp-content/uploads/2021/12/Reduced-1-768x477.png 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></div>
+                <div class="my-post-image"><img width="1000" height="621" src="{{asset('wp-content/uploads/2021/12/Reduced-1.png')}}" class="attachment-full size-full wp-post-image" alt="" srcset="{{asset('wp-content/uploads/2021/12/Reduced-1.png')}} 1000w, {{asset('wp-content/uploads/2021/12/Reduced-1-300x186.png')}} 300w, {{asset('wp-content/uploads/2021/12/Reduced-1-768x477.png')}} 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></div>
 
                 
                 

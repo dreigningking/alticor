@@ -50,7 +50,7 @@
                 <h2><img class="size-medium wp-image-8428 alignright"
                         src="{{ asset('wp-content/uploads/2017/04/118.3-2019-Sustainability-Graphic-300x221.png') }}"
                         alt="" width="300" height="221"
-                        srcset="/wp-content/uploads/2017/04/118.3-2019-Sustainability-Graphic-300x221.png 300w, /wp-content/uploads/2017/04/118.3-2019-Sustainability-Graphic-768x566.png 768w, /wp-content/uploads/2017/04/118.3-2019-Sustainability-Graphic-1024x755.png 1024w"
+                        srcset="{{asset('wp-content/uploads/2017/04/118.3-2019-Sustainability-Graphic-300x221.png')}} 300w, {{asset('wp-content/uploads/2017/04/118.3-2019-Sustainability-Graphic-768x566.png')}} 768w, {{asset('wp-content/uploads/2017/04/118.3-2019-Sustainability-Graphic-1024x755.png')}} 1024w"
                         sizes="(max-width: 300px) 100vw, 300px" /></h2>
                 <p>Thinking sustainably is second nature for project teams at Alticor Inc. Whether your project goals
                     include LEED certification, Net Zero energy or achieving a Well building, our expertise can help you

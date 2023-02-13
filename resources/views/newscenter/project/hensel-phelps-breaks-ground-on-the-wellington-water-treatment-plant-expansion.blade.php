@@ -249,7 +249,7 @@
                 
 
                 
-                <div class="my-post-image"><img width="2560" height="1021" src="{{asset('wp-content/uploads/2022/09/Wellington-Ground-Breaking-scaled.jpg')}}"  class="attachment-full size-full wp-post-image" alt="" srcset="/wp-content/uploads/2022/09/Wellington-Ground-Breaking-scaled.jpg 2560w, /wp-content/uploads/2022/09/Wellington-Ground-Breaking-300x120.jpg 300w, /wp-content/uploads/2022/09/Wellington-Ground-Breaking-1024x409.jpg 1024w, /wp-content/uploads/2022/09/Wellington-Ground-Breaking-768x306.jpg 768w, /wp-content/uploads/2022/09/Wellington-Ground-Breaking-1536x613.jpg 1536w, /wp-content/uploads/2022/09/Wellington-Ground-Breaking-2048x817.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px" /></div>
+                <div class="my-post-image"><img width="2560" height="1021" src="{{asset('wp-content/uploads/2022/09/Wellington-Ground-Breaking-scaled.jpg')}}"  class="attachment-full size-full wp-post-image" alt="" srcset="{{asset('wp-content/uploads/2022/09/Wellington-Ground-Breaking-scaled.jpg 2560w, {{asset('wp-content/uploads/2022/09/Wellington-Ground-Breaking-300x120.jpg 300w, {{asset('wp-content/uploads/2022/09/Wellington-Ground-Breaking-1024x409.jpg 1024w, {{asset('wp-content/uploads/2022/09/Wellington-Ground-Breaking-768x306.jpg 768w, {{asset('wp-content/uploads/2022/09/Wellington-Ground-Breaking-1536x613.jpg 1536w, {{asset('wp-content/uploads/2022/09/Wellington-Ground-Breaking-2048x817.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px" /></div>
 
                 
                 

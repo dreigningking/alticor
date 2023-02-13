@@ -239,7 +239,7 @@
                 
 
                 
-                <div class="my-post-image"><img width="2520" height="1890" src="{{asset('wp-content/uploads/2021/11/Puyallup-Bridge-Installation-2-2.jpg')}}"  class="attachment-full size-full wp-post-image" alt="" srcset="/wp-content/uploads/2021/11/Puyallup-Bridge-Installation-2-2.jpg 2520w, /wp-content/uploads/2021/11/Puyallup-Bridge-Installation-2-2-300x225.jpg 300w, /wp-content/uploads/2021/11/Puyallup-Bridge-Installation-2-2-1024x768.jpg 1024w, /wp-content/uploads/2021/11/Puyallup-Bridge-Installation-2-2-768x576.jpg 768w, /wp-content/uploads/2021/11/Puyallup-Bridge-Installation-2-2-1536x1152.jpg 1536w, /wp-content/uploads/2021/11/Puyallup-Bridge-Installation-2-2-2048x1536.jpg 2048w" sizes="(max-width: 2520px) 100vw, 2520px" /></div>
+                <div class="my-post-image"><img width="2520" height="1890" src="{{asset('wp-content/uploads/2021/11/Puyallup-Bridge-Installation-2-2.jpg')}}"  class="attachment-full size-full wp-post-image" alt="" srcset="{{asset('wp-content/uploads/2021/11/Puyallup-Bridge-Installation-2-2.jpg 2520w, {{asset('wp-content/uploads/2021/11/Puyallup-Bridge-Installation-2-2-300x225.jpg 300w, {{asset('wp-content/uploads/2021/11/Puyallup-Bridge-Installation-2-2-1024x768.jpg 1024w, {{asset('wp-content/uploads/2021/11/Puyallup-Bridge-Installation-2-2-768x576.jpg 768w, {{asset('wp-content/uploads/2021/11/Puyallup-Bridge-Installation-2-2-1536x1152.jpg 1536w, {{asset('wp-content/uploads/2021/11/Puyallup-Bridge-Installation-2-2-2048x1536.jpg 2048w" sizes="(max-width: 2520px) 100vw, 2520px" /></div>
 
                 
                 

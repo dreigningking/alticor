@@ -238,7 +238,7 @@
                 
 
                 
-                <div class="my-post-image"><img width="368" height="270" src="{{asset('wp-content/uploads/2013/09/SYLPOE.jpg')}}"  class="attachment-full size-full wp-post-image" alt="" srcset="/wp-content/uploads/2013/09/SYLPOE.jpg 368w, /wp-content/uploads/2013/09/SYLPOE-300x220.jpg 300w" sizes="(max-width: 368px) 100vw, 368px" /></div>
+                <div class="my-post-image"><img width="368" height="270" src="{{asset('wp-content/uploads/2013/09/SYLPOE.jpg')}}"  class="attachment-full size-full wp-post-image" alt="" srcset="{{asset('wp-content/uploads/2013/09/SYLPOE.jpg 368w, {{asset('wp-content/uploads/2013/09/SYLPOE-300x220.jpg 300w" sizes="(max-width: 368px) 100vw, 368px" /></div>
 
                 
                 

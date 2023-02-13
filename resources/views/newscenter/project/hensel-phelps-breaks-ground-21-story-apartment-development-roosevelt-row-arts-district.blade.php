@@ -247,7 +247,7 @@
                 
 
                 
-                <div class="my-post-image"><img width="994" height="842" src="{{asset('wp-content/uploads/2020/05/Hensel-Phelps-Derby-Row-Phoenix.png')}}" class="attachment-full size-full wp-post-image" alt="" srcset="/wp-content/uploads/2020/05/Hensel-Phelps-Derby-Row-Phoenix.png 994w, /wp-content/uploads/2020/05/Hensel-Phelps-Derby-Row-Phoenix-300x254.png 300w, /wp-content/uploads/2020/05/Hensel-Phelps-Derby-Row-Phoenix-768x651.png 768w" sizes="(max-width: 994px) 100vw, 994px" /></div>
+                <div class="my-post-image"><img width="994" height="842" src="{{asset('wp-content/uploads/2020/05/Hensel-Phelps-Derby-Row-Phoenix.png')}}" class="attachment-full size-full wp-post-image" alt="" srcset="{{asset('wp-content/uploads/2020/05/Hensel-Phelps-Derby-Row-Phoenix.png')}} 994w, {{asset('wp-content/uploads/2020/05/Hensel-Phelps-Derby-Row-Phoenix-300x254.png')}} 300w, {{asset('wp-content/uploads/2020/05/Hensel-Phelps-Derby-Row-Phoenix-768x651.png')}} 768w" sizes="(max-width: 994px) 100vw, 994px" /></div>
 
                 
                 

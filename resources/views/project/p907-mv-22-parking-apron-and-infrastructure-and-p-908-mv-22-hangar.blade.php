@@ -55,7 +55,7 @@
 <link rel="icon" type="image/png" href="../../wp-content/themes/henselphelps/favicon.png')}}" sizes="32x32" />
 
 <link rel="profile" href="http://gmpg.org/xfn/11">
-<link rel="stylesheet" href='../../wp-content/themes/henselphelps/css/ie/font-awesome.min.css' type='text/css' />
+<link rel="stylesheet" href='../../wp-content/themes/henselphelps/css/ie/font-awesome.min.css')}}" type='text/css' />
 
 <link rel="stylesheet" href="{{asset('wp-content/themes/henselphelps/css/bio-styles.css')}}">
 <link rel="stylesheet" type="text/css" href="../../../cdn.jsdelivr.net/npm/slick-carousel%401.8.1/slick/slick.css" />
@@ -127,15 +127,15 @@ var sv = document.getElementsByTagName('script')[0]; sv.parentNode.insertBefore(
 	<meta property="og:site_name" content="Alticor Inc" />
 	<meta property="article:publisher" content="https://www.facebook.com/HenselPhelpsCommunications/" />
 	<meta property="article:modified_time" content="2019-06-20T18:08:47+00:00" />
-	<meta property="og:image" content="https://www.henselphelps.com/wp-content/uploads/2017/08/MV-22_03A0055-web.jpg')}}"  />
+	<meta property="og:image" content="{{asset('wp-content/uploads/2017/08/MV-22_03A0055-web.jpg')}}"  />
 	<meta name="twitter:card" content="summary_large_image" />
 	<meta name="twitter:title" content="P907 MV-22 Parking Apron and Infrastructure and P-908 MV-22 Hangar" />
 	<meta name="twitter:description" content="The scope of work included the construction of the P-908 Hangar, a multi-story modified aircraft maintenance hangar for MV-22 Ospreys." />
-	<meta name="twitter:image" content="https://www.henselphelps.com/wp-content/uploads/2017/08/MV-22_L9A8907-web.jpg')}}"  />
+	<meta name="twitter:image" content="{{asset('wp-content/uploads/2017/08/MV-22_L9A8907-web.jpg')}}"  />
 	<meta name="twitter:site" content="@HenselPhelps" />
 	<meta name="twitter:label1" content="Est. reading time" />
 	<meta name="twitter:data1" content="1 minute" />
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://henselphelps.com/project/p907-mv-22-parking-apron-and-infrastructure-and-p-908-mv-22-hangar/","url":"https://henselphelps.com/project/p907-mv-22-parking-apron-and-infrastructure-and-p-908-mv-22-hangar/","name":"P907 MV-22 Parking Apron and Infrastructure and P-908 MV-22 Hangar - Alticor Inc","isPartOf":{"@id":"https://publicwebsite.azurewebsites.net/#website"},"primaryImageOfPage":{"@id":"https://henselphelps.com/project/p907-mv-22-parking-apron-and-infrastructure-and-p-908-mv-22-hangar/#primaryimage"},"image":{"@id":"https://henselphelps.com/project/p907-mv-22-parking-apron-and-infrastructure-and-p-908-mv-22-hangar/#primaryimage"},"thumbnailUrl":"/wp-content/uploads/2017/08/HP_Featured_MV22-.jpg')}}" ,"datePublished":"2017-08-15T23:23:32+00:00","dateModified":"2019-06-20T18:08:47+00:00","description":"Alticor Inc constructed the P-907 MV-22 Parking Apron and Infrastructure which consisted of airfield paving, grading, parking, roadway and drainage. ","breadcrumb":{"@id":"https://henselphelps.com/project/p907-mv-22-parking-apron-and-infrastructure-and-p-908-mv-22-hangar/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://henselphelps.com/project/p907-mv-22-parking-apron-and-infrastructure-and-p-908-mv-22-hangar/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://henselphelps.com/project/p907-mv-22-parking-apron-and-infrastructure-and-p-908-mv-22-hangar/#primaryimage","url":"/wp-content/uploads/2017/08/HP_Featured_MV22-.jpg')}}" ,"contentUrl":"/wp-content/uploads/2017/08/HP_Featured_MV22-.jpg')}}" ,"width":1440,"height":720},{"@type":"BreadcrumbList","@id":"https://henselphelps.com/project/p907-mv-22-parking-apron-and-infrastructure-and-p-908-mv-22-hangar/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://publicwebsite.azurewebsites.net/"},{"@type":"ListItem","position":2,"name":"P907 MV-22 Parking Apron and Infrastructure and P-908 MV-22 Hangar"}]},{"@type":"WebSite","@id":"https://publicwebsite.azurewebsites.net/#website","url":"https://publicwebsite.azurewebsites.net/","name":"Alticor Inc","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://publicwebsite.azurewebsites.net/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"}]}</script>
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://henselphelps.com/project/p907-mv-22-parking-apron-and-infrastructure-and-p-908-mv-22-hangar/","url":"https://henselphelps.com/project/p907-mv-22-parking-apron-and-infrastructure-and-p-908-mv-22-hangar/","name":"P907 MV-22 Parking Apron and Infrastructure and P-908 MV-22 Hangar - Alticor Inc","isPartOf":{"@id":"https://publicwebsite.azurewebsites.net/#website"},"primaryImageOfPage":{"@id":"https://henselphelps.com/project/p907-mv-22-parking-apron-and-infrastructure-and-p-908-mv-22-hangar/#primaryimage"},"image":{"@id":"https://henselphelps.com/project/p907-mv-22-parking-apron-and-infrastructure-and-p-908-mv-22-hangar/#primaryimage"},"thumbnailUrl":"{{asset('wp-content/uploads/2017/08/HP_Featured_MV22-.jpg')}}" ,"datePublished":"2017-08-15T23:23:32+00:00","dateModified":"2019-06-20T18:08:47+00:00","description":"Alticor Inc constructed the P-907 MV-22 Parking Apron and Infrastructure which consisted of airfield paving, grading, parking, roadway and drainage. ","breadcrumb":{"@id":"https://henselphelps.com/project/p907-mv-22-parking-apron-and-infrastructure-and-p-908-mv-22-hangar/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://henselphelps.com/project/p907-mv-22-parking-apron-and-infrastructure-and-p-908-mv-22-hangar/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://henselphelps.com/project/p907-mv-22-parking-apron-and-infrastructure-and-p-908-mv-22-hangar/#primaryimage","url":"{{asset('wp-content/uploads/2017/08/HP_Featured_MV22-.jpg')}}" ,"contentUrl":"{{asset('wp-content/uploads/2017/08/HP_Featured_MV22-.jpg')}}" ,"width":1440,"height":720},{"@type":"BreadcrumbList","@id":"https://henselphelps.com/project/p907-mv-22-parking-apron-and-infrastructure-and-p-908-mv-22-hangar/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://publicwebsite.azurewebsites.net/"},{"@type":"ListItem","position":2,"name":"P907 MV-22 Parking Apron and Infrastructure and P-908 MV-22 Hangar"}]},{"@type":"WebSite","@id":"https://publicwebsite.azurewebsites.net/#website","url":"https://publicwebsite.azurewebsites.net/","name":"Alticor Inc","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://publicwebsite.azurewebsites.net/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"}]}</script>
 	<!-- / Yoast SEO Premium plugin. -->
 
 
@@ -363,40 +363,40 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-	<link rel='stylesheet' id='mec-select2-style-css'  href='../../wp-content/plugins/modern-events-calendar-lite/assets/packages/select2/select2.minc945.css?ver=5.19.0' type='text/css' media='all' />
-<link rel='stylesheet' id='mec-font-icons-css'  href='../../wp-content/plugins/modern-events-calendar-lite/assets/css/iconfonts1eb7.css?ver=6.0.3' type='text/css' media='all' />
-<link rel='stylesheet' id='mec-frontend-style-css'  href='../../wp-content/plugins/modern-events-calendar-lite/assets/css/frontend.minc945.css?ver=5.19.0' type='text/css' media='all' />
-<link rel='stylesheet' id='mec-tooltip-style-css'  href='../../wp-content/plugins/modern-events-calendar-lite/assets/packages/tooltip/tooltip1eb7.css?ver=6.0.3' type='text/css' media='all' />
-<link rel='stylesheet' id='mec-tooltip-shadow-style-css'  href='../../wp-content/plugins/modern-events-calendar-lite/assets/packages/tooltip/tooltipster-sideTip-shadow.min1eb7.css?ver=6.0.3' type='text/css' media='all' />
-<link rel='stylesheet' id='mec-featherlight-style-css'  href='../../wp-content/plugins/modern-events-calendar-lite/assets/packages/featherlight/featherlight1eb7.css?ver=6.0.3' type='text/css' media='all' />
-<link rel='stylesheet' id='mec-lity-style-css'  href='../../wp-content/plugins/modern-events-calendar-lite/assets/packages/lity/lity.min1eb7.css?ver=6.0.3' type='text/css' media='all' />
-<link rel='stylesheet' id='wp-block-library-css'  href='../../wp-includes/css/dist/block-library/style.min1eb7.css?ver=6.0.3' type='text/css' media='all' />
-<link rel='stylesheet' id='quotescollection-block-quotes-css'  href='../../wp-content/plugins/quotes-collection/blocks/quotes/stylea0f0.css?ver=1656041768' type='text/css' media='all' />
-<link rel='stylesheet' id='quotescollection-block-random-quote-css'  href='../../wp-content/plugins/quotes-collection/blocks/random-quote/style5611.css?ver=1656041769' type='text/css' media='all' />
+	<link rel='stylesheet' id='mec-select2-style-css'  href='../../wp-content/plugins/modern-events-calendar-lite/assets/packages/select2/select2.minc945.css?ver=5.19.0')}}" type='text/css' media='all' />
+<link rel='stylesheet' id='mec-font-icons-css'  href='../../wp-content/plugins/modern-events-calendar-lite/assets/css/iconfonts1eb7.css?ver=6.0.3')}}" type='text/css' media='all' />
+<link rel='stylesheet' id='mec-frontend-style-css'  href='../../wp-content/plugins/modern-events-calendar-lite/assets/css/frontend.minc945.css?ver=5.19.0')}}" type='text/css' media='all' />
+<link rel='stylesheet' id='mec-tooltip-style-css'  href='../../wp-content/plugins/modern-events-calendar-lite/assets/packages/tooltip/tooltip1eb7.css?ver=6.0.3')}}" type='text/css' media='all' />
+<link rel='stylesheet' id='mec-tooltip-shadow-style-css'  href='../../wp-content/plugins/modern-events-calendar-lite/assets/packages/tooltip/tooltipster-sideTip-shadow.min1eb7.css?ver=6.0.3')}}" type='text/css' media='all' />
+<link rel='stylesheet' id='mec-featherlight-style-css'  href='../../wp-content/plugins/modern-events-calendar-lite/assets/packages/featherlight/featherlight1eb7.css?ver=6.0.3')}}" type='text/css' media='all' />
+<link rel='stylesheet' id='mec-lity-style-css'  href='../../wp-content/plugins/modern-events-calendar-lite/assets/packages/lity/lity.min1eb7.css?ver=6.0.3')}}" type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='../../wp-includes/css/dist/block-library/style.min1eb7.css?ver=6.0.3')}}" type='text/css' media='all' />
+<link rel='stylesheet' id='quotescollection-block-quotes-css'  href='../../wp-content/plugins/quotes-collection/blocks/quotes/stylea0f0.css?ver=1656041768')}}" type='text/css' media='all' />
+<link rel='stylesheet' id='quotescollection-block-random-quote-css'  href='../../wp-content/plugins/quotes-collection/blocks/random-quote/style5611.css?ver=1656041769')}}" type='text/css' media='all' />
 <style id='global-styles-inline-css' type='text/css'>
 body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
 </style>
-<link rel='stylesheet' id='share-this-share-buttons-sticky-css'  href='../../wp-content/plugins/sharethis-share-buttons/css/mu-style2ba9.css?ver=1670411415' type='text/css' media='all' />
-<link rel='stylesheet' id='wpos-font-awesome-css'  href='../../wp-content/plugins/timeline-and-history-slider-pro/assets/css/font-awesome.min19f6.css?ver=1.0.7' type='text/css' media='all' />
-<link rel='stylesheet' id='wpos-slick-style-css'  href='../../wp-content/plugins/timeline-and-history-slider-pro/assets/css/slick19f6.css?ver=1.0.7' type='text/css' media='all' />
-<link rel='stylesheet' id='wphts-pro-public-style-css'  href='../../wp-content/plugins/timeline-and-history-slider-pro/assets/css/wphtsp-pro-public19f6.css?ver=1.0.7' type='text/css' media='all' />
+<link rel='stylesheet' id='share-this-share-buttons-sticky-css'  href='../../wp-content/plugins/sharethis-share-buttons/css/mu-style2ba9.css?ver=1670411415')}}" type='text/css' media='all' />
+<link rel='stylesheet' id='wpos-font-awesome-css'  href='../../wp-content/plugins/timeline-and-history-slider-pro/assets/css/font-awesome.min19f6.css?ver=1.0.7')}}" type='text/css' media='all' />
+<link rel='stylesheet' id='wpos-slick-style-css'  href='../../wp-content/plugins/timeline-and-history-slider-pro/assets/css/slick19f6.css?ver=1.0.7')}}" type='text/css' media='all' />
+<link rel='stylesheet' id='wphts-pro-public-style-css'  href='../../wp-content/plugins/timeline-and-history-slider-pro/assets/css/wphtsp-pro-public19f6.css?ver=1.0.7')}}" type='text/css' media='all' />
 <link rel='stylesheet' id='quotescollection-css'  href='../../wp-content/plugins/quotes-collection/css/quotes-collection16b9.css?ver=2.5.2' type='text/css' media='all' />
-<link rel='stylesheet' id='font-awesome-style-css'  href='../../../maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min1eb7.css?ver=6.0.3' type='text/css' media='all' />
-<link rel='stylesheet' id='font-google-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A300%2C300i%2C400%2C400i%2C600%2C600i%2C700%2C700i%2C800%2C800i&amp;ver=6.0.3' type='text/css' media='all' />
-<link rel='stylesheet' id='flexslider-css'  href='../../wp-content/themes/henselphelps/css/flexslider1eb7.css?ver=6.0.3' type='text/css' media='all' />
-<link rel='stylesheet' id='swiper-slider-css'  href='../../wp-content/themes/henselphelps/css/swiper.min1eb7.css?ver=6.0.3' type='text/css' media='all' />
-<link rel='stylesheet' id='mediaelementplayer-css'  href='../../wp-content/themes/henselphelps/mediaelement/mediaelementplayer.min1eb7.css?ver=6.0.3' type='text/css' media='all' />
-<link rel='stylesheet' id='henselphelps-style-css'  href='../../wp-content/themes/henselphelps/style1eb7.css?ver=6.0.3' type='text/css' media='all' />
-<script type='text/javascript' src='../../wp-includes/js/jquery/jquery.minaf6c.js?ver=3.6.0' id='jquery-core-js'></script>
-<script type='text/javascript' src='../../wp-includes/js/jquery/jquery-migrate.mind617.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<link rel='stylesheet' id='font-awesome-style-css'  href='../../../maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min1eb7.css?ver=6.0.3')}}" type='text/css' media='all' />
+<link rel='stylesheet' id='font-google-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A300%2C300i%2C400%2C400i%2C600%2C600i%2C700%2C700i%2C800%2C800i&amp;ver=6.0.3')}}" type='text/css' media='all' />
+<link rel='stylesheet' id='flexslider-css'  href='../../wp-content/themes/henselphelps/css/flexslider1eb7.css?ver=6.0.3')}}" type='text/css' media='all' />
+<link rel='stylesheet' id='swiper-slider-css'  href='../../wp-content/themes/henselphelps/css/swiper.min1eb7.css?ver=6.0.3')}}" type='text/css' media='all' />
+<link rel='stylesheet' id='mediaelementplayer-css'  href='../../wp-content/themes/henselphelps/mediaelement/mediaelementplayer.min1eb7.css?ver=6.0.3')}}" type='text/css' media='all' />
+<link rel='stylesheet' id='henselphelps-style-css'  href='../../wp-content/themes/henselphelps/style1eb7.css?ver=6.0.3')}}" type='text/css' media='all' />
+<script type='text/javascript' src="{{asset('wp-includes/js/jquery/jquery.minaf6c.js?ver=3.6.0')}}" id='jquery-core-js'></script>
+<script type='text/javascript' src="{{asset('wp-includes/js/jquery/jquery-migrate.mind617.js?ver=3.3.2')}}" id='jquery-migrate-js'></script>
 <script type='text/javascript' id='mec-frontend-script-js-extra'>
 /* <![CDATA[ */
 var mecdata = {"day":"day","days":"days","hour":"hour","hours":"hours","minute":"minute","minutes":"minutes","second":"second","seconds":"seconds","elementor_edit_mode":"no","recapcha_key":"","ajax_url":"https:\/\/henselphelps.com\/wp-admin\/admin-ajax.php","fes_nonce":"a07a1904d3","current_year":"2023","current_month":"02","datepicker_format":"mm\/dd\/yy&m\/d\/Y"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='../../wp-content/plugins/modern-events-calendar-lite/assets/js/frontendc945.js?ver=5.19.0' id='mec-frontend-script-js'></script>
-<script type='text/javascript' src='../../wp-content/plugins/modern-events-calendar-lite/assets/js/eventsc945.js?ver=5.19.0' id='mec-events-script-js'></script>
-<script type='text/javascript' src='../../wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend-gtag.min79da.js?ver=8.12.1' id='monsterinsights-frontend-script-js'></script>
+<script type='text/javascript' src="{{asset('wp-content/plugins/modern-events-calendar-lite/assets/js/frontendc945.js?ver=5.19.0')}}" id='mec-frontend-script-js'></script>
+<script type='text/javascript' src="{{asset('wp-content/plugins/modern-events-calendar-lite/assets/js/eventsc945.js?ver=5.19.0')}}" id='mec-events-script-js'></script>
+<script type='text/javascript' src="{{asset('wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend-gtag.min79da.js?ver=8.12.1')}}" id='monsterinsights-frontend-script-js'></script>
 <script data-cfasync="false" data-wpfc-render="false" type="text/javascript" id='monsterinsights-frontend-script-js-extra'>/* <![CDATA[ */
 var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions":"doc,pdf,ppt,zip,xls,docx,pptx,xlsx","inbound_paths":"[]","home_url":"https:\/\/henselphelps.com","hash_tracking":"false","ua":"UA-25850736-1","v4_id":""};/* ]]> */
 </script>
@@ -406,7 +406,7 @@ var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions
 var quotescollectionAjax = {"ajaxUrl":"https:\/\/henselphelps.com\/wp-admin\/admin-ajax.php","nonce":"c49f87006b","nextQuote":"\u00bb","loading":"Loading...","error":"Error getting quote","autoRefreshMax":"20","autoRefreshCount":"0"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='../../wp-content/plugins/quotes-collection/js/quotes-collection16b9.js?ver=2.5.2' id='quotescollection-js'></script>
+<script type='text/javascript' src="{{asset('wp-content/plugins/quotes-collection/js/quotes-collection16b9.js?ver=2.5.2')}}" id='quotescollection-js'></script>
 <link rel="https://api.w.org/" href="../../wp-json/index.html" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="../../xmlrpc0db0.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../../wp-includes/wlwmanifest.xml" /> 
 <meta name="generator" content="WordPress 6.0.3" />
@@ -1139,7 +1139,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                         <div class="project-content">
 
                                             <h3>Development</h3>
-<p><img loading="lazy" class="wp-image-2524 size-medium alignnone" src="{{asset('wp-content/uploads/2017/07/development-300x200.jpg')}}" alt="" width="300" height="200" srcset="/wp-content/uploads/2017/07/development-300x200.jpg 300w, /wp-content/uploads/2017/07/development.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p><img loading="lazy" class="wp-image-2524 size-medium alignnone" src="{{asset('wp-content/uploads/2017/07/development-300x200.jpg')}}" alt="" width="300" height="200" srcset="{{asset('wp-content/uploads/2017/07/development-300x200.jpg 300w, {{asset('wp-content/uploads/2017/07/development.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></p>
 <h5><span style="color: #ffffff;">A Roadmap to Success</span></h5>
 <h4><a href="../../what-we-do/development/index.html">Our development services guide clients through the entire process, from concept to completion.</a></h4>
 
@@ -1149,7 +1149,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                         <div class="project-content">
 
                                             <h3>Construction</h3>
-<p><img loading="lazy" class="wp-image-2525 size-medium alignnone" src="{{asset('wp-content/uploads/2017/07/construction-300x200.jpg')}}" alt="" width="300" height="200" srcset="/wp-content/uploads/2017/07/construction-300x200.jpg 300w, /wp-content/uploads/2017/07/construction.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p><img loading="lazy" class="wp-image-2525 size-medium alignnone" src="{{asset('wp-content/uploads/2017/07/construction-300x200.jpg')}}" alt="" width="300" height="200" srcset="{{asset('wp-content/uploads/2017/07/construction-300x200.jpg 300w, {{asset('wp-content/uploads/2017/07/construction.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></p>
 <h5><span style="color: #ffffff;">Building Landmark Properties</span></h5>
 <h4><a href="../../what-we-do/construction/index.html">From preconstruction through constructability and field management – Alticor Inc delivers superior results on time and on budget.</a></h4>
 
@@ -1159,7 +1159,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                         <div class="project-content">
 
                                             <h3>Facility Services</h3>
-<p><img loading="lazy" class="alignright size-medium wp-image-7027" src="{{asset('wp-content/uploads/2018/10/Technician-in-Server-Room-300x225.jpg')}}" alt="" width="300" height="225" srcset="/wp-content/uploads/2018/10/Technician-in-Server-Room-300x225.jpg 300w, /wp-content/uploads/2018/10/Technician-in-Server-Room-768x576.jpg 768w, /wp-content/uploads/2018/10/Technician-in-Server-Room-1024x768.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p><img loading="lazy" class="alignright size-medium wp-image-7027" src="{{asset('wp-content/uploads/2018/10/Technician-in-Server-Room-300x225.jpg')}}" alt="" width="300" height="225" srcset="{{asset('wp-content/uploads/2018/10/Technician-in-Server-Room-300x225.jpg 300w, {{asset('wp-content/uploads/2018/10/Technician-in-Server-Room-768x576.jpg 768w, {{asset('wp-content/uploads/2018/10/Technician-in-Server-Room-1024x768.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></p>
 <h5><span style="color: #ffffff;">Optimizing Operations</span></h5>
 <h4><a href="../../what-we-do/facility-services/index.html">Even after construction is complete, we help our clients achieve their property goals and objectives.</a></h4>
 
@@ -1234,7 +1234,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                         <div class="project-content">
 
 											<h3>Careers</h3>
-<p><img loading="lazy" class="alignnone size-medium wp-image-2314" src="{{asset('wp-content/uploads/2017/06/hp_careers-300x200.jpg')}}" alt="" width="300" height="200" srcset="/wp-content/uploads/2017/06/hp_careers-300x200.jpg 300w, /wp-content/uploads/2017/06/hp_careers-768x513.jpg 768w, /wp-content/uploads/2017/06/hp_careers-1024x684.jpg 1024w, /wp-content/uploads/2017/06/hp_careers.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p><img loading="lazy" class="alignnone size-medium wp-image-2314" src="{{asset('wp-content/uploads/2017/06/hp_careers-300x200.jpg')}}" alt="" width="300" height="200" srcset="{{asset('wp-content/uploads/2017/06/hp_careers-300x200.jpg 300w, {{asset('wp-content/uploads/2017/06/hp_careers-768x513.jpg 768w, {{asset('wp-content/uploads/2017/06/hp_careers-1024x684.jpg 1024w, {{asset('wp-content/uploads/2017/06/hp_careers.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" /></p>
 <p>&nbsp;</p>
 <h5><span style="color: #ffffff;">It&#8217;s Not a Job. It&#8217;s a Career</span></h5>
 <h4><a href="../../careers/index.html">Learn how you can build your legacy at Alticor Inc.</a></h4>
@@ -1286,7 +1286,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                         <div class="project-content">
 
                                             <h3>Graduates</h3>
-<p><img loading="lazy" class="size-medium wp-image-2528 alignnone" src="{{asset('wp-content/uploads/2017/07/graduates-1-300x200.jpg')}}" alt="" width="300" height="200" srcset="/wp-content/uploads/2017/07/graduates-1-300x200.jpg 300w, /wp-content/uploads/2017/07/graduates-1.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p><img loading="lazy" class="size-medium wp-image-2528 alignnone" src="{{asset('wp-content/uploads/2017/07/graduates-1-300x200.jpg')}}" alt="" width="300" height="200" srcset="{{asset('wp-content/uploads/2017/07/graduates-1-300x200.jpg 300w, {{asset('wp-content/uploads/2017/07/graduates-1.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></p>
 <h5><span style="color: #ffffff;">Dedicated to Your Career</span></h5>
 <h4><a href="../../careers/graduates/index.html">We support the growth of our employees through exceptional training and flexible career paths.</a></h4>
 
@@ -1296,7 +1296,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                         <div class="project-content">
 
                                             <h3>Experienced</h3>
-<p><img loading="lazy" class="size-medium wp-image-2529 alignnone" src="{{asset('wp-content/uploads/2017/07/experienced-300x200.jpg')}}" alt="" width="300" height="200" srcset="/wp-content/uploads/2017/07/experienced-300x200.jpg 300w, /wp-content/uploads/2017/07/experienced.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p><img loading="lazy" class="size-medium wp-image-2529 alignnone" src="{{asset('wp-content/uploads/2017/07/experienced-300x200.jpg')}}" alt="" width="300" height="200" srcset="{{asset('wp-content/uploads/2017/07/experienced-300x200.jpg 300w, {{asset('wp-content/uploads/2017/07/experienced.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></p>
 <h5><span style="color: #ffffff;">Committed to your development</span></h5>
 <h4><a href="../../careers/experienced/index.html">Let us show you why so many of our employees call HP their “last employer.”</a></h4>
 
@@ -1326,7 +1326,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                         <div class="project-content">
 
                                             <h3>Training</h3>
-<p><img loading="lazy" class="size-medium wp-image-2530 alignnone" src="{{asset('wp-content/uploads/2017/07/training-300x200.jpg')}}" alt="" width="300" height="200" srcset="/wp-content/uploads/2017/07/training-300x200.jpg 300w, /wp-content/uploads/2017/07/training.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p><img loading="lazy" class="size-medium wp-image-2530 alignnone" src="{{asset('wp-content/uploads/2017/07/training-300x200.jpg')}}" alt="" width="300" height="200" srcset="{{asset('wp-content/uploads/2017/07/training-300x200.jpg 300w, {{asset('wp-content/uploads/2017/07/training.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></p>
 <h5><span style="color: #ffffff;">Invested in Your Growth</span></h5>
 <h4><a href="../../careers/training/index.html">Our training begins at inception and continues throughout all stages of our employees’ career.</a></h4>
 
@@ -1336,7 +1336,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                         <div class="project-content">
 
                                             <h3>Employment Solicitation Fraud</h3>
-<p><img loading="lazy" class="size-medium wp-image-2531 alignnone" src="{{asset('wp-content/uploads/2017/07/email-warning-300x200.jpg')}}" alt="" width="300" height="200" srcset="/wp-content/uploads/2017/07/email-warning-300x200.jpg 300w, /wp-content/uploads/2017/07/email-warning.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p><img loading="lazy" class="size-medium wp-image-2531 alignnone" src="{{asset('wp-content/uploads/2017/07/email-warning-300x200.jpg')}}" alt="" width="300" height="200" srcset="{{asset('wp-content/uploads/2017/07/email-warning-300x200.jpg 300w, {{asset('wp-content/uploads/2017/07/email-warning.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></p>
 <h5><span style="color: #ffffff;">Be Careful</span></h5>
 <h4><a href="../../careers/employment-email-fraud-warning/index.html">Employment Solicitation Fraud Warning.</a></h4>
 
@@ -1346,7 +1346,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                         <div class="project-content">
 
                                             <h3>Equal Opportunity Employer</h3>
-<p><img loading="lazy" class="alignnone size-medium wp-image-2470" src="{{asset('wp-content/uploads/2017/04/3014162-Microsoft-Data-Center-CYS04-014_Original-300x225.jpg')}}" alt="" width="300" height="225" srcset="/wp-content/uploads/2017/04/3014162-Microsoft-Data-Center-CYS04-014_Original-300x225.jpg 300w, /wp-content/uploads/2017/04/3014162-Microsoft-Data-Center-CYS04-014_Original-768x576.jpg 768w, /wp-content/uploads/2017/04/3014162-Microsoft-Data-Center-CYS04-014_Original.jpg 900w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p><img loading="lazy" class="alignnone size-medium wp-image-2470" src="{{asset('wp-content/uploads/2017/04/3014162-Microsoft-Data-Center-CYS04-014_Original-300x225.jpg')}}" alt="" width="300" height="225" srcset="{{asset('wp-content/uploads/2017/04/3014162-Microsoft-Data-Center-CYS04-014_Original-300x225.jpg 300w, {{asset('wp-content/uploads/2017/04/3014162-Microsoft-Data-Center-CYS04-014_Original-768x576.jpg 768w, {{asset('wp-content/uploads/2017/04/3014162-Microsoft-Data-Center-CYS04-014_Original.jpg 900w" sizes="(max-width: 300px) 100vw, 300px" /></p>
 <h5><span style="color: #ffffff;">Providing equal opportunities</span></h5>
 <h4><a href="../../careers/equal-opportunity-employer/index.html">Alticor Inc is an equal opportunity employer and contractor. </a></h4>
 
@@ -1433,7 +1433,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                         <div class="project-content">
 
                                             <h3>The Alticor Inc Way</h3>
-<p><img loading="lazy" class="size-medium wp-image-2532 alignnone" src="{{asset('wp-content/uploads/2017/07/the-hp-way-300x200.jpg')}}" alt="" width="300" height="200" srcset="/wp-content/uploads/2017/07/the-hp-way-300x200.jpg 300w, /wp-content/uploads/2017/07/the-hp-way.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p><img loading="lazy" class="size-medium wp-image-2532 alignnone" src="{{asset('wp-content/uploads/2017/07/the-hp-way-300x200.jpg')}}" alt="" width="300" height="200" srcset="{{asset('wp-content/uploads/2017/07/the-hp-way-300x200.jpg 300w, {{asset('wp-content/uploads/2017/07/the-hp-way.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></p>
 <h5><span style="color: #ffffff;">More Than a Mantra</span></h5>
 <h4><a href="https://www.henselphelps.com/about/the-hensel-phelps-way/">The Alticor Inc Way: People, Process, Partnership and Technology.</a></h4>
 
@@ -1443,7 +1443,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                         <div class="project-content">
 
                                             <h3>Safety</h3>
-<p><img loading="lazy" class="size-medium wp-image-2533 alignnone" src="{{asset('wp-content/uploads/2017/07/safety-300x200.jpg')}}" alt="" width="300" height="200" srcset="/wp-content/uploads/2017/07/safety-300x200.jpg 300w, /wp-content/uploads/2017/07/safety.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p><img loading="lazy" class="size-medium wp-image-2533 alignnone" src="{{asset('wp-content/uploads/2017/07/safety-300x200.jpg')}}" alt="" width="300" height="200" srcset="{{asset('wp-content/uploads/2017/07/safety-300x200.jpg 300w, {{asset('wp-content/uploads/2017/07/safety.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></p>
 <h5><span style="color: #ffffff;">A Zero-Accident Safety Culture</span></h5>
 <h4><a href="https://www.henselphelps.com/what-we-do/safety/">We maintain an unwavering commitment to the safety of our people and trade partners.<br />
 </a></h4>
@@ -1454,7 +1454,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                         <div class="project-content">
 
                                             <h3>Quality</h3>
-<p><img loading="lazy" class="size-medium wp-image-2534 alignnone" src="{{asset('wp-content/uploads/2017/07/quality-300x200.jpg')}}" alt="" width="300" height="200" srcset="/wp-content/uploads/2017/07/quality-300x200.jpg 300w, /wp-content/uploads/2017/07/quality.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p><img loading="lazy" class="size-medium wp-image-2534 alignnone" src="{{asset('wp-content/uploads/2017/07/quality-300x200.jpg')}}" alt="" width="300" height="200" srcset="{{asset('wp-content/uploads/2017/07/quality-300x200.jpg 300w, {{asset('wp-content/uploads/2017/07/quality.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></p>
 <h5><span style="color: #ffffff;">Producing the Very Best</span></h5>
 <h4><a href="https://www.henselphelps.com/what-we-do/quality/">Alticor Inc uses a proven six-step process to ensure quality in all projects.<br />
 </a></h4>
@@ -1465,7 +1465,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                         <div class="project-content">
 
                                             <h3>Sustainability</h3>
-<p><img loading="lazy" class="size-medium wp-image-2535 alignnone" src="{{asset('wp-content/uploads/2017/07/sustainability-300x200.jpg')}}" alt="" width="300" height="200" srcset="/wp-content/uploads/2017/07/sustainability-300x200.jpg 300w, /wp-content/uploads/2017/07/sustainability.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p><img loading="lazy" class="size-medium wp-image-2535 alignnone" src="{{asset('wp-content/uploads/2017/07/sustainability-300x200.jpg')}}" alt="" width="300" height="200" srcset="{{asset('wp-content/uploads/2017/07/sustainability-300x200.jpg 300w, {{asset('wp-content/uploads/2017/07/sustainability.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></p>
 <h5><span style="color: #ffffff;">Benefiting the Environment</span></h5>
 <h4><a href="https://www.henselphelps.com/what-we-do/sustainability/">We help you make informed decisions that benefit the environment as well as your budget.</a></h4>
 
@@ -1475,7 +1475,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                         <div class="project-content">
 
                                             <h3>Technology</h3>
-<p><img loading="lazy" class="size-medium wp-image-2536 alignnone" src="{{asset('wp-content/uploads/2017/07/technology-300x200.jpg')}}" alt="" width="300" height="200" srcset="/wp-content/uploads/2017/07/technology-300x200.jpg 300w, /wp-content/uploads/2017/07/technology.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p><img loading="lazy" class="size-medium wp-image-2536 alignnone" src="{{asset('wp-content/uploads/2017/07/technology-300x200.jpg')}}" alt="" width="300" height="200" srcset="{{asset('wp-content/uploads/2017/07/technology-300x200.jpg 300w, {{asset('wp-content/uploads/2017/07/technology.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></p>
 <h5><span style="color: #ffffff;">Leading the Way in Innovation</span></h5>
 <h4><a href="https://www.henselphelps.com/what-we-do/technology/">We are constantly creating new efficiencies that translate into better value for our clients.</a></h4>
 
@@ -1485,7 +1485,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                         <div class="project-content">
 
                                             <h3>History</h3>
-<p><img loading="lazy" class="alignnone size-medium wp-image-2313" src="{{asset('wp-content/uploads/2017/06/hp_aboutus-300x167.jpg')}}" alt="" width="300" height="167" srcset="/wp-content/uploads/2017/06/hp_aboutus-300x167.jpg 300w, /wp-content/uploads/2017/06/hp_aboutus-768x426.jpg 768w, /wp-content/uploads/2017/06/hp_aboutus-1024x568.jpg 1024w, /wp-content/uploads/2017/06/hp_aboutus.jpg 1427w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p><img loading="lazy" class="alignnone size-medium wp-image-2313" src="{{asset('wp-content/uploads/2017/06/hp_aboutus-300x167.jpg')}}" alt="" width="300" height="167" srcset="{{asset('wp-content/uploads/2017/06/hp_aboutus-300x167.jpg 300w, {{asset('wp-content/uploads/2017/06/hp_aboutus-768x426.jpg 768w, {{asset('wp-content/uploads/2017/06/hp_aboutus-1024x568.jpg 1024w, {{asset('wp-content/uploads/2017/06/hp_aboutus.jpg 1427w" sizes="(max-width: 300px) 100vw, 300px" /></p>
 <p>&nbsp;</p>
 <h5><span style="color: #ffffff;">Celebrating 80 Years</span></h5>
 <h4><a href="https://www.henselphelps.com/about/history/">From one man’s dream to one of America’s most successful contractors.</a></h4>
@@ -1496,7 +1496,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                         <div class="project-content">
 
                                             <h3>Community</h3>
-<p><img loading="lazy" class="size-medium wp-image-2537 alignnone" src="{{asset('wp-content/uploads/2017/07/community-300x200.jpg')}}" alt="" width="300" height="200" srcset="/wp-content/uploads/2017/07/community-300x200.jpg 300w, /wp-content/uploads/2017/07/community.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p><img loading="lazy" class="size-medium wp-image-2537 alignnone" src="{{asset('wp-content/uploads/2017/07/community-300x200.jpg')}}" alt="" width="300" height="200" srcset="{{asset('wp-content/uploads/2017/07/community-300x200.jpg 300w, {{asset('wp-content/uploads/2017/07/community.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></p>
 <h5><span style="color: #ffffff;">Doing Our Part</span></h5>
 <h4><a href="https://www.henselphelps.com/about/community/">Building Stronger Communities Together.</a></h4>
 
@@ -1526,7 +1526,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                         <div class="project-content">
 
                                             <h3>Leadership</h3>
-<p><img loading="lazy" class="size-medium wp-image-2538 alignnone" src="{{asset('wp-content/uploads/2017/07/leadership-300x200.jpg')}}" alt="" width="300" height="200" srcset="/wp-content/uploads/2017/07/leadership-300x200.jpg 300w, /wp-content/uploads/2017/07/leadership.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p><img loading="lazy" class="size-medium wp-image-2538 alignnone" src="{{asset('wp-content/uploads/2017/07/leadership-300x200.jpg')}}" alt="" width="300" height="200" srcset="{{asset('wp-content/uploads/2017/07/leadership-300x200.jpg 300w, {{asset('wp-content/uploads/2017/07/leadership.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></p>
 <h5><span style="color: #ffffff;">Empowered Teams</span></h5>
 <h4><a href="https://www.henselphelps.com/about/leadership/">Project leadership is one of the cornerstones of our company structure.</a></h4>
 
@@ -1536,7 +1536,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                         <div class="project-content">
 
                                             <h3>Recognition &amp; Awards</h3>
-<p><img loading="lazy" class="size-medium wp-image-2539 alignnone" src="{{asset('wp-content/uploads/2017/07/awards-300x200.jpg')}}" alt="" width="300" height="200" srcset="/wp-content/uploads/2017/07/awards-300x200.jpg 300w, /wp-content/uploads/2017/07/awards.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p><img loading="lazy" class="size-medium wp-image-2539 alignnone" src="{{asset('wp-content/uploads/2017/07/awards-300x200.jpg')}}" alt="" width="300" height="200" srcset="{{asset('wp-content/uploads/2017/07/awards-300x200.jpg 300w, {{asset('wp-content/uploads/2017/07/awards.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></p>
 <h5><span style="color: #ffffff;">Jobs Well Done</span></h5>
 <h4><a href="https://www.henselphelps.com/about/recognition-awards/">At Alticor Inc, our work speaks for itself.</a></h4>
 
@@ -1586,8 +1586,8 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
 		
 <style type="text/css">
  .page-banner{               
- filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/wp-content/uploads/2017/08/HP_Featured_MV22-.jpg', sizingMethod='scale');
--ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/wp-content/uploads/2017/08/HP_Featured_MV22-.jpg', sizingMethod='scale')"; 
+ filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="{{asset('wp-content/uploads/2017/08/HP_Featured_MV22-.jpg', sizingMethod='scale');
+-ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src="{{asset('wp-content/uploads/2017/08/HP_Featured_MV22-.jpg', sizingMethod='scale')"; 
  }
 </style>        
 <![endif]-->
@@ -1956,48 +1956,48 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
 <li id="menu-item-113" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113"><a href="../../contact-us/index.html">Contact Us</a></li>
 </ul>                </div>
                 <div class="copyright">
-                	<p>Copyright © <script>document.write(new Date().getFullYear())</script> Alticor Inc. All rights reserved.<a href="https://www.henselphelps.com/privacy-policy/"> Privacy Policy </a><a href="https://www.henselphelps.com/wp-content/uploads/2021/07/Hensel-Phelps-Media-Kit_Logo-Specifications-and-Use.pdf" download=""> Media Kit </a></p>
+                	<p>Copyright © <script>document.write(new Date().getFullYear())</script> Alticor Inc. All rights reserved.<a href="https://www.henselphelps.com/privacy-policy/"> Privacy Policy </a><a href="{{asset('wp-content/uploads/2021/07/Hensel-Phelps-Media-Kit_Logo-Specifications-and-Use.pdf" download=""> Media Kit </a></p>
                 </div>
             </div>
         </div>
     </footer>
 
-<script type='text/javascript' src='../../wp-includes/js/jquery/ui/core.min0028.js?ver=1.13.1' id='jquery-ui-core-js'></script>
-<script type='text/javascript' src='../../wp-includes/js/jquery/ui/datepicker.min0028.js?ver=1.13.1' id='jquery-ui-datepicker-js'></script>
+<script type='text/javascript' src="{{asset('wp-includes/js/jquery/ui/core.min0028.js?ver=1.13.1')}}" id='jquery-ui-core-js'></script>
+<script type='text/javascript' src="{{asset('wp-includes/js/jquery/ui/datepicker.min0028.js?ver=1.13.1')}}" id='jquery-ui-datepicker-js'></script>
 <script type='text/javascript' id='jquery-ui-datepicker-js-after'>
 jQuery(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"MM d, yy","firstDay":1,"isRTL":false});});
 </script>
-<script type='text/javascript' src='../../wp-content/plugins/modern-events-calendar-lite/assets/js/jquery.typewatchc945.js?ver=5.19.0' id='mec-typekit-script-js'></script>
-<script type='text/javascript' src='../../wp-content/plugins/modern-events-calendar-lite/assets/packages/featherlight/featherlightc945.js?ver=5.19.0' id='mec-featherlight-script-js'></script>
-<script type='text/javascript' src='../../wp-content/plugins/modern-events-calendar-lite/assets/packages/select2/select2.full.minc945.js?ver=5.19.0' id='mec-select2-script-js'></script>
-<script type='text/javascript' src='../../wp-content/plugins/modern-events-calendar-lite/assets/packages/tooltip/tooltipc945.js?ver=5.19.0' id='mec-tooltip-script-js'></script>
-<script type='text/javascript' src='../../wp-content/plugins/modern-events-calendar-lite/assets/packages/lity/lity.minc945.js?ver=5.19.0' id='mec-lity-script-js'></script>
-<script type='text/javascript' src='../../wp-content/plugins/modern-events-calendar-lite/assets/packages/colorbrightness/colorbrightness.minc945.js?ver=5.19.0' id='mec-colorbrightness-script-js'></script>
-<script type='text/javascript' src='../../wp-content/plugins/modern-events-calendar-lite/assets/packages/owl-carousel/owl.carousel.minc945.js?ver=5.19.0' id='mec-owl-carousel-script-js'></script>
-<script type='text/javascript' src='../../wp-content/themes/henselphelps/js/jquery.popupwindow1eb7.js?ver=6.0.3' id='jquery.popupwindow-js'></script>
-<script type='text/javascript' src='../../wp-content/themes/henselphelps/js/isotope.pkgd.min1eb7.js?ver=6.0.3' id='jquery.isotope-js'></script>
-<script type='text/javascript' src='../../wp-content/themes/henselphelps/js/waypoints.min1eb7.js?ver=6.0.3' id='jquery.waypoints-js'></script>
-<script type='text/javascript' src='../../wp-content/themes/henselphelps/js/jquery.counterup1eb7.js?ver=6.0.3' id='jquery.counterup-js'></script>
-<script type='text/javascript' src='../../wp-content/themes/henselphelps/js/swiper.min1eb7.js?ver=6.0.3' id='jquery.swiper-slider-js'></script>
-<script type='text/javascript' src='../../wp-content/themes/henselphelps/js/imagesloaded1eb7.js?ver=6.0.3' id='jquery.imagesloaded-js'></script>
-<script type='text/javascript' src='../../wp-content/themes/henselphelps/js/jquery.flexslider1eb7.js?ver=6.0.3' id='jquery.flexslider-js'></script>
-<script type='text/javascript' src='../../wp-content/themes/henselphelps/js/jquery.jscroll1eb7.js?ver=6.0.3' id='jquery.jscroll-js'></script>
-<script type='text/javascript' src='../../wp-content/themes/henselphelps/js/map1eb7.js?ver=6.0.3' id='jquery.map-js'></script>
-<script type='text/javascript' src='../../wp-content/themes/henselphelps/js/jquery.inview1eb7.js?ver=6.0.3' id='jquery.inview-js'></script>
+<script type='text/javascript' src="{{asset('wp-content/plugins/modern-events-calendar-lite/assets/js/jquery.typewatchc945.js?ver=5.19.0')}}" id='mec-typekit-script-js'></script>
+<script type='text/javascript' src="{{asset('wp-content/plugins/modern-events-calendar-lite/assets/packages/featherlight/featherlightc945.js?ver=5.19.0')}}" id='mec-featherlight-script-js'></script>
+<script type='text/javascript' src="{{asset('wp-content/plugins/modern-events-calendar-lite/assets/packages/select2/select2.full.minc945.js?ver=5.19.0')}}" id='mec-select2-script-js'></script>
+<script type='text/javascript' src="{{asset('wp-content/plugins/modern-events-calendar-lite/assets/packages/tooltip/tooltipc945.js?ver=5.19.0')}}" id='mec-tooltip-script-js'></script>
+<script type='text/javascript' src="{{asset('wp-content/plugins/modern-events-calendar-lite/assets/packages/lity/lity.minc945.js?ver=5.19.0')}}" id='mec-lity-script-js'></script>
+<script type='text/javascript' src="{{asset('wp-content/plugins/modern-events-calendar-lite/assets/packages/colorbrightness/colorbrightness.minc945.js?ver=5.19.0')}}" id='mec-colorbrightness-script-js'></script>
+<script type='text/javascript' src="{{asset('wp-content/plugins/modern-events-calendar-lite/assets/packages/owl-carousel/owl.carousel.minc945.js?ver=5.19.0')}}" id='mec-owl-carousel-script-js'></script>
+<script type='text/javascript' src="{{asset('wp-content/themes/henselphelps/js/jquery.popupwindow1eb7.js?ver=6.0.3')}}" id='jquery.popupwindow-js'></script>
+<script type='text/javascript' src="{{asset('wp-content/themes/henselphelps/js/isotope.pkgd.min1eb7.js?ver=6.0.3')}}" id='jquery.isotope-js'></script>
+<script type='text/javascript' src="{{asset('wp-content/themes/henselphelps/js/waypoints.min1eb7.js?ver=6.0.3')}}" id='jquery.waypoints-js'></script>
+<script type='text/javascript' src="{{asset('wp-content/themes/henselphelps/js/jquery.counterup1eb7.js?ver=6.0.3')}}" id='jquery.counterup-js'></script>
+<script type='text/javascript' src="{{asset('wp-content/themes/henselphelps/js/swiper.min1eb7.js?ver=6.0.3')}}" id='jquery.swiper-slider-js'></script>
+<script type='text/javascript' src="{{asset('wp-content/themes/henselphelps/js/imagesloaded1eb7.js?ver=6.0.3')}}" id='jquery.imagesloaded-js'></script>
+<script type='text/javascript' src="{{asset('wp-content/themes/henselphelps/js/jquery.flexslider1eb7.js?ver=6.0.3')}}" id='jquery.flexslider-js'></script>
+<script type='text/javascript' src="{{asset('wp-content/themes/henselphelps/js/jquery.jscroll1eb7.js?ver=6.0.3')}}" id='jquery.jscroll-js'></script>
+<script type='text/javascript' src="{{asset('wp-content/themes/henselphelps/js/map1eb7.js?ver=6.0.3')}}" id='jquery.map-js'></script>
+<script type='text/javascript' src="{{asset('wp-content/themes/henselphelps/js/jquery.inview1eb7.js?ver=6.0.3')}}" id='jquery.inview-js'></script>
 <script type='text/javascript' id='jquery.custom-js-extra'>
 /* <![CDATA[ */
 var ajaxurl = "index.html\/\/henselphelps.com\/wp-admin\/admin-ajax.php";
 /* ]]> */
 </script>
-<script type='text/javascript' src='../../wp-content/themes/henselphelps/js/custom1eb7.js?ver=6.0.3' id='jquery.custom-js'></script>
-<script type='text/javascript' src='../../wp-content/themes/henselphelps/js/bio-scripts1eb7.js?ver=6.0.3' id='jquery.bio-scripts-js'></script>
-<script type='text/javascript' src='../../wp-content/plugins/easy-twitter-feed-widget/js/twitter-widgets5152.js?ver=1.0' id='do-etfw-twitter-widgets-js'></script>
+<script type='text/javascript' src="{{asset('wp-content/themes/henselphelps/js/custom1eb7.js?ver=6.0.3')}}" id='jquery.custom-js'></script>
+<script type='text/javascript' src="{{asset('wp-content/themes/henselphelps/js/bio-scripts1eb7.js?ver=6.0.3')}}" id='jquery.bio-scripts-js'></script>
+<script type='text/javascript' src="{{asset('wp-content/plugins/easy-twitter-feed-widget/js/twitter-widgets5152.js?ver=1.0')}}" id='do-etfw-twitter-widgets-js'></script>
 <script type='text/javascript' id='main-js-js-extra'>
 /* <![CDATA[ */
 var headJS = {"ajaxurl":"https:\/\/henselphelps.com\/wp-admin\/admin-ajax.php","templateurl":"\/wp-content\/themes\/henselphelps","posts_per_page":"6"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='../../wp-content/themes/henselphelps/js/script1eb7.js?ver=6.0.3' id='main-js-js'></script>
+<script type='text/javascript' src="{{asset('wp-content/themes/henselphelps/js/script1eb7.js?ver=6.0.3')}}" id='main-js-js'></script>
 <div id="browser-msg"><div><a id="close" href="#">X</a><h3>Oh no... this website is not a fan of Internet Explorer!</h3><p>Due to some geeky technical reasons, the Alticor Inc website is best viewed on any browser other than Internet Explorer. However, if you are a diehard IE fan you can continue to use it, but may have a less than great experience and will receive this annoying reminder every day. We recommend one of the following browsers to take full advantage of the Alticor Inc website. Thank you!</p><p><a href="https://www.google.com/chrome/browser/" target="_blank"><img alt="Chrome" src="{{asset('wp-content/uploads/2017/08/chrome-icon.png')}}"/></a>&nbsp;&nbsp;&nbsp;<a href="https://www.mozilla.org/en-US/firefox/new/" target="_blank"><img alt="Firefox" src="{{asset('wp-content/uploads/2017/08/Firefox-icon.png')}}"/></a>&nbsp;&nbsp;&nbsp;<a href="https://www.microsoft.com/en-us/windows/microsoft-edge/" target="_blank"><img alt="Edge" src="{{asset('wp-content/uploads/2017/08/edge-icon.png')}}"/></a></p></div></div>
 <script type="text/javascript" src="../../../analytics.clickdimensions.com/ts.js" > </script>
 <script type="text/javascript">

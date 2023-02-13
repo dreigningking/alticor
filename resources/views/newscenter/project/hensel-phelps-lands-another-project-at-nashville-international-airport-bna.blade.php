@@ -247,7 +247,7 @@
                 
 
                 
-                <div class="my-post-image"><img width="1080" height="607" src="{{asset('wp-content/uploads/2018/11/BNA-Future-International-Arrivals-Facility-REDUCED.jpg')}}"  class="attachment-full size-full wp-post-image" alt="" srcset="/wp-content/uploads/2018/11/BNA-Future-International-Arrivals-Facility-REDUCED.jpg 1080w, /wp-content/uploads/2018/11/BNA-Future-International-Arrivals-Facility-REDUCED-300x169.jpg 300w, /wp-content/uploads/2018/11/BNA-Future-International-Arrivals-Facility-REDUCED-768x432.jpg 768w, /wp-content/uploads/2018/11/BNA-Future-International-Arrivals-Facility-REDUCED-1024x576.jpg 1024w" sizes="(max-width: 1080px) 100vw, 1080px" /></div>
+                <div class="my-post-image"><img width="1080" height="607" src="{{asset('wp-content/uploads/2018/11/BNA-Future-International-Arrivals-Facility-REDUCED.jpg')}}"  class="attachment-full size-full wp-post-image" alt="" srcset="{{asset('wp-content/uploads/2018/11/BNA-Future-International-Arrivals-Facility-REDUCED.jpg 1080w, {{asset('wp-content/uploads/2018/11/BNA-Future-International-Arrivals-Facility-REDUCED-300x169.jpg 300w, {{asset('wp-content/uploads/2018/11/BNA-Future-International-Arrivals-Facility-REDUCED-768x432.jpg 768w, {{asset('wp-content/uploads/2018/11/BNA-Future-International-Arrivals-Facility-REDUCED-1024x576.jpg 1024w" sizes="(max-width: 1080px) 100vw, 1080px" /></div>
 
                 
                 

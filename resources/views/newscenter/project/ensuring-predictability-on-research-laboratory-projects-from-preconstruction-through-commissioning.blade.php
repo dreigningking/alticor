@@ -244,7 +244,7 @@
                 
 
                 
-                <div class="my-post-image"><img width="1200" height="900" src="{{asset('wp-content/uploads/2022/01/2020_11_12_T_ZGFnist01_A.jpg')}}"  class="attachment-full size-full wp-post-image" alt="" srcset="/wp-content/uploads/2022/01/2020_11_12_T_ZGFnist01_A.jpg 1200w, /wp-content/uploads/2022/01/2020_11_12_T_ZGFnist01_A-300x225.jpg 300w, /wp-content/uploads/2022/01/2020_11_12_T_ZGFnist01_A-1024x768.jpg 1024w, /wp-content/uploads/2022/01/2020_11_12_T_ZGFnist01_A-768x576.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></div>
+                <div class="my-post-image"><img width="1200" height="900" src="{{asset('wp-content/uploads/2022/01/2020_11_12_T_ZGFnist01_A.jpg')}}"  class="attachment-full size-full wp-post-image" alt="" srcset="{{asset('wp-content/uploads/2022/01/2020_11_12_T_ZGFnist01_A.jpg 1200w, {{asset('wp-content/uploads/2022/01/2020_11_12_T_ZGFnist01_A-300x225.jpg 300w, {{asset('wp-content/uploads/2022/01/2020_11_12_T_ZGFnist01_A-1024x768.jpg 1024w, {{asset('wp-content/uploads/2022/01/2020_11_12_T_ZGFnist01_A-768x576.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></div>
 
                 
                 
@@ -265,7 +265,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="218" src="../../www.henselphelps.com/wp-content/uploads/2022/01/Lab-stats-1-scaled-1024x218.jpg')}}"  alt="" class="wp-image-13008" srcset="/wp-content/uploads/2022/01/Lab-stats-1-scaled-1024x218.jpg 1024w, /wp-content/uploads/2022/01/Lab-stats-1-scaled-300x64.jpg 300w, /wp-content/uploads/2022/01/Lab-stats-1-768x164.jpg 768w, /wp-content/uploads/2022/01/Lab-stats-1-scaled-1536x328.jpg 1536w, /wp-content/uploads/2022/01/Lab-stats-1-scaled-2048x437.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="218" src="{{asset('wp-content/uploads/2022/01/Lab-stats-1-scaled-1024x218.jpg')}}"  alt="" class="wp-image-13008" srcset="{{asset('wp-content/uploads/2022/01/Lab-stats-1-scaled-1024x218.jpg 1024w, {{asset('wp-content/uploads/2022/01/Lab-stats-1-scaled-300x64.jpg 300w, {{asset('wp-content/uploads/2022/01/Lab-stats-1-768x164.jpg 768w, {{asset('wp-content/uploads/2022/01/Lab-stats-1-scaled-1536x328.jpg 1536w, {{asset('wp-content/uploads/2022/01/Lab-stats-1-scaled-2048x437.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -281,7 +281,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="258" src="../../www.henselphelps.com/wp-content/uploads/2022/01/VDC-images-scaled-1024x258.jpg')}}"  alt="" class="wp-image-13010" srcset="/wp-content/uploads/2022/01/VDC-images-scaled-1024x258.jpg 1024w, /wp-content/uploads/2022/01/VDC-images-scaled-300x76.jpg 300w, /wp-content/uploads/2022/01/VDC-images-768x193.jpg 768w, /wp-content/uploads/2022/01/VDC-images-scaled-1536x387.jpg 1536w, /wp-content/uploads/2022/01/VDC-images-scaled-2048x516.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="258" src="{{asset('wp-content/uploads/2022/01/VDC-images-scaled-1024x258.jpg')}}"  alt="" class="wp-image-13010" srcset="{{asset('wp-content/uploads/2022/01/VDC-images-scaled-1024x258.jpg 1024w, {{asset('wp-content/uploads/2022/01/VDC-images-scaled-300x76.jpg 300w, {{asset('wp-content/uploads/2022/01/VDC-images-768x193.jpg 768w, {{asset('wp-content/uploads/2022/01/VDC-images-scaled-1536x387.jpg 1536w, {{asset('wp-content/uploads/2022/01/VDC-images-scaled-2048x516.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

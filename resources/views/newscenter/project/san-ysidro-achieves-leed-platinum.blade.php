@@ -246,7 +246,7 @@
                 
 
                 
-                <div class="my-post-image"><img width="605" height="359" src="{{asset('wp-content/uploads/2017/05/MikkiPiper_San_Ysidro_43_605_359.jpg')}}"  class="attachment-full size-full wp-post-image" alt="" srcset="/wp-content/uploads/2017/05/MikkiPiper_San_Ysidro_43_605_359.jpg 605w, /wp-content/uploads/2017/05/MikkiPiper_San_Ysidro_43_605_359-300x178.jpg 300w" sizes="(max-width: 605px) 100vw, 605px" /></div>
+                <div class="my-post-image"><img width="605" height="359" src="{{asset('wp-content/uploads/2017/05/MikkiPiper_San_Ysidro_43_605_359.jpg')}}"  class="attachment-full size-full wp-post-image" alt="" srcset="{{asset('wp-content/uploads/2017/05/MikkiPiper_San_Ysidro_43_605_359.jpg 605w, {{asset('wp-content/uploads/2017/05/MikkiPiper_San_Ysidro_43_605_359-300x178.jpg 300w" sizes="(max-width: 605px) 100vw, 605px" /></div>
 
                 
                 

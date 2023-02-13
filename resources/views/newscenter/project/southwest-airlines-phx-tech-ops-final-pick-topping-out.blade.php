@@ -240,7 +240,7 @@
                 
 
                 
-                <div class="my-post-image"><img width="2560" height="1334" src="{{asset('wp-content/uploads/2022/11/HP-Team-Picture2-scaled.jpg')}}"  class="attachment-full size-full wp-post-image" alt="" srcset="/wp-content/uploads/2022/11/HP-Team-Picture2-scaled.jpg 2560w, /wp-content/uploads/2022/11/HP-Team-Picture2-300x156.jpg 300w, /wp-content/uploads/2022/11/HP-Team-Picture2-1024x534.jpg 1024w, /wp-content/uploads/2022/11/HP-Team-Picture2-768x400.jpg 768w, /wp-content/uploads/2022/11/HP-Team-Picture2-1536x801.jpg 1536w, /wp-content/uploads/2022/11/HP-Team-Picture2-2048x1068.jpg 2048w, /wp-content/uploads/2022/11/HP-Team-Picture2-425x220.jpg 425w" sizes="(max-width: 2560px) 100vw, 2560px" /></div>
+                <div class="my-post-image"><img width="2560" height="1334" src="{{asset('wp-content/uploads/2022/11/HP-Team-Picture2-scaled.jpg')}}"  class="attachment-full size-full wp-post-image" alt="" srcset="{{asset('wp-content/uploads/2022/11/HP-Team-Picture2-scaled.jpg 2560w, {{asset('wp-content/uploads/2022/11/HP-Team-Picture2-300x156.jpg 300w, {{asset('wp-content/uploads/2022/11/HP-Team-Picture2-1024x534.jpg 1024w, {{asset('wp-content/uploads/2022/11/HP-Team-Picture2-768x400.jpg 768w, {{asset('wp-content/uploads/2022/11/HP-Team-Picture2-1536x801.jpg 1536w, {{asset('wp-content/uploads/2022/11/HP-Team-Picture2-2048x1068.jpg 2048w, {{asset('wp-content/uploads/2022/11/HP-Team-Picture2-425x220.jpg 425w" sizes="(max-width: 2560px) 100vw, 2560px" /></div>
 
                 
                 

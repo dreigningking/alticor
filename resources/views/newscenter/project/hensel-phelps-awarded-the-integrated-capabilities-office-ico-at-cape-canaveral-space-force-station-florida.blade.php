@@ -245,7 +245,7 @@
                 
 
                 
-                <div class="my-post-image"><img width="2375" height="675" src="{{asset('wp-content/uploads/2022/09/Project-Win.jpg')}}"  class="attachment-full size-full wp-post-image" alt="" srcset="/wp-content/uploads/2022/09/Project-Win.jpg 2375w, /wp-content/uploads/2022/09/Project-Win-300x85.jpg 300w, /wp-content/uploads/2022/09/Project-Win-1024x291.jpg 1024w, /wp-content/uploads/2022/09/Project-Win-768x218.jpg 768w, /wp-content/uploads/2022/09/Project-Win-1536x437.jpg 1536w, /wp-content/uploads/2022/09/Project-Win-2048x582.jpg 2048w" sizes="(max-width: 2375px) 100vw, 2375px" /></div>
+                <div class="my-post-image"><img width="2375" height="675" src="{{asset('wp-content/uploads/2022/09/Project-Win.jpg')}}"  class="attachment-full size-full wp-post-image" alt="" srcset="{{asset('wp-content/uploads/2022/09/Project-Win.jpg 2375w, {{asset('wp-content/uploads/2022/09/Project-Win-300x85.jpg 300w, {{asset('wp-content/uploads/2022/09/Project-Win-1024x291.jpg 1024w, {{asset('wp-content/uploads/2022/09/Project-Win-768x218.jpg 768w, {{asset('wp-content/uploads/2022/09/Project-Win-1536x437.jpg 1536w, {{asset('wp-content/uploads/2022/09/Project-Win-2048x582.jpg 2048w" sizes="(max-width: 2375px) 100vw, 2375px" /></div>
 
                 
                 

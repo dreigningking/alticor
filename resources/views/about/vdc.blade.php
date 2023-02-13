@@ -90,9 +90,9 @@
                                         Learning and Deep Learning</a></h4>
                                 <div class="acc-para acc-container">
                                     <p><img loading="lazy" class="alignnone wp-image-4969"
-                                            src="../../../../www.henselphelps.com/wp-content/uploads/2017/02/AI-300x185.png')}}"
+                                            src="{{asset('wp-content/uploads/2017/02/AI-300x185.png')}}"
                                             alt="" width="485" height="299"
-                                            srcset="/wp-content/uploads/2017/02/AI-300x185.png 300w, /wp-content/uploads/2017/02/AI-768x474.png 768w, /wp-content/uploads/2017/02/AI-1024x633.png 1024w, /wp-content/uploads/2017/02/AI.png 1444w"
+                                            srcset="{{asset('wp-content/uploads/2017/02/AI-300x185.png')}} 300w, {{asset('wp-content/uploads/2017/02/AI-768x474.png')}} 768w, {{asset('wp-content/uploads/2017/02/AI-1024x633.png')}} 1024w, {{asset('wp-content/uploads/2017/02/AI.png')}} 1444w"
                                             sizes="(max-width: 485px) 100vw, 485px" /></p>
                                     <p>Alticor Inc is in the midst of working with key partners to develop ways to
                                         leverage Artificial Intelligence in the Construction Space. The recognition that
