@@ -32,7 +32,7 @@
                     <h2 style="text-align: center;">About the Project​</h2>
 <p style="text-align: center;">The World School (Avenues) five-year facilities service contract features the operations and maintenance of three different buildings, included two academic and one office. This beautiful 320,000 SF campus, located on the western side of midtown Manhattan, is a private institution with approximately 1,900 students ranging from pre-K to 12th grade. The Alticor Inc Facility Services team will provide full-time 24/7 support and will maintain all grounds of the campus including custodial, landscaping, pest control, and snow removal services. Technical services as well as developed capital program management will be supplied throughout the course of this five-year contract.</p>
 <p>&nbsp;</p>
-<p>Looking to add a Facility Services program to your educational facility and grounds? <a href="../../what-we-do/facility-services/index.html">Learn More</a> about our extensive list of solutions and maintenance plans.</p>
+<p>Looking to add a Facility Services program to your educational facility and grounds? <a href="{{route('what-we-do.facility-services')}}">Learn More</a> about our extensive list of solutions and maintenance plans.</p>
 
                 </div>
 

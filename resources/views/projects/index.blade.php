@@ -4522,7 +4522,7 @@
 
                         <span>Commercial Crew &amp; Transportation Capability (CCtCap) Tower</span>
 
-                        <a href="../project/commercial-crew-transportation-capability-cctcap-tower/index.html')}}" ><i
+                        <a href="{{route('projects.commercial-crew-transportation-capability-cctcap-tower')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>

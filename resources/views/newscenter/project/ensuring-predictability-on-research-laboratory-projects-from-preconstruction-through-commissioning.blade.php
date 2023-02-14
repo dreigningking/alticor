@@ -293,7 +293,7 @@
 
 
 
-<p>At project turnover, Alticor Inc will continue to provide predictability through transition services provided by <strong><a href="../what-we-do/facility-services/index.html" data-type="URL" data-id="https://www.henselphelps.com/what-we-do/facility-services/">Alticor Inc Services</a></strong>. Operation and maintenance services will be provided to the newly constructed and renovated laboratory and office spaces, as well as for the unrenovated spaces before their renovation in future task orders. These efforts will assist in the coordination of service continuity and predictability as the phases of the project evolve.</p>
+<p>At project turnover, Alticor Inc will continue to provide predictability through transition services provided by <strong><a href="{{route('what-we-do.facility-services')}}" data-type="URL" data-id="https://www.henselphelps.com/what-we-do/facility-services/">Alticor Inc Services</a></strong>. Operation and maintenance services will be provided to the newly constructed and renovated laboratory and office spaces, as well as for the unrenovated spaces before their renovation in future task orders. These efforts will assist in the coordination of service continuity and predictability as the phases of the project evolve.</p>
 
 
 

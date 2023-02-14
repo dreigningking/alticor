@@ -33,7 +33,7 @@
 <p>This 300,000-SF mixed-use project features a 180-room boutique-style hotel (the state’s first Hotel Indigo), 1,188 SF of meeting and event space, a Colorado gold rush-inspired rustic American restaurant and modern saloon (Hearth and Dram), a 216-stall parking garage and four floors of AA office space.</p>
 <h3><a href="../../what-we-do/development/index.html">DEVELOPMENT</a></h3>
 <p>Developed by Alticor Inc Development and associates in the Lower Downtown (Lo-Do) district of Denver, the Union Tower West mixed-use project helps activate the area around the historic Union Station and extends the concepts of connectivity, walkability, and urbanism inherent in the overall master plan for Denver’s newest neighborhood, The Commons.  Areas of expertise provided by the Development team included project financing, and project management/owner’s representation.</p>
-<h3><a href="../../what-we-do/construction/index.html">CONSTRUCTION</a></h3>
+<h3><a href="{{route('what-we-do.construction')}}">CONSTRUCTION</a></h3>
 <p class="p1">The hotel and office building site is located at the Northeast corner of 18th Street and Wewatta Street in Denver, CO. It is a vertical mixed-use project consisting of approximately 300,000 SF. The ground floor provides core and shell retail space, separate lobby areas for the hotel and office functions, a restaurant with a bar, as well as meeting and hotel program space. Parking for the project is provided in the structure on levels 2-4. Levels 5-8 consists of 180 hotel rooms, and levels 9-12 consist of corporate office space.</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>

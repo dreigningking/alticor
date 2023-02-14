@@ -35,7 +35,7 @@
                             aria-hidden="true"></i><span>Explore development</span></a>
                 </div>
                 <div class="col-3">
-                    <a href="what-we-do/construction/index.html">
+                    <a href="{{route('what-we-do.construction')}}">
                         <h2>Build</h2>
                     </a>
                     <p>
@@ -43,11 +43,11 @@
                         every project. With a focus on excellence, we aim to exceed expectations and deliver high
                         quality projects on time and on budget.</p>
                     </p>
-                    <a href="what-we-do/construction/index.html"><i class="fa fa-arrow-circle-right"
+                    <a href="{{route('what-we-do.construction')}}"><i class="fa fa-arrow-circle-right"
                             aria-hidden="true"></i><span>Explore construction</span></a>
                 </div>
                 <div class="col-3">
-                    <a href="what-we-do/facility-services/index.html">
+                    <a href="{{route('what-we-do.facility-services')}}">
                         <h2>Manage</h2>
                     </a>
                     <p>
@@ -55,7 +55,7 @@
                         properties throughout the life of the facility with expertise that delivers confidence and peace
                         of mind to our clients.</p>
                     </p>
-                    <a href="what-we-do/facility-services/index.html"><i class="fa fa-arrow-circle-right"
+                    <a href="{{route('what-we-do.facility-services')}}"><i class="fa fa-arrow-circle-right"
                             aria-hidden="true"></i><span>Explore facility services</span></a>
                 </div>
 
