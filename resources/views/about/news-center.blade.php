@@ -1351,7 +1351,7 @@
                                     src="{{ asset('wp-content/uploads/2022/03/Model-6_smcropped-311x225.jpg') }}"
                                     class="attachment-news-thumbnail size-news-thumbnail wp-post-image"
                                     alt="" loading="lazy"
-                                    srcset="{{asset('wp-content/uploads/2022/03/Model-6_smcropped-311x225.jpg 311w, {{asset('wp-content/uploads/2022/03/Model-6_smcropped-300x217.jpg 300w, {{asset('wp-content/uploads/2022/03/Model-6_smcropped-1024x741.jpg 1024w, {{asset('wp-content/uploads/2022/03/Model-6_smcropped-768x555.jpg 768w, {{asset('wp-content/uploads/2022/03/Model-6_smcropped.jpg 1369w"
+                                    srcset="{{asset('wp-content/uploads/2022/03/Model-6_smcropped-311x225.jpg')}} 311w, {{asset('wp-content/uploads/2022/03/Model-6_smcropped-300x217.jpg')}} 300w, {{asset('wp-content/uploads/2022/03/Model-6_smcropped-1024x741.jpg')}} 1024w, {{asset('wp-content/uploads/2022/03/Model-6_smcropped-768x555.jpg')}} 768w, {{asset('wp-content/uploads/2022/03/Model-6_smcropped.jpg')}} 1369w"
                                     sizes="(max-width: 311px) 100vw, 311px" />
                             </div>
                             <div class="news-post-meta">
@@ -1598,7 +1598,7 @@
                                     src="{{ asset('wp-content/uploads/2022/01/NIH-Building-40A-Rendering-311x225.jpg') }}"
                                     class="attachment-news-thumbnail size-news-thumbnail wp-post-image"
                                     alt="" loading="lazy"
-                                    srcset="{{asset('wp-content/uploads/2022/01/NIH-Building-40A-Rendering-311x225.jpg 311w, {{asset('wp-content/uploads/2022/01/NIH-Building-40A-Rendering-300x216.jpg 300w, {{asset('wp-content/uploads/2022/01/NIH-Building-40A-Rendering-768x554.jpg 768w, {{asset('wp-content/uploads/2022/01/NIH-Building-40A-Rendering.jpg 804w"
+                                    srcset="{{asset('wp-content/uploads/2022/01/NIH-Building-40A-Rendering-311x225.jpg')}} 311w, {{asset('wp-content/uploads/2022/01/NIH-Building-40A-Rendering-300x216.jpg')}} 300w, {{asset('wp-content/uploads/2022/01/NIH-Building-40A-Rendering-768x554.jpg')}} 768w, {{asset('wp-content/uploads/2022/01/NIH-Building-40A-Rendering.jpg')}} 804w"
                                     sizes="(max-width: 311px) 100vw, 311px" />
                             </div>
                             <div class="news-post-meta">
@@ -5138,7 +5138,7 @@
                                     src="{{ asset('wp-content/uploads/2018/05/woodwall_resized-311x225.jpg') }}"
                                     class="attachment-news-thumbnail size-news-thumbnail wp-post-image"
                                     alt="" loading="lazy"
-                                    srcset="{{asset('wp-content/uploads/2018/05/woodwall_resized-311x225.jpg 311w, {{asset('wp-content/uploads/2018/05/woodwall_resized-940x684.jpg 940w"
+                                    srcset="{{asset('wp-content/uploads/2018/05/woodwall_resized-311x225.jpg')}} 311w, {{asset('wp-content/uploads/2018/05/woodwall_resized-940x684.jpg')}} 940w"
                                     sizes="(max-width: 311px) 100vw, 311px" />
                             </div>
                             <div class="news-post-meta">
@@ -5503,7 +5503,7 @@
                                     src="{{ asset('wp-content/uploads/2018/03/WIC-311x225.jpg') }}"
                                     class="attachment-news-thumbnail size-news-thumbnail wp-post-image"
                                     alt="" loading="lazy"
-                                    srcset="{{asset('wp-content/uploads/2018/03/WIC-311x225.jpg 311w, {{asset('wp-content/uploads/2018/03/WIC-300x217.jpg 300w, {{asset('wp-content/uploads/2018/03/WIC-768x556.jpg 768w, {{asset('wp-content/uploads/2018/03/WIC-1024x742.jpg 1024w, {{asset('wp-content/uploads/2018/03/WIC.jpg 1785w"
+                                    srcset="{{asset('wp-content/uploads/2018/03/WIC-311x225.jpg')}} 311w, {{asset('wp-content/uploads/2018/03/WIC-300x217.jpg')}} 300w, {{asset('wp-content/uploads/2018/03/WIC-768x556.jpg')}} 768w, {{asset('wp-content/uploads/2018/03/WIC-1024x742.jpg')}} 1024w, {{asset('wp-content/uploads/2018/03/WIC.jpg')}} 1785w"
                                     sizes="(max-width: 311px) 100vw, 311px" />
                             </div>
                             <div class="news-post-meta">

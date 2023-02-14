@@ -1517,7 +1517,7 @@
                         <span>Alaska Airlines North Main Terminal Redevelopment Project at SEA</span>
 
                         <a
-                            href="{{route('projects.alaska-airlines-north-main-terminal-redevelopment-project-at-sea')}}')}}" ><i
+                            href="{{route('projects.alaska-airlines-north-main-terminal-redevelopment-project-at-sea')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -2959,7 +2959,7 @@
 
                         <span>Eagle County Regional Airport Expansion and Remodel</span>
 
-                        <a href="{{route('projects.eagle-county-regional-airport-expansion-remodel')}}')}}" ><i
+                        <a href="{{route('projects.eagle-county-regional-airport-expansion-remodel')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -3458,7 +3458,7 @@
 
                         <span>Aegis Ashore Missile Defense Test Complex</span>
 
-                        <a href="{{route('projects.aegis-ashore-missile-defense-test-complex')}}')}}" ><i
+                        <a href="{{route('projects.aegis-ashore-missile-defense-test-complex')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -5673,7 +5673,7 @@
 
                         <span>Arkansas Travelers Baseball Stadium at Dickey-Stephens Park</span>
 
-                        <a href="../project/arkansas-travelers-baseball-stadium-dickey-stephens-park/index.html')}}" ><i
+                        <a href="{{route('projects.arkansas-travelers-baseball-stadium-dickey-stephens-park')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -6017,7 +6017,7 @@
 
                         <span>300 Third Tower Condominiums</span>
 
-                        <a href="{{route('projects.300-third-tower-condominiums')}}')}}" ><i
+                        <a href="{{route('projects.300-third-tower-condominiums')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -6203,7 +6203,7 @@
 
                         <span>2400 Nueces</span>
 
-                        <a href="../project/2400-nueces/index.html')}}" ><i class="fa fa-arrow-circle-right"
+                        <a href="{{route('projects.2400-nueces')}}" ><i class="fa fa-arrow-circle-right"
                                 aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -8339,7 +8339,7 @@
 
                         <span>Ameristar Casino Black Hawk Hotel &amp; Resort</span>
 
-                        <a href="../project/ameristar-casino-black-hawk-hotel-resort-2/index.html')}}" ><i
+                        <a href="{{route('projects.ameristar-casino-black-hawk-hotel-resort-2')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -9000,7 +9000,7 @@
                             Project</span>
 
                         <a
-                            href="../project/armed-forces-retirement-home-afrh-new-commons-healthcare-center-the-scott-project/index.html')}}" ><i
+                            href="{{route('projects.armed-forces-retirement-home-afrh-new-commons-healthcare-center-the-scott-project')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
