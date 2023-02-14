@@ -252,7 +252,7 @@
 
 
 
-<p>For more information on the project, including additional pictures of the new pedestrian bridge, please visit:  <a href="https://www.henselphelps.com/events-archive/pittsburg-state-university/" data-type="mec-events" data-id="11963"><a href="../project/puyallup-station-parking-garage/index.html">https://www.henselphelps.com/project/puyallup-station-parking-garage/</a></a></p>
+<p>For more information on the project, including additional pictures of the new pedestrian bridge, please visit:  <a href="//events-archive/pittsburg-state-university/" data-type="mec-events" data-id="11963"><a href="../project/puyallup-station-parking-garage/index.html">https://www.henselphelps.com/project/puyallup-station-parking-garage/</a></a></p>
 
 
 

@@ -12,7 +12,7 @@
                 <div class="hero-item-wrap">
                     <div class="hero-item-content">
                         <h2>Delivering <span style="font-weight: 600;">EXCELLENCE</span> in all we do.</h2>
-                        <a href="vision-and-core-values/index.html" class="btn">Our Vision and Values</a>
+                        <a href="{{route('about.vision-and-core-values')}}" class="btn">Our Vision and Values</a>
                     </div>
                 </div>
             </div>
@@ -116,7 +116,7 @@
                     alt="" src="{{asset('wp-content/themes/henselphelps/img/placeholder.png') }}" /></div>
         </div>
 
-        <div class="btn-center"><a href="projects/index.html" class="btn inverse">view all projects</a></div>
+        <div class="btn-center"><a href="{{route('projects.index')}}" class="btn inverse">view all projects</a></div>
     </div>
 
 
@@ -377,7 +377,7 @@
                 </div>
             </div>
 
-            <div class="btn-center"><a href="the-hensel-phelps-way/news-center/index.html" class="btn inverse">More
+            <div class="btn-center"><a href="{{route('about.news-center')}}" class="btn inverse">More
                     News</a></div>
         </div>
     </div>

@@ -220,7 +220,7 @@
                     <ul id="menu-footer-menu" class="">
                         <li id="menu-item-115"
                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-115"><a
-                                href="../projects/index.html">Projects</a></li>
+                                href="{{route('projects.index')}}">Projects</a></li>
                         <li id="menu-item-116"
                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-116"><a
                                 href="../what-we-do/index.html">What We Do</a></li>
@@ -230,17 +230,17 @@
                         </li>
                         <li id="menu-item-4379"
                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4379"><a
-                                href="../the-hensel-phelps-way/index.html">The Alticor Inc Way</a></li>
+                                href="{{route('about.ourway')}}">The Alticor Inc Way</a></li>
                         <li id="menu-item-2779"
                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2779"><a
-                                href="https://www.henselphelps.com/careers/trade-partners/">Trade Partners</a></li>
+                                href="{{route('trade-partners')}}">Trade Partners</a></li>
                         <li id="menu-item-5227"
                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5227"><a
                                 href="../sustainability-corporate-governance/index.html">Sustainability and Corporate
                                 Governance</a></li>
                         <li id="menu-item-113"
                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113"><a
-                                href="../contact-us/index.html">Contact Us</a></li>
+                                href="{{route('contact')}}">Contact Us</a></li>
                     </ul>
                 </div>
                 <div class="copyright">
@@ -248,7 +248,7 @@
                         <script>
                             document.write(new Date().getFullYear())
                         </script> Alticor Inc. All rights reserved.<a
-                            href="https://www.henselphelps.com/privacy-policy/"> Privacy Policy </a><a
+                            href="//privacy-policy/"> Privacy Policy </a><a
                             href="{{asset('wp-content/uploads/2021/07/Hensel-Phelps-Media-Kit_Logo-Specifications-and-Use.pdf')}}"
                             download=""> Media Kit </a>
                     </p>

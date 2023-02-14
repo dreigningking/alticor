@@ -190,7 +190,7 @@
 
                 
             </ul>
-            <div class="btn-center"><a href="../../projects/index.html" class="btn inverse">View all projects</a></div>
+            <div class="btn-center"><a href="{{route('projects.index')}}" class="btn inverse">View all projects</a></div>
 
         </div>
 

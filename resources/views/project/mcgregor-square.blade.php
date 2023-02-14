@@ -1,10 +1,7 @@
 @extends('1layout.others')
 @section('content')
 
-    <div class="page-banner" style="background-image:url(
-
-        
-            '../../wp-content/uploads/2021/12/McGregor-Square-Hero-V3.png'	
+    <div class="page-banner" style="background-image:url({{asset('wp-content/uploads/2021/12/McGregor-Square-Hero-V3.png'	
 
         
         );">
@@ -513,7 +510,7 @@
 
                 
             </ul>
-            <div class="btn-center"><a href="../../projects/index.html" class="btn inverse">View all projects</a></div>
+            <div class="btn-center"><a href="{{route('projects.index')}}" class="btn inverse">View all projects</a></div>
 
         </div>Alticor Inc.
 

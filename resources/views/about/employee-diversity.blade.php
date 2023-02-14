@@ -135,7 +135,7 @@
 
                     <p>With twice the national average of women in construction, Alticor Inc supports women in the AEC
                         industry. From educating aspiring young high-schoolers through programs like <a
-                            href="https://www.henselphelps.com/hensel-phelps-supports-ace-mentor-program/">ACE</a>, to
+                            href="//hensel-phelps-supports-ace-mentor-program/">ACE</a>, to
                         recruiting top talent at hundreds of college campuses nationwide, Alticor Inc encourages the
                         mentoring, hiring and growth of women in construction. In addition to being an industry leader,
                         internally, Alticor Inc supports its employees through programs such as the Women’s Leadership
@@ -299,7 +299,7 @@
 
 
             <p>Learn More About Alticor Inc <a
-                    href="https://www.henselphelps.com/employee-diversity/building-together/"><u>Building Together
+                    href="//employee-diversity/building-together/"><u>Building Together
                         Campaign</u></a></p>
 
         </div>

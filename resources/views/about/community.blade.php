@@ -62,7 +62,7 @@
                                 href="index.html" aria-current="page">Community</a></li>
                         <li class="page_item page-item-879"><a href="../news-center/index.html">News Center</a></li>
                         <li class="page_item page-item-42"><a href="../leadership/index.html">Leadership</a></li>
-                        <li class="page_item page-item-859"><a href="../safety/index.html">Safety</a></li>
+                        <li class="page_item page-item-859"><a href="{{route('about.safety')}}">Safety</a></li>
                         <li class="page_item page-item-863"><a href="../quality/index.html">Quality</a></li>
                         <li class="page_item page-item-884 page_item_has_children"><a
                                 href="../recognition-awards/index.html">Recognition &#038; Awards</a></li>
@@ -231,7 +231,7 @@
                             morale and community ties through outreach, mentoring, and advancement-related efforts. </p>
                         </p>
 
-                        <a href="../../employee-diversity/index.html"><i class="fa fa-arrow-circle-right"
+                        <a href="{{route('about.employee-diversity')}}"><i class="fa fa-arrow-circle-right"
                                 aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>

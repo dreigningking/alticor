@@ -213,7 +213,7 @@
 
                     <h3>Ready to start your Construction project?</h3>
 
-                    <a href="../../contact-us/index.html')}}"  class="btn" target="_blank">Contact Us</a>
+                    <a href="{{route('contact')}}"  class="btn" target="_blank">Contact Us</a>
 
                 </div>
 

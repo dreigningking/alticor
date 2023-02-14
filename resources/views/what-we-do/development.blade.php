@@ -150,7 +150,7 @@
 
                     <h3>Ready to start your Development project?</h3>
 
-                    <a href="../../contact-us/index.html')}}" class="btn" target="_blank">Contact US</a>
+                    <a href="{{route('contact')}}" class="btn" target="_blank">Contact US</a>
 
                 </div>
 
