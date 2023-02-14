@@ -26,16 +26,16 @@
                     <h4>The Alticor Inc Way</h4>
                     <ul>
                         <li class="page_item page-item-5168 page_item_has_children"><a
-                                href="../technology/index.html">Technology</a></li>
-                        <li class="page_item page-item-36"><a href="../history/index.html">History</a></li>
+                                href="{{route('about.technology')}}">Technology</a></li>
+                        <li class="page_item page-item-36"><a href="{{route('about.history')}}">History</a></li>
                         <li class="page_item page-item-876 page_item_has_children"><a
-                                href="../community/index.html">Community</a></li>
-                        <li class="page_item page-item-879"><a href="../news-center/index.html">News Center</a></li>
-                        <li class="page_item page-item-42"><a href="../leadership/index.html">Leadership</a></li>
+                                href="{{route('about.community')}}"">Community</a></li>
+                        <li class="page_item page-item-879"><a href="{{route('about.news-center')}}"">News Center</a></li>
+                        <li class="page_item page-item-42"><a href="{{route('about.leadership')}}"">Leadership</a></li>
                         <li class="page_item page-item-859"><a href="{{route('about.safety')}}">Safety</a></li>
-                        <li class="page_item page-item-863"><a href="../quality/index.html">Quality</a></li>
+                        <li class="page_item page-item-863"><a href="{{route('about.quality')}}"">Quality</a></li>
                         <li class="page_item page-item-884 page_item_has_children"><a
-                                href="../recognition-awards/index.html">Recognition &#038; Awards</a></li>
+                                href="{{route('about.recognition-awards')}}"">Recognition &#038; Awards</a></li>
                         <li class="page_item page-item-870 current_page_item"><a href="index.html"
                                 aria-current="page">Sustainability</a></li>
                     </ul>
@@ -70,7 +70,7 @@
                     amongst our engineers.</p>
                 <h3 id="pageContent"></h3>
                 <p><strong>Sustainability and Corporate Governance</strong></p>
-                <p><a class="btn inverse" href="../../sustainability-corporate-governance/index.html">LEARN MORE</a>
+                <p><a class="btn inverse" href="{{route('about.sustainability-corporate-governance')}}"">LEARN MORE</a>
                 </p>
 
 
