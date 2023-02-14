@@ -1,15 +1,13 @@
 @extends('1layout.others')
 @section('content')
 
-	<div class="page-banner" style="background-image:url('../wp-content/uploads/2017/02/contact-banner-1.jpg')}});">
+	<div class="page-banner" style="background-image:url({{asset('wp-content/uploads/2017/02/contact-banner-1.jpg')}});">
 		<div class="page-banner-block">
 			<div class="page-banner-content">
 				<h1>Contact Us</h1>
 			</div>
 		</div>
 	</div>
-
-
 	<div class="breadcumb" typeof="BreadcrumbList" vocab="https://schema.org/">
 		<div class="wrapper clearfix">
 		</div>
@@ -17,21 +15,10 @@
 
 	<div class="main-container">
 		<div class="wrapper clearfix">
-
-
 			<div class="main-content">
-
 				<div class="location-details">
 					<div class="location-top">
-
-
-
-
-
-
 						<div class="location-top-details clearfix">
-
-
 							<div class="location-top-box">
 								<h3>Corporate Headquarters</h3>
 								<p>Alticor Inc.<br />
@@ -44,14 +31,7 @@
 										rel="noopener noreferrer">View on Map</a></p>
 								<p>&nbsp;</p>
 							</div>
-
-
 						</div>
-						</li>
-
-
-						</ul>
-
 					</div>
 
 
