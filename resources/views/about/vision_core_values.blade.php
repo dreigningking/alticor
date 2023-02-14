@@ -133,7 +133,7 @@
                     <h4>The Alticor Inc Way:</h4>
                     <h5><strong>People, Process, Partnership and Technology.</strong><br />
                         The four pillars that define our collaborative approach and project success. We invite you to
-                        learn more about <a href="../the-hensel-phelps-way/index.html')}}">The Alticor Inc Way</a>.</h5>
+                        learn more about <a href="{{route('about.the-hensel-phelps-way')}}"')}}">The Alticor Inc Way</a>.</h5>
                     <h4></h4>
                     <h4></h4>
                     <p>&nbsp;</p>
