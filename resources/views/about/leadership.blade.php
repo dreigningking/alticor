@@ -60,7 +60,7 @@
                         <li class="page_item page-item-879"><a href="../news-center/index.html">News Center</a></li>
                         <li class="page_item page-item-42 current_page_item"><a href="index.html"
                                 aria-current="page">Leadership</a></li>
-                        <li class="page_item page-item-859"><a href="../safety/index.html">Safety</a></li>
+                        <li class="page_item page-item-859"><a href="{{route('about.safety')}}">Safety</a></li>
                         <li class="page_item page-item-863"><a href="../quality/index.html">Quality</a></li>
                         <li class="page_item page-item-884 page_item_has_children"><a
                                 href="../recognition-awards/index.html">Recognition &#038; Awards</a></li>

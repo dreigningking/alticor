@@ -1,13 +1,7 @@
 @extends('1layout.others')
 @section('content')
 
-    <div class="page-banner" style="background-image:url(
-
-        
-            '../../wp-content/uploads/2022/06/HP_Large_Website_Hero_Western-County-EOC.jpg'	
-
-        
-        );">
+    <div class="page-banner" style="background-image:url({{asset('wp-content/uploads/2022/06/HP_Large_Website_Hero_Western-County-EOC.jpg')}});">
 
         <div class="page-banner-block">
 

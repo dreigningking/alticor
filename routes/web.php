@@ -33,7 +33,7 @@ Route::group(['prefix'=> 'about','as'=>'about.'],function(){
     
 });
 
-Route::view('contact-us','contact-us.index')->name('contact');
+Route::view('contact-us','contact')->name('contact');
 
 
 Route::group(['prefix'=> 'projects','as'=> 'projects.'],function(){

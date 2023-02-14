@@ -265,7 +265,7 @@
 
             </ul>
 
-            <div class="btn-center"><a href="../../projects/index.html" class="btn inverse">View all projects</a>
+            <div class="btn-center"><a href="{{route('projects.index')}}" class="btn inverse">View all projects</a>
             </div>
 
         </div>
@@ -513,7 +513,7 @@
 
 
 
-                        <div class="btn-center"><a href="../../the-hensel-phelps-way/news-center/index.html"
+                        <div class="btn-center"><a href="{{route('about.news-center')}}"
                                 class="btn inverse">More News</a></div>
 
                     </div>

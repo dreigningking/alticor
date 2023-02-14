@@ -6017,7 +6017,7 @@
 
                         <span>300 Third Tower Condominiums</span>
 
-                        <a href="../project/300-third-tower-condominiums/index.html')}}" ><i
+                        <a href="{{route('projects.300-third-tower-condominiums')}}')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>

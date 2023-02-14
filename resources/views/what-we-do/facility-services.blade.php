@@ -172,12 +172,12 @@
     <div class="overflow small-wrapper margin">
         <h2 style="text-align: center;">Optimizing Your Facilities</h2>
         <p style="text-align: center;">Alticor Inc Facility Services focuses on four key market sectors, including: <a
-                href="https://www.henselphelps.com/what-we-do/facility-services/facility-services-aviation/">Aviation</a>,
+                href="{{route('what-we-do.facility-services')}}facility-services-aviation/">Aviation</a>,
             <a
-                href="https://www.henselphelps.com/what-we-do/facility-services/facility-services-education/">Education</a>,
+                href="{{route('what-we-do.facility-services')}}facility-services-education/">Education</a>,
             <a
-                href="https://www.henselphelps.com/what-we-do/facility-services/facility-services-government/">Government</a> and
-            <a href="https://www.henselphelps.com/what-we-do/facility-services/facility-services-critical-environment/">Critical
+                href="{{route('what-we-do.facility-services')}}facility-services-government/">Government</a> and
+            <a href="{{route('what-we-do.facility-services')}}facility-services-critical-environment/">Critical
                 Environment</a>.</p>
     </div>
 

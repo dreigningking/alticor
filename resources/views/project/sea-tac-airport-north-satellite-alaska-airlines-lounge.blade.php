@@ -1,13 +1,7 @@
 @extends('1layout.others')
 @section('content')
 
-    <div class="page-banner" style="background-image:url(
-
-        
-            '../../wp-content/uploads/2019/08/Alaska-Airlines-Longe-Hensel-Phelps-edit.jpg'	
-
-        
-        );">
+    <div class="page-banner" style="background-image:url({{asset('wp-content/uploads/2019/08/Alaska-Airlines-Longe-Hensel-Phelps-edit.jpg')}});">
 
         <div class="page-banner-block">
 
@@ -40,7 +34,7 @@
 <p>&nbsp;</p>
 <p>The entry to the lounge, &#8220;Come In,&#8221; is open and welcoming with a custom wood concierge podium. The Western end, &#8220;Take a Breath,&#8221; is a calming place to read or work in private. It features a freestanding polished concrete hearth and custom lounge chairs looking out to the airfield. The center of the lounge, &#8220;Help Yourself,&#8221; hosts a generous casual dining area with a barista-staffed coffee bar and pre-flight snacks. A large walnut and patinated-metal bar encourages guests to relax, interact and &#8220;Cut Loose.&#8221; Built as an island in the round, it’s surrounded by herringbone-patterned stained oak flooring and flexible seating areas.</p>
 <p>&nbsp;</p>
-<p>Construction included new restrooms, prep kitchen and mechanical spaces. The Alaska Airlines Lounge was built on the mezzanine level of the expanded North Satellite. The fast-tracked project required considerable coordination between multiple stakeholder groups to prevent disruptions to passengers and airport operations. It was a key component of the <a href="https://www.henselphelps.com/project/sea-tac-north-satellite-expansion/">North Satellite Modernization Project</a>&#8216;s Phase 1 completion.</p>
+<p>Construction included new restrooms, prep kitchen and mechanical spaces. The Alaska Airlines Lounge was built on the mezzanine level of the expanded North Satellite. The fast-tracked project required considerable coordination between multiple stakeholder groups to prevent disruptions to passengers and airport operations. It was a key component of the <a href="//project/sea-tac-north-satellite-expansion/">North Satellite Modernization Project</a>&#8216;s Phase 1 completion.</p>
 <p>&nbsp;</p>
 
                 </div>
@@ -303,7 +297,7 @@
 
                 
             </ul>
-            <div class="btn-center"><a href="../../projects/index.html" class="btn inverse">View all projects</a></div>
+            <div class="btn-center"><a href="{{route('projects.index')}}" class="btn inverse">View all projects</a></div>
 
         </div>
 

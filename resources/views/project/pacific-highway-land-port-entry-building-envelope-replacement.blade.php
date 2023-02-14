@@ -1,13 +1,7 @@
 @extends('1layout.others')
 @section('content')
 
-    <div class="page-banner" style="background-image:url(
-
-        
-            '../../wp-content/uploads/2021/04/HP_Large_Website_LPOE.jpg'	
-
-        
-        );">
+    <div class="page-banner" style="background-image:url({{asset('wp-content/uploads/2021/04/HP_Large_Website_LPOE.jpg')}});">
 
         <div class="page-banner-block">
 
@@ -41,7 +35,7 @@
 <p>&nbsp;</p>
 <p style="text-align: center;">The 117,131 SF design-build project is comprised of the exterior envelope restoration and re-roofing of the existing Auto/Bus and Commercial/Warehouse Buildings to resolve long-term water infiltration, air leakage, moisture control, mold and overall performance issues. Under the GSA Design Excellence Program, and delivered in partnership with lead architect, Jones Studio, and building envelope consultant, Wiss Janney Elstner Associates, this project required complete re-design, removal and installation of a new exterior envelope, roof replacement and rebalancing of the existing HVAC to match the new exterior enclosures. In addition, it required a multi-phased approach for roofing and vertical skin components, which allowed the work to progress in a logical and efficient manner while minimizing interruption to the 24/7 tenant operations.</p>
 <p>&nbsp;</p>
-<p style="text-align: center;">This is Alticor Inc&#8217; 33rd project for the U.S. General Services Administration, and seventh project supporting the U.S. Customs and Border Protection at active Land Ports of Entry. To learn more about Alticor Inc&#8217; portfolio of successfully completed Land Port of Entry projects, visit: <a href="https://www.henselphelps.com/project/san-ysidro-land-port-entry-phase-2-2/">https://www.henselphelps.com/project/san-ysidro-land-port-entry-phase-2-2/</a></p>
+<p style="text-align: center;">This is Alticor Inc&#8217; 33rd project for the U.S. General Services Administration, and seventh project supporting the U.S. Customs and Border Protection at active Land Ports of Entry. To learn more about Alticor Inc&#8217; portfolio of successfully completed Land Port of Entry projects, visit: <a href="//project/san-ysidro-land-port-entry-phase-2-2/">https://www.henselphelps.com/project/san-ysidro-land-port-entry-phase-2-2/</a></p>
 
                 </div>
 
@@ -200,7 +194,7 @@
 
                 
             </ul>
-            <div class="btn-center"><a href="../../projects/index.html" class="btn inverse">View all projects</a></div>
+            <div class="btn-center"><a href="{{route('projects.index')}}" class="btn inverse">View all projects</a></div>
 
         </div>
 

@@ -375,7 +375,7 @@ img.emoji {
 <link rel='stylesheet' id='mec-tooltip-shadow-style-css'  href="{{asset('wp-content/plugins/modern-events-calendar-lite/assets/packages/tooltip/tooltipster-sideTip-shadow.min1eb7.css?ver=6.0.3')}}" type='text/css' media='all' />
 <link rel='stylesheet' id='mec-featherlight-style-css'  href="{{asset('wp-content/plugins/modern-events-calendar-lite/assets/packages/featherlight/featherlight1eb7.css?ver=6.0.3')}}" type='text/css' media='all' />
 <link rel='stylesheet' id='mec-lity-style-css'  href="{{asset('wp-content/plugins/modern-events-calendar-lite/assets/packages/lity/lity.min1eb7.css?ver=6.0.3')}}" type='text/css' media='all' />
-<link rel='stylesheet' id='wp-block-library-css'  href='../wp-includes/css/dist/block-library/style.min1eb7.css?ver=6.0.3')}}" type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href="{{asset('wp-includes/css/dist/block-library/style.min1eb7.css?ver=6.0.3')}}" type='text/css' media='all' />
 <link rel='stylesheet' id='quotescollection-block-quotes-css'  href="{{asset('wp-content/plugins/quotes-collection/blocks/quotes/stylea0f0.css?ver=1656041768')}}" type='text/css' media='all' />
 <link rel='stylesheet' id='quotescollection-block-random-quote-css'  href="{{asset('wp-content/plugins/quotes-collection/blocks/random-quote/style5611.css?ver=1656041769')}}" type='text/css' media='all' />
 <style id='global-styles-inline-css' type='text/css'>
@@ -385,9 +385,9 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <link rel='stylesheet' id='wpos-font-awesome-css'  href="{{asset('wp-content/plugins/timeline-and-history-slider-pro/assets/css/font-awesome.min19f6.css?ver=1.0.7')}}" type='text/css' media='all' />
 <link rel='stylesheet' id='wpos-slick-style-css'  href="{{asset('wp-content/plugins/timeline-and-history-slider-pro/assets/css/slick19f6.css?ver=1.0.7')}}" type='text/css' media='all' />
 <link rel='stylesheet' id='wphts-pro-public-style-css'  href="{{asset('wp-content/plugins/timeline-and-history-slider-pro/assets/css/wphtsp-pro-public19f6.css?ver=1.0.7')}}" type='text/css' media='all' />
-<link rel='stylesheet' id='quotescollection-css'  href="{{asset('wp-content/plugins/quotes-collection/css/quotes-collection16b9.css?ver=2.5.2' type='text/css' media='all' />
-<link rel='stylesheet' id='font-awesome-style-css'  href='../../maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min1eb7.css?ver=6.0.3')}}" type='text/css' media='all' />
-<link rel='stylesheet' id='font-google-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A300%2C300i%2C400%2C400i%2C600%2C600i%2C700%2C700i%2C800%2C800i&amp;ver=6.0.3')}}" type='text/css' media='all' />
+<link rel='stylesheet' id='quotescollection-css'  href="{{asset('wp-content/plugins/quotes-collection/css/quotes-collection16b9.css?ver=2.5.2')}}" type='text/css' media='all' />
+
+
 <link rel='stylesheet' id='flexslider-css'  href="{{asset('wp-content/themes/henselphelps/css/flexslider1eb7.css?ver=6.0.3')}}" type='text/css' media='all' />
 <link rel='stylesheet' id='swiper-slider-css'  href="{{asset('wp-content/themes/henselphelps/css/swiper.min1eb7.css?ver=6.0.3')}}" type='text/css' media='all' />
 <link rel='stylesheet' id='mediaelementplayer-css'  href="{{asset('wp-content/themes/henselphelps/mediaelement/mediaelementplayer.min1eb7.css?ver=6.0.3')}}" type='text/css' media='all' />
@@ -473,7 +473,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
 
                 <ul>
 
-                	<li><a href="../contact-us/index.html')}}" >Contact Us</a>
+                	<li><a href="{{route('contact')}}" >Contact Us</a>
 
                     	<div class="projects-menu menu-content top-adjust">
 
@@ -483,7 +483,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
 
                             	
 
-                            	<li><a href="../contact-us/index.html')}}" >View all locations</a></li>
+                            	<li><a href="{{route('contact')}}" >View all locations</a></li>
 
                             	
 								
@@ -927,7 +927,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
 
                         	<li>
 
-                            	<a id="menu1" class="projects-nav" href="../projects/index.html')}}" >Projects</a>
+                            	<a id="menu1" class="projects-nav" href="{{route('projects.index')}}" >Projects</a>
 
                                  <div class="projects-menu menu-content">
 
@@ -939,7 +939,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
 
                                         	
 
-                                        	<li><a href="../projects/index.html')}}" >View all projects</a></li>
+                                        	<li><a href="{{route('projects.index')}}" >View all projects</a></li>
 
                                         	
 											
@@ -984,9 +984,9 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                       	<div class="project-content">
 
                                         	<h3>View All Projects</h3>
-<p><a href="../projects/index.html')}}" ><img loading="lazy" class="alignnone" src="{{asset('wp-content/uploads/2017/05/University-of-California-menu.jpg')}}" alt="" width="300" height="200" /></a></p>
+<p><a href="{{route('projects.index')}}" ><img loading="lazy" class="alignnone" src="{{asset('wp-content/uploads/2017/05/University-of-California-menu.jpg')}}" alt="" width="300" height="200" /></a></p>
 <h5><span style="color: #ffffff;">Project Portfolio</span></h5>
-<h4><a href="../projects/index.html')}}" >View Alticor Inc Projects</a></h4>
+<h4><a href="{{route('projects.index')}}" >View Alticor Inc Projects</a></h4>
 
                                         </div>
 
@@ -1095,7 +1095,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
 
                             <li>
 
-                            	<a id="menu2" href="../what-we-do/index.html')}}" >What We Do</a>
+                            	<a id="menu2" href="{{route('what-we-do.index')}}" >What We Do</a>
 
                             	<div class="projects-menu menu-content">
 
@@ -1107,7 +1107,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
 
                                         
 										
-                                        <li><a href="../what-we-do/index.html')}}" >What We Do</a></li>
+                                        <li><a href="{{route('what-we-do.index')}}" >What We Do</a></li>
 
                                         
                                         <li><a href="../what-we-do/development/index.html')}}" >Development</a></li>
@@ -1136,7 +1136,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
 <p><img loading="lazy" class="alignnone size-full alignnone" src="{{asset('wp-content/uploads/2017/09/hp_whatwedo.jpg')}}" alt="" width="300" height="200" /></p>
 <p>&nbsp;</p>
 <h5><span style="color: #ffffff;">Plan. Build. Manage.</span></h5>
-<h4><a href="../what-we-do/index.html')}}" >We develop, construct and maintain inspired landmarks that turn our clients’ aspirations into reality.</a></h4>
+<h4><a href="{{route('what-we-do.index')}}" >We develop, construct and maintain inspired landmarks that turn our clients’ aspirations into reality.</a></h4>
 
                                         </div>
 
@@ -1392,25 +1392,25 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                             <li><a href="../the-hensel-phelps-way/sustainability/index.html')}}" >Sustainability</a></li>
 
 											
-                                            <li><a href="../the-hensel-phelps-way/technology/index.html')}}" >Technology</a></li>
+                                            <li><a href="{{route('about.technology')}}" >Technology</a></li>
 
 											
-                                            <li><a href="../the-hensel-phelps-way/history/index.html')}}" >History</a></li>
+                                            <li><a href="{{route('about.history')}}')}}" >History</a></li>
 
 											
-                                            <li><a href="../the-hensel-phelps-way/community/index.html')}}" >Community</a></li>
+                                            <li><a href="{{route('about.community')}}')}}" >Community</a></li>
 
 											
-                                            <li><a href="../employee-diversity/index.html')}}" >Diversity and Inclusion</a></li>
+                                            <li><a href="{{route('about.employee-diversity')}}')}}" >Diversity and Inclusion</a></li>
 
 											
-                                            <li><a href="../the-hensel-phelps-way/news-center/index.html')}}" >News Center</a></li>
+                                            <li><a href="{{route('about.news-center')}}')}}" >News Center</a></li>
 
 											
-                                            <li><a href="../the-hensel-phelps-way/leadership/index.html')}}" >Leadership</a></li>
+                                            <li><a href="{{route('about.leadership')}}')}}" >Leadership</a></li>
 
 											
-                                            <li><a href="../the-hensel-phelps-way/recognition-awards/index.html')}}" >Recognition & Awards</a></li>
+                                            <li><a href="{{route('about.recognition-awards')}}')}}" >Recognition & Awards</a></li>
 
 											
                                             <li><a href="../trade-partners/index.html')}}" >Trade Partners</a></li>
@@ -1430,7 +1430,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                             <h3>Our Vision and Core Values</h3>
 <p><img loading="lazy" class="size-medium wp-image-2532 alignnone" src="{{asset('wp-content/uploads/2017/07/experienced-300x200.jpg')}}" alt="" width="300" height="200" /></p>
 <h5><span style="color: #ffffff;">Delivering EXCELLENCE in all we do.</span></h5>
-<h4><a href="https://www.henselphelps.com/about/the-hensel-phelps-way/">The Alticor Inc core values: Ownership, Integrity, Builder, Diversity and Community.</a></h4>
+<h4><a href="{{route('about.ourway')}}">The Alticor Inc core values: Ownership, Integrity, Builder, Diversity and Community.</a></h4>
 
                                         </div>
 
@@ -1440,7 +1440,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                             <h3>The Alticor Inc Way</h3>
 <p><img loading="lazy" class="size-medium wp-image-2532 alignnone" src="{{asset('wp-content/uploads/2017/07/the-hp-way-300x200.jpg')}}" alt="" width="300" height="200" srcset="{{asset('wp-content/uploads/2017/07/the-hp-way-300x200.jpg 300w, {{asset('wp-content/uploads/2017/07/the-hp-way.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></p>
 <h5><span style="color: #ffffff;">More Than a Mantra</span></h5>
-<h4><a href="https://www.henselphelps.com/about/the-hensel-phelps-way/">The Alticor Inc Way: People, Process, Partnership and Technology.</a></h4>
+<h4><a href="{{route('about.ourway')}}">The Alticor Inc Way: People, Process, Partnership and Technology.</a></h4>
 
                                         </div>
 
@@ -1450,7 +1450,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                             <h3>Safety</h3>
 <p><img loading="lazy" class="size-medium wp-image-2533 alignnone" src="{{asset('wp-content/uploads/2017/07/safety-300x200.jpg')}}" alt="" width="300" height="200" srcset="{{asset('wp-content/uploads/2017/07/safety-300x200.jpg 300w, {{asset('wp-content/uploads/2017/07/safety.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></p>
 <h5><span style="color: #ffffff;">A Zero-Accident Safety Culture</span></h5>
-<h4><a href="https://www.henselphelps.com/what-we-do/safety/">We maintain an unwavering commitment to the safety of our people and trade partners.<br />
+<h4><a href="{{route('what-we-do.safety')}}">We maintain an unwavering commitment to the safety of our people and trade partners.<br />
 </a></h4>
 
                                         </div>
@@ -1461,7 +1461,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                             <h3>Quality</h3>
 <p><img loading="lazy" class="size-medium wp-image-2534 alignnone" src="{{asset('wp-content/uploads/2017/07/quality-300x200.jpg')}}" alt="" width="300" height="200" srcset="{{asset('wp-content/uploads/2017/07/quality-300x200.jpg 300w, {{asset('wp-content/uploads/2017/07/quality.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></p>
 <h5><span style="color: #ffffff;">Producing the Very Best</span></h5>
-<h4><a href="https://www.henselphelps.com/what-we-do/quality/">Alticor Inc uses a proven six-step process to ensure quality in all projects.<br />
+<h4><a href="{{route('about.quality')}}">Alticor Inc uses a proven six-step process to ensure quality in all projects.<br />
 </a></h4>
 
                                         </div>
@@ -1472,7 +1472,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                             <h3>Sustainability</h3>
 <p><img loading="lazy" class="size-medium wp-image-2535 alignnone" src="{{asset('wp-content/uploads/2017/07/sustainability-300x200.jpg')}}" alt="" width="300" height="200" srcset="{{asset('wp-content/uploads/2017/07/sustainability-300x200.jpg 300w, {{asset('wp-content/uploads/2017/07/sustainability.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></p>
 <h5><span style="color: #ffffff;">Benefiting the Environment</span></h5>
-<h4><a href="https://www.henselphelps.com/what-we-do/sustainability/">We help you make informed decisions that benefit the environment as well as your budget.</a></h4>
+<h4><a href="{{route('what-we-do.sustainability')}}">We help you make informed decisions that benefit the environment as well as your budget.</a></h4>
 
                                         </div>
 
@@ -1482,7 +1482,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                             <h3>Technology</h3>
 <p><img loading="lazy" class="size-medium wp-image-2536 alignnone" src="{{asset('wp-content/uploads/2017/07/technology-300x200.jpg')}}" alt="" width="300" height="200" srcset="{{asset('wp-content/uploads/2017/07/technology-300x200.jpg 300w, {{asset('wp-content/uploads/2017/07/technology.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></p>
 <h5><span style="color: #ffffff;">Leading the Way in Innovation</span></h5>
-<h4><a href="https://www.henselphelps.com/what-we-do/technology/">We are constantly creating new efficiencies that translate into better value for our clients.</a></h4>
+<h4><a href="{{route('what-we-do.technology')}}">We are constantly creating new efficiencies that translate into better value for our clients.</a></h4>
 
                                         </div>
 
@@ -1493,7 +1493,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
 <p><img loading="lazy" class="alignnone size-medium wp-image-2313" src="{{asset('wp-content/uploads/2017/06/hp_aboutus-300x167.jpg')}}" alt="" width="300" height="167" srcset="{{asset('wp-content/uploads/2017/06/hp_aboutus-300x167.jpg 300w, {{asset('wp-content/uploads/2017/06/hp_aboutus-768x426.jpg 768w, {{asset('wp-content/uploads/2017/06/hp_aboutus-1024x568.jpg 1024w, {{asset('wp-content/uploads/2017/06/hp_aboutus.jpg 1427w" sizes="(max-width: 300px) 100vw, 300px" /></p>
 <p>&nbsp;</p>
 <h5><span style="color: #ffffff;">Celebrating 80 Years</span></h5>
-<h4><a href="https://www.henselphelps.com/about/history/">From one man’s dream to one of America’s most successful contractors.</a></h4>
+<h4><a href="//about/history/">From one man’s dream to one of America’s most successful contractors.</a></h4>
 
                                         </div>
 
@@ -1503,7 +1503,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                             <h3>Community</h3>
 <p><img loading="lazy" class="size-medium wp-image-2537 alignnone" src="{{asset('wp-content/uploads/2017/07/community-300x200.jpg')}}" alt="" width="300" height="200" srcset="{{asset('wp-content/uploads/2017/07/community-300x200.jpg 300w, {{asset('wp-content/uploads/2017/07/community.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></p>
 <h5><span style="color: #ffffff;">Doing Our Part</span></h5>
-<h4><a href="https://www.henselphelps.com/about/community/">Building Stronger Communities Together.</a></h4>
+<h4><a href="//about/community/">Building Stronger Communities Together.</a></h4>
 
                                         </div>
 
@@ -1513,7 +1513,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                             <h3>Diversity and Inclusion</h3>
 <p><img loading="lazy" class="size-medium wp-image-2539 alignnone" src="{{asset('wp-content/uploads/2017/07/dsc_0085-300x242.jpg')}}" alt="" width="300" height="200" /></p>
 <h5><span style="color: #ffffff;">Creating and Inclusive Environment</span></h5>
-<h4><a href="../employee-diversity/index.html')}}" >Cultivating a diverse workforce is an important part of Alticor Inc’ culture.</a></h4>
+<h4><a href="{{route('about.employee-diversity')}}')}}" >Cultivating a diverse workforce is an important part of Alticor Inc’ culture.</a></h4>
 
                                         </div>
 
@@ -1521,9 +1521,9 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                         <div class="project-content">
 
                                             <h3>News Center</h3>
-<p><a href="https://www.henselphelps.com/about/news-center/"><img loading="lazy" class="alignnone" src="{{asset('wp-content/uploads/2017/05/news-news.jpg')}}" alt="" width="300" height="200" /></a></p>
+<p><a href="//about/news-center/"><img loading="lazy" class="alignnone" src="{{asset('wp-content/uploads/2017/05/news-news.jpg')}}" alt="" width="300" height="200" /></a></p>
 <h5><span style="color: #ffffff;">What’s Happening</span></h5>
-<h4><a href="https://www.henselphelps.com/about/news-center/">Stay in the know with Alticor Inc news and events.</a></h4>
+<h4><a href="//about/news-center/">Stay in the know with Alticor Inc news and events.</a></h4>
 
                                         </div>
 
@@ -1533,7 +1533,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                             <h3>Leadership</h3>
 <p><img loading="lazy" class="size-medium wp-image-2538 alignnone" src="{{asset('wp-content/uploads/2017/07/leadership-300x200.jpg')}}" alt="" width="300" height="200" srcset="{{asset('wp-content/uploads/2017/07/leadership-300x200.jpg 300w, {{asset('wp-content/uploads/2017/07/leadership.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></p>
 <h5><span style="color: #ffffff;">Empowered Teams</span></h5>
-<h4><a href="https://www.henselphelps.com/about/leadership/">Project leadership is one of the cornerstones of our company structure.</a></h4>
+<h4><a href="//about/leadership/">Project leadership is one of the cornerstones of our company structure.</a></h4>
 
                                         </div>
 
@@ -1543,7 +1543,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                             <h3>Recognition &amp; Awards</h3>
 <p><img loading="lazy" class="size-medium wp-image-2539 alignnone" src="{{asset('wp-content/uploads/2017/07/awards-300x200.jpg')}}" alt="" width="300" height="200" srcset="{{asset('wp-content/uploads/2017/07/awards-300x200.jpg 300w, {{asset('wp-content/uploads/2017/07/awards.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></p>
 <h5><span style="color: #ffffff;">Jobs Well Done</span></h5>
-<h4><a href="https://www.henselphelps.com/about/recognition-awards/">At Alticor Inc, our work speaks for itself.</a></h4>
+<h4><a href="//about/recognition-awards/">At Alticor Inc, our work speaks for itself.</a></h4>
 
                                         </div>
 
@@ -1553,7 +1553,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                             <h3>Trade Partners</h3>
 <p><img loading="lazy" class="size-medium wp-image-2539 alignnone" src="{{asset('wp-content/uploads/2017/04/Subcontractor-Outreach-300x247.jpg')}}" alt="" width="300" height="200" /></p>
 <h5><span style="color: #ffffff;">Partnering with Alticor Inc</span></h5>
-<h4><a href="https://www.henselphelps.com/about/recognition-awards/">We welcome the opportunity to work with trade partners who share our dedication and goals.</a></h4>
+<h4><a href="//about/recognition-awards/">We welcome the opportunity to work with trade partners who share our dedication and goals.</a></h4>
 
                                         </div>
 
@@ -1850,10 +1850,10 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                     <h4><strong>Project Highlights From Federal Courthouses to Higher Education and Transportation in the Public Sector</strong></h4>
 <p>Public projects of all sizes are reshaping our cities and landscapes. The public sector is embracing a range of project delivery methods that are leaner, more cost effective and more efficient. Public partnerships are opening different avenues for the historically tricky area of financing a public project. These trends are helping to ensure the best possible use of public dollars for key infrastructure.</p>
 <p>Many communities are outgrowing their social infrastructure or simply need to replace or refurbish facilities that have reached the end of their projected lifespan. An example of this type of project is the Fred D. Thompson US Courthouse and Federal Building, currently under construction in Nashville, Tennessee. The US General Services Administration broke ground on the new courthouse in July of 2018. Slated for completion in 2021, the new courthouse will feature eight courtrooms and 11 judges’ chambers in addition to workspaces and offices to house different departments.</p>
-<p><img class="alignright size-medium wp-image-5541" src="{{asset('wp-content/uploads/2017/12/UCSD_Ph3_Student_Housing_Hensel_Phelps_004-300x159.jpg')}}" alt="" width="300" height="159" srcset="{{asset('wp-content/uploads/2017/12/UCSD_Ph3_Student_Housing_Hensel_Phelps_004-300x159.jpg 300w, {{asset('wp-content/uploads/2017/12/UCSD_Ph3_Student_Housing_Hensel_Phelps_004-768x407.jpg 768w, {{asset('wp-content/uploads/2017/12/UCSD_Ph3_Student_Housing_Hensel_Phelps_004.jpg 915w" sizes="(max-width: 300px) 100vw, 300px" />Many public higher education institutions are building to meet the needs of today&#8217;s students. <a href="https://www.henselphelps.com/project/university-california-san-diego-uc-san-diego-nuevo-east-student-housing-phase-3/">UC San Diego</a> added 740,000 SF of graduate and professional student housing with the Mesa Nueva complex. Designed to connect the complex to the larger landscape and community, Mesa Nueva provides affordable on-campus housing and is certified LEED Gold.</p>
+<p><img class="alignright size-medium wp-image-5541" src="{{asset('wp-content/uploads/2017/12/UCSD_Ph3_Student_Housing_Hensel_Phelps_004-300x159.jpg')}}" alt="" width="300" height="159" srcset="{{asset('wp-content/uploads/2017/12/UCSD_Ph3_Student_Housing_Hensel_Phelps_004-300x159.jpg 300w, {{asset('wp-content/uploads/2017/12/UCSD_Ph3_Student_Housing_Hensel_Phelps_004-768x407.jpg 768w, {{asset('wp-content/uploads/2017/12/UCSD_Ph3_Student_Housing_Hensel_Phelps_004.jpg 915w" sizes="(max-width: 300px) 100vw, 300px" />Many public higher education institutions are building to meet the needs of today&#8217;s students. <a href="//project/university-california-san-diego-uc-san-diego-nuevo-east-student-housing-phase-3/">UC San Diego</a> added 740,000 SF of graduate and professional student housing with the Mesa Nueva complex. Designed to connect the complex to the larger landscape and community, Mesa Nueva provides affordable on-campus housing and is certified LEED Gold.</p>
 <p>In Martinez, California, the design-build Contra Costa County Administration Building will be a more efficient and community-friendly space. The four-story, 71,000 SF building will house a variety of county departments and the Board of Supervisors meeting chamber. A few miles down the road, the two-story County Emergency Operations Center (EOC) will include a training lecture hall and will consolidate and replace outdated facilities for a state-of-the-art response center.</p>
 <p>Infrastructure and transportation projects represent another key foundational aspect of public projects. The Purple Line is 16-mile light rail line in Maryland that will connect communities to the Metrorail, AMTRAK and local bus services. To deliver this project, Maryland Department of Transportation (MDOT) formed a public-private partnership (P3) with a consortium of private sector engineering and finance firms.</p>
-<p><img loading="lazy" class="alignright size-medium wp-image-6717" src="{{asset('wp-content/uploads/2018/08/STC-P1-AS-Hub-300x158.jpg')}}" alt="" width="300" height="158" srcset="{{asset('wp-content/uploads/2018/08/STC-P1-AS-Hub-300x158.jpg 300w, {{asset('wp-content/uploads/2018/08/STC-P1-AS-Hub-768x404.jpg 768w, {{asset('wp-content/uploads/2018/08/STC-P1-AS-Hub-1024x539.jpg 1024w, {{asset('wp-content/uploads/2018/08/STC-P1-AS-Hub-1536x808.jpg 1536w, {{asset('wp-content/uploads/2018/08/STC-P1-AS-Hub.jpg 2000w" sizes="(max-width: 300px) 100vw, 300px" />At the <a href="https://www.henselphelps.com/project/orlando-international-airport-south-terminal-c/">Orlando International Airport</a>, a new domestic and international airport terminal will add 16 airline gates with flexibility to accommodate a variety of plane sizes. As the largest current construction project in Central Florida, this new terminal will reshape the landscape of MCO.</p>
-<p>Public partnerships can also result in innovative new developments. In San Diego, partnerships with the Port of San Diego has led to the development and construction of multiple projects. The award-winning <a href="https://www.henselphelps.com/project/hilton-san-diego-bayfront/">Hilton San Diego Bayfront Hotel</a> was both developed and constructed by Alticor Inc. Additionally, two projects, developed in partnership with the Port of San Diego, have created the newest landmarks in San Diego &#8212; Lane Field North and South hotels. These two major hotel projects are in the North Embarcadero area, known as the BRIC and San Diego’s newest lifestyle destination. <a href="https://www.henselphelps.com/project/lane-field-south/">Lane Field South</a>, a 400-room, full-service Intercontinental-branded and managed hotel, was completed in 2018 and includes a two-acre park and a new pedestrian corridor.</p>
+<p><img loading="lazy" class="alignright size-medium wp-image-6717" src="{{asset('wp-content/uploads/2018/08/STC-P1-AS-Hub-300x158.jpg')}}" alt="" width="300" height="158" srcset="{{asset('wp-content/uploads/2018/08/STC-P1-AS-Hub-300x158.jpg 300w, {{asset('wp-content/uploads/2018/08/STC-P1-AS-Hub-768x404.jpg 768w, {{asset('wp-content/uploads/2018/08/STC-P1-AS-Hub-1024x539.jpg 1024w, {{asset('wp-content/uploads/2018/08/STC-P1-AS-Hub-1536x808.jpg 1536w, {{asset('wp-content/uploads/2018/08/STC-P1-AS-Hub.jpg 2000w" sizes="(max-width: 300px) 100vw, 300px" />At the <a href="//project/orlando-international-airport-south-terminal-c/">Orlando International Airport</a>, a new domestic and international airport terminal will add 16 airline gates with flexibility to accommodate a variety of plane sizes. As the largest current construction project in Central Florida, this new terminal will reshape the landscape of MCO.</p>
+<p>Public partnerships can also result in innovative new developments. In San Diego, partnerships with the Port of San Diego has led to the development and construction of multiple projects. The award-winning <a href="//project/hilton-san-diego-bayfront/">Hilton San Diego Bayfront Hotel</a> was both developed and constructed by Alticor Inc. Additionally, two projects, developed in partnership with the Port of San Diego, have created the newest landmarks in San Diego &#8212; Lane Field North and South hotels. These two major hotel projects are in the North Embarcadero area, known as the BRIC and San Diego’s newest lifestyle destination. <a href="//project/lane-field-south/">Lane Field South</a>, a 400-room, full-service Intercontinental-branded and managed hotel, was completed in 2018 and includes a two-acre park and a new pedestrian corridor.</p>
 <p>These projects represent a sampling of current trends and projects in the public sector. Projects that represent the spectrum of delivery types from design-build to public-private partnership to construction manager at risk. Regardless of the delivery method, these landmark facilities are key to helping our country grow, thrive and run smoothly.</p>
 <div style="margin-top: 0px; margin-bottom: 0px;" class="sharethis-inline-share-buttons" ></div>

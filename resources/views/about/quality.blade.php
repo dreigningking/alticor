@@ -32,7 +32,7 @@
                                 href="../community/index.html">Community</a></li>
                         <li class="page_item page-item-879"><a href="../news-center/index.html">News Center</a></li>
                         <li class="page_item page-item-42"><a href="../leadership/index.html">Leadership</a></li>
-                        <li class="page_item page-item-859"><a href="../safety/index.html">Safety</a></li>
+                        <li class="page_item page-item-859"><a href="{{route('about.safety')}}">Safety</a></li>
                         <li class="page_item page-item-863 current_page_item"><a href="index.html"
                                 aria-current="page">Quality</a></li>
                         <li class="page_item page-item-884 page_item_has_children"><a

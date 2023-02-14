@@ -1,13 +1,7 @@
 @extends('1layout.others')
 @section('content')
 
-    <div class="page-banner" style="background-image:url(
-
-        
-            '../../wp-content/uploads/2017/05/Hensel_Phelps_Aviation_William_Hobby_SWDO.jpg'	
-
-        
-        );">
+    <div class="page-banner" style="background-image:url({{asset('wp-content/uploads/2017/05/Hensel_Phelps_Aviation_William_Hobby_SWDO.jpg')}});">
 
         <div class="page-banner-block">
 

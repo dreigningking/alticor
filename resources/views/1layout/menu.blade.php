@@ -88,13 +88,13 @@
                     <div class="project-content">
 
                         <h3>Commercial</h3>
-                        <p><a href="/project/1144-15th-street-office-building//"><img
+                        <p><a href="{{route('projects.1144-15th-street-office-building')}}"><img
                                     loading="lazy" class="alignnone wp-image-961 size-full"
                                     src="{{ asset('wp-content/uploads/2019/03/Hensel-Phelps-Colorado-Skyscraper.jpg') }}"
                                     alt="" width="300" height="200" /></a></p>
                         <h5><span style="color: #ffffff;">Featured Commercial Case Study</span>
                         </h5>
-                        <h4><a href="/project/ascend-apollo/">1144 15th Street Office Building</a>
+                        <h4><a href="{{route('projects.ascend-apollo')}}">1144 15th Street Office Building</a>
                         </h4>
 
                     </div>

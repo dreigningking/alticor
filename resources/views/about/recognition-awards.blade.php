@@ -32,7 +32,7 @@
                                 href="../community/index.html">Community</a></li>
                         <li class="page_item page-item-879"><a href="../news-center/index.html">News Center</a></li>
                         <li class="page_item page-item-42"><a href="../leadership/index.html">Leadership</a></li>
-                        <li class="page_item page-item-859"><a href="../safety/index.html">Safety</a></li>
+                        <li class="page_item page-item-859"><a href="{{route('about.safety')}}">Safety</a></li>
                         <li class="page_item page-item-863"><a href="../quality/index.html">Quality</a></li>
                         <li class="page_item page-item-884 page_item_has_children current_page_item"><a
                                 href="index.html" aria-current="page">Recognition &#038; Awards</a></li>
@@ -149,7 +149,7 @@
                             Florida (Civic Buildings: National Award of Merit)</li>
                     </ul>
                     <p>We invite you to view our <a
-                            href="https://www.henselphelps.com/dbia-project-history/">portfolio timeline of all
+                            href="//dbia-project-history/">portfolio timeline of all
                             Design-Build Excellence Awards</a> presented to Alticor Inc in DBIA&#8217;s 25 year history.
                     </p>
                     <h4>National Safety Awards</h4>
