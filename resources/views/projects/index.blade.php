@@ -574,7 +574,7 @@
                         <span>Maricopa County Intake, Transfer and Release (ITR) Facility / Detention Facility</span>
 
                         <a
-                            href="../project/maricopa-county-intake-transfer-and-release-itr-facility-detention-facility/index.html')}}" ><i
+                            href="{{route('projects.maricopa-county-intake-transfer-and-release-itr-facility-detention-facility')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -606,7 +606,7 @@
                         <span>Tampa International Airport Main Terminal Curbside Expansion Program</span>
 
                         <a
-                            href="../project/tampa-international-airport-main-terminal-curbside-expansion-program-2/index.html')}}" ><i
+                            href="{{route('projects.tampa-international-airport-main-terminal-curbside-expansion-program-2')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -637,7 +637,7 @@
 
                         <span>LAX Airport Police Facility</span>
 
-                        <a href="../project/lax-airport-police-facility/index.html')}}" ><i
+                        <a href="{{route('projects.lax-airport-police-facility')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -669,7 +669,7 @@
                         <span>Kaiser Permanente Riverside Medical Center Bed Tower Expansion</span>
 
                         <a
-                            href="../project/kaiser-permanente-riverside-medical-center-bed-tower-expansion/index.html')}}" ><i
+                            href="{{route('projects.kaiser-permanente-riverside-medical-center-bed-tower-expansion')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -700,7 +700,7 @@
 
                         <span>Harbor-UCLA Medical Center Replacement Program</span>
 
-                        <a href="../project/harbor-ucla-medical-center-replacement-program/index.html')}}" ><i
+                        <a href="{{route('projects.harbor-ucla-medical-center-replacement-program')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -731,7 +731,7 @@
 
                         <span>LAUSD Belvedere Middle School Comprehensive Modernization</span>
 
-                        <a href="../project/lausd-belvedere-middle-school-comprehensive-modernization/index.html')}}" ><i
+                        <a href="{{route('projects.lausd-belvedere-middle-school-comprehensive-modernization')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -762,7 +762,7 @@
 
                         <span>Caltech Resnick Sustainability Center</span>
 
-                        <a href="../project/caltech-resnick-sustainability-center/index.html')}}" ><i
+                        <a href="{{route('projects.caltech-resnick-sustainability-center')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -793,7 +793,7 @@
 
                         <span>City of Hope Orange County Hospital</span>
 
-                        <a href="../project/city-of-hope-orange-county-hospital/index.html')}}" ><i
+                        <a href="{{route('projects.city-of-hope-orange-county-hospital')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -824,7 +824,7 @@
 
                         <span>China Lake South Airfield</span>
 
-                        <a href="../project/china-lake-south-airfield/index.html')}}" ><i
+                        <a href="{{route('projects.china-lake-south-airfield')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -855,7 +855,7 @@
 
                         <span>UC Riverside School of Medicine Education Building II</span>
 
-                        <a href="../project/uc-riverside-school-of-medicine-education-building-ii/index.html')}}" ><i
+                        <a href="{{route('projects.uc-riverside-school-of-medicine-education-building-ii')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -886,7 +886,7 @@
 
                         <span>UCI Medical Center Irvine</span>
 
-                        <a href="../project/uci-medical-center-irvine/index.html')}}" ><i
+                        <a href="{{route('projects.uci-medical-center-irvine')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -918,7 +918,7 @@
                         <span>California Air Resources Board Headquarters – Mary D. Nichols Campus</span>
 
                         <a
-                            href="../project/california-air-resources-board-headquarters-mary-d-nichols-campus/index.html')}}" ><i
+                            href="{{route('projects.california-air-resources-board-headquarters-mary-d-nichols-campus')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -950,7 +950,7 @@
                         <span>Valencia Temporary Laboratory Buildout Emergency COVID Testing Facility</span>
 
                         <a
-                            href="../project/valencia-temporary-laboratory-buildout-emergency-covid-testing-facility/index.html')}}" ><i
+                            href="{{route('projects.valencia-temporary-laboratory-buildout-emergency-covid-testing-facility')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -981,7 +981,7 @@
 
                         <span>LAX Southwest Airlines Terminal 1.5 Development Program</span>
 
-                        <a href="../project/lax-southwest-airlines-terminal-1-5-development-program/index.html')}}" ><i
+                        <a href="{{route('projects.lax-southwest-airlines-terminal-1-5-development-program')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -1012,7 +1012,7 @@
 
                         <span>Western County of Riverside Emergency Operations Center</span>
 
-                        <a href="../project/western-county-of-riverside-emergency-operations-center/index.html')}}" ><i
+                        <a href="{{route('projects.western-county-of-riverside-emergency-operations-center')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -1043,7 +1043,7 @@
 
                         <span>Marriott International Headquarters and Hotel</span>
 
-                        <a href="../project/marriott-international-headquarters-and-hotel/index.html')}}" ><i
+                        <a href="{{route('projects.marriott-international-headquarters-and-hotel')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -1074,7 +1074,7 @@
 
                         <span>SeaWorld Aquatica SP2</span>
 
-                        <a href="../project/seaworld-aquatica-sp2/index.html')}}" ><i class="fa fa-arrow-circle-right"
+                        <a href="{{route('projects.seaworld-aquatica-sp2')}}" ><i class="fa fa-arrow-circle-right"
                                 aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -1105,7 +1105,7 @@
 
                         <span>Hangar Reconstruction &#8211; Dulles Jet Center</span>
 
-                        <a href="../project/hangar-reconstruction-dulles-jet-center/index.html')}}" ><i
+                        <a href="{{route('projects.hangar-reconstruction-dulles-jet-center')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -1137,7 +1137,7 @@
 
                         <span>Midfield Concourse at Washington Dulles International Airport</span>
 
-                        <a href="../project/midfield-concourse-washington-dulles-international-airport/index.html')}}" ><i
+                        <a href="{{route('projects.midfield-concourse-washington-dulles-international-airport')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -1169,7 +1169,7 @@
                         <span>Baltimore Washington International Airport Terminal A/B Expansion</span>
 
                         <a
-                            href="../project/baltimore-washington-international-airport-terminal-b-expansion/index.html')}}" ><i
+                            href="{{route('projects.baltimore-washington-international-airport-terminal-b-expansion')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -1202,7 +1202,7 @@
                             (BAMSTE)</span>
 
                         <a
-                            href="../project/p263-broad-area-maritime-surveillance-testing-evaluation-hangar-facility-bamste/index.html')}}" ><i
+                            href="{{route('projects.p263-broad-area-maritime-surveillance-testing-evaluation-hangar-facility-bamste')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -1234,7 +1234,7 @@
                         <span>Baltimore Washington International Airport B/C Connector and Security Checkpoint</span>
 
                         <a
-                            href="../project/baltimore-washington-international-airport-b-c-connector-security-checkpoint/index.html')}}" ><i
+                            href="{{route('projects.baltimore-washington-international-airport-b-c-connector-security-checkpoint')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -1267,7 +1267,7 @@
                             &#8211; 5</span>
 
                         <a
-                            href="../project/national-institute-of-standards-and-technology-building-245-modernization-task-orders-1-5/index.html')}}" ><i
+                            href="{{route('projects.national-institute-of-standards-and-technology-building-245-modernization-task-orders-1-5')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -1298,7 +1298,7 @@
 
                         <span>Denver International Airport Great Hall Phase 1</span>
 
-                        <a href="../project/denver-international-airport-great-hall-phase-1/index.html')}}" ><i
+                        <a href="{{route('projects.denver-international-airport-great-hall-phase-1')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -1329,7 +1329,7 @@
 
                         <span>701 Rio</span>
 
-                        <a href="../project/701-rio/index.html')}}" ><i class="fa fa-arrow-circle-right"
+                        <a href="{{route('projects.701-rio')}}" ><i class="fa fa-arrow-circle-right"
                                 aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -1360,7 +1360,7 @@
 
                         <span>McGregor Square</span>
 
-                        <a href="../project/mcgregor-square/index.html')}}" ><i class="fa fa-arrow-circle-right"
+                        <a href="{{route('projects.mcgregor-square')}}" ><i class="fa fa-arrow-circle-right"
                                 aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -1391,7 +1391,7 @@
 
                         <span>Naval Air Station Pensacola Building 633</span>
 
-                        <a href="../project/naval-air-station-pensacola-building-633/index.html')}}" ><i
+                        <a href="{{route('projects.naval-air-station-pensacola-building-633')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -1422,7 +1422,7 @@
 
                         <span>Army Reserve Center and Aviation Support Facility at MacDill AFB</span>
 
-                        <a href="../project/army-reserve-center-aviation-support-facility-macdill-afb/index.html')}}" ><i
+                        <a href="{{route('projects.army-reserve-center-aviation-support-facility-macdill-afb')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -1454,7 +1454,7 @@
                         <span>Tampa International Airport SkyCenter Atrium &#038; Pedestrian Bridge</span>
 
                         <a
-                            href="../project/tampa-international-airport-skycenter-atrium-pedestrian-bridge/index.html')}}" ><i
+                            href="{{route('projects.tampa-international-airport-skycenter-atrium-pedestrian-bridge')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -1485,7 +1485,7 @@
 
                         <span>Archer Hotel Tysons</span>
 
-                        <a href="../project/archer-hotel-tysons/index.html')}}" ><i class="fa fa-arrow-circle-right"
+                        <a href="{{route('projects.archer-hotel-tysons')}}" ><i class="fa fa-arrow-circle-right"
                                 aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -1548,7 +1548,7 @@
 
                         <span>Puyallup Station Parking Garage</span>
 
-                        <a href="../project/puyallup-station-parking-garage/index.html')}}" ><i
+                        <a href="{{route('projects.puyallup-station-parking-garage')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -1580,7 +1580,7 @@
                         <span>Mauka Concourse Extension at Daniel K. Inouye International Airport</span>
 
                         <a
-                            href="../project/mauka-concourse-extension-daniel-k-inouye-international-airport/index.html')}}" ><i
+                            href="{{route('projects.mauka-concourse-extension-daniel-k-inouye-international-airport')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -1611,7 +1611,7 @@
 
                         <span>Nashville International Airport Concourse D and Terminal Wings</span>
 
-                        <a href="../project/nashville-international-airport-concourse-d-terminal-wings/index.html')}}" ><i
+                        <a href="{{route('projects.nashville-international-airport-concourse-d-terminal-wings')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -1642,7 +1642,7 @@
 
                         <span>SFCSD Water Reclamation Facility Expansion</span>
 
-                        <a href="../project/south-fort-collins-sanitation-district/index.html')}}" ><i
+                        <a href="{{route('projects.south-fort-collins-sanitation-district')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -1673,7 +1673,7 @@
 
                         <span>Drake Water Reclamation Facility</span>
 
-                        <a href="../project/drake-water-reclamation-facility/index.html')}}" ><i
+                        <a href="{{route('projects.drake-water-reclamation-facility')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -1705,7 +1705,7 @@
                         <span>Texas Tech University Health Sciences Center Oral Health Clinic</span>
 
                         <a
-                            href="../project/texas-tech-university-health-sciences-center-oral-health-clinic/index.html')}}" ><i
+                            href="{{route('projects.texas-tech-university-health-sciences-center-oral-health-clinic')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -1737,7 +1737,7 @@
                         <span>Social Security Administration (SSA) Arthur J. Altmeyer Modernization</span>
 
                         <a
-                            href="../project/social-security-administration-ssa-arthur-j-altmeyer-modernization/index.html')}}" ><i
+                            href="{{route('projects.social-security-administration-ssa-arthur-j-altmeyer-modernization')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -1768,7 +1768,7 @@
 
                         <span>Waianae Wastewater Treatment Plant Improvements and Upgrade</span>
 
-                        <a href="../project/waianae-wastewater-treatment-plant-improvements-upgrade/index.html')}}" ><i
+                        <a href="{{route('projects.waianae-wastewater-treatment-plant-improvements-upgrade')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -1799,7 +1799,7 @@
 
                         <span>Kaneohe / Kailua Tunnel Influent Facility</span>
 
-                        <a href="../project/kaneohe-kailua-tunnel-influent-facility/index.html')}}" ><i
+                        <a href="{{route('projects.kaneohe-kailua-tunnel-influent-facility')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -1830,7 +1830,7 @@
 
                         <span>Grandview Medical Office Building</span>
 
-                        <a href="../project/grandview-medical-office-building/index.html')}}" ><i
+                        <a href="{{route('projects.grandview-medical-office-building')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -1861,7 +1861,7 @@
 
                         <span>Hawaii State Hospital New Patient Facility</span>
 
-                        <a href="../project/hawaii-state-hospital-new-patient-facility/index.html')}}" ><i
+                        <a href="{{route('projects.hawaii-state-hospital-new-patient-facility')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -1892,7 +1892,7 @@
 
                         <span>Pacific Highway Land Port of Entry Building Envelope Replacement</span>
 
-                        <a href="../project/pacific-highway-land-port-entry-building-envelope-replacement/index.html')}}" ><i
+                        <a href="{{route('projects.pacific-highway-land-port-entry-building-envelope-replacement')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -1923,7 +1923,7 @@
 
                         <span>Fawcett Elementary School Replacement</span>
 
-                        <a href="../project/fawcett-elementary-school-replacement/index.html')}}" ><i
+                        <a href="{{route('projects.fawcett-elementary-school-replacement')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -1954,7 +1954,7 @@
 
                         <span>Camp Paumalu STEM Center for Excellence</span>
 
-                        <a href="../project/camp-paumalu-stem-center-for-excellence/index.html')}}" ><i
+                        <a href="{{route('projects.camp-paumalu-stem-center-for-excellence')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -1986,7 +1986,7 @@
                         <span>University of Washington Interdisciplinary Engineering Building</span>
 
                         <a
-                            href="../project/university-of-washington-interdisciplinary-engineering-building/index.html')}}" ><i
+                            href="{{route('projects.university-of-washington-interdisciplinary-engineering-building')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -2018,7 +2018,7 @@
                         <span>Medical Education Training Campus (METC) Dormitories (Task Orders #1-5)</span>
 
                         <a
-                            href="../project/medical-education-training-campus-metc-dormitories-task-orders-1-5/index.html')}}" ><i
+                            href="{{route('projects.medical-education-training-campus-metc-dormitories-task-orders-1-5')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -2049,7 +2049,7 @@
 
                         <span>Foreign Affairs Security Training Center (FASTC) Contracts 1 and 3</span>
 
-                        <a href="../project/foreign-affairs-security-training-center-fastc-contracts-1-3/index.html')}}" ><i
+                        <a href="{{route('projects.foreign-affairs-security-training-center-fastc-contracts-1-3')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -2081,7 +2081,7 @@
                         <span>NIA Alzheimer Disease and Related Dementias Temporary Research Facility</span>
 
                         <a
-                            href="../project/nia-alzheimer-disease-and-related-dementias-temporary-research-facility/index.html')}}" ><i
+                            href="{{route('projects.nia-alzheimer-disease-and-related-dementias-temporary-research-facility')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -2112,7 +2112,7 @@
 
                         <span>Powertrain Facility and Central Energy Plant</span>
 
-                        <a href="../project/powertrain-facility-central-energy-plant/index.html')}}" ><i
+                        <a href="{{route('projects.powertrain-facility-central-energy-plant')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -2143,7 +2143,7 @@
 
                         <span>Kalahari Resort and Convention Center</span>
 
-                        <a href="../project/kalahari-resort-convention-center/index.html')}}" ><i
+                        <a href="{{route('projects.kalahari-resort-convention-center')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -2175,7 +2175,7 @@
                         <span>The University of Texas at Austin Dell Medical School Ambulatory Surgery Center</span>
 
                         <a
-                            href="../project/university-texas-austin-dell-medical-school-ambulatory-surgery-center/index.html')}}" ><i
+                            href="{{route('projects.university-texas-austin-dell-medical-school-ambulatory-surgery-center')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -2207,7 +2207,7 @@
                         <span>Baltimore Washington International Airport Concourse A Five Gate Extension</span>
 
                         <a
-                            href="../project/baltimore-washington-international-airport-concourse-five-gate-extension/index.html')}}" ><i
+                            href="{{route('projects.baltimore-washington-international-airport-concourse-five-gate-extension')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -2238,7 +2238,7 @@
 
                         <span>SEA Concourse C &#8211; New Power Center</span>
 
-                        <a href="../project/sea-concourse-c-new-power-center/index.html')}}" ><i
+                        <a href="{{route('projects.sea-concourse-c-new-power-center')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -2269,7 +2269,7 @@
 
                         <span>SEA Baggage Optimization Phase 2</span>
 
-                        <a href="../project/sea-baggage-optimization-phase-2/index.html')}}" ><i
+                        <a href="{{route('projects.sea-baggage-optimization-phase-2')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -2300,7 +2300,7 @@
 
                         <span>Downtown Redmond Link Extension &#8211; Parking Garage and Stations</span>
 
-                        <a href="../project/downtown-redmond-link-extension-parking-garage-stations/index.html')}}" ><i
+                        <a href="{{route('projects.downtown-redmond-link-extension-parking-garage-stations')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -2331,7 +2331,7 @@
 
                         <span>United Airlines Flight Training Center Building G</span>
 
-                        <a href="../project/united-airlines-flight-training-center-building-g/index.html')}}" ><i
+                        <a href="{{route('projects.united-airlines-flight-training-center-building-g')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -2363,7 +2363,7 @@
 
                         <span>The University of Texas Medical Branch League City Expansion</span>
 
-                        <a href="../project/university-texas-medical-branch-league-city-expansion/index.html')}}" ><i
+                        <a href="{{route('projects.university-texas-medical-branch-league-city-expansion')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -2394,7 +2394,7 @@
 
                         <span>LAX Delta Air Lines Terminals 2 &amp; 3 Modernization Program</span>
 
-                        <a href="../project/lax-delta-air-lines-terminals-2-3-modernization-program/index.html')}}" ><i
+                        <a href="{{route('projects.lax-delta-air-lines-terminals-2-3-modernization-program')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -2426,7 +2426,7 @@
 
                         <span>LAUSD Venice High School Comprehensive Modernization</span>
 
-                        <a href="../project/lausd-venice-high-school-comprehensive-modernization/index.html')}}" ><i
+                        <a href="{{route('projects.lausd-venice-high-school-comprehensive-modernization')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -2458,7 +2458,7 @@
 
                         <span>LAX American Airlines Terminals 4 &amp; 5 Redevelopment Program</span>
 
-                        <a href="../project/lax-american-airlines-terminals-4-5-redevelopment-program/index.html')}}" ><i
+                        <a href="{{route('projects.lax-american-airlines-terminals-4-5-redevelopment-program')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -2489,7 +2489,7 @@
 
                         <span>UC Irvine Verano 8 Graduate Student Housing</span>
 
-                        <a href="../project/uc-irvine-verano-8-graduate-student-housing/index.html')}}" ><i
+                        <a href="{{route('projects.uc-irvine-verano-8-graduate-student-housing')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -2520,7 +2520,7 @@
 
                         <span>Caltech Chen Neuroscience Research Building</span>
 
-                        <a href="../project/caltech-chen-neuroscience-research-building/index.html')}}" ><i
+                        <a href="{{route('projects.caltech-chen-neuroscience-research-building')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -2551,7 +2551,7 @@
 
                         <span>Kaiser Permanente Downey Hospital Expansion</span>
 
-                        <a href="../project/kaiser-permanente-downey-hospital-expansion/index.html')}}" ><i
+                        <a href="{{route('projects.kaiser-permanente-downey-hospital-expansion')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -2583,7 +2583,7 @@
                         <span>Kaiser Permanente Irwindale Specialty Medical Office Building and Parking Structure</span>
 
                         <a
-                            href="../project/kaiser-permanente-irwindale-specialty-medical-office-building-parking-structure/index.html')}}" ><i
+                            href="{{route('projects.kaiser-permanente-irwindale-specialty-medical-office-building-parking-structure')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -2615,7 +2615,7 @@
                         <span>UC San Diego Mesa Nueva Graduate and Professional Students &amp; Mixed-Use Housing</span>
 
                         <a
-                            href="../project/uc-san-diego-mesa-nueva-graduate-and-professional-students-mixed-use-housing/index.html')}}" ><i
+                            href="{{route('projects.uc-san-diego-mesa-nueva-graduate-and-professional-students-mixed-use-housing')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -2646,7 +2646,7 @@
 
                         <span>UC San Diego Nuevo East Student Housing</span>
 
-                        <a href="../project/uc-san-diego-nuevo-east-student-housing/index.html')}}" ><i
+                        <a href="{{route('projects.uc-san-diego-nuevo-east-student-housing')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -2677,7 +2677,7 @@
 
                         <span>San Ysidro Land Port of Entry – Phase 2</span>
 
-                        <a href="../project/san-ysidro-land-port-of-entry-phase-2/index.html')}}" ><i
+                        <a href="{{route('projects.san-ysidro-land-port-of-entry-phase-2')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -2708,7 +2708,7 @@
 
                         <span>UC Irvine Middle Earth Housing Expansion</span>
 
-                        <a href="../project/uc-irvine-middle-earth-housing-expansion/index.html')}}" ><i
+                        <a href="{{route('projects.uc-irvine-middle-earth-housing-expansion')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -2739,7 +2739,7 @@
 
                         <span>UC Irvine Douglas Hospital</span>
 
-                        <a href="../project/uc-irvine-douglas-hospital/index.html')}}" ><i
+                        <a href="{{route('projects.uc-irvine-douglas-hospital')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -2770,7 +2770,7 @@
 
                         <span>SDCCD City College A, D, &#038; T Building Renovation</span>
 
-                        <a href="../project/sdccd-city-college-d-t-building-renovation/index.html')}}" ><i
+                        <a href="{{route('projects.sdccd-city-college-d-t-building-renovation')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -2803,7 +2803,7 @@
                         <span>LAX Central Terminal Area Departure and Arrival Levels Security Bollards – Phase 2</span>
 
                         <a
-                            href="../project/lax-central-terminal-area-departure-arrival-levels-security-bollards-phase-2/index.html')}}" ><i
+                            href="{{route('projects.lax-central-terminal-area-departure-arrival-levels-security-bollards-phase-2')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -2834,7 +2834,7 @@
 
                         <span>LAUSD Orthopaedic Hospital Medical Magnet High School</span>
 
-                        <a href="../project/lausd-orthopaedic-hospital-medical-magnet-high-school/index.html')}}" ><i
+                        <a href="{{route('projects.lausd-orthopaedic-hospital-medical-magnet-high-school')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -2866,7 +2866,7 @@
                         <span>NAVFAC P229 Weapons Surveillance and Testing Laboratory and Calibration Laboratory</span>
 
                         <a
-                            href="../project/navfac-p229-weapons-surveillance-testing-laboratory-calibration-laboratory/index.html')}}" ><i
+                            href="{{route('projects.navfac-p229-weapons-surveillance-testing-laboratory-calibration-laboratory')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -2897,7 +2897,7 @@
 
                         <span>Triton Forward Operating Base Hangar</span>
 
-                        <a href="../project/triton-forward-operating-base-hangar/index.html')}}" ><i
+                        <a href="{{route('projects.triton-forward-operating-base-hangar')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -2928,7 +2928,7 @@
 
                         <span>UCHealth Memorial Hospital &#8211; EPIC and GOTC Renovations</span>
 
-                        <a href="../project/uchealth-memorial-hospital-epic-gotc-renovations/index.html')}}" ><i
+                        <a href="{{route('projects.uchealth-memorial-hospital-epic-gotc-renovations')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -2992,7 +2992,7 @@
                             Hospital</span>
 
                         <a
-                            href="../project/the-university-of-texas-medical-branch-at-galveston-jennie-sealy-replacement-hospital/index.html')}}" ><i
+                            href="{{route('projects.the-university-of-texas-medical-branch-at-galveston-jennie-sealy-replacement-hospital')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -3023,7 +3023,7 @@
 
                         <span>Avenues: The World School &#8211; Facility Management (FM)</span>
 
-                        <a href="../project/avenues-world-school-facility-management-fm/index.html')}}" ><i
+                        <a href="{{route('projects.avenues-world-school-facility-management-fm')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -3054,7 +3054,7 @@
 
                         <span>RELLIS Academic Complex, Phase I</span>
 
-                        <a href="../project/rellis-academic-complex-phase/index.html')}}" ><i
+                        <a href="{{route('projects.rellis-academic-complex-phase')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -3085,7 +3085,7 @@
 
                         <span>NAVFAC P730 Andrew Mills Hall</span>
 
-                        <a href="../project/navfac-p730-andrew-mills-hall/index.html')}}" ><i
+                        <a href="{{route('projects.navfac-p730-andrew-mills-hall')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -3148,7 +3148,7 @@
                         <span>Orlando International Airport Airside Four Renovation and Wing Expansion</span>
 
                         <a
-                            href="../project/orlando-international-airport-airside-four-renovation-wing-expansion-2/index.html')}}" ><i
+                            href="{{route('projects.orlando-international-airport-airside-four-renovation-wing-expansion-2')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -3179,7 +3179,7 @@
 
                         <span>Sea-Tac Airport North Satellite Alaska Airlines Lounge</span>
 
-                        <a href="../project/sea-tac-airport-north-satellite-alaska-airlines-lounge/index.html')}}" ><i
+                        <a href="{{route('projects.sea-tac-airport-north-satellite-alaska-airlines-lounge')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -3210,7 +3210,7 @@
 
                         <span>Queen Anne Elementary School Addition</span>
 
-                        <a href="../project/queen-anne-elementary-school-addition/index.html')}}" ><i
+                        <a href="{{route('projects.queen-anne-elementary-school-addition')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -3241,7 +3241,7 @@
 
                         <span>The GEO Group Corporate Headquarters</span>
 
-                        <a href="../project/geo-group-corporate-headquarters/index.html')}}" ><i
+                        <a href="{{route('projects.geo-group-corporate-headquarters')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -3272,7 +3272,7 @@
 
                         <span>UT Medical Branch League City Parking Initiatives</span>
 
-                        <a href="../project/ut-medical-branch-league-city-parking-initiatives/index.html')}}" ><i
+                        <a href="{{route('projects.ut-medical-branch-league-city-parking-initiatives')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -3303,7 +3303,7 @@
 
                         <span>Austin-Bergstrom International Airport Terminal East Infill</span>
 
-                        <a href="../project/austin-bergstrom-international-airport-terminal-east-infill-2/index.html')}}" ><i
+                        <a href="{{route('projects.austin-bergstrom-international-airport-terminal-east-infill-2')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -3334,7 +3334,7 @@
 
                         <span>Aventura Hotel at Universal Orlando</span>
 
-                        <a href="../project/aventura-hotel-at-universal-orlando/index.html')}}" ><i
+                        <a href="{{route('projects.aventura-hotel-at-universal-orlando')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -3365,7 +3365,7 @@
 
                         <span>Southwest Airlines HNL Gate 6</span>
 
-                        <a href="../project/southwest-airlines-hnl-gate-6/index.html')}}" ><i
+                        <a href="{{route('projects.southwest-airlines-hnl-gate-6')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -3396,7 +3396,7 @@
 
                         <span>Alticor Inc Pacific District Office Renovation</span>
 
-                        <a href="../project/hensel-phelps-pacific-district-office-renovation/index.html')}}" ><i
+                        <a href="{{route('projects.hensel-phelps-pacific-district-office-renovation')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -3427,7 +3427,7 @@
 
                         <span>Straub Doctors-on-Call Clinic Relocation</span>
 
-                        <a href="../project/straub-doctors-on-call-clinic-relocation/index.html')}}" ><i
+                        <a href="{{route('projects.straub-doctors-on-call-clinic-relocation')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -3489,7 +3489,7 @@
 
                         <span>Okkodo High School Expansion</span>
 
-                        <a href="../project/okkodo-high-school-expansion-2/index.html')}}" ><i
+                        <a href="{{route('projects.okkodo-high-school-expansion-2')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -3520,7 +3520,7 @@
 
                         <span>Hokulani Waikiki by Hilton Grand Vacations</span>
 
-                        <a href="../project/hokulani-waikiki-hilton-grand-vacations/index.html')}}" ><i
+                        <a href="{{route('projects.hokulani-waikiki-hilton-grand-vacations')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -3552,7 +3552,7 @@
 
                         <span>Hilton Miami Dadeland Hotel</span>
 
-                        <a href="../project/hilton-miami-dadeland-hotel/index.html')}}" ><i
+                        <a href="{{route('projects.hilton-miami-dadeland-hotel')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -3584,7 +3584,7 @@
                         <span>University of Washington Medical Center &#8211; Clean Supply Room Renovation</span>
 
                         <a
-                            href="../project/university-washington-medical-center-clean-supply-room-renovation/index.html')}}" ><i
+                            href="{{route('projects.university-washington-medical-center-clean-supply-room-renovation')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -3616,7 +3616,7 @@
                         <span>Emergency Department Support Space and Resuscitation Rooms Renovation</span>
 
                         <a
-                            href="../project/emergency-department-support-space-resuscitation-rooms-renovation/index.html')}}" ><i
+                            href="{{route('projects.emergency-department-support-space-resuscitation-rooms-renovation')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -3647,7 +3647,7 @@
 
                         <span>Greeley City Center</span>
 
-                        <a href="../project/greeley-city-center/index.html')}}" ><i class="fa fa-arrow-circle-right"
+                        <a href="{{route('projects.greeley-city-center')}}" ><i class="fa fa-arrow-circle-right"
                                 aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -3678,7 +3678,7 @@
 
                         <span>50Fifty Office Tower</span>
 
-                        <a href="../project/fifty-50-office-tower/index.html')}}" ><i class="fa fa-arrow-circle-right"
+                        <a href="{{route('projects.fifty-50-office-tower')}}" ><i class="fa fa-arrow-circle-right"
                                 aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -3709,7 +3709,7 @@
 
                         <span>1144 15th Street Office Building</span>
 
-                        <a href="../project/1144-15th-street-office-building/index.html')}}" ><i
+                        <a href="{{route('projects.1144-15th-street-office-building')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -3740,7 +3740,7 @@
 
                         <span>WMATA Andrews Federal Center Bus Garage</span>
 
-                        <a href="../project/wmata-andrews-federal-center-bus-garage/index.html')}}" ><i
+                        <a href="{{route('projects.wmata-andrews-federal-center-bus-garage')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -3772,7 +3772,7 @@
                         <span>Orlando International Airport Airside Four Renovation and Wing Expansion</span>
 
                         <a
-                            href="../project/orlando-international-airport-airside-four-renovation-wing-expansion/index.html')}}" ><i
+                            href="{{route('projects.orlando-international-airport-airside-four-renovation-wing-expansion')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -3803,7 +3803,7 @@
 
                         <span>Love Field Parking Garage</span>
 
-                        <a href="../project/love-field-parking-garage/index.html')}}" ><i
+                        <a href="{{route('projects.love-field-parking-garage')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -3834,7 +3834,7 @@
 
                         <span>Samsung Fab2 Office Expansion</span>
 
-                        <a href="../project/samsung-fab2-office-expansion/index.html')}}" ><i
+                        <a href="{{route('projects.samsung-fab2-office-expansion')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -3867,7 +3867,7 @@
                             Services</span>
 
                         <a
-                            href="../project/ut-medical-branch-galveston-jennie-sealy-replacement-hospital-invasive-cardiology-services/index.html')}}" ><i
+                            href="{{route('projects.ut-medical-branch-galveston-jennie-sealy-replacement-hospital-invasive-cardiology-services')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -3898,7 +3898,7 @@
 
                         <span>Columbus Land Port of Entry</span>
 
-                        <a href="../project/columbus-land-port-entry/index.html')}}" ><i class="fa fa-arrow-circle-right"
+                        <a href="{{route('projects.columbus-land-port-entry')}}" ><i class="fa fa-arrow-circle-right"
                                 aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -3930,7 +3930,7 @@
                         <span>El Paso International Airport Checked Baggage Inspection System</span>
 
                         <a
-                            href="../project/el-paso-international-airport-checked-baggage-inspection-system/index.html')}}" ><i
+                            href="{{route('projects.el-paso-international-airport-checked-baggage-inspection-system')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -3961,7 +3961,7 @@
 
                         <span>The University of Texas at Arlington Parking Garage &#8211; West Campus</span>
 
-                        <a href="../project/university-texas-arlington-parking-garage-west-campus/index.html')}}" ><i
+                        <a href="{{route('projects.university-texas-arlington-parking-garage-west-campus')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -3992,7 +3992,7 @@
 
                         <span>Rosewood Amenity Deck &amp; Garage</span>
 
-                        <a href="../project/rosewood-amenity-deck-garage/index.html')}}" ><i
+                        <a href="{{route('projects.rosewood-amenity-deck-garage')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -4023,7 +4023,7 @@
 
                         <span>University Medical Center East &amp; West Clinics</span>
 
-                        <a href="../project/university-medical-center-east-west-clinics/index.html')}}" ><i
+                        <a href="{{route('projects.university-medical-center-east-west-clinics')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -4054,7 +4054,7 @@
 
                         <span>Columbia Place Apartments and Hotel</span>
 
-                        <a href="../project/columbia-place-apartments-hotel/index.html')}}" ><i
+                        <a href="href="{{route('projects.columbia-place-apartments-hotel')}}"" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -4085,7 +4085,7 @@
 
                         <span>Defense Logistics Agency Operations Center</span>
 
-                        <a href="../project/defense-logistics-agency-operations-center/index.html')}}" ><i
+                        <a href="{{route('projects.defense-logistics-agency-operations-center')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -4116,7 +4116,7 @@
 
                         <span>Kaiser Permanente Capitol Hill Expansion &amp; Restack</span>
 
-                        <a href="../project/kaiser-permanente-capitol-hill-expansion-restack/index.html')}}" ><i
+                        <a href="{{route('projects.kaiser-permanente-capitol-hill-expansion-restack')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -4148,7 +4148,7 @@
                         <span>San Francisco International Airport (SFO) Harvey Milk Terminal 1</span>
 
                         <a
-                            href="../project/san-francisco-international-airport-sfo-harvey-milk-terminal-1/index.html')}}" ><i
+                            href="{{route('projects.san-francisco-international-airport-sfo-harvey-milk-terminal-1')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -4179,7 +4179,7 @@
 
                         <span>Orlando International Airport South Terminal C Airside</span>
 
-                        <a href="../project/orlando-international-airport-south-terminal-c-airside-2/index.html')}}" ><i
+                        <a href="{{route('projects.orlando-international-airport-south-terminal-c-airside-2')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -4211,7 +4211,7 @@
                         <span>San Jose International Airport Gates 29 &amp; 30 Jetbridge Expansion</span>
 
                         <a
-                            href="../project/san-jose-international-airport-gates-29-30-jetbridge-expansion/index.html')}}" ><i
+                            href="{{route('projects.san-jose-international-airport-gates-29-30-jetbridge-expansion')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -4243,7 +4243,7 @@
                         <span>University of Washington Health Science Center D-Wing Rx Renovation</span>
 
                         <a
-                            href="../project/university-of-washington-health-science-center-d-wing-rx-renovation/index.html')}}" ><i
+                            href="{{route('projects.university-of-washington-health-science-center-d-wing-rx-renovation')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -4274,7 +4274,7 @@
 
                         <span>Colorado Convention Center and Expansion</span>
 
-                        <a href="../project/colorado-convention-center-and-expansion/index.html')}}" ><i
+                        <a href="{{route('projects.colorado-convention-center-and-expansion')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -4305,7 +4305,7 @@
 
                         <span>Hyatt Regency Denver at Colorado Convention Center</span>
 
-                        <a href="../project/hyatt-regency-denver-at-colorado-convention-center/index.html')}}" ><i
+                        <a href="{{route('projects.hyatt-regency-denver-at-colorado-convention-center')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -4336,7 +4336,7 @@
 
                         <span>UCHealth Poudre Valley Hospital Building A</span>
 
-                        <a href="../project/uchealth-poudre-valley-hospital-building-a/index.html')}}" ><i
+                        <a href="{{route('projects.uchealth-poudre-valley-hospital-building-a')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -4367,7 +4367,7 @@
 
                         <span>Chanda Center for Health</span>
 
-                        <a href="../project/chanda-center-for-health/index.html')}}" ><i class="fa fa-arrow-circle-right"
+                        <a href="{{route('projects.chanda-center-for-health')}}" ><i class="fa fa-arrow-circle-right"
                                 aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -4398,7 +4398,7 @@
 
                         <span>Denver Health 601 Broadway Hospital Support Services Building</span>
 
-                        <a href="../project/denver-health-601-broadway-hospital-support-services-building/index.html')}}" ><i
+                        <a href="{{route('projects.denver-health-601-broadway-hospital-support-services-building')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -4429,7 +4429,7 @@
 
                         <span>The Elizabeth Hotel, Autograph Collection and Parking Garage</span>
 
-                        <a href="../project/elizabeth-hotel-autograph-collection-parking-garage/index.html')}}" ><i
+                        <a href="{{route('projects.elizabeth-hotel-autograph-collection-parking-garage')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -4460,7 +4460,7 @@
 
                         <span>Constitution Gardens Phase 1</span>
 
-                        <a href="../project/constitution-gardens-phase-1/index.html')}}" ><i
+                        <a href="{{route('projects.constitution-gardens-phase-1')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -4491,7 +4491,7 @@
 
                         <span>Universal&#8217;s Cabana Bay Resort Towers</span>
 
-                        <a href="../project/universals-cabana-bay-resort-towers/index.html')}}" ><i
+                        <a href="{{route('projects.universals-cabana-bay-resort-towers')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -4553,7 +4553,7 @@
 
                         <span>Universal&#8217;s Fast &amp; Furious: Supercharged</span>
 
-                        <a href="../project/universals-fast-furious-supercharged/index.html')}}" ><i
+                        <a href="{{route('projects.universals-fast-furious-supercharged')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -4584,7 +4584,7 @@
 
                         <span>Marriott Residence Inn Baltimore</span>
 
-                        <a href="../project/marriott-residence-inn-baltimore/index.html')}}" ><i
+                        <a href="{{route('projects.marriott-residence-inn-baltimore')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -4615,7 +4615,7 @@
 
                         <span>MWAA Dulles Railyard and Maintenance Facility</span>
 
-                        <a href="../project/mwaa-dulles-railyard-and-maintenance-facility/index.html')}}" ><i
+                        <a href="{{route('projects.mwaa-dulles-railyard-and-maintenance-facility')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -4646,7 +4646,7 @@
 
                         <span>SOF C-130 Fuel Cell &amp; Corrosion Control Hangars</span>
 
-                        <a href="../project/sof-c-130-fuel-cell-corrosion-control-hangars/index.html')}}" ><i
+                        <a href="{{route('projects.sof-c-130-fuel-cell-corrosion-control-hangars')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -4677,7 +4677,7 @@
 
                         <span>Sandpearl Resort</span>
 
-                        <a href="../project/sandpearl-resort/index.html')}}" ><i class="fa fa-arrow-circle-right"
+                        <a href="{{route('projects.sandpearl-resort')}}" ><i class="fa fa-arrow-circle-right"
                                 aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -4708,7 +4708,7 @@
 
                         <span>Cinépolis Luxury Movie Theatres</span>
 
-                        <a href="../project/cinepolis-luxury-movie-theatres/index.html')}}" ><i
+                        <a href="{{route('projects.cinepolis-luxury-movie-theatres')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -4739,7 +4739,7 @@
 
                         <span>Universal&#8217;s Transformers: The Ride 3D</span>
 
-                        <a href="../project/universals-transformers-ride-3d/index.html')}}" ><i
+                        <a href="{{route('projects.universals-transformers-ride-3d')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -4770,7 +4770,7 @@
 
                         <span>University of Arizona Law Commons</span>
 
-                        <a href="../project/university-arizona-law-commons/index.html')}}" ><i
+                        <a href="{{route('projects.university-arizona-law-commons')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -4801,7 +4801,7 @@
 
                         <span>City of San Antonio Public Safety Headquarters</span>
 
-                        <a href="../project/city-san-antonio-public-safety-headquarters/index.html')}}" ><i
+                        <a href="{{route('projects.city-san-antonio-public-safety-headquarters')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -4832,7 +4832,7 @@
 
                         <span>UC San Diego Nuevo West Graduate Student Housing</span>
 
-                        <a href="../project/uc-san-diego-nuevo-west-graduate-student-housing/index.html')}}" ><i
+                        <a href="{{route('projects.uc-san-diego-nuevo-west-graduate-student-housing')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -4863,7 +4863,7 @@
 
                         <span>Samaritan Medical Center Medical Office Building</span>
 
-                        <a href="../project/samaritan-medical-center-medical-office-building/index.html')}}" ><i
+                        <a href="{{route('projects.samaritan-medical-center-medical-office-building')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -4894,7 +4894,7 @@
 
                         <span>San Jose Rotary PlayGarden</span>
 
-                        <a href="../project/san-jose-rotary-playgarden/index.html')}}" ><i
+                        <a href="{{route('projects.san-jose-rotary-playgarden')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -4925,7 +4925,7 @@
 
                         <span>Universal CityWalk Venue Renovations</span>
 
-                        <a href="../project/universal-citywalk-venue-renovations/index.html')}}" ><i
+                        <a href="{{route('projects.universal-citywalk-venue-renovations')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -4956,7 +4956,7 @@
 
                         <span>Universal Studios Royal Pacific Resort Expansion</span>
 
-                        <a href="../project/universal-studios-royal-pacific-resort-expansion/index.html')}}" ><i
+                        <a href="{{route('projects.universal-studios-royal-pacific-resort-expansion')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -4987,7 +4987,7 @@
 
                         <span>University of Washington Mary Gates Hall</span>
 
-                        <a href="../project/university-washington-mary-gates-hall/index.html')}}" ><i
+                        <a href="{{route('projects.university-washington-mary-gates-hall')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -5018,7 +5018,7 @@
 
                         <span>King County Regional Justice Center</span>
 
-                        <a href="../project/king-county-regional-justice-center/index.html')}}" ><i
+                        <a href="{{route('projects.king-county-regional-justice-center')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -5050,7 +5050,7 @@
                         <span>Social Security Administration (SSA) Operations Building Renovation</span>
 
                         <a
-                            href="../project/social-security-administration-ssa-operations-building-renovation/index.html')}}" ><i
+                            href="{{route('projects.social-security-administration-ssa-operations-building-renovation')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -5081,7 +5081,7 @@
 
                         <span>NASA Building 21, Human Health &amp; Performance Lab</span>
 
-                        <a href="../project/nasa-building-21-human-health-performance-lab/index.html')}}" ><i
+                        <a href="{{route('projects.nasa-building-21-human-health-performance-lab')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -5112,7 +5112,7 @@
 
                         <span>Pentagon Renovation Wedges 2-5</span>
 
-                        <a href="../project/pentagon-renovation-wedges-2-5/index.html')}}" ><i
+                        <a href="{{route('projects.pentagon-renovation-wedges-2-5')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -5143,7 +5143,7 @@
 
                         <span>San Diego United States Courthouse</span>
 
-                        <a href="../project/san-diego-united-states-courthouse/index.html')}}" ><i
+                        <a href="{{route('projects.san-diego-united-states-courthouse')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -5175,7 +5175,7 @@
                         <span>University of California, San Diego Mixed-Use Student Housing Phase 1</span>
 
                         <a
-                            href="../project/university-california-san-diego-mixed-use-student-housing-phase-1/index.html')}}" ><i
+                            href="{{route('projects.university-california-san-diego-mixed-use-student-housing-phase-1')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -5206,7 +5206,7 @@
 
                         <span>UC Riverside Multidisciplinary Research Building 1</span>
 
-                        <a href="../project/uc-riverside-multidisciplinary-research-building-1/index.html')}}" ><i
+                        <a href="{{route('projects.uc-riverside-multidisciplinary-research-building-1')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -5237,7 +5237,7 @@
 
                         <span>UC Irvine Mesa Court Expansion</span>
 
-                        <a href="../project/uc-irvine-mesa-court-expansion/index.html')}}" ><i
+                        <a href="{{route('projects.uc-irvine-mesa-court-expansion')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -5268,7 +5268,7 @@
 
                         <span>UC Irvine Humanities Gateway</span>
 
-                        <a href="../project/uc-irvine-humanities-gateway/index.html')}}" ><i
+                        <a href="{{route('projects.uc-irvine-humanities-gateway')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -5299,7 +5299,7 @@
 
                         <span>UC Irvine Engineering Unit 3</span>
 
-                        <a href="../project/uc-irvine-engineering-unit-3/index.html')}}" ><i
+                        <a href="{{route('projects.uc-irvine-engineering-unit-3')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -5330,7 +5330,7 @@
 
                         <span>UC Irvine Computer Science Unit 3</span>
 
-                        <a href="../project/uc-irvine-computer-science-unit-3/index.html')}}" ><i
+                        <a href="{{route('projects.uc-irvine-computer-science-unit-3')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -5361,7 +5361,7 @@
 
                         <span>The Mark</span>
 
-                        <a href="../project/the-mark/index.html')}}" ><i class="fa fa-arrow-circle-right"
+                        <a href="{{route('projects.the-mark')}}" ><i class="fa fa-arrow-circle-right"
                                 aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -5392,7 +5392,7 @@
 
                         <span>Smart Corner</span>
 
-                        <a href="../project/smart-corner/index.html')}}" ><i class="fa fa-arrow-circle-right"
+                        <a href="{{route('projects.smart-corner')}}" ><i class="fa fa-arrow-circle-right"
                                 aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -5423,7 +5423,7 @@
 
                         <span>Rancho Bernardo Tenant Improvements</span>
 
-                        <a href="../project/rancho-bernardo-tenant-improvements/index.html')}}" ><i
+                        <a href="{{route('projects.rancho-bernardo-tenant-improvements')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -5454,7 +5454,7 @@
 
                         <span>Sharp Chula Vista Medical Center Ocean View Tower</span>
 
-                        <a href="../project/sharp-chula-vista-medical-center-ocean-view-tower/index.html')}}" ><i
+                        <a href="{{route('projects.sharp-chula-vista-medical-center-ocean-view-tower')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -5485,7 +5485,7 @@
 
                         <span>Sanford Consortium for Regenerative Medicine</span>
 
-                        <a href="../project/sanford-consortium-for-regenerative-medicine/index.html')}}" ><i
+                        <a href="{{route('projects.sanford-consortium-for-regenerative-medicine')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -5516,7 +5516,7 @@
 
                         <span>San Ysidro Land Port of Entry Phase 1B</span>
 
-                        <a href="../project/san-ysidro-land-port-of-entry-phase-1b/index.html')}}" ><i
+                        <a href="{{route('projects.san-ysidro-land-port-of-entry-phase-1b')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -5547,7 +5547,7 @@
 
                         <span>NAVFAC P750 Helicopter Maintenance Facility</span>
 
-                        <a href="../project/navfac-p750-helicopter-maintenance-facility/index.html')}}" ><i
+                        <a href="{{route('projects.navfac-p750-helicopter-maintenance-facility')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -5578,7 +5578,7 @@
 
                         <span>NAVFAC P742 John W. Finn Hall</span>
 
-                        <a href="../project/navfac-p742-john-w-finn-hall/index.html')}}" ><i
+                        <a href="{{route('projects.navfac-p742-john-w-finn-hall')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -5610,7 +5610,7 @@
                         <span>National Air &amp; Space Museum Phase 2 &#8211; Mary Baker Engen Restoration Hangar</span>
 
                         <a
-                            href="../project/national-air-space-museum-phase-2-mary-baker-engen-restoration-hangar/index.html')}}" ><i
+                            href="{{route('projects.national-air-space-museum-phase-2-mary-baker-engen-restoration-hangar')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -5641,7 +5641,7 @@
 
                         <span>UC Irvine Medical Center Clinical Laboratory</span>
 
-                        <a href="../project/uc-irvine-medical-center-clinical-laboratory/index.html')}}" ><i
+                        <a href="{{route('projects.uc-irvine-medical-center-clinical-laboratory')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -5704,7 +5704,7 @@
 
                         <span>Houston Methodist Outpatient Center</span>
 
-                        <a href="../project/houston-methodist-outpatient-center/index.html')}}" ><i
+                        <a href="{{route('projects.houston-methodist-outpatient-center')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -5735,7 +5735,7 @@
 
                         <span>UT Medical Branch at Galveston Jennie Sealy Replacement Hospital</span>
 
-                        <a href="../project/ut-medical-branch-galveston-jennie-sealy-replacement-hospital/index.html')}}" ><i
+                        <a href="{{route('projects.ut-medical-branch-galveston-jennie-sealy-replacement-hospital')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -5766,7 +5766,7 @@
 
                         <span>UT Austin Dell Pediatric Research Institute</span>
 
-                        <a href="../project/ut-austin-dell-pediatric-research-institute/index.html')}}" ><i
+                        <a href="{{route('projects.ut-austin-dell-pediatric-research-institute')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -5797,7 +5797,7 @@
 
                         <span>UT Medical Branch at Galveston Building 17 Expansion</span>
 
-                        <a href="../project/ut-medical-branch-galveston-building-17-expansion/index.html')}}" ><i
+                        <a href="{{route('projects.ut-medical-branch-galveston-building-17-expansion')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -5829,7 +5829,7 @@
                         <span>P907 MV-22 Parking Apron and Infrastructure and P-908 MV-22 Hangar</span>
 
                         <a
-                            href="../project/p907-mv-22-parking-apron-and-infrastructure-and-p-908-mv-22-hangar/index.html')}}" ><i
+                            href="{{route('projects.p907-mv-22-parking-apron-and-infrastructure-and-p-908-mv-22-hangar')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -5860,7 +5860,7 @@
 
                         <span>UT Arlington Engineering Research Complex</span>
 
-                        <a href="../project/ut-arlington-engineering-research-complex/index.html')}}" ><i
+                        <a href="{{route('projects.ut-arlington-engineering-research-complex')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -5893,7 +5893,7 @@
                         <span>UT Austin Frank C. Erwin Jr. Special Events Center Renovations &amp; Expansion</span>
 
                         <a
-                            href="../project/ut-austin-frank-c-erwin-jr-special-events-center-renovations-expansion/index.html')}}" ><i
+                            href="{{route('projects.ut-austin-frank-c-erwin-jr-special-events-center-renovations-expansion')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -5924,7 +5924,7 @@
 
                         <span>UT Austin Dell Medical School Stages A,B, &amp; C/E &#8211; Site, Research and MOB</span>
 
-                        <a href="../project/ut-austin-dell-medical-school-stages-ab-ce-site-research-mob/index.html')}}" ><i
+                        <a href="{{route('projects.ut-austin-dell-medical-school-stages-ab-ce-site-research-mob')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -5955,7 +5955,7 @@
 
                         <span>UT Austin Engineering Education and Research Center</span>
 
-                        <a href="../project/ut-austin-engineering-education-research-center/index.html')}}" ><i
+                        <a href="{{route('projects.ut-austin-engineering-education-research-center')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -5986,7 +5986,7 @@
 
                         <span>The University of Texas at El Paso Interdisciplinary Research Building</span>
 
-                        <a href="../project/university-texas-el-paso-interdisciplinary-research-building/index.html')}}" ><i
+                        <a href="{{route('projects.university-texas-el-paso-interdisciplinary-research-building')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -6048,7 +6048,7 @@
 
                         <span>Skyline College CIP 2 Program</span>
 
-                        <a href="../project/skyline-college-cip-2-program/index.html')}}" ><i
+                        <a href="{{route('projects.skyline-college-cip-2-program')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -6079,7 +6079,7 @@
 
                         <span>Operations and Maintenance Facility East</span>
 
-                        <a href="../project/operations-maintenance-facility-east/index.html')}}" ><i
+                        <a href="{{route('projects.operations-maintenance-facility-east')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -6110,7 +6110,7 @@
 
                         <span>Mercantile Place on Main</span>
 
-                        <a href="../project/mercantile-place-main/index.html')}}" ><i class="fa fa-arrow-circle-right"
+                        <a href="{{route('projects.mercantile-place-main')}}" ><i class="fa fa-arrow-circle-right"
                                 aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -6141,7 +6141,7 @@
 
                         <span>Spring Condominiums</span>
 
-                        <a href="../project/spring-condominiums/index.html')}}" ><i class="fa fa-arrow-circle-right"
+                        <a href="{{route('projects.spring-condominiums')}}" ><i class="fa fa-arrow-circle-right"
                                 aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -6172,7 +6172,7 @@
 
                         <span>NAVFAC Guam Bachelor Enlisted Quarters (BEQ)</span>
 
-                        <a href="../project/navfac-guam-bachelor-enlisted-quarters-beq/index.html')}}" ><i
+                        <a href="{{route('projects.navfac-guam-bachelor-enlisted-quarters-beq')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -6234,7 +6234,7 @@
 
                         <span>Sea-Tac North Satellite Modernization</span>
 
-                        <a href="../project/sea-tac-north-satellite-modernization/index.html')}}" ><i
+                        <a href="{{route('projects.sea-tac-north-satellite-modernization')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -6267,7 +6267,7 @@
                             Facility</span>
 
                         <a
-                            href="../project/kailua-regional-wastewater-treatment-plant-tunnel-influent-pump-station-headworks-facility/index.html')}}" ><i
+                            href="{{route('projects.kailua-regional-wastewater-treatment-plant-tunnel-influent-pump-station-headworks-facility')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -6298,7 +6298,7 @@
 
                         <span>Stanislaus County Public Safety Center</span>
 
-                        <a href="../project/stanislaus-county-public-safety-center/index.html')}}" ><i
+                        <a href="{{route('projects.stanislaus-county-public-safety-center')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -6329,7 +6329,7 @@
 
                         <span>Love Field Modernization Program</span>
 
-                        <a href="../project/love-field-modernization-program/index.html')}}" ><i
+                        <a href="{{route('projects.love-field-modernization-program')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -6360,7 +6360,7 @@
 
                         <span>Stanford Health Care Emeryville</span>
 
-                        <a href="../project/stanford-health-care-emeryville/index.html')}}" ><i
+                        <a href="{{route('projects.stanford-health-care-emeryville')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -6392,7 +6392,7 @@
                         <span>San Jose International Airport | Terminal Area Improvement Program</span>
 
                         <a
-                            href="../project/san-jose-international-airport-terminal-area-improvement-program/index.html')}}" ><i
+                            href="{{route('projects.san-jose-international-airport-terminal-area-improvement-program')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -6423,7 +6423,7 @@
 
                         <span>LAX Westfield Terminal 2</span>
 
-                        <a href="../project/lax-westfield-terminal-2/index.html')}}" ><i class="fa fa-arrow-circle-right"
+                        <a href="{{route('projects.lax-westfield-terminal-2')}}" ><i class="fa fa-arrow-circle-right"
                                 aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -6455,7 +6455,7 @@
                         <span>Martin Luther King, Jr. Medical Center Inpatient Tower Renovation</span>
 
                         <a
-                            href="../project/martin-luther-king-jr-medical-center-inpatient-tower-renovation/index.html')}}" ><i
+                            href="{{route('projects.martin-luther-king-jr-medical-center-inpatient-tower-renovation')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -6486,7 +6486,7 @@
 
                         <span>LAX United Airlines Terminal Redevelopment Program</span>
 
-                        <a href="../project/lax-united-airlines-terminal-redevelopment-program/index.html')}}" ><i
+                        <a href="{{route('projects.lax-united-airlines-terminal-redevelopment-program')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -6517,7 +6517,7 @@
 
                         <span>LAX Southwest Airlines Terminal 1 Modernization Program</span>
 
-                        <a href="../project/lax-southwest-airlines-terminal-1-modernization-program/index.html')}}" ><i
+                        <a href="{{route('projects.lax-southwest-airlines-terminal-1-modernization-program')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -6548,7 +6548,7 @@
 
                         <span>LBUSD McBride Senior High School</span>
 
-                        <a href="../project/lbusd-mcbride-senior-high-school/index.html')}}" ><i
+                        <a href="{{route('projects.lbusd-mcbride-senior-high-school')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -6579,7 +6579,7 @@
 
                         <span>LAX Air New Zealand Star Alliance Lounge</span>
 
-                        <a href="../project/lax-air-new-zealand-star-alliance-lounge/index.html')}}" ><i
+                        <a href="{{route('projects.lax-air-new-zealand-star-alliance-lounge')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -6610,7 +6610,7 @@
 
                         <span>LAX Alaska Airlines Terminal 6 Renovation</span>
 
-                        <a href="../project/lax-alaska-airlines-terminal-6-renovation/index.html')}}" ><i
+                        <a href="{{route('projects.lax-alaska-airlines-terminal-6-renovation')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -6642,7 +6642,7 @@
                         <span>LAUSD Robert F. Kennedy Community Schools Phase 1 (Ambassador Learning Center)</span>
 
                         <a
-                            href="../project/lausd-robert-f-kennedy-community-schools-phase-1-ambassador-learning-center/index.html')}}" ><i
+                            href="{{route('projects.lausd-robert-f-kennedy-community-schools-phase-1-ambassador-learning-center')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -6674,7 +6674,7 @@
                         <span>LAUSD Robert F. Kennedy Community Schools Phase 2 (Ambassador Learning Center)</span>
 
                         <a
-                            href="../project/lausd-robert-f-kennedy-community-schools-phase-2-ambassador-learning-center/index.html')}}" ><i
+                            href="{{route('projects.lausd-robert-f-kennedy-community-schools-phase-2-ambassador-learning-center')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -6705,7 +6705,7 @@
 
                         <span>LAUSD Edward R. Roybal Learning Center</span>
 
-                        <a href="../project/lausd-edward-r-roybal-learning-center/index.html')}}" ><i
+                        <a href="{{route('projects.lausd-edward-r-roybal-learning-center')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -6736,7 +6736,7 @@
 
                         <span>The InterContinental San Diego</span>
 
-                        <a href="../project/the-intercontinental-san-diego/index.html')}}" ><i
+                        <a href="{{route('projects.the-intercontinental-san-diego')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -6767,7 +6767,7 @@
 
                         <span>SpringHill Suites &amp; Residence Inn San Diego</span>
 
-                        <a href="../project/springhill-suites-residence-inn-san-diego/index.html')}}" ><i
+                        <a href="{{route('projects.springhill-suites-residence-inn-san-diego')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -6798,7 +6798,7 @@
 
                         <span>Division 16: Southwestern Yard</span>
 
-                        <a href="../project/division-16-southwestern-yard/index.html')}}" ><i
+                        <a href="{{route('projects.division-16-southwestern-yard')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -6829,7 +6829,7 @@
 
                         <span>Kaiser Permanente Orange County Anaheim Medical Center</span>
 
-                        <a href="../project/kaiser-permanente-orange-county-anaheim-medical-center/index.html')}}" ><i
+                        <a href="{{route('projects.kaiser-permanente-orange-county-anaheim-medical-center')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -6860,7 +6860,7 @@
 
                         <span>Kaiser Permanente San Diego Medical Center</span>
 
-                        <a href="../project/kaiser-permanente-san-diego-medical-center/index.html')}}" ><i
+                        <a href="{{route('projects.kaiser-permanente-san-diego-medical-center')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -6891,7 +6891,7 @@
 
                         <span>Hotel Indigo</span>
 
-                        <a href="../project/hotel-indigo/index.html')}}" ><i class="fa fa-arrow-circle-right"
+                        <a href="{{route('projects.hotel-indigo')}}" ><i class="fa fa-arrow-circle-right"
                                 aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -6922,7 +6922,7 @@
 
                         <span>Hilton San Diego Bayfront Hotel</span>
 
-                        <a href="../project/hilton-san-diego-bayfront-hotel/index.html')}}" ><i
+                        <a href="{{route('projects.hilton-san-diego-bayfront-hotel')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -6954,7 +6954,7 @@
 
                         <span>GEO Adelanto Detention Facility West Expansion</span>
 
-                        <a href="../project/geo-adelanto-detention-facility-west-expansion/index.html')}}" ><i
+                        <a href="{{route('projects.geo-adelanto-detention-facility-west-expansion')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -6985,7 +6985,7 @@
 
                         <span>Cymer CSD 6 EUV Tenant Improvement</span>
 
-                        <a href="../project/cymer-csd-6-euv-tenant-improvement/index.html')}}" ><i
+                        <a href="{{route('projects.cymer-csd-6-euv-tenant-improvement')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -7016,7 +7016,7 @@
 
                         <span>FORSCOM / USARC Combined Headquarters</span>
 
-                        <a href="../project/forscom-usarc-combined-headquarters/index.html')}}" ><i
+                        <a href="{{route('projects.forscom-usarc-combined-headquarters')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -7047,7 +7047,7 @@
 
                         <span>National Maritime Intelligence Center (NMIC)</span>
 
-                        <a href="../project/national-maritime-intelligence-center-nmic/index.html')}}" ><i
+                        <a href="{{route('projects.national-maritime-intelligence-center-nmic')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -7080,7 +7080,7 @@
                         <span>DASH William B. Hurd Maintenance &amp; Operations Administration Facility</span>
 
                         <a
-                            href="../project/dash-william-b-hurd-maintenance-operations-administration-facility/index.html')}}" ><i
+                            href="{{route('projects.dash-william-b-hurd-maintenance-operations-administration-facility')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -7111,7 +7111,7 @@
 
                         <span>WMATA Southeastern Bus Garage Replacement</span>
 
-                        <a href="../project/wmata-southeastern-bus-garage-replacement/index.html')}}" ><i
+                        <a href="{{route('projects.wmata-southeastern-bus-garage-replacement')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -7143,7 +7143,7 @@
 
                         <span>Hilton Baltimore Convention Center Hotel</span>
 
-                        <a href="../project/hilton-baltimore-convention-center-hotel/index.html')}}" ><i
+                        <a href="{{route('projects.hilton-baltimore-convention-center-hotel')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -7174,7 +7174,7 @@
 
                         <span>T.C. Williams High School</span>
 
-                        <a href="../project/t-c-williams-high-school/index.html')}}" ><i class="fa fa-arrow-circle-right"
+                        <a href="{{route('projects.t-c-williams-high-school')}}" ><i class="fa fa-arrow-circle-right"
                                 aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -7205,7 +7205,7 @@
 
                         <span>East County Hall of Justice</span>
 
-                        <a href="../project/east-county-hall-justice/index.html')}}" ><i class="fa fa-arrow-circle-right"
+                        <a href="{{route('projects.east-county-hall-justice')}}" ><i class="fa fa-arrow-circle-right"
                                 aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -7237,7 +7237,7 @@
                         <span>Austin-Bergstrom International Airport Terminal/Apron Expansion and Improvements</span>
 
                         <a
-                            href="../project/austin-bergstrom-international-airport-terminalapron-expansion-improvements/index.html')}}" ><i
+                            href="{{route('projects.austin-bergstrom-international-airport-terminalapron-expansion-improvements')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -7268,7 +7268,7 @@
 
                         <span>Samsung Fab A2 Chip Fabrication Facility</span>
 
-                        <a href="../project/samsung-fab-a2-chip-fabrication-facility/index.html')}}" ><i
+                        <a href="{{route('projects.samsung-fab-a2-chip-fabrication-facility')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -7300,7 +7300,7 @@
 
                         <span>Spotsylvania Circuit Court Building and Public Safety Building</span>
 
-                        <a href="../project/spotsylvania-circuit-court-building-public-safety-building/index.html')}}" ><i
+                        <a href="{{route('projects.spotsylvania-circuit-court-building-public-safety-building')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -7331,7 +7331,7 @@
 
                         <span>Mule Creek Infill Complex</span>
 
-                        <a href="../project/mule-creek-infill-complex/index.html')}}" ><i
+                        <a href="{{route('projects.mule-creek-infill-complex')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -7362,7 +7362,7 @@
 
                         <span>Union Tower West</span>
 
-                        <a href="../project/union-tower-west/index.html')}}" ><i class="fa fa-arrow-circle-right"
+                        <a href="{{route('projects.union-tower-west')}}" ><i class="fa fa-arrow-circle-right"
                                 aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -7393,7 +7393,7 @@
 
                         <span>Skywest Hangar</span>
 
-                        <a href="../project/skywest-hangar/index.html')}}" ><i class="fa fa-arrow-circle-right"
+                        <a href="{{route('projects.skywest-hangar')}}" ><i class="fa fa-arrow-circle-right"
                                 aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -7424,7 +7424,7 @@
 
                         <span>Yolo County Superior Courthouse</span>
 
-                        <a href="../project/yolo-county-superior-courthouse/index.html')}}" ><i
+                        <a href="{{route('projects.yolo-county-superior-courthouse')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -7455,7 +7455,7 @@
 
                         <span>History Colorado Center</span>
 
-                        <a href="../project/history-colorado-center/index.html')}}" ><i class="fa fa-arrow-circle-right"
+                        <a href="{{route('projects.history-colorado-center')}}" ><i class="fa fa-arrow-circle-right"
                                 aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -7486,7 +7486,7 @@
 
                         <span>High Altitude Army Aviation Training Site (HAATS)</span>
 
-                        <a href="../project/high-altitude-army-aviation-training-site-haats/index.html')}}" ><i
+                        <a href="{{route('projects.high-altitude-army-aviation-training-site-haats')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -7517,7 +7517,7 @@
 
                         <span>Fort Collins Discovery Museum</span>
 
-                        <a href="../project/fort-collins-discovery-museum/index.html')}}" ><i
+                        <a href="{{route('projects.fort-collins-discovery-museum')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -7550,7 +7550,7 @@
                         <span>Fort Carson 13th Combat Aviation Brigade Airport Traffic Control Tower</span>
 
                         <a
-                            href="../project/fort-carson-13th-combat-aviation-brigade-airport-traffic-control-tower/index.html')}}" ><i
+                            href="{{route('projects.fort-carson-13th-combat-aviation-brigade-airport-traffic-control-tower')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -7581,7 +7581,7 @@
 
                         <span>University of Arizona Chemical Sciences Building</span>
 
-                        <a href="../project/university-arizona-chemical-sciences-building/index.html')}}" ><i
+                        <a href="{{route('projects.university-arizona-chemical-sciences-building')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -7612,7 +7612,7 @@
 
                         <span>University of Arizona Medical Research Building (MRB)</span>
 
-                        <a href="../project/university-arizona-medical-research-building-mrb/index.html')}}" ><i
+                        <a href="{{route('projects.university-arizona-medical-research-building-mrb')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -7644,7 +7644,7 @@
 
                         <span>University Village Thousand Oaks</span>
 
-                        <a href="../project/university-village-thousand-oaks/index.html')}}" ><i
+                        <a href="{{route('projects.university-village-thousand-oaks')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -7678,7 +7678,7 @@
                             Maintenance &#038; Renovation</span>
 
                         <a
-                            href="../project/ut-austin-darrell-k-royal-texas-memorial-stadium-athletic-offices-infill-stadium-maint-renovation/index.html')}}" ><i
+                            href="{{route('projects.ut-austin-darrell-k-royal-texas-memorial-stadium-athletic-offices-infill-stadium-maint-renovation')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -7710,7 +7710,7 @@
 
                         <span>University Village Thousand Oaks Health Center</span>
 
-                        <a href="../project/university-village-thousand-oaks-health-center/index.html')}}" ><i
+                        <a href="{{route('projects.university-village-thousand-oaks-health-center')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -7742,7 +7742,7 @@
 
                         <span>Benjamin P. Grogan &amp; Jerry L. Dove Federal Building</span>
 
-                        <a href="../project/benjamin-p-grogan-jerry-l-dove-federal-building/index.html')}}" ><i
+                        <a href="{{route('projects.benjamin-p-grogan-jerry-l-dove-federal-building')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -7773,7 +7773,7 @@
 
                         <span>SFO Terminal 3 East</span>
 
-                        <a href="../project/sfo-terminal-3-east/index.html')}}" ><i class="fa fa-arrow-circle-right"
+                        <a href="{{route('projects.sfo-terminal-3-east')}}" ><i class="fa fa-arrow-circle-right"
                                 aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -7805,7 +7805,7 @@
 
                         <span>Cedars-Sinai Medical Center Plaza Healing Gardens</span>
 
-                        <a href="../project/cedars-sinai-medical-center-plaza-healing-gardens/index.html')}}" ><i
+                        <a href="{{route('projects.cedars-sinai-medical-center-plaza-healing-gardens')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -7836,7 +7836,7 @@
 
                         <span>Navy Federal Credit Union Phase 2 Campus Expansion</span>
 
-                        <a href="../project/navy-federal-credit-union-phase-2-campus-expansion/index.html')}}" ><i
+                        <a href="{{route('projects.navy-federal-credit-union-phase-2-campus-expansion')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -7869,7 +7869,7 @@
                         <span>Fort Carson 13th Combat Aviation Brigade Aviation Support Battalion (ASB) Hangar</span>
 
                         <a
-                            href="../project/fort-carson-13th-combat-aviation-brigade-aviation-support-battalion-asb-hangar/index.html')}}" ><i
+                            href="{{route('projects.fort-carson-13th-combat-aviation-brigade-aviation-support-battalion-asb-hangar')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -7900,7 +7900,7 @@
 
                         <span>Navy Federal Credit Union Phase 1 Campus Expansion</span>
 
-                        <a href="../project/navy-federal-credit-union-phase-1-campus-expansion/index.html')}}" ><i
+                        <a href="{{route('projects.navy-federal-credit-union-phase-1-campus-expansion')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -7931,7 +7931,7 @@
 
                         <span>Maricopa County Intake / Transfer &amp; Release Facility</span>
 
-                        <a href="../project/maricopa-county-intake-transfer-release-facility/index.html')}}" ><i
+                        <a href="{{route('projects.maricopa-county-intake-transfer-release-facility')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -7962,7 +7962,7 @@
 
                         <span>Private Client Data Center</span>
 
-                        <a href="../project/private-client-data-center/index.html')}}" ><i
+                        <a href="{{route('projects.private-client-data-center')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -7993,7 +7993,7 @@
 
                         <span>SFO Terminal 3, Boarding Area E</span>
 
-                        <a href="../project/sfo-terminal-3-boarding-area-e/index.html')}}" ><i
+                        <a href="{{route('projects.sfo-terminal-3-boarding-area-e')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -8024,7 +8024,7 @@
 
                         <span>Denver Justice Center</span>
 
-                        <a href="../project/denver-justice-center/index.html')}}" ><i class="fa fa-arrow-circle-right"
+                        <a href="{{route('projects.denver-justice-center')}}" ><i class="fa fa-arrow-circle-right"
                                 aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -8057,7 +8057,7 @@
                         <span>Denver International Airport (DEN) | Concourse B Regional Jet Facility</span>
 
                         <a
-                            href="../project/denver-international-airport-den-concourse-b-regional-jet-facility/index.html')}}" ><i
+                            href="{{route('projects.denver-international-airport-den-concourse-b-regional-jet-facility')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -8088,7 +8088,7 @@
 
                         <span>California Veterans Home | Fresno</span>
 
-                        <a href="../project/california-veterans-home-fresno/index.html')}}" ><i
+                        <a href="{{route('projects.california-veterans-home-fresno')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -8120,7 +8120,7 @@
                         <span>Denver Health | Federico F. Peña Southwest Family Health Center</span>
 
                         <a
-                            href="../project/denver-health-federico-f-pena-southwest-family-health-center-2/index.html')}}" ><i
+                            href="{{route('projects.denver-health-federico-f-pena-southwest-family-health-center-2')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -8153,7 +8153,7 @@
                             Airport</span>
 
                         <a
-                            href="../project/south-airport-automated-people-mover-apm-complex-orlando-international-airport/index.html')}}" ><i
+                            href="{{route('projects.south-airport-automated-people-mover-apm-complex-orlando-international-airport')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -8184,7 +8184,7 @@
 
                         <span>Colorado State University | Regional Biocontainment Laboratory</span>
 
-                        <a href="../project/colorado-state-university-regional-biocontainment-laboratory/index.html')}}" ><i
+                        <a href="{{route('projects.colorado-state-university-regional-biocontainment-laboratory')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -8215,7 +8215,7 @@
 
                         <span>Broken Arrow Armed Forces Reserve Center (AERC)</span>
 
-                        <a href="../project/broken-arrow-armed-forces-reserve-center-aerc/index.html')}}" ><i
+                        <a href="{{route('projects.broken-arrow-armed-forces-reserve-center-aerc')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -8246,7 +8246,7 @@
 
                         <span>Commercial Crew &amp; Cargo Processing Facility (C3PF) Phases 1-3</span>
 
-                        <a href="../project/commercial-crew-cargo-processing-facility-c3pf-phases-1-3/index.html')}}" ><i
+                        <a href="{{route('projects.commercial-crew-cargo-processing-facility-c3pf-phases-1-3')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -8277,7 +8277,7 @@
 
                         <span>Orbital Processing Facility (OPF) 1 &amp; 2 Modifications</span>
 
-                        <a href="../project/orbital-processing-facility-opf-1-2-modifications/index.html')}}" ><i
+                        <a href="{{route('projects.orbital-processing-facility-opf-1-2-modifications')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -8308,7 +8308,7 @@
 
                         <span>Calexico Land Port of Entry</span>
 
-                        <a href="../project/calexico-land-port-entry/index.html')}}" ><i class="fa fa-arrow-circle-right"
+                        <a href="{{route('projects.calexico-land-port-entry')}}" ><i class="fa fa-arrow-circle-right"
                                 aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -8370,7 +8370,7 @@
 
                         <span>Banner Health Alzheimer Institute</span>
 
-                        <a href="../project/banner-health-alzheimer-institute/index.html')}}" ><i
+                        <a href="{{route('projects.banner-health-alzheimer-institute')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -8401,7 +8401,7 @@
 
                         <span>San Quentin State Prison | Central Health Services Building</span>
 
-                        <a href="../project/san-quentin-state-prison-central-health-services-building/index.html')}}" ><i
+                        <a href="{{route('projects.san-quentin-state-prison-central-health-services-building')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -8432,7 +8432,7 @@
 
                         <span>US Embassy Berlin</span>
 
-                        <a href="../project/us-embassy-berlin/index.html')}}" ><i class="fa fa-arrow-circle-right"
+                        <a href="{{route('projects.us-embassy-berlin')}}" ><i class="fa fa-arrow-circle-right"
                                 aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -8466,7 +8466,7 @@
                             Center</span>
 
                         <a
-                            href="../project/banner-university-medical-center-tucson-bumct-north-campus-outpatient-center/index.html')}}" ><i
+                            href="{{route('projects.banner-university-medical-center-tucson-bumct-north-campus-outpatient-center')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -8497,7 +8497,7 @@
 
                         <span>San Joaquin County Administration Building</span>
 
-                        <a href="../project/san-joaquin-county-administration-building/index.html')}}" ><i
+                        <a href="{{route('projects.san-joaquin-county-administration-building')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -8529,7 +8529,7 @@
                         <span>University of Arizona Environment and Natural Resources Phase II (ENRII)</span>
 
                         <a
-                            href="../project/university-arizona-environment-natural-resources-phase-ii-enrii/index.html')}}" ><i
+                            href="{{route('projects.university-arizona-environment-natural-resources-phase-ii-enrii')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -8560,7 +8560,7 @@
 
                         <span>City North Phase I</span>
 
-                        <a href="../project/city-north-phase/index.html')}}" ><i class="fa fa-arrow-circle-right"
+                        <a href="{{route('projects.city-north-phase')}}" ><i class="fa fa-arrow-circle-right"
                                 aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -8591,7 +8591,7 @@
 
                         <span>Four Seasons Resort at Manele Bay</span>
 
-                        <a href="../project/four-seasons-resort-manele-bay/index.html')}}" ><i
+                        <a href="{{route('projects.four-seasons-resort-manele-bay')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -8623,7 +8623,7 @@
                         <span>SOF Hangar Aircraft Maintenance Unit (AMU) &#8211; Cannon Air Force Base</span>
 
                         <a
-                            href="../project/sof-hangar-aircraft-maintenance-unit-amu-cannon-air-force-base/index.html')}}" ><i
+                            href="{{route('projects.sof-hangar-aircraft-maintenance-unit-amu-cannon-air-force-base')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -8654,7 +8654,7 @@
 
                         <span>Los Alamos County Airport Basin Project (Pajarito Cliffs Site)</span>
 
-                        <a href="../project/los-alamos-county-airport-basin-project-pajarito-cliffs-site/index.html')}}" ><i
+                        <a href="{{route('projects.los-alamos-county-airport-basin-project-pajarito-cliffs-site')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -8685,7 +8685,7 @@
 
                         <span>Four Seasons Maui at Wailea Guest Room Renovations</span>
 
-                        <a href="../project/four-seasons-maui-at-wailea-renovations-guest-room/index.html')}}" ><i
+                        <a href="{{route('projects.four-seasons-maui-at-wailea-renovations-guest-room')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -8716,7 +8716,7 @@
 
                         <span>US Bank Tower | 621 Capitol Mall</span>
 
-                        <a href="../project/us-bank-tower-621-capitol-mall/index.html')}}" ><i
+                        <a href="{{route('projects.us-bank-tower-621-capitol-mall')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -8747,7 +8747,7 @@
 
                         <span>DoubleTree by Hilton Greeley at Lincoln Park</span>
 
-                        <a href="../project/doubletree-hilton-greeley-lincoln-park/index.html')}}" ><i
+                        <a href="{{route('projects.doubletree-hilton-greeley-lincoln-park')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -8778,7 +8778,7 @@
 
                         <span>Makers Quarter</span>
 
-                        <a href="../project/makers-quarter/index.html')}}" ><i class="fa fa-arrow-circle-right"
+                        <a href="{{route('projects.makers-quarter')}}" ><i class="fa fa-arrow-circle-right"
                                 aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -8809,7 +8809,7 @@
 
                         <span>ASPIRE Apollo</span>
 
-                        <a href="../project/aspire-apollo/index.html')}}" ><i class="fa fa-arrow-circle-right"
+                        <a href="{{route('projects.aspire-apollo')}}" ><i class="fa fa-arrow-circle-right"
                                 aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -8840,7 +8840,7 @@
 
                         <span>Hopkins Gateway Hotel &#8211; Development Services</span>
 
-                        <a href="../project/hopkins-gateway-hotel-development-services/index.html')}}" ><i
+                        <a href="{{route('projects.hopkins-gateway-hotel-development-services')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -8871,7 +8871,7 @@
 
                         <span>North County Transit District</span>
 
-                        <a href="../project/north-county-transit-district-facility-services/index.html')}}" ><i
+                        <a href="{{route('projects.north-county-transit-district-facility-services')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -8902,7 +8902,7 @@
 
                         <span>Eastman Kodak Campus</span>
 
-                        <a href="../project/eastman-kodak-campus/index.html')}}" ><i class="fa fa-arrow-circle-right"
+                        <a href="{{route('projects.eastman-kodak-campus')}}" ><i class="fa fa-arrow-circle-right"
                                 aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -8934,7 +8934,7 @@
 
                         <span>U.S. Southern Command Headquarters</span>
 
-                        <a href="../project/u-s-southern-command-headquarters/index.html')}}" ><i
+                        <a href="{{route('projects.u-s-southern-command-headquarters')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -8966,7 +8966,7 @@
 
                         <span>Evolved Expendable Launch Vehicle</span>
 
-                        <a href="../project/evolved-expendable-launch-vehicle-facility-services/index.html')}}" ><i
+                        <a href="{{route('projects.evolved-expendable-launch-vehicle-facility-services')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -9033,7 +9033,7 @@
                         <span>Smithsonian Environmental Research Center (SERC) Charles McC. Mathias Laboratory</span>
 
                         <a
-                            href="../project/smithsonian-environmental-research-center-serc-charles-mcc-mathias-laboratory/index.html')}}" ><i
+                            href="{{route('projects.smithsonian-environmental-research-center-serc-charles-mcc-mathias-laboratory')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -9064,7 +9064,7 @@
 
                         <span>Office of the Chief Army Reserves (OCAR) Building</span>
 
-                        <a href="../project/office-chief-army-reserves-ocar-building/index.html')}}" ><i
+                        <a href="{{route('projects.office-chief-army-reserves-ocar-building')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -9096,7 +9096,7 @@
 
                         <span>Marriott Marquis Washington, D.C.</span>
 
-                        <a href="../project/marriott-marquis-washington-d-c/index.html')}}" ><i
+                        <a href="{{route('projects.marriott-marquis-washington-d-c')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -9127,7 +9127,7 @@
 
                         <span>Social Security Administration (SSA) National Support Center</span>
 
-                        <a href="../project/social-security-administration-ssa-national-support-center/index.html')}}" ><i
+                        <a href="{{route('projects.social-security-administration-ssa-national-support-center')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -9158,7 +9158,7 @@
 
                         <span>PHX Sky Train Stage 1 Fixed Facilities</span>
 
-                        <a href="../project/phx-sky-train-stage-1-fixed-facilities/index.html')}}" ><i
+                        <a href="{{route('projects.phx-sky-train-stage-1-fixed-facilities')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -9190,7 +9190,7 @@
 
                         <span>University of Arizona Cancer Center</span>
 
-                        <a href="../project/university-arizona-cancer-center/index.html')}}" ><i
+                        <a href="{{route('projects.university-arizona-cancer-center')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -9222,7 +9222,7 @@
 
                         <span>Okkodo High School Expansion</span>
 
-                        <a href="../project/okkodo-high-school-expansion/index.html')}}" ><i
+                        <a href="{{route('projects.okkodo-high-school-expansion')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -9254,7 +9254,7 @@
 
                         <span>Straub DOC Clinic Relocation</span>
 
-                        <a href="../project/straub-doc-clinic-relocation/index.html')}}" ><i
+                        <a href="{{route('projects.straub-doc-clinic-relocation')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -9286,7 +9286,7 @@
 
                         <span>Mariposa Land Port of Entry</span>
 
-                        <a href="../project/mariposa-land-port-entry/index.html')}}" ><i class="fa fa-arrow-circle-right"
+                        <a href="{{route('projects.mariposa-land-port-entry')}}" ><i class="fa fa-arrow-circle-right"
                                 aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -9318,7 +9318,7 @@
 
                         <span>William P. Hobby International Expansion</span>
 
-                        <a href="../project/william-p-hobby-international-expansion/index.html')}}" ><i
+                        <a href="{{route('projects.william-p-hobby-international-expansion')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -9350,7 +9350,7 @@
 
                         <span>City North Phoenix Phase I</span>
 
-                        <a href="../project/city-north-phoenix-phase/index.html')}}" ><i class="fa fa-arrow-circle-right"
+                        <a href="{{route('projects.city-north-phoenix-phase')}}" ><i class="fa fa-arrow-circle-right"
                                 aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -9381,7 +9381,7 @@
 
                         <span>DeWitt Nelson Correctional Annex</span>
 
-                        <a href="../project/dewitt-nelson-correctional-annex/index.html')}}" ><i
+                        <a href="{{route('projects.dewitt-nelson-correctional-annex')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -9412,7 +9412,7 @@
 
                         <span>Stanford Linear Accelerator Center (SLAC) Science and User Support Building</span>
 
-                        <a href="../project/stanford-linear-accelerator-center/index.html')}}" ><i
+                        <a href="{{route('projects.stanford-linear-accelerator-center')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -9444,7 +9444,7 @@
 
                         <span>Potomac Town Center</span>
 
-                        <a href="../project/potomac-town-center-buildings-2-7/index.html')}}" ><i
+                        <a href="{{route('projects.potomac-town-center-buildings-2-7')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -9475,7 +9475,7 @@
 
                         <span>SFO Replacement Airport Traffic Control Tower</span>
 
-                        <a href="../project/sfo-replacement-airport-traffic-control-tower/index.html')}}" ><i
+                        <a href="{{route('projects.sfo-replacement-airport-traffic-control-tower')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -9507,7 +9507,7 @@
 
                         <span>Mamizu Utilities and Site Improvements Phase 1</span>
 
-                        <a href="../project/mamizu-utilities-and-site-improvements-phase/index.html')}}" ><i
+                        <a href="{{route('projects.mamizu-utilities-and-site-improvements-phase')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -9538,7 +9538,7 @@
 
                         <span>Masonic Temple Hotel &#8211; Renaissance Providence</span>
 
-                        <a href="../project/masonic-temple-hotel-renaissance-providence/index.html')}}" ><i
+                        <a href="{{route('projects.masonic-temple-hotel-renaissance-providence')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -9569,7 +9569,7 @@
 
                         <span>Santa Clara Family Justice Center</span>
 
-                        <a href="../project/santa-clara-family-justice-center/index.html')}}" ><i
+                        <a href="{{route('projects.santa-clara-family-justice-center')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -9600,7 +9600,7 @@
 
                         <span>Phoenix Sky Harbor Sky Train</span>
 
-                        <a href="../project/phoenix-sky-harbor-sky-train/index.html')}}" ><i
+                        <a href="{{route('projects.phoenix-sky-harbor-sky-train')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -9632,7 +9632,7 @@
                         <span>University of California, Irvine Medical Center Replacement Hospital (UCI Douglas
                             Hospital)</span>
 
-                        <a href="../project/leading-california-healthcare-into-design-build-delivery/index.html')}}" ><i
+                        <a href="{{route('projects.leading-california-healthcare-into-design-build-delivery')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -9663,7 +9663,7 @@
 
                         <span>Hilton Grand Islander</span>
 
-                        <a href="../project/hilton-grand-islander/index.html')}}" ><i class="fa fa-arrow-circle-right"
+                        <a href="{{route('projects.hilton-grand-islander')}}" ><i class="fa fa-arrow-circle-right"
                                 aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -9694,7 +9694,7 @@
 
                         <span>City of Austin New Central Library and Related Improvements</span>
 
-                        <a href="../project/city-of-austin-new-central-library-and-related-improvements/index.html')}}" ><i
+                        <a href="{{route('projects.city-of-austin-new-central-library-and-related-improvements')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -9725,7 +9725,7 @@
 
                         <span>Ascend Apollo</span>
 
-                        <a href="../project/ascend-apollo/index.html')}}" ><i class="fa fa-arrow-circle-right"
+                        <a href="{{route('projects.ascend-apollo')}}" ><i class="fa fa-arrow-circle-right"
                                 aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -9757,7 +9757,7 @@
 
                         <span>Bethune-Cookman University Residence Halls</span>
 
-                        <a href="../project/bethune-cookman-university-residence-halls/index.html')}}" ><i
+                        <a href="{{route('projects.bethune-cookman-university-residence-halls')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
