@@ -231,7 +231,7 @@
                         component of the Alticor Inc Way.</p>
                     </p>
 
-                    <a href="technology')}}""><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
+                    <a href="technology')}}"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
                             More</span></a>
 
                 </div>
@@ -296,12 +296,12 @@
 
                     <div class="col-4 activate">
 
-                        <div class="opportunies-box"><a href="safety')}}""><img
+                        <div class="opportunies-box"><a href="safety')}}"><img
                                     src="{{ asset('wp-content/uploads/2017/02/image1.jpg') }}"></a>
 
                             <div class="opportunies-title">
 
-                                <span><a href="safety')}}"">Safety</a></span>
+                                <span><a href="safety')}}">Safety</a></span>
 
                                 <em></em>
 
@@ -309,12 +309,12 @@
 
                             <div class="opportunies-overlay">
                                 <div class="overlay-title">
-                                    <span><a href="safety')}}"">Safety</a></span>
+                                    <span><a href="safety')}}">Safety</a></span>
                                     <em></em>
                                 </div>
                                 <p>Our Zero Accident Safety Culture is firmly ingrained throughout our organization, and
                                     fully present on every project we deliver. </p>
-                                <a href="safety')}}""><i class="fa fa-arrow-circle-right"
+                                <a href="safety')}}"><i class="fa fa-arrow-circle-right"
                                         aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
@@ -326,12 +326,12 @@
 
                     <div class="col-4 activate">
 
-                        <div class="opportunies-box"><a href="quality')}}""><img
+                        <div class="opportunies-box"><a href="quality')}}"><img
                                     src="{{ asset('wp-content/uploads/2017/02/quality-1.jpg') }}"></a>
 
                             <div class="opportunies-title">
 
-                                <span><a href="quality')}}"">Quality</a></span>
+                                <span><a href="quality')}}">Quality</a></span>
 
                                 <em></em>
 
@@ -339,12 +339,12 @@
 
                             <div class="opportunies-overlay">
                                 <div class="overlay-title">
-                                    <span><a href="quality')}}"">Quality</a></span>
+                                    <span><a href="quality')}}">Quality</a></span>
                                     <em></em>
                                 </div>
                                 <p>We hold the highest standard for quality, and implement a comprehensive Six-step
                                     Quality Control (QC) program.</p>
-                                <a href="quality')}}""><i class="fa fa-arrow-circle-right"
+                                <a href="quality')}}"><i class="fa fa-arrow-circle-right"
                                         aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
@@ -356,12 +356,12 @@
 
                     <div class="col-4 activate">
 
-                        <div class="opportunies-box"><a href="sustainability')}}""><img
+                        <div class="opportunies-box"><a href="sustainability')}}"><img
                                     src="{{ asset('wp-content/uploads/2017/02/sustain-1.jpg') }}"></a>
 
                             <div class="opportunies-title">
 
-                                <span><a href="sustainability')}}"">Sustainability</a></span>
+                                <span><a href="sustainability')}}">Sustainability</a></span>
 
                                 <em></em>
 
@@ -369,12 +369,12 @@
 
                             <div class="opportunies-overlay">
                                 <div class="overlay-title">
-                                    <span><a href="sustainability')}}"">Sustainability</a></span>
+                                    <span><a href="sustainability')}}">Sustainability</a></span>
                                     <em></em>
                                 </div>
                                 <p>We have delivered more than 200+ LEED certified projects and are committed to the
                                     continued growth of sustainable building practices in our industry.</p>
-                                <a href="sustainability')}}""><i class="fa fa-arrow-circle-right"
+                                <a href="sustainability')}}"><i class="fa fa-arrow-circle-right"
                                         aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
@@ -386,12 +386,12 @@
 
                     <div class="col-4 activate">
 
-                        <div class="opportunies-box"><a href="technology/vdc')}}""><img
+                        <div class="opportunies-box"><a href="technology/vdc')}}"><img
                                     src="{{ asset('wp-content/uploads/2017/02/technology.jpg') }}"></a>
 
                             <div class="opportunies-title">
 
-                                <span><a href="technology/vdc')}}"">Technology</a></span>
+                                <span><a href="technology/vdc')}}">Technology</a></span>
 
                                 <em></em>
 
@@ -399,12 +399,12 @@
 
                             <div class="opportunies-overlay">
                                 <div class="overlay-title">
-                                    <span><a href="technology/vdc')}}"">Technology</a></span>
+                                    <span><a href="technology/vdc')}}">Technology</a></span>
                                     <em></em>
                                 </div>
                                 <p>We utilize advanced data capture and processing techniques to improve communications
                                     and leverage technology in the workplace.</p>
-                                <a href="technology/vdc')}}""><i class="fa fa-arrow-circle-right"
+                                <a href="technology/vdc')}}"><i class="fa fa-arrow-circle-right"
                                         aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
