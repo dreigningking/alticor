@@ -268,7 +268,7 @@
 
 
                     <p>In addition to partnership opportunities, Alticor Inc has created its own program, the <a
-                            href="{{route('about.hensel-phelps-and-path-continue-partnership-through-the-employment-opportunity-program')}}"">Employment
+                            href="{{route('about.hensel-phelps-and-path-continue-partnership-through-the-employment-opportunity-program">Employment
                             Opportunity Program</a>, designed to connect the homeless community with job prospects in
                         the construction industry. The Employment Opportunity Program allows individuals to build steady
                         construction careers as well as improve their livelihoods for themselves and their families.</p>

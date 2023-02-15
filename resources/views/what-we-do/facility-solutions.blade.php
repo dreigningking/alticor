@@ -24,16 +24,16 @@
                 <div class="widget">
                     <h4>What We Do</h4>
                     <ul>
-                        <li class="page_item page-item-10"><a href="../development/index.html')}}">Development</a></li>
+                        <li class="page_item page-item-10"><a href="../development/">Development</a></li>
                         <li class="page_item page-item-6672 page_item_has_children"><a
-                                href="../facility-services/index.html')}}">Facility Services</a></li>
-                        <li class="page_item page-item-6704"><a href="../facility-management/index.html')}}">Facility
+                                href="../facility-services/">Facility Services</a></li>
+                        <li class="page_item page-item-6704"><a href="../facility-management/">Facility
                                 Management</a></li>
                         <li class="page_item page-item-6741 current_page_item"><a href="index.html')}}"
                                 aria-current="page">Facility Solutions</a></li>
                         <li class="page_item page-item-6745"><a
-                                href="../specialized-construction/index.html')}}">Specialized Construction</a></li>
-                        <li class="page_item page-item-12"><a href="../construction/index.html')}}">Construction</a></li>
+                                href="../specialized-construction/">Specialized Construction</a></li>
+                        <li class="page_item page-item-12"><a href="../construction/">Construction</a></li>
                     </ul>
                 </div>
             </div>

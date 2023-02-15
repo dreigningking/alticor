@@ -62,11 +62,11 @@
                                 </li>
                                                                                                 	                                <li>
                                 	<strong>Industry</strong>
-                                    <span><a href="../../industry/infrastructure-transportation/index.html">Infrastructure + Transportation</a></span>
+                                    <span><a href="{{route('industry.infrastructure-transportation')}}">Infrastructure + Transportation</a></span>
 								 	</li>
                                                                                                 	<li>
                                 		<strong>Line of Business</strong>
-                                    	<span><a href="../../line_of_business/construction/index.html">Construction</a></span>
+                                    	<span><a href="../../line_of_business/construction">Construction</a></span>
                                 	</li>
                                                                                                                                 	<li>
                                 	<strong>Completion Date</strong>
@@ -204,7 +204,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Infrastructure + Transportation project</em><b></b></h4>
                                 <span>Kaneohe / Kailua Tunnel Influent Facility</span>
-                                <a href="../kaneohe-kailua-tunnel-influent-facility/index.html"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../kaneohe-kailua-tunnel-influent-facility"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>
@@ -219,7 +219,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Infrastructure + Transportation project</em><b></b></h4>
                                 <span>Downtown Redmond Link Extension &#8211; Parking Garage and Stations</span>
-                                <a href="../downtown-redmond-link-extension-parking-garage-stations/index.html"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../downtown-redmond-link-extension-parking-garage-stations"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>
@@ -234,7 +234,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Government + Justice project</em><b></b></h4>
                                 <span>San Ysidro Land Port of Entry – Phase 2</span>
-                                <a href="../san-ysidro-land-port-of-entry-phase-2/index.html"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../san-ysidro-land-port-of-entry-phase-2"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>
@@ -249,7 +249,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Education project</em><b></b></h4>
                                 <span>UT Medical Branch League City Parking Initiatives</span>
-                                <a href="../ut-medical-branch-league-city-parking-initiatives/index.html"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../ut-medical-branch-league-city-parking-initiatives"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>
@@ -264,7 +264,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Infrastructure + Transportation project</em><b></b></h4>
                                 <span>WMATA Andrews Federal Center Bus Garage</span>
-                                <a href="../wmata-andrews-federal-center-bus-garage/index.html"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../wmata-andrews-federal-center-bus-garage"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>
@@ -279,7 +279,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Education project</em><b></b></h4>
                                 <span>The University of Texas at Arlington Parking Garage &#8211; West Campus</span>
-                                <a href="../university-texas-arlington-parking-garage-west-campus/index.html"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../university-texas-arlington-parking-garage-west-campus"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>

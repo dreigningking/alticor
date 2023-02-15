@@ -61,11 +61,11 @@
                                 </li>
                                                                 	                                <li>
                                 	<strong>Industry</strong>
-                                    <span><a href="../../industry/science-technology/index.html">Science + Technology</a></span>
+                                    <span><a href="{{route('industry.science-technology')}}">Science + Technology</a></span>
 								 	</li>
                                                                                                 	<li>
                                 		<strong>Line of Business</strong>
-                                    	<span><a href="../../line_of_business/construction/index.html">Construction</a>, <a href="../../line_of_business/services/index.html">Facility Services</a></span>
+                                    	<span><a href="../../line_of_business/construction">Construction</a>, <a href="../../line_of_business/services">Facility Services</a></span>
                                 	</li>
                                                                                                 	<li>
                                 	<strong>Delivery Method</strong>
@@ -265,7 +265,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Science + Technology project</em><b></b></h4>
                                 <span>Caltech Resnick Sustainability Center</span>
-                                <a href="../caltech-resnick-sustainability-center/index.html"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../caltech-resnick-sustainability-center"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>
@@ -280,7 +280,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Education project</em><b></b></h4>
                                 <span>UC Riverside School of Medicine Education Building II</span>
-                                <a href="../uc-riverside-school-of-medicine-education-building-ii/index.html"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../uc-riverside-school-of-medicine-education-building-ii"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>
@@ -295,7 +295,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Science + Technology project</em><b></b></h4>
                                 <span>National Institute of Standards and Technology Building 245 Modernization Task Orders 1 &#8211; 5</span>
-                                <a href="../national-institute-of-standards-and-technology-building-245-modernization-task-orders-1-5/index.html"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../national-institute-of-standards-and-technology-building-245-modernization-task-orders-1-5"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>
@@ -310,7 +310,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Science + Technology project</em><b></b></h4>
                                 <span>NIA Alzheimer Disease and Related Dementias Temporary Research Facility</span>
-                                <a href="../nia-alzheimer-disease-and-related-dementias-temporary-research-facility/index.html"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../nia-alzheimer-disease-and-related-dementias-temporary-research-facility"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>
@@ -325,7 +325,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Science + Technology project</em><b></b></h4>
                                 <span>Caltech Chen Neuroscience Research Building</span>
-                                <a href="../caltech-chen-neuroscience-research-building/index.html"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../caltech-chen-neuroscience-research-building"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>
@@ -340,7 +340,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Science + Technology project</em><b></b></h4>
                                 <span>NAVFAC P229 Weapons Surveillance and Testing Laboratory and Calibration Laboratory</span>
-                                <a href="../navfac-p229-weapons-surveillance-testing-laboratory-calibration-laboratory/index.html"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../navfac-p229-weapons-surveillance-testing-laboratory-calibration-laboratory"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>

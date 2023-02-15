@@ -59,11 +59,11 @@
                                 </li>
                                                                 	                                <li>
                                 	<strong>Industry</strong>
-                                    <span><a href="../../industry/water-wastewater/index.html')}}" >Water + Wastewater</a></span>
+                                    <span><a href="{{route('industry.water-wastewater')}}">Water + Wastewater</a></span>
 								 	</li>
                                                                                                 	<li>
                                 		<strong>Line of Business</strong>
-                                    	<span><a href="../../line_of_business/construction/index.html')}}" >Construction</a></span>
+                                    	<span><a href="../../line_of_business/construction/">Construction</a></span>
                                 	</li>
                                                                                                 	<li>
                                 	<strong>Delivery Method</strong>
@@ -184,7 +184,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Water + Wastewater project</em><b></b></h4>
                                 <span>SFCSD Water Reclamation Facility Expansion</span>
-                                <a href="../south-fort-collins-sanitation-district/index.html')}}" ><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../south-fort-collins-sanitation-district/"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>
@@ -199,7 +199,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Water + Wastewater project</em><b></b></h4>
                                 <span>Drake Water Reclamation Facility</span>
-                                <a href="../drake-water-reclamation-facility/index.html')}}" ><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../drake-water-reclamation-facility/"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>
@@ -214,7 +214,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Infrastructure + Transportation project</em><b></b></h4>
                                 <span>Kaneohe / Kailua Tunnel Influent Facility</span>
-                                <a href="../kaneohe-kailua-tunnel-influent-facility/index.html')}}" ><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../kaneohe-kailua-tunnel-influent-facility/"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>
@@ -229,7 +229,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Water + Wastewater project</em><b></b></h4>
                                 <span>Kailua Regional Wastewater Treatment Plant Tunnel Influent Pump Station and Headworks Facility</span>
-                                <a href="../kailua-regional-wastewater-treatment-plant-tunnel-influent-pump-station-headworks-facility/index.html')}}" ><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../kailua-regional-wastewater-treatment-plant-tunnel-influent-pump-station-headworks-facility/"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>
@@ -238,7 +238,7 @@
 
                 
             </ul>
-            <div class="btn-center"><a href="../../projects/index.html')}}"  class="btn inverse">View all projects</a></div>
+            <div class="btn-center"><a href="{{route('projects.index')}}" class="btn inverse">View all projects</a></div>
 
         </div>
 

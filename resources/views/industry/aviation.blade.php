@@ -117,7 +117,7 @@
                             <span>Tampa International Airport Main Terminal Curbside Expansion Program</span>
 
                             <a
-                                href="../../project/tampa-international-airport-main-terminal-curbside-expansion-program-2/index.html"><i
+                                href="{{route('project.tampa-international-airport-main-terminal-curbside-expansion-program-2"><i
                                     class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
                                     More</span></a>
 
@@ -149,7 +149,7 @@
 
                             <span>China Lake South Airfield</span>
 
-                            <a href="../../project/china-lake-south-airfield/index.html"><i
+                            <a href="{{route('project.china-lake-south-airfield"><i
                                     class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
                                     More</span></a>
 
@@ -182,7 +182,7 @@
                             <span>LAX Southwest Airlines Terminal 1.5 Development Program</span>
 
                             <a
-                                href="../../project/lax-southwest-airlines-terminal-1-5-development-program/index.html"><i
+                                href="{{route('project.lax-southwest-airlines-terminal-1-5-development-program"><i
                                     class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
                                     More</span></a>
 
@@ -214,7 +214,7 @@
 
                             <span>Hangar Reconstruction &#8211; Dulles Jet Center</span>
 
-                            <a href="../../project/hangar-reconstruction-dulles-jet-center/index.html"><i
+                            <a href="{{route('project.hangar-reconstruction-dulles-jet-center"><i
                                     class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
                                     More</span></a>
 
@@ -248,7 +248,7 @@
                             <span>Midfield Concourse at Washington Dulles International Airport</span>
 
                             <a
-                                href="../../project/midfield-concourse-washington-dulles-international-airport/index.html"><i
+                                href="{{route('project.midfield-concourse-washington-dulles-international-airport"><i
                                     class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
                                     More</span></a>
 
@@ -281,7 +281,7 @@
                             <span>Baltimore Washington International Airport Terminal A/B Expansion</span>
 
                             <a
-                                href="../../project/baltimore-washington-international-airport-terminal-b-expansion/index.html"><i
+                                href="{{route('project.baltimore-washington-international-airport-terminal-b-expansion"><i
                                     class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
                                     More</span></a>
 
@@ -337,7 +337,7 @@
                                 <div class="post-box project">
 
                                     <a
-                                        href="../../the-nashville-international-airport-terminal-lobby-and-international-arrivals-facility-team-reveals-the-new-grand-lobby/index.html">
+                                        href="../../the-nashville-international-airport-terminal-lobby-and-international-arrivals-facility-team-reveals-the-new-grand-lobby">
 
                                         <div class="news-post-image"
                                             style="background-image: url({{asset('wp-content/uploads/2023/02/Low-Res-3-768x511.jpg')}});">
@@ -389,7 +389,7 @@
 
                                 <div class="post-box project">
 
-                                    <a href="../../southwest-airlines-phx-tech-ops-final-pick-topping-out/index.html">
+                                    <a href="../../southwest-airlines-phx-tech-ops-final-pick-topping-out">
 
                                         <div class="news-post-image"
                                             style="background-image: url({{asset('wp-content/uploads/2022/11/HP-Team-Picture2-1024x684.jpg')}});">
@@ -442,7 +442,7 @@
                                 <div class="post-box project">
 
                                     <a
-                                        href="../../hensel-phelps-continues-to-hit-the-high-notes-at-the-nashville-international-airport/index.html">
+                                        href="../../hensel-phelps-continues-to-hit-the-high-notes-at-the-nashville-international-airport">
 
                                         <div class="news-post-image"
                                             style="background-image: url({{asset('wp-content/uploads/2022/08/BNA-Exterior-Reduced-480x320.png')}});">
@@ -495,7 +495,7 @@
                                 <div class="post-box award">
 
                                     <a
-                                        href="../../tampa-international-airports-blue-express-curbside-expansion-project-wins-fdot-2022-commercial-service-airport-project-of-the-year/index.html">
+                                        href="../../tampa-international-airports-blue-express-curbside-expansion-project-wins-fdot-2022-commercial-service-airport-project-of-the-year">
 
                                         <div class="news-post-image"
                                             style="background-image: url({{asset('wp-content/uploads/2022/08/HP-TPA-International-Finals-18-scaled-480x320.jpg')}});">

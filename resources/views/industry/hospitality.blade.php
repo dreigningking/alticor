@@ -128,7 +128,7 @@
 
                             <span>Marriott International Headquarters and Hotel</span>
 
-                            <a href="../../project/marriott-international-headquarters-and-hotel/index.html"><i
+                            <a href="{{route('project.marriott-international-headquarters-and-hotel"><i
                                     class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
                                     More</span></a>
 
@@ -160,7 +160,7 @@
 
                             <span>McGregor Square</span>
 
-                            <a href="../../project/mcgregor-square/index.html"><i class="fa fa-arrow-circle-right"
+                            <a href="{{route('project.mcgregor-square"><i class="fa fa-arrow-circle-right"
                                     aria-hidden="true"></i><span>Learn More</span></a>
 
                         </div>
@@ -191,7 +191,7 @@
 
                             <span>Archer Hotel Tysons</span>
 
-                            <a href="../../project/archer-hotel-tysons/index.html"><i
+                            <a href="{{route('project.archer-hotel-tysons"><i
                                     class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
                                     More</span></a>
 
@@ -223,7 +223,7 @@
 
                             <span>Kalahari Resort and Convention Center</span>
 
-                            <a href="../../project/kalahari-resort-convention-center/index.html"><i
+                            <a href="{{route('project.kalahari-resort-convention-center"><i
                                     class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
                                     More</span></a>
 
@@ -255,7 +255,7 @@
 
                             <span>Aventura Hotel at Universal Orlando</span>
 
-                            <a href="../../project/aventura-hotel-at-universal-orlando/index.html"><i
+                            <a href="{{route('project.aventura-hotel-at-universal-orlando"><i
                                     class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
                                     More</span></a>
 
@@ -287,7 +287,7 @@
 
                             <span>Hokulani Waikiki by Hilton Grand Vacations</span>
 
-                            <a href="../../project/hokulani-waikiki-hilton-grand-vacations/index.html"><i
+                            <a href="{{route('project.hokulani-waikiki-hilton-grand-vacations"><i
                                     class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
                                     More</span></a>
 
@@ -343,7 +343,7 @@
                                 <div class="post-box project">
 
                                     <a
-                                        href="../../the-nashville-international-airport-terminal-lobby-and-international-arrivals-facility-team-reveals-the-new-grand-lobby/index.html">
+                                        href="../../the-nashville-international-airport-terminal-lobby-and-international-arrivals-facility-team-reveals-the-new-grand-lobby">
 
                                         <div class="news-post-image"
                                             style="background-image: url({{asset('wp-content/uploads/2023/02/Low-Res-3-768x511.jpg')}});">
@@ -395,7 +395,7 @@
 
                                 <div class="post-box project">
 
-                                    <a href="../../southwest-airlines-phx-tech-ops-final-pick-topping-out/index.html">
+                                    <a href="../../southwest-airlines-phx-tech-ops-final-pick-topping-out">
 
                                         <div class="news-post-image"
                                             style="background-image: url({{asset('wp-content/uploads/2022/11/HP-Team-Picture2-1024x684.jpg')}});">
@@ -448,7 +448,7 @@
                                 <div class="post-box project">
 
                                     <a
-                                        href="../../hensel-phelps-continues-to-hit-the-high-notes-at-the-nashville-international-airport/index.html">
+                                        href="../../hensel-phelps-continues-to-hit-the-high-notes-at-the-nashville-international-airport">
 
                                         <div class="news-post-image"
                                             style="background-image: url({{asset('wp-content/uploads/2022/08/BNA-Exterior-Reduced-480x320.png')}});">
@@ -501,7 +501,7 @@
                                 <div class="post-box award">
 
                                     <a
-                                        href="../../tampa-international-airports-blue-express-curbside-expansion-project-wins-fdot-2022-commercial-service-airport-project-of-the-year/index.html">
+                                        href="../../tampa-international-airports-blue-express-curbside-expansion-project-wins-fdot-2022-commercial-service-airport-project-of-the-year">
 
                                         <div class="news-post-image"
                                             style="background-image: url({{asset('wp-content/uploads/2022/08/HP-TPA-International-Finals-18-scaled-480x320.jpg')}});">

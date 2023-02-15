@@ -36,7 +36,7 @@
 <p>&nbsp;</p>
 <p>Allure Apollo also includes a large amenities package. Indoor amenities include a theater, bar, card room, game room, fitness and yoga studio, conference space, and club room. The outdoor amenities include a courtyard area with a pool, bocce ball court, zen garden and extensive landscaping package.</p>
 <p>&nbsp;</p>
-<p>In 2017, Alticor Inc completed construction of the first phase of the master plan, <a href="../ascend-apollo/index.html">Ascend Apollo</a>.</p>
+<p>In 2017, Alticor Inc completed construction of the first phase of the master plan, <a href="../ascend-apollo">Ascend Apollo</a>.</p>
 
                 </div>
 
@@ -59,11 +59,11 @@
                                 </li>
                                                                                                 	                                <li>
                                 	<strong>Industry</strong>
-                                    <span><a href="../../industry/commercial/index.html">Commercial</a></span>
+                                    <span><a href="{{route('industry.commercial')}}">Commercial</a></span>
 								 	</li>
                                                                                                 	<li>
                                 		<strong>Line of Business</strong>
-                                    	<span><a href="../../line_of_business/construction/index.html">Construction</a>, <a href="../../line_of_business/development/index.html">Development</a></span>
+                                    	<span><a href="../../line_of_business/construction">Construction</a>, <a href="../../line_of_business/development">Development</a></span>
                                 	</li>
                                                                                                                                 	<li>
                                 	<strong>Completion Date</strong>
@@ -211,7 +211,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Commercial project</em><b></b></h4>
                                 <span>SeaWorld Aquatica SP2</span>
-                                <a href="../seaworld-aquatica-sp2/index.html"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../seaworld-aquatica-sp2"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>
@@ -226,7 +226,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Commercial project</em><b></b></h4>
                                 <span>701 Rio</span>
-                                <a href="../701-rio/index.html"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../701-rio"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>
@@ -241,7 +241,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Commercial project</em><b></b></h4>
                                 <span>The GEO Group Corporate Headquarters</span>
-                                <a href="../geo-group-corporate-headquarters/index.html"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../geo-group-corporate-headquarters"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>
@@ -256,7 +256,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Commercial project</em><b></b></h4>
                                 <span>Alticor Inc Pacific District Office Renovation</span>
-                                <a href="../hensel-phelps-pacific-district-office-renovation/index.html"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../hensel-phelps-pacific-district-office-renovation"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>
@@ -271,7 +271,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Commercial project</em><b></b></h4>
                                 <span>50Fifty Office Tower</span>
-                                <a href="../fifty-50-office-tower/index.html"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../fifty-50-office-tower"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>
@@ -286,7 +286,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Commercial project</em><b></b></h4>
                                 <span>1144 15th Street Office Building</span>
-                                <a href="../1144-15th-street-office-building/index.html"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../1144-15th-street-office-building"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>

@@ -26,15 +26,15 @@
                 <div class="widget">
                     <h4>What We Do</h4>
                     <ul>
-                        <li class="page_item page-item-10"><a href="../development/index.html')}}" >Development</a></li>
+                        <li class="page_item page-item-10"><a href="../development/">Development</a></li>
                         <li class="page_item page-item-6672 page_item_has_children"><a
-                                href="../facility-services/index.html')}}" >Facility Services</a></li>
-                        <li class="page_item page-item-6704"><a href="../facility-management/index.html')}}" >Facility
+                                href="../facility-services/">Facility Services</a></li>
+                        <li class="page_item page-item-6704"><a href="../facility-management/">Facility
                                 Management</a></li>
-                        <li class="page_item page-item-6741"><a href="../facility-solutions/index.html')}}" >Facility
+                        <li class="page_item page-item-6741"><a href="../facility-solutions/">Facility
                                 Solutions</a></li>
                         <li class="page_item page-item-6745"><a
-                                href="../specialized-construction/index.html')}}" >Specialized Construction</a></li>
+                                href="../specialized-construction/">Specialized Construction</a></li>
                         <li class="page_item page-item-12 current_page_item"><a href="index.html')}}" 
                                 aria-current="page">Construction</a></li>
                     </ul>
@@ -50,7 +50,7 @@
                     developed over more than three quarters of a century, we employ expertise, experience and ingenuity
                     to build landmark properties – and build lasting relationships with our clients. We approach every
                     project “The Alticor Inc Way,” inspiring trust and <a
-                        href="../../vision-and-core-values/index.html')}}" >delivering EXCELLENCE in all we do</a>. Our
+                        href="../../vision-and-core-values/">delivering EXCELLENCE in all we do</a>. Our
                     comprehensive construction services – from preconstruction through constructability and field
                     management – deliver superior results on time and on budget. Alticor Inc’ Virtual Design and
                     Construction (VDC) technology enhances our ability to deliver projects faster, more cost effectively
@@ -100,7 +100,7 @@
                                         technology within the VDC world, including laser scanning to obtain as-built
                                         conditions for renovation projects and help facilitate more accurate models.
                                         Find out more: <a
-                                            href="../../the-hensel-phelps-way/technology/index.html')}}" >https://www.henselphelps.com/the-hensel-phelps-way/technology/</a>
+                                            href="../../the-hensel-phelps-way/technology/">https://www.henselphelps.com/the-hensel-phelps-way/technology/</a>
                                     </p>
                                 </div>
                             </div>
@@ -186,7 +186,7 @@
                                         range from new water and wastewater treatment facilities, facility expansions,
                                         various treatment process upgrades, and the construction of water pump and
                                         sewage lift stations to support the needs of municipalities nationwide. <a
-                                            href="../../industry/water-wastewater/index.html')}}" >Learn more</a> about
+                                            href="{{route('industry.water-wastewater')}}">Learn more</a> about
                                         Alticor Inc Water + Wastewater construction project history.</p>
                                 </div>
                             </div>

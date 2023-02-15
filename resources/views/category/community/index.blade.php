@@ -16,7 +16,7 @@
             <div class="news-post-block clearfix">
 			<div>
 						<div class="post-box">
-                        <a href="../../construction-executive-from-the-ground-up/index.html">
+                        <a href="../../construction-executive-from-the-ground-up">
                             <div class="news-post-image" style="background-image: url({{asset('wp-content/uploads/2022/12/QAE_Final_04-1024x684.jpg')}});">
                                                         	<img width="311" height="225" src="{{asset('wp-content/uploads/2022/12/QAE_Final_04-311x225.jpg')}}" class="attachment-news-thumbnail size-news-thumbnail wp-post-image" alt="" />                                                        </div>
                             <div class="news-post-meta">
@@ -32,7 +32,7 @@
                         </a>
                     </div>
 						<div class="post-box">
-                        <a href="../../hensel-phelps-celebrates-a-culture-of-giving-back/index.html">
+                        <a href="../../hensel-phelps-celebrates-a-culture-of-giving-back">
                             <div class="news-post-image" style="background-image: url({{asset('wp-content/uploads/2022/12/BT-December-Website-Graphics_1200x720-1024x684.jpg')}});">
                                                         	<img width="311" height="225" src="{{asset('wp-content/uploads/2022/12/BT-December-Website-Graphics_1200x720-311x225.jpg')}}" class="attachment-news-thumbnail size-news-thumbnail wp-post-image" alt="" loading="lazy" />                                                        </div>
                             <div class="news-post-meta">
@@ -48,7 +48,7 @@
                         </a>
                     </div>
 						<div class="post-box">
-                        <a href="../../pacific-northwest-hosts-4th-annual-veterans-day-event/index.html">
+                        <a href="../../pacific-northwest-hosts-4th-annual-veterans-day-event">
                             <div class="news-post-image" style="background-image: url({{asset('wp-content/uploads/2022/11/DSC_0554-1-768x512.jpg')}});">
                                                         	<img width="311" height="225" src="{{asset('wp-content/uploads/2022/11/DSC_0554-1-311x225.jpg')}}" class="attachment-news-thumbnail size-news-thumbnail wp-post-image" alt="Alticor Inc and Permission to Start Dreaming at Westland Distillery" loading="lazy" />                                                        </div>
                             <div class="news-post-meta">
@@ -64,7 +64,7 @@
                         </a>
                     </div>
 						<div class="post-box">
-                        <a href="../../hensel-phelps-recognizes-and-supports-awareness-for-mens-health/index.html">
+                        <a href="../../hensel-phelps-recognizes-and-supports-awareness-for-mens-health">
                             <div class="news-post-image" style="background-image: url({{asset('wp-content/uploads/2022/10/Article-1024x684.jpg')}});">
                                                         	<img width="311" height="225" src="{{asset('wp-content/uploads/2022/10/Article-311x225.jpg')}}" class="attachment-news-thumbnail size-news-thumbnail wp-post-image" alt="" loading="lazy" />                                                        </div>
                             <div class="news-post-meta">
@@ -80,7 +80,7 @@
                         </a>
                     </div>
 						<div class="post-box">
-                        <a href="../../hensel-phelps-is-proud-to-support-construction-inclusion-week/index.html">
+                        <a href="../../hensel-phelps-is-proud-to-support-construction-inclusion-week">
                             <div class="news-post-image" style="background-image: url({{asset('wp-content/uploads/2022/10/Construction-Inclusion-Web-Banner_1200x628.jpg')}});">
                                                         	<img width="311" height="225" src="{{asset('wp-content/uploads/2022/10/Construction-Inclusion-Web-Banner_1200x628-311x225.jpg')}}" class="attachment-news-thumbnail size-news-thumbnail wp-post-image" alt="" loading="lazy" />                                                        </div>
                             <div class="news-post-meta">
@@ -96,7 +96,7 @@
                         </a>
                     </div>
 						<div class="post-box">
-                        <a href="../../invested-in-womens-health-hensel-phelps-supports-the-fight-against-cancer/index.html">
+                        <a href="../../invested-in-womens-health-hensel-phelps-supports-the-fight-against-cancer">
                             <div class="news-post-image" style="background-image: url({{asset('wp-content/uploads/2022/10/1705_UCI-Anti-Cancer_OUT_v1_002-1024x684.jpg')}});">
                                                         	<img width="311" height="225" src="{{asset('wp-content/uploads/2022/10/1705_UCI-Anti-Cancer_OUT_v1_002-311x225.jpg')}}" class="attachment-news-thumbnail size-news-thumbnail wp-post-image" alt="" loading="lazy" />                                                        </div>
                             <div class="news-post-meta">

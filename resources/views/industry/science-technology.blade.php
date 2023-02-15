@@ -116,7 +116,7 @@
 
                             <span>Caltech Resnick Sustainability Center</span>
 
-                            <a href="../../project/caltech-resnick-sustainability-center/index.html"><i
+                            <a href="{{route('project.caltech-resnick-sustainability-center"><i
                                     class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
                                     More</span></a>
 
@@ -148,7 +148,7 @@
 
                             <span>UC Riverside School of Medicine Education Building II</span>
 
-                            <a href="../../project/uc-riverside-school-of-medicine-education-building-ii/index.html"><i
+                            <a href="{{route('project.uc-riverside-school-of-medicine-education-building-ii"><i
                                     class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
                                     More</span></a>
 
@@ -181,7 +181,7 @@
                             <span>California Air Resources Board Headquarters – Mary D. Nichols Campus</span>
 
                             <a
-                                href="../../project/california-air-resources-board-headquarters-mary-d-nichols-campus/index.html"><i
+                                href="{{route('project.california-air-resources-board-headquarters-mary-d-nichols-campus"><i
                                     class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
                                     More</span></a>
 
@@ -215,7 +215,7 @@
                                 1 &#8211; 5</span>
 
                             <a
-                                href="../../project/national-institute-of-standards-and-technology-building-245-modernization-task-orders-1-5/index.html"><i
+                                href="{{route('project.national-institute-of-standards-and-technology-building-245-modernization-task-orders-1-5"><i
                                     class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
                                     More</span></a>
 
@@ -248,7 +248,7 @@
                             <span>NIA Alzheimer Disease and Related Dementias Temporary Research Facility</span>
 
                             <a
-                                href="../../project/nia-alzheimer-disease-and-related-dementias-temporary-research-facility/index.html"><i
+                                href="{{route('project.nia-alzheimer-disease-and-related-dementias-temporary-research-facility"><i
                                     class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
                                     More</span></a>
 
@@ -280,7 +280,7 @@
 
                             <span>Caltech Chen Neuroscience Research Building</span>
 
-                            <a href="../../project/caltech-chen-neuroscience-research-building/index.html"><i
+                            <a href="{{route('project.caltech-chen-neuroscience-research-building"><i
                                     class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
                                     More</span></a>
 
@@ -336,7 +336,7 @@
                                 <div class="post-box project">
 
                                     <a
-                                        href="../../the-nashville-international-airport-terminal-lobby-and-international-arrivals-facility-team-reveals-the-new-grand-lobby/index.html">
+                                        href="../../the-nashville-international-airport-terminal-lobby-and-international-arrivals-facility-team-reveals-the-new-grand-lobby">
 
                                         <div class="news-post-image"
                                             style="background-image: url({{asset('wp-content/uploads/2023/02/Low-Res-3-768x511.jpg')}});">
@@ -388,7 +388,7 @@
 
                                 <div class="post-box project">
 
-                                    <a href="../../southwest-airlines-phx-tech-ops-final-pick-topping-out/index.html">
+                                    <a href="../../southwest-airlines-phx-tech-ops-final-pick-topping-out">
 
                                         <div class="news-post-image"
                                             style="background-image: url({{asset('wp-content/uploads/2022/11/HP-Team-Picture2-1024x684.jpg')}});">
@@ -441,7 +441,7 @@
                                 <div class="post-box project">
 
                                     <a
-                                        href="../../hensel-phelps-continues-to-hit-the-high-notes-at-the-nashville-international-airport/index.html">
+                                        href="../../hensel-phelps-continues-to-hit-the-high-notes-at-the-nashville-international-airport">
 
                                         <div class="news-post-image"
                                             style="background-image: url({{asset('wp-content/uploads/2022/08/BNA-Exterior-Reduced-480x320.png')}});">
@@ -494,7 +494,7 @@
                                 <div class="post-box award">
 
                                     <a
-                                        href="../../tampa-international-airports-blue-express-curbside-expansion-project-wins-fdot-2022-commercial-service-airport-project-of-the-year/index.html">
+                                        href="../../tampa-international-airports-blue-express-curbside-expansion-project-wins-fdot-2022-commercial-service-airport-project-of-the-year">
 
                                         <div class="news-post-image"
                                             style="background-image: url({{asset('wp-content/uploads/2022/08/HP-TPA-International-Finals-18-scaled-480x320.jpg')}});">

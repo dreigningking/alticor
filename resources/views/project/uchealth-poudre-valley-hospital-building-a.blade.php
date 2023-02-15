@@ -32,7 +32,7 @@
                     <h2 style="text-align: center;">About the Project</h2>
 <p style="text-align: center;">Located on the Poudre Valley Campus, this 150,000 SF, three-story addition/renovation was shoe-horned in the northeast corner of the campus and tied into the existing hospital at a number of locations. The project includes a 54-exam room Level II Emergency Department, 25-bed orthopedic unit, 25-bed surgical ICU (shelled), two MRIs (one relocated), Central Lab, relocation/upgrade of the primary power to hospital, chilled water plant and cooling tower equipment replacement, new utility tunnels, 100% replacement of the pneumatic tube system throughout the existing hospital, new roof-top helipad and demolition of the existing Building A wing and adjacent utility tunnels.</p>
 <p>&nbsp;</p>
-<p style="text-align: center;">Because the existing hospital underwent a series of additions over its lifespan, the aggregated structure has multiple levels with differing floor elevations and differing floor-to-floor heights resulting in a challenging design to connect the existing building to the new addition. The project team used integrated project delivery principles to coordinate the new design and <a href="../../the-hensel-phelps-way/technology/vdc/index.html">VDC</a> as well as laser scanning to coordinate the existing conditions with the new design.</p>
+<p style="text-align: center;">Because the existing hospital underwent a series of additions over its lifespan, the aggregated structure has multiple levels with differing floor elevations and differing floor-to-floor heights resulting in a challenging design to connect the existing building to the new addition. The project team used integrated project delivery principles to coordinate the new design and <a href="../../the-hensel-phelps-way/technology/vdc">VDC</a> as well as laser scanning to coordinate the existing conditions with the new design.</p>
 
                 </div>
 
@@ -59,11 +59,11 @@
                                 </li>
                                                                 	                                <li>
                                 	<strong>Industry</strong>
-                                    <span><a href="../../industry/healthcare/index.html">Healthcare</a></span>
+                                    <span><a href="{{route('industry.healthcare')}}">Healthcare</a></span>
 								 	</li>
                                                                                                 	<li>
                                 		<strong>Line of Business</strong>
-                                    	<span><a href="../../line_of_business/construction/index.html">Construction</a></span>
+                                    	<span><a href="../../line_of_business/construction">Construction</a></span>
                                 	</li>
                                                                                                 	<li>
                                 	<strong>Delivery Method</strong>
@@ -193,7 +193,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Healthcare project</em><b></b></h4>
                                 <span>Kaiser Permanente Riverside Medical Center Bed Tower Expansion</span>
-                                <a href="../kaiser-permanente-riverside-medical-center-bed-tower-expansion/index.html"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../kaiser-permanente-riverside-medical-center-bed-tower-expansion"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>
@@ -208,7 +208,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Healthcare project</em><b></b></h4>
                                 <span>Harbor-UCLA Medical Center Replacement Program</span>
-                                <a href="../harbor-ucla-medical-center-replacement-program/index.html"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../harbor-ucla-medical-center-replacement-program"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>
@@ -223,7 +223,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Healthcare project</em><b></b></h4>
                                 <span>City of Hope Orange County Hospital</span>
-                                <a href="../city-of-hope-orange-county-hospital/index.html"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../city-of-hope-orange-county-hospital"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>
@@ -238,7 +238,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Healthcare project</em><b></b></h4>
                                 <span>UCI Medical Center Irvine</span>
-                                <a href="../uci-medical-center-irvine/index.html"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../uci-medical-center-irvine"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>
@@ -253,7 +253,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Healthcare project</em><b></b></h4>
                                 <span>Valencia Temporary Laboratory Buildout Emergency COVID Testing Facility</span>
-                                <a href="../valencia-temporary-laboratory-buildout-emergency-covid-testing-facility/index.html"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../valencia-temporary-laboratory-buildout-emergency-covid-testing-facility"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>
@@ -268,7 +268,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Healthcare project</em><b></b></h4>
                                 <span>Texas Tech University Health Sciences Center Oral Health Clinic</span>
-                                <a href="../texas-tech-university-health-sciences-center-oral-health-clinic/index.html"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../texas-tech-university-health-sciences-center-oral-health-clinic"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>

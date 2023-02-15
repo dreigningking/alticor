@@ -117,7 +117,7 @@
 
                             <span>SeaWorld Aquatica SP2</span>
 
-                            <a href="../../project/seaworld-aquatica-sp2/index.html"><i
+                            <a href="{{route('project.seaworld-aquatica-sp2"><i
                                     class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
                                     More</span></a>
 
@@ -149,7 +149,7 @@
 
                             <span>701 Rio</span>
 
-                            <a href="../../project/701-rio/index.html"><i class="fa fa-arrow-circle-right"
+                            <a href="{{route('project.701-rio"><i class="fa fa-arrow-circle-right"
                                     aria-hidden="true"></i><span>Learn More</span></a>
 
                         </div>
@@ -211,7 +211,7 @@
 
                             <span>The GEO Group Corporate Headquarters</span>
 
-                            <a href="../../project/geo-group-corporate-headquarters/index.html"><i
+                            <a href="{{route('project.geo-group-corporate-headquarters"><i
                                     class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
                                     More</span></a>
 
@@ -243,7 +243,7 @@
 
                             <span>Alticor Inc Pacific District Office Renovation</span>
 
-                            <a href="../../project/hensel-phelps-pacific-district-office-renovation/index.html"><i
+                            <a href="{{route('project.hensel-phelps-pacific-district-office-renovation"><i
                                     class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
                                     More</span></a>
 
@@ -275,7 +275,7 @@
 
                             <span>50Fifty Office Tower</span>
 
-                            <a href="../../project/fifty-50-office-tower/index.html"><i
+                            <a href="{{route('project.fifty-50-office-tower"><i
                                     class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
                                     More</span></a>
 
@@ -331,7 +331,7 @@
                                 <div class="post-box project">
 
                                     <a
-                                        href="../../the-nashville-international-airport-terminal-lobby-and-international-arrivals-facility-team-reveals-the-new-grand-lobby/index.html">
+                                        href="../../the-nashville-international-airport-terminal-lobby-and-international-arrivals-facility-team-reveals-the-new-grand-lobby">
 
                                         <div class="news-post-image"
                                             style="background-image: url({{asset('wp-content/uploads/2023/02/Low-Res-3-768x511.jpg')}});">
@@ -383,7 +383,7 @@
 
                                 <div class="post-box project">
 
-                                    <a href="../../southwest-airlines-phx-tech-ops-final-pick-topping-out/index.html">
+                                    <a href="../../southwest-airlines-phx-tech-ops-final-pick-topping-out">
 
                                         <div class="news-post-image"
                                             style="background-image: url({{asset('wp-content/uploads/2022/11/HP-Team-Picture2-1024x684.jpg')}});">
@@ -436,7 +436,7 @@
                                 <div class="post-box project">
 
                                     <a
-                                        href="../../hensel-phelps-continues-to-hit-the-high-notes-at-the-nashville-international-airport/index.html">
+                                        href="../../hensel-phelps-continues-to-hit-the-high-notes-at-the-nashville-international-airport">
 
                                         <div class="news-post-image"
                                             style="background-image: url({{asset('wp-content/uploads/2022/08/BNA-Exterior-Reduced-480x320.png')}});">
@@ -489,7 +489,7 @@
                                 <div class="post-box award">
 
                                     <a
-                                        href="../../tampa-international-airports-blue-express-curbside-expansion-project-wins-fdot-2022-commercial-service-airport-project-of-the-year/index.html">
+                                        href="../../tampa-international-airports-blue-express-curbside-expansion-project-wins-fdot-2022-commercial-service-airport-project-of-the-year">
 
                                         <div class="news-post-image"
                                             style="background-image: url({{asset('wp-content/uploads/2022/08/HP-TPA-International-Finals-18-scaled-480x320.jpg')}});">

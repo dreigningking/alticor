@@ -119,7 +119,7 @@
                             <span>Kaiser Permanente Riverside Medical Center Bed Tower Expansion</span>
 
                             <a
-                                href="../../project/kaiser-permanente-riverside-medical-center-bed-tower-expansion/index.html"><i
+                                href="{{route('project.kaiser-permanente-riverside-medical-center-bed-tower-expansion"><i
                                     class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
                                     More</span></a>
 
@@ -151,7 +151,7 @@
 
                             <span>Harbor-UCLA Medical Center Replacement Program</span>
 
-                            <a href="../../project/harbor-ucla-medical-center-replacement-program/index.html"><i
+                            <a href="{{route('project.harbor-ucla-medical-center-replacement-program"><i
                                     class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
                                     More</span></a>
 
@@ -183,7 +183,7 @@
 
                             <span>City of Hope Orange County Hospital</span>
 
-                            <a href="../../project/city-of-hope-orange-county-hospital/index.html"><i
+                            <a href="{{route('project.city-of-hope-orange-county-hospital"><i
                                     class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
                                     More</span></a>
 
@@ -215,7 +215,7 @@
 
                             <span>UCI Medical Center Irvine</span>
 
-                            <a href="../../project/uci-medical-center-irvine/index.html"><i
+                            <a href="{{route('project.uci-medical-center-irvine"><i
                                     class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
                                     More</span></a>
 
@@ -248,7 +248,7 @@
                             <span>Valencia Temporary Laboratory Buildout Emergency COVID Testing Facility</span>
 
                             <a
-                                href="../../project/valencia-temporary-laboratory-buildout-emergency-covid-testing-facility/index.html"><i
+                                href="{{route('project.valencia-temporary-laboratory-buildout-emergency-covid-testing-facility"><i
                                     class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
                                     More</span></a>
 
@@ -281,7 +281,7 @@
                             <span>Texas Tech University Health Sciences Center Oral Health Clinic</span>
 
                             <a
-                                href="../../project/texas-tech-university-health-sciences-center-oral-health-clinic/index.html"><i
+                                href="{{route('project.texas-tech-university-health-sciences-center-oral-health-clinic"><i
                                     class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
                                     More</span></a>
 
@@ -337,7 +337,7 @@
                                 <div class="post-box project">
 
                                     <a
-                                        href="../../the-nashville-international-airport-terminal-lobby-and-international-arrivals-facility-team-reveals-the-new-grand-lobby/index.html">
+                                        href="../../the-nashville-international-airport-terminal-lobby-and-international-arrivals-facility-team-reveals-the-new-grand-lobby">
 
                                         <div class="news-post-image"
                                             style="background-image: url({{asset('wp-content/uploads/2023/02/Low-Res-3-768x511.jpg')}});">
@@ -389,7 +389,7 @@
 
                                 <div class="post-box project">
 
-                                    <a href="../../southwest-airlines-phx-tech-ops-final-pick-topping-out/index.html">
+                                    <a href="../../southwest-airlines-phx-tech-ops-final-pick-topping-out">
 
                                         <div class="news-post-image"
                                             style="background-image: url({{asset('wp-content/uploads/2022/11/HP-Team-Picture2-1024x684.jpg')}});">
@@ -442,7 +442,7 @@
                                 <div class="post-box project">
 
                                     <a
-                                        href="../../hensel-phelps-continues-to-hit-the-high-notes-at-the-nashville-international-airport/index.html">
+                                        href="../../hensel-phelps-continues-to-hit-the-high-notes-at-the-nashville-international-airport">
 
                                         <div class="news-post-image"
                                             style="background-image: url({{asset('wp-content/uploads/2022/08/BNA-Exterior-Reduced-480x320.png')}});">
@@ -495,7 +495,7 @@
                                 <div class="post-box award">
 
                                     <a
-                                        href="../../tampa-international-airports-blue-express-curbside-expansion-project-wins-fdot-2022-commercial-service-airport-project-of-the-year/index.html">
+                                        href="../../tampa-international-airports-blue-express-curbside-expansion-project-wins-fdot-2022-commercial-service-airport-project-of-the-year">
 
                                         <div class="news-post-image"
                                             style="background-image: url({{asset('wp-content/uploads/2022/08/HP-TPA-International-Finals-18-scaled-480x320.jpg')}});">

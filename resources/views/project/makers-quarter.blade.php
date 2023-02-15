@@ -34,7 +34,7 @@
 <p>&nbsp;</p>
 <p>The gradual, incremental build begins with the residential mixed-use block to combine market and community uses.  Next will be a combination of creative offices, a mixture of small, local, and mid-sized retail anchors as well as residential, all stitched together by a strong and significant office space plan.  Respectful of the long history in the area, Makers Quarter will incorporate historic elements and architecture into the design and function of the neighborhood with a strong focus on sustainability.</p>
 <p>&nbsp;</p>
-<p>The Navarra Family selected <a href="../../what-we-do/development/index.html">Alticor Inc Development</a> and their associates to develop what has been creatively branded as Makers Quarter, an upcoming urban neighborhood to establish, enhance, and promote linkages throughout San Diego and downtown.  The Development team provided expertise in the areas of project management / owner&#8217;s representation.</p>
+<p>The Navarra Family selected <a href="{{route('what-we-do.development')}}">Alticor Inc Development</a> and their associates to develop what has been creatively branded as Makers Quarter, an upcoming urban neighborhood to establish, enhance, and promote linkages throughout San Diego and downtown.  The Development team provided expertise in the areas of project management / owner&#8217;s representation.</p>
 
                 </div>
 
@@ -57,11 +57,11 @@
                                 </li>
                                                                                                 	                                <li>
                                 	<strong>Industry</strong>
-                                    <span><a href="../../industry/commercial/index.html">Commercial</a></span>
+                                    <span><a href="{{route('industry.commercial')}}">Commercial</a></span>
 								 	</li>
                                                                                                 	<li>
                                 		<strong>Line of Business</strong>
-                                    	<span><a href="../../line_of_business/development/index.html">Development</a></span>
+                                    	<span><a href="../../line_of_business/development">Development</a></span>
                                 	</li>
                                                                                                                                                                                                                                                                 	<li>
                                 	<strong>Square Footage</strong>
@@ -188,7 +188,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Commercial project</em><b></b></h4>
                                 <span>SeaWorld Aquatica SP2</span>
-                                <a href="../seaworld-aquatica-sp2/index.html"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../seaworld-aquatica-sp2"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>
@@ -203,7 +203,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Commercial project</em><b></b></h4>
                                 <span>701 Rio</span>
-                                <a href="../701-rio/index.html"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../701-rio"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>
@@ -233,7 +233,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Commercial project</em><b></b></h4>
                                 <span>The GEO Group Corporate Headquarters</span>
-                                <a href="../geo-group-corporate-headquarters/index.html"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../geo-group-corporate-headquarters"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>
@@ -248,7 +248,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Commercial project</em><b></b></h4>
                                 <span>Alticor Inc Pacific District Office Renovation</span>
-                                <a href="../hensel-phelps-pacific-district-office-renovation/index.html"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../hensel-phelps-pacific-district-office-renovation"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>
@@ -263,7 +263,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Commercial project</em><b></b></h4>
                                 <span>50Fifty Office Tower</span>
-                                <a href="../fifty-50-office-tower/index.html"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../fifty-50-office-tower"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>

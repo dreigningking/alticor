@@ -18,7 +18,7 @@
             <div class="news-post-block clearfix">
 			<div>
 						<div class="post-box">
-                        <a href="../../celebrating-a-successful-career-kirk-j-hazen/index.html">
+                        <a href="../../celebrating-a-successful-career-kirk-j-hazen">
                             <div class="news-post-image" style="background-image: url({{asset('wp-content/uploads/2023/01/Kirk-Celebration-Post1-1024x684.jpg')}});">
                                                         	<img width="311" height="225" src="{{asset('wp-content/uploads/2023/01/Kirk-Celebration-Post1-311x225.jpg')}}" class="attachment-news-thumbnail size-news-thumbnail wp-post-image" alt="" />                                                        </div>
                             <div class="news-post-meta">
@@ -34,7 +34,7 @@
                         </a>
                     </div>
 						<div class="post-box">
-                        <a href="../../orlando-business-journal-names-timothy-queely-a-2022-40-under-40-honoree/index.html">
+                        <a href="../../orlando-business-journal-names-timothy-queely-a-2022-40-under-40-honoree">
                             <div class="news-post-image" style="background-image: url({{asset('wp-content/uploads/2022/05/1-scaled-480x320.jpg')}});">
                                                         	<img width="311" height="225" src="{{asset('wp-content/uploads/2022/05/1-311x225.jpg')}}" class="attachment-news-thumbnail size-news-thumbnail wp-post-image" alt="" loading="lazy" />                                                        </div>
                             <div class="news-post-meta">
@@ -50,7 +50,7 @@
                         </a>
                     </div>
 						<div class="post-box">
-                        <a href="../../hensel-phelps-veterans-network-vnet-works-to-support-hire-and-connect-the-veteran-community/index.html">
+                        <a href="../../hensel-phelps-veterans-network-vnet-works-to-support-hire-and-connect-the-veteran-community">
                             <div class="news-post-image" style="background-image: url({{asset('wp-content/uploads/2022/05/NorCal-VNET-Lunch-1-scaled-480x320.jpg')}});">
                                                         	<img width="311" height="225" src="{{asset('wp-content/uploads/2022/05/NorCal-VNET-Lunch-1-311x225.jpg')}}" class="attachment-news-thumbnail size-news-thumbnail wp-post-image" alt="" loading="lazy" />                                                        </div>
                             <div class="news-post-meta">
@@ -66,7 +66,7 @@
                         </a>
                     </div>
 						<div class="post-box">
-                        <a href="../../a-lifetime-dedicated-to-service-always-in-uniform/index.html">
+                        <a href="../../a-lifetime-dedicated-to-service-always-in-uniform">
                             <div class="news-post-image" style="background-image: url({{asset('wp-content/uploads/2022/05/Picture1-480x320.jpg')}});">
                                                         	<img width="311" height="225" src="{{asset('wp-content/uploads/2022/05/Picture1-311x225.jpg')}}" class="attachment-news-thumbnail size-news-thumbnail wp-post-image" alt="" loading="lazy" />                                                        </div>
                             <div class="news-post-meta">
@@ -82,7 +82,7 @@
                         </a>
                     </div>
 						<div class="post-box">
-                        <a href="../../women-in-construction-insight-from-hensel-phelps-rising-leaders/index.html">
+                        <a href="../../women-in-construction-insight-from-hensel-phelps-rising-leaders">
                             <div class="news-post-image" style="background-image: url({{asset('wp-content/uploads/2022/03/BRAND-WIC-AD-Layouts-05-1-480x320.jpg')}});">
                                                         	<img width="311" height="225" src="{{asset('wp-content/uploads/2022/03/BRAND-WIC-AD-Layouts-05-1-311x225.jpg')}}" class="attachment-news-thumbnail size-news-thumbnail wp-post-image" alt="Women in Construction 2022" loading="lazy" />                                                        </div>
                             <div class="news-post-meta">
@@ -98,7 +98,7 @@
                         </a>
                     </div>
 						<div class="post-box">
-                        <a href="../../building-together-joel-kelley-iii/index.html">
+                        <a href="../../building-together-joel-kelley-iii">
                             <div class="news-post-image" style="background-image: url({{asset('wp-content/uploads/2022/01/MicrosoftTeams-image-42-480x320.jpg')}});">
                                                         	<img width="311" height="225" src="{{asset('wp-content/uploads/2022/01/MicrosoftTeams-image-42-311x225.jpg')}}" class="attachment-news-thumbnail size-news-thumbnail wp-post-image" alt="" loading="lazy" />                                                        </div>
                             <div class="news-post-meta">

@@ -22,12 +22,12 @@
 						<div class="widget">
 							<h4>What We Do</h4>
 							<ul>
-								<li class="page_item page-item-10"><a href="../development/index.html')}}" >Development</a></li>
-<li class="page_item page-item-6672 page_item_has_children"><a href="../facility-services/index.html')}}" >Facility Services</a></li>
+								<li class="page_item page-item-10"><a href="../development/">Development</a></li>
+<li class="page_item page-item-6672 page_item_has_children"><a href="../facility-services/">Facility Services</a></li>
 <li class="page_item page-item-6704 current_page_item"><a href="index.html')}}"  aria-current="page">Facility Management</a></li>
-<li class="page_item page-item-6741"><a href="../facility-solutions/index.html')}}" >Facility Solutions</a></li>
-<li class="page_item page-item-6745"><a href="../specialized-construction/index.html')}}" >Specialized Construction</a></li>
-<li class="page_item page-item-12"><a href="../construction/index.html')}}" >Construction</a></li>
+<li class="page_item page-item-6741"><a href="../facility-solutions/">Facility Solutions</a></li>
+<li class="page_item page-item-6745"><a href="../specialized-construction/">Specialized Construction</a></li>
+<li class="page_item page-item-12"><a href="../construction/">Construction</a></li>
 							</ul>
 						</div>
 					</div>
@@ -60,7 +60,7 @@
 	<footer class="footer">
     	<div class="wrapper">
             <div class="footer-top clearfix" style="margin-bottom: 20px;">
-                <a href="../../index.html')}}"  class="footer-logo">
+                <a href="../../" class="footer-logo">
                     <img src="{{asset('wp-content/themes/henselphelps/img/footer-logo.png')}}" alt="">
                 </a>
                 <div class="social-links">
@@ -79,12 +79,12 @@
             </div>
             <div class="footer-bottom">
             	<div class="footer-nav">
-                    <ul id="menu-footer-menu" class=""><li id="menu-item-115" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-115"><a href="../../projects/index.html')}}" >Projects</a></li>
-<li id="menu-item-116" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-116"><a href="../index.html')}}" >What We Do</a></li>
-<li id="menu-item-105" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-105"><a href="../../careers/index.html')}}" >Careers</a></li>
-<li id="menu-item-4379" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4379"><a href="../../the-hensel-phelps-way/index.html')}}" >The Alticor Inc Way</a></li>
+                    <ul id="menu-footer-menu" class=""><li id="menu-item-115" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-115"><a href="{{route('projects.index')}}">Projects</a></li>
+<li id="menu-item-116" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-116"><a href="../">What We Do</a></li>
+<li id="menu-item-105" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-105"><a href="../../careers/">Careers</a></li>
+<li id="menu-item-4379" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4379"><a href="../../the-hensel-phelps-way/">The Alticor Inc Way</a></li>
 <li id="menu-item-2779" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2779"><a href="{{route('trade-partners')}}">Trade Partners</a></li>
-<li id="menu-item-5227" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5227"><a href="../../sustainability-corporate-governance/index.html')}}" >Sustainability and Corporate Governance</a></li>
+<li id="menu-item-5227" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5227"><a href="../../sustainability-corporate-governance/">Sustainability and Corporate Governance</a></li>
 <li id="menu-item-113" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113"><a href="{{route('contact')}}" >Contact Us</a></li>
 </ul>                </div>
                 <div class="copyright">

@@ -117,7 +117,7 @@
                             <span>LAUSD Belvedere Middle School Comprehensive Modernization</span>
 
                             <a
-                                href="../../project/lausd-belvedere-middle-school-comprehensive-modernization/index.html"><i
+                                href="{{route('project.lausd-belvedere-middle-school-comprehensive-modernization"><i
                                     class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
                                     More</span></a>
 
@@ -149,7 +149,7 @@
 
                             <span>UC Riverside School of Medicine Education Building II</span>
 
-                            <a href="../../project/uc-riverside-school-of-medicine-education-building-ii/index.html"><i
+                            <a href="{{route('project.uc-riverside-school-of-medicine-education-building-ii"><i
                                     class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
                                     More</span></a>
 
@@ -181,7 +181,7 @@
 
                             <span>Naval Air Station Pensacola Building 633</span>
 
-                            <a href="../../project/naval-air-station-pensacola-building-633/index.html"><i
+                            <a href="{{route('project.naval-air-station-pensacola-building-633"><i
                                     class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
                                     More</span></a>
 
@@ -213,7 +213,7 @@
 
                             <span>Fawcett Elementary School Replacement</span>
 
-                            <a href="../../project/fawcett-elementary-school-replacement/index.html"><i
+                            <a href="{{route('project.fawcett-elementary-school-replacement"><i
                                     class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
                                     More</span></a>
 
@@ -245,7 +245,7 @@
 
                             <span>Camp Paumalu STEM Center for Excellence</span>
 
-                            <a href="../../project/camp-paumalu-stem-center-for-excellence/index.html"><i
+                            <a href="{{route('project.camp-paumalu-stem-center-for-excellence"><i
                                     class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
                                     More</span></a>
 
@@ -278,7 +278,7 @@
                             <span>University of Washington Interdisciplinary Engineering Building</span>
 
                             <a
-                                href="../../project/university-of-washington-interdisciplinary-engineering-building/index.html"><i
+                                href="{{route('project.university-of-washington-interdisciplinary-engineering-building"><i
                                     class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
                                     More</span></a>
 
@@ -334,7 +334,7 @@
                                 <div class="post-box project">
 
                                     <a
-                                        href="../../the-nashville-international-airport-terminal-lobby-and-international-arrivals-facility-team-reveals-the-new-grand-lobby/index.html">
+                                        href="../../the-nashville-international-airport-terminal-lobby-and-international-arrivals-facility-team-reveals-the-new-grand-lobby">
 
                                         <div class="news-post-image"
                                             style="background-image: url({{asset('wp-content/uploads/2023/02/Low-Res-3-768x511.jpg')}});">
@@ -386,7 +386,7 @@
 
                                 <div class="post-box project">
 
-                                    <a href="../../southwest-airlines-phx-tech-ops-final-pick-topping-out/index.html">
+                                    <a href="../../southwest-airlines-phx-tech-ops-final-pick-topping-out">
 
                                         <div class="news-post-image"
                                             style="background-image: url({{asset('wp-content/uploads/2022/11/HP-Team-Picture2-1024x684.jpg')}});">
@@ -439,7 +439,7 @@
                                 <div class="post-box project">
 
                                     <a
-                                        href="../../hensel-phelps-continues-to-hit-the-high-notes-at-the-nashville-international-airport/index.html">
+                                        href="../../hensel-phelps-continues-to-hit-the-high-notes-at-the-nashville-international-airport">
 
                                         <div class="news-post-image"
                                             style="background-image: url({{asset('wp-content/uploads/2022/08/BNA-Exterior-Reduced-480x320.png')}});">
@@ -492,7 +492,7 @@
                                 <div class="post-box award">
 
                                     <a
-                                        href="../../tampa-international-airports-blue-express-curbside-expansion-project-wins-fdot-2022-commercial-service-airport-project-of-the-year/index.html">
+                                        href="../../tampa-international-airports-blue-express-curbside-expansion-project-wins-fdot-2022-commercial-service-airport-project-of-the-year">
 
                                         <div class="news-post-image"
                                             style="background-image: url({{asset('wp-content/uploads/2022/08/HP-TPA-International-Finals-18-scaled-480x320.jpg')}});">

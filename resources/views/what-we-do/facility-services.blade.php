@@ -50,7 +50,7 @@
             client specific goals and objectives. We are uniquely qualified with decades of facility experience. Our
             technical knowledge of building systems, envelopes, campus and client operations enables us to provide
             best-in-class operational solutions while Delivering <a
-                href="../../vision-and-core-values/index.html')}}">EXCELLENCE</a> in all we do.</p>
+                href="../../vision-and-core-values/">EXCELLENCE</a> in all we do.</p>
         <p style="text-align: left;">Providing a single-source solution, Alticor Inc specializes in a variety of
             offerings and capabilities, <img loading="lazy" class="alignright size-medium wp-image-10640"
                 src="{{ asset('wp-content/uploads/2018/08/Resized_Vision-Statement-Digital-for-Light-BG-300x101.png') }}"
@@ -73,7 +73,7 @@
                     for your facility, all consulting programs are fully customized to achieve your business goals.</p>
                 </p>
 
-                <a href="../facility-solutions/index.html')}}"><i class="fa fa-arrow-circle-right"
+                <a href="../facility-solutions/"><i class="fa fa-arrow-circle-right"
                         aria-hidden="true"></i><span>Learn More</span></a>
 
             </div>
@@ -107,7 +107,7 @@
                     ever-changing needs of our clients.</p>
                 </p>
 
-                <a href="../facility-management/index.html')}}"><i class="fa fa-arrow-circle-right"
+                <a href="../facility-management/"><i class="fa fa-arrow-circle-right"
                         aria-hidden="true"></i><span>Learn More</span></a>
 
             </div>
@@ -139,7 +139,7 @@
                     solutions for small projects, including renovations and retrofitting of existing facilities.</p>
                 </p>
 
-                <a href="../specialized-construction/index.html')}}"><i class="fa fa-arrow-circle-right"
+                <a href="../specialized-construction/"><i class="fa fa-arrow-circle-right"
                         aria-hidden="true"></i><span>Learn More</span></a>
 
             </div>
@@ -194,7 +194,7 @@
 
                 <h3>Begin Your Legacy</h3>
 
-                <a href="../../careers/careers-facility-services/index.html')}}" class="btn" target="_blank">View
+                <a href="../../careers/careers-facility-services/"class="btn" target="_blank">View
                     Careers in Facility Services</a>
 
             </div>

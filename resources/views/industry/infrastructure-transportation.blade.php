@@ -126,7 +126,7 @@
 
                             <span>Puyallup Station Parking Garage</span>
 
-                            <a href="../../project/puyallup-station-parking-garage/index.html"><i
+                            <a href="{{route('project.puyallup-station-parking-garage"><i
                                     class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
                                     More</span></a>
 
@@ -158,7 +158,7 @@
 
                             <span>Kaneohe / Kailua Tunnel Influent Facility</span>
 
-                            <a href="../../project/kaneohe-kailua-tunnel-influent-facility/index.html"><i
+                            <a href="{{route('project.kaneohe-kailua-tunnel-influent-facility"><i
                                     class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
                                     More</span></a>
 
@@ -191,7 +191,7 @@
                             <span>Downtown Redmond Link Extension &#8211; Parking Garage and Stations</span>
 
                             <a
-                                href="../../project/downtown-redmond-link-extension-parking-garage-stations/index.html"><i
+                                href="{{route('project.downtown-redmond-link-extension-parking-garage-stations"><i
                                     class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
                                     More</span></a>
 
@@ -223,7 +223,7 @@
 
                             <span>San Ysidro Land Port of Entry – Phase 2</span>
 
-                            <a href="../../project/san-ysidro-land-port-of-entry-phase-2/index.html"><i
+                            <a href="{{route('project.san-ysidro-land-port-of-entry-phase-2"><i
                                     class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
                                     More</span></a>
 
@@ -255,7 +255,7 @@
 
                             <span>UT Medical Branch League City Parking Initiatives</span>
 
-                            <a href="../../project/ut-medical-branch-league-city-parking-initiatives/index.html"><i
+                            <a href="{{route('project.ut-medical-branch-league-city-parking-initiatives"><i
                                     class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
                                     More</span></a>
 
@@ -287,7 +287,7 @@
 
                             <span>WMATA Andrews Federal Center Bus Garage</span>
 
-                            <a href="../../project/wmata-andrews-federal-center-bus-garage/index.html"><i
+                            <a href="{{route('project.wmata-andrews-federal-center-bus-garage"><i
                                     class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
                                     More</span></a>
 
@@ -343,7 +343,7 @@
                                 <div class="post-box project">
 
                                     <a
-                                        href="../../the-nashville-international-airport-terminal-lobby-and-international-arrivals-facility-team-reveals-the-new-grand-lobby/index.html">
+                                        href="../../the-nashville-international-airport-terminal-lobby-and-international-arrivals-facility-team-reveals-the-new-grand-lobby">
 
                                         <div class="news-post-image"
                                             style="background-image: url({{asset('wp-content/uploads/2023/02/Low-Res-3-768x511.jpg')}});">
@@ -395,7 +395,7 @@
 
                                 <div class="post-box project">
 
-                                    <a href="../../southwest-airlines-phx-tech-ops-final-pick-topping-out/index.html">
+                                    <a href="../../southwest-airlines-phx-tech-ops-final-pick-topping-out">
 
                                         <div class="news-post-image"
                                             style="background-image: url({{asset('wp-content/uploads/2022/11/HP-Team-Picture2-1024x684.jpg')}});">
@@ -448,7 +448,7 @@
                                 <div class="post-box project">
 
                                     <a
-                                        href="../../hensel-phelps-continues-to-hit-the-high-notes-at-the-nashville-international-airport/index.html">
+                                        href="../../hensel-phelps-continues-to-hit-the-high-notes-at-the-nashville-international-airport">
 
                                         <div class="news-post-image"
                                             style="background-image: url({{asset('wp-content/uploads/2022/08/BNA-Exterior-Reduced-480x320.png')}});">
@@ -501,7 +501,7 @@
                                 <div class="post-box award">
 
                                     <a
-                                        href="../../tampa-international-airports-blue-express-curbside-expansion-project-wins-fdot-2022-commercial-service-airport-project-of-the-year/index.html">
+                                        href="../../tampa-international-airports-blue-express-curbside-expansion-project-wins-fdot-2022-commercial-service-airport-project-of-the-year">
 
                                         <div class="news-post-image"
                                             style="background-image: url({{asset('wp-content/uploads/2022/08/HP-TPA-International-Finals-18-scaled-480x320.jpg')}});">

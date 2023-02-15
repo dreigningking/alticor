@@ -26,14 +26,14 @@
                         <li class="page_item page-item-10 current_page_item"><a href="index.html')}}"
                                 aria-current="page">Development</a></li>
                         <li class="page_item page-item-6672 page_item_has_children"><a
-                                href="../facility-services/index.html')}}">Facility Services</a></li>
-                        <li class="page_item page-item-6704"><a href="../facility-management/index.html')}}">Facility
+                                href="../facility-services/">Facility Services</a></li>
+                        <li class="page_item page-item-6704"><a href="../facility-management/">Facility
                                 Management</a></li>
-                        <li class="page_item page-item-6741"><a href="../facility-solutions/index.html')}}">Facility
+                        <li class="page_item page-item-6741"><a href="../facility-solutions/">Facility
                                 Solutions</a></li>
                         <li class="page_item page-item-6745"><a
-                                href="../specialized-construction/index.html')}}">Specialized Construction</a></li>
-                        <li class="page_item page-item-12"><a href="../construction/index.html')}}">Construction</a></li>
+                                href="../specialized-construction/">Specialized Construction</a></li>
+                        <li class="page_item page-item-12"><a href="../construction/">Construction</a></li>
                     </ul>
                 </div>
             </div>
@@ -44,7 +44,7 @@
             <div class="main-content">
                 <h2 id="pageMainHeading">A Roadmap to Success</h2>
                 <p>When it comes to creating landmark properties and delivering <a
-                        href="../../vision-and-core-values/index.html')}}">EXCELLENCE</a> to our clients, we take a big
+                        href="../../vision-and-core-values/">EXCELLENCE</a> to our clients, we take a big
                     picture approach – beginning with comprehensive development solutions that lay the groundwork for
                     success and forge a clear path forward. Our development services guide clients through the entire
                     process, from concept to completion. From cost containment and financing to feasibility studies and

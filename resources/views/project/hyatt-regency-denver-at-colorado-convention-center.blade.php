@@ -53,11 +53,11 @@
                                 </li>
                                                                                                 	                                <li>
                                 	<strong>Industry</strong>
-                                    <span><a href="../../industry/hospitality/index.html">Hospitality</a></span>
+                                    <span><a href="{{route('industry.hospitality')}}">Hospitality</a></span>
 								 	</li>
                                                                                                 	<li>
                                 		<strong>Line of Business</strong>
-                                    	<span><a href="../../line_of_business/construction/index.html">Construction</a></span>
+                                    	<span><a href="../../line_of_business/construction">Construction</a></span>
                                 	</li>
                                                                                                                                                                 	<li>
                                 	<strong>Duration</strong>
@@ -206,7 +206,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Hospitality project</em><b></b></h4>
                                 <span>Marriott International Headquarters and Hotel</span>
-                                <a href="../marriott-international-headquarters-and-hotel/index.html"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../marriott-international-headquarters-and-hotel"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>
@@ -221,7 +221,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Hospitality project</em><b></b></h4>
                                 <span>McGregor Square</span>
-                                <a href="../mcgregor-square/index.html"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../mcgregor-square"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>
@@ -236,7 +236,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Hospitality project</em><b></b></h4>
                                 <span>Archer Hotel Tysons</span>
-                                <a href="../archer-hotel-tysons/index.html"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../archer-hotel-tysons"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>
@@ -251,7 +251,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Hospitality project</em><b></b></h4>
                                 <span>Kalahari Resort and Convention Center</span>
-                                <a href="../kalahari-resort-convention-center/index.html"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../kalahari-resort-convention-center"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>
@@ -266,7 +266,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Hospitality project</em><b></b></h4>
                                 <span>Aventura Hotel at Universal Orlando</span>
-                                <a href="../aventura-hotel-at-universal-orlando/index.html"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../aventura-hotel-at-universal-orlando"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>
@@ -281,7 +281,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Hospitality project</em><b></b></h4>
                                 <span>Hokulani Waikiki by Hilton Grand Vacations</span>
-                                <a href="../hokulani-waikiki-hilton-grand-vacations/index.html"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../hokulani-waikiki-hilton-grand-vacations"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>

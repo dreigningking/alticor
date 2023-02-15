@@ -103,12 +103,12 @@
                     <div class="project-content">
 
                         <h3>Education</h3>
-                        <p><a href="/project/bethune-cookman-university-residence-halls/"><img
+                        <p><a href="{{route('project.bethune-cookman-university-residence-halls/"><img
                                     loading="lazy" class="alignnone wp-image-954 size-full"
                                     src="{{ asset('wp-content/uploads/2017/06/education-menu.jpg') }}"
                                     alt="" width="300" height="200" /></a></p>
                         <h5><span style="color: #ffffff;">Featured Education Case Study</span></h5>
-                        <h4><a href="/project/bethune-cookman-university-residence-halls/">Bethune-Cookman
+                        <h4><a href="{{route('project.bethune-cookman-university-residence-halls/">Bethune-Cookman
                                 University Residence Halls</a></h4>
 
                     </div>
@@ -118,14 +118,14 @@
 
                         <h3>Government + Justice</h3>
                         <p><a
-                                href="/project/foreign-affairs-security-training-center-fastc-contracts-1-3/"><img
+                                href="{{route('project.foreign-affairs-security-training-center-fastc-contracts-1-3/"><img
                                     loading="lazy" class="alignnone wp-image-991 size-full"
                                     src="{{ asset('wp-content/uploads/2021/07/Foreign-Affairs-.jpg') }}"
                                     alt="" width="300" height="200" /></a></p>
                         <h5><span style="color: #ffffff;">Featured Government + Justice Case
                                 Study</span></h5>
                         <h4><a
-                                href="/project/foreign-affairs-security-training-center-fastc-contracts-1-3/">Foreign
+                                href="{{route('project.foreign-affairs-security-training-center-fastc-contracts-1-3/">Foreign
                                 Affairs Security Training Center (FASTC) Contracts 1 and 3</a></h4>
 
                     </div>
@@ -135,7 +135,7 @@
 
                         <h3>Healthcare</h3>
                         <p><a
-                                href="/project/the-university-of-texas-medical-branch-at-galveston-jennie-sealy-replacement-hospital/"><img
+                                href="{{route('project.the-university-of-texas-medical-branch-at-galveston-jennie-sealy-replacement-hospital/"><img
                                     loading="lazy" class="wp-image-2837 size-medium alignnone"
                                     src="{{ asset('wp-content/uploads/2020/01/UTMB_JennieSealy_01.jpg') }}"
                                     alt="" width="300" height="200" /></a></p>
@@ -143,7 +143,7 @@
                         <h5><span style="color: #ffffff;">Featured Healthcare Case Study</span>
                         </h5>
                         <h4><a
-                                href="/project/the-university-of-texas-medical-branch-at-galveston-jennie-sealy-replacement-hospital/">The
+                                href="{{route('project.the-university-of-texas-medical-branch-at-galveston-jennie-sealy-replacement-hospital/">The
                                 University of Texas Medical Branch at Galveston Jennie Sealy
                                 Replacement Hospital</a></h4>
 
@@ -153,13 +153,13 @@
                     <div class="project-content">
 
                         <h3>Hospitality</h3>
-                        <p><a href="/project/kalahari-resort-convention-center/"><img
+                        <p><a whatproject/kalahari-resort-convention-center/"><img
                                     loading="lazy" class="alignnone wp-image-790 size-full"
                                     src="{{ asset('wp-content/uploads/2021/07/Kalahari-Website.jpg') }}"
                                     alt="" width="300" height="200" /></a></p>
                         <h5><span style="color: #ffffff;">Featured Hospitality Case Study</span>
                         </h5>
-                        <h4><a href="/project/kalahari-resort-convention-center/">Kalahari Resort
+                        <h4><a href="{{route('project.kalahari-resort-convention-center/">Kalahari Resort
                                 and Convention Center</a></h4>
 
                     </div>
@@ -168,13 +168,13 @@
                     <div class="project-content">
 
                         <h3>Infrastructure + Transportation</h3>
-                        <p><a href="/project/wmata-andrews-federal-center-bus-garage/"><img
+                        <p><a href="{{route('project.wmata-andrews-federal-center-bus-garage/"><img
                                     loading="lazy" class="alignnone wp-image-979 size-full"
                                     src="{{ asset('wp-content/uploads/2021/07/WMATA-Bus-Garage-2.jpg') }}"
                                     alt="" width="300" height="200" /></a></p>
                         <h5><span style="color: #ffffff;">Featured Infrastructure + Transportation
                                 Case Study</span></h5>
-                        <h4><a href="/project/wmata-andrews-federal-center-bus-garage/">WMATA
+                        <h4><a href="{{route('project.wmata-andrews-federal-center-bus-garage/">WMATA
                                 Andrews Federal Center Bus Garage</a></h4>
 
                     </div>
@@ -199,7 +199,7 @@
 
                         <h3>Water + Wastewater</h3>
                         <p><a
-                                href="/project/kailua-regional-wastewater-treatment-plant-tunnel-influent-pump-station-headworks-facility/"><img
+                                href="{{route('project.kailua-regional-wastewater-treatment-plant-tunnel-influent-pump-station-headworks-facility/"><img
                                     loading="lazy" class="wp-image-2837 size-medium alignnone"
                                     src="{{ asset('wp-content/uploads/2017/08/KWWTP_0030-1024x684.jpg') }}"
                                     alt="" width="300" height="200" /></a></p>
@@ -207,7 +207,7 @@
                         <h5><span style="color: #ffffff;">Featured Water + Wastewater Case
                                 Study</span></h5>
                         <h4><a
-                                href="/project/kailua-regional-wastewater-treatment-plant-tunnel-influent-pump-station-headworks-facility/">Kailua
+                                href="{{route('project.kailua-regional-wastewater-treatment-plant-tunnel-influent-pump-station-headworks-facility/">Kailua
                                 Regional Wastewater Treatment Plant</a></h4>
 
                     </div>

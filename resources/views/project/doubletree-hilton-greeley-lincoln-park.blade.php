@@ -31,7 +31,7 @@
 
                     <h2>About the Project</h2>
 <p>Sited on the northerly border of Lincoln Park, this high-end boutique hotel project included an expanded ballroom and meeting room space to meet the market demands in Greeley and offers a missing asset to the community. The full-service hotel includes 150 guestrooms and suites, an 8,000 SF ballroom (divisible by four), a 2,500 SF junior ballroom (divisible by two), three 500 SF boardrooms, a 3,000 SF pre-function space and a 100-seat restaurant/dining space in a stately four-story structure clad with indigenous masonry.</p>
-<h3><a href="../../what-we-do/development/index.html">DEVELOPMENT</a></h3>
+<h3><a href="{{route('what-we-do.development')}}">DEVELOPMENT</a></h3>
 <p>In response to recent significant economic growth in the local area, the City of Greeley selected Alticor Inc Development to redevelop a city block and property for a Hilton-branded hotel and conference center. This development project included project financing, public private partnerships (P3), and project management/owner’s representation.</p>
 <h3><a href="{{route('what-we-do.construction')}}">CONSTRUCTION</a></h3>
 <div>
@@ -63,11 +63,11 @@
                                 </li>
                                                                 	                                <li>
                                 	<strong>Industry</strong>
-                                    <span><a href="../../industry/commercial/index.html">Commercial</a></span>
+                                    <span><a href="{{route('industry.commercial')}}">Commercial</a></span>
 								 	</li>
                                                                                                 	<li>
                                 		<strong>Line of Business</strong>
-                                    	<span><a href="../../line_of_business/development/index.html">Development</a>, <a href="../../line_of_business/construction/index.html">Construction</a></span>
+                                    	<span><a href="../../line_of_business/development">Development</a>, <a href="../../line_of_business/construction">Construction</a></span>
                                 	</li>
                                                                                                 	<li>
                                 	<strong>Delivery Method</strong>
@@ -236,7 +236,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Hospitality project</em><b></b></h4>
                                 <span>Marriott International Headquarters and Hotel</span>
-                                <a href="../marriott-international-headquarters-and-hotel/index.html"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../marriott-international-headquarters-and-hotel"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>
@@ -251,7 +251,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Hospitality project</em><b></b></h4>
                                 <span>McGregor Square</span>
-                                <a href="../mcgregor-square/index.html"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../mcgregor-square"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>
@@ -266,7 +266,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Hospitality project</em><b></b></h4>
                                 <span>Archer Hotel Tysons</span>
-                                <a href="../archer-hotel-tysons/index.html"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../archer-hotel-tysons"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>
@@ -281,7 +281,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Hospitality project</em><b></b></h4>
                                 <span>Kalahari Resort and Convention Center</span>
-                                <a href="../kalahari-resort-convention-center/index.html"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../kalahari-resort-convention-center"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>
@@ -296,7 +296,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Hospitality project</em><b></b></h4>
                                 <span>Aventura Hotel at Universal Orlando</span>
-                                <a href="../aventura-hotel-at-universal-orlando/index.html"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../aventura-hotel-at-universal-orlando"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>
@@ -311,7 +311,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Hospitality project</em><b></b></h4>
                                 <span>Hokulani Waikiki by Hilton Grand Vacations</span>
-                                <a href="../hokulani-waikiki-hilton-grand-vacations/index.html"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../hokulani-waikiki-hilton-grand-vacations"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>

@@ -94,12 +94,12 @@ Route::group(['prefix'=> 'industry','as'=> 'industry.'],function(){
     Route::view('aviation', 'industry.aviation')->name('aviation');
     Route::view('commercial', 'industry.commercial')->name('commercial');
     Route::view('education', 'industry.education')->name('education');
-    Route::view('government-justice', '')->name('government-justice');
-    Route::view('healthcare', '')->name('healthcare');
-    Route::view('hospitality', '')->name('hospitality');
-    Route::view('infrastructure-transportation', '')->name('infrastructure-transportation');
-    Route::view('science-technology', '')->name('science-technology');
-    Route::view('water-wastewater', '')->name('water-wastewater');
+    Route::view('government-justice', 'industry.government-justice')->name('government-justice');
+    Route::view('healthcare', 'industry.healthcare')->name('healthcare');
+    Route::view('hospitality', 'industry.hospitality')->name('hospitality');
+    Route::view('infrastructure-transportation', 'industry.infrastructure-transportation')->name('infrastructure-transportation');
+    Route::view('science-technology', 'industry.science-technology')->name('science-technology');
+    Route::view('water-wastewater', 'industry.water-wastewater')->name('water-wastewater');
     
 });
     

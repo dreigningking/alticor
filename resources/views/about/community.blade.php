@@ -60,14 +60,14 @@
                         <li class="page_item page-item-36"><a href="{{route('about.history')}}">History</a></li>
                         <li class="page_item page-item-876 page_item_has_children current_page_item"><a
                                 href="index.html" aria-current="page">Community</a></li>
-                        <li class="page_item page-item-879"><a href="{{route('about.news-center')}}"">News Center</a></li>
-                        <li class="page_item page-item-42"><a href="{{route('about.leadership')}}"">Leadership</a></li>
+                        <li class="page_item page-item-879"><a href="{{route('about.news-center">News Center</a></li>
+                        <li class="page_item page-item-42"><a href="{{route('about.leadership">Leadership</a></li>
                         <li class="page_item page-item-859"><a href="{{route('about.safety')}}">Safety</a></li>
-                        <li class="page_item page-item-863"><a href="{{route('about.quality')}}"">Quality</a></li>
+                        <li class="page_item page-item-863"><a href="{{route('about.quality">Quality</a></li>
                         <li class="page_item page-item-884 page_item_has_children"><a
-                                href="{{route('about.recognition-awards')}}"">Recognition &#038; Awards</a></li>
+                                href="{{route('about.recognition-awards">Recognition &#038; Awards</a></li>
                         <li class="page_item page-item-870"><a
-                                href="{{route('about.sustainability')}}"">Sustainability</a></li>
+                                href="{{route('about.sustainability">Sustainability</a></li>
 
                     </ul>
 
@@ -195,7 +195,7 @@
                             municipalities across the United States. </p>
                         </p>
 
-                        <a href="giving-back-community')}}""><i class="fa fa-arrow-circle-right"
+                        <a href="giving-back-community"><i class="fa fa-arrow-circle-right"
                                 aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -268,7 +268,7 @@
                             purchasing, and construction efforts.</p>
                         </p>
 
-                        <a href="{{route('about.subcontractor-outreach')}}""><i class="fa fa-arrow-circle-right"
+                        <a href="{{route('about.subcontractor-outreach"><i class="fa fa-arrow-circle-right"
                                 aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -464,7 +464,7 @@
 
 
 
-                            <a href="{{route('about.construction-executive-from-the-ground-up')}}"">
+                            <a href="{{route('about.construction-executive-from-the-ground-up">
 
 
 
@@ -562,7 +562,7 @@
 
 
 
-                            <a href="{{route('about.hensel-phelps-celebrates-a-culture-of-giving-back')}}"">
+                            <a href="{{route('about.hensel-phelps-celebrates-a-culture-of-giving-back">
 
 
 
@@ -660,7 +660,7 @@
 
 
 
-                            <a href="{{route('about.pacific-northwest-hosts-4th-annual-veterans-day-event')}}"">
+                            <a href="{{route('about.pacific-northwest-hosts-4th-annual-veterans-day-event">
 
 
 
@@ -760,7 +760,7 @@
 
 
                             <a
-                                href="{{route('about.hensel-phelps-recognizes-and-supports-awareness-for-mens-health')}}"">
+                                href="{{route('about.hensel-phelps-recognizes-and-supports-awareness-for-mens-health">
 
 
 
@@ -864,7 +864,7 @@
 
 
 
-                <div class="btn-center"><a href="{{route('about.category/community')}}"" class="btn inverse">More
+                <div class="btn-center"><a href="{{route('about.category/community" class="btn inverse">More
                         News</a></div>
 
 

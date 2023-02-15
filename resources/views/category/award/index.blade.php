@@ -18,7 +18,7 @@
             <div class="news-post-block clearfix">
 			<div>
 						<div class="post-box">
-                        <a href="../../celebrating-winning-teams-hensel-phelps-receives-seven-dbia-awards/index.html">
+                        <a href="../../celebrating-winning-teams-hensel-phelps-receives-seven-dbia-awards">
                             <div class="news-post-image" style="background-image: url({{asset('wp-content/uploads/2022/12/52476878843_1029b1b227_c-768x512.jpg')}});">
                                                         	<img width="311" height="225" src="{{asset('wp-content/uploads/2022/12/52476878843_1029b1b227_c-311x225.jpg')}}" class="attachment-news-thumbnail size-news-thumbnail wp-post-image" alt="" />                                                        </div>
                             <div class="news-post-meta">
@@ -34,7 +34,7 @@
                         </a>
                     </div>
 						<div class="post-box">
-                        <a href="../../hensel-phelps-wins-project-of-the-year-and-two-eagle-awards-at-abc-central-florida-excellence-in-construction-award-ceremony/index.html">
+                        <a href="../../hensel-phelps-wins-project-of-the-year-and-two-eagle-awards-at-abc-central-florida-excellence-in-construction-award-ceremony">
                             <div class="news-post-image" style="background-image: url({{asset('wp-content/uploads/2022/10/2022-ABC-EIC-Awards-2-scaled-e1667243855280-1024x684.jpg')}});">
                                                         	<img width="311" height="225" src="{{asset('wp-content/uploads/2022/10/2022-ABC-EIC-Awards-2-scaled-e1667243855280-311x225.jpg')}}" class="attachment-news-thumbnail size-news-thumbnail wp-post-image" alt="" loading="lazy" />                                                        </div>
                             <div class="news-post-meta">
@@ -50,7 +50,7 @@
                         </a>
                     </div>
 						<div class="post-box">
-                        <a href="../../a-lifetime-of-delivering-excellence-greg-gidez-recognized-with-dbia-lifetime-achievement-award/index.html">
+                        <a href="../../a-lifetime-of-delivering-excellence-greg-gidez-recognized-with-dbia-lifetime-achievement-award">
                             <div class="news-post-image" style="background-image: url({{asset('wp-content/uploads/2022/10/Greg-Gidez-Lifetime-Achievement-Award_1200x628-02.jpg')}});">
                                                         	<img width="311" height="225" src="{{asset('wp-content/uploads/2022/10/Greg-Gidez-Lifetime-Achievement-Award_1200x628-02-311x225.jpg')}}" class="attachment-news-thumbnail size-news-thumbnail wp-post-image" alt="" loading="lazy" />                                                        </div>
                             <div class="news-post-meta">
@@ -66,7 +66,7 @@
                         </a>
                     </div>
 						<div class="post-box">
-                        <a href="../../orlando-sentinel-names-hensel-phelps-a-2022-central-florida-top-workplace-for-the-7th-year-in-a-row/index.html">
+                        <a href="../../orlando-sentinel-names-hensel-phelps-a-2022-central-florida-top-workplace-for-the-7th-year-in-a-row">
                             <div class="news-post-image" style="background-image: url({{asset('wp-content/uploads/2022/09/Banner2-768x512.jpg')}});">
                                                         	<img width="311" height="225" src="{{asset('wp-content/uploads/2022/09/Banner2-311x225.jpg')}}" class="attachment-news-thumbnail size-news-thumbnail wp-post-image" alt="" loading="lazy" />                                                        </div>
                             <div class="news-post-meta">
@@ -82,7 +82,7 @@
                         </a>
                     </div>
 						<div class="post-box">
-                        <a href="../../enr-southeast-recognizes-two-hensel-phelps-project-managers/index.html">
+                        <a href="../../enr-southeast-recognizes-two-hensel-phelps-project-managers">
                             <div class="news-post-image" style="background-image: url({{asset('wp-content/uploads/2022/08/FB-and-LI-Graphic-480x320.png')}});">
                                                         	<img width="311" height="225" src="{{asset('wp-content/uploads/2022/08/FB-and-LI-Graphic-311x225.png')}}" class="attachment-news-thumbnail size-news-thumbnail wp-post-image" alt="" loading="lazy" />                                                        </div>
                             <div class="news-post-meta">
@@ -98,7 +98,7 @@
                         </a>
                     </div>
 						<div class="post-box">
-                        <a href="../../tampa-international-airports-blue-express-curbside-expansion-project-wins-fdot-2022-commercial-service-airport-project-of-the-year/index.html">
+                        <a href="../../tampa-international-airports-blue-express-curbside-expansion-project-wins-fdot-2022-commercial-service-airport-project-of-the-year">
                             <div class="news-post-image" style="background-image: url({{asset('wp-content/uploads/2022/08/HP-TPA-International-Finals-18-scaled-480x320.jpg')}});">
                                                         	<img width="311" height="225" src="{{asset('wp-content/uploads/2022/08/HP-TPA-International-Finals-18-311x225.jpg')}}" class="attachment-news-thumbnail size-news-thumbnail wp-post-image" alt="" loading="lazy" />                                                        </div>
                             <div class="news-post-meta">

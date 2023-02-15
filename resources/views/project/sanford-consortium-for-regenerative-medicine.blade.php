@@ -32,7 +32,7 @@
                     <h2 style="text-align: center">About the Project</h2>
 <p style="font-weight: 400">This laboratory development complex project consisted of a four-story laboratory structure interconnected to a two-story, 150-seat auditorium and conference center with vivarium space. The project included paved walkways, outdoor gathering areas, two large surface parking lots and landscape consistent with the nearby Torrey Pines Reserve.</p>
 <h3 style="text-align: center">Development</h3>
-<p style="font-weight: 400">Alticor Inc Development and associates provided a turnkey development for the high-tech Sanford Consortium for Regenerative Medicine complex located just off the pacific coast in La Jolla, CA. Areas of expertise provided by the <a href="../../what-we-do/development/index.html">Alticor Inc Development</a> group included obtaining the Environmental Impact Report approvals required for development, project financing, P3 – Public Private Partnerships and Project Management/Owner’s Representation.</p>
+<p style="font-weight: 400">Alticor Inc Development and associates provided a turnkey development for the high-tech Sanford Consortium for Regenerative Medicine complex located just off the pacific coast in La Jolla, CA. Areas of expertise provided by the <a href="{{route('what-we-do.development')}}">Alticor Inc Development</a> group included obtaining the Environmental Impact Report approvals required for development, project financing, P3 – Public Private Partnerships and Project Management/Owner’s Representation.</p>
 <h3 style="text-align: center">Construction</h3>
 <p style="font-weight: 400">The four-story portion is a reinforced, cast-in-place concrete structure with perimeter shear wall support. The two-story portion of the building is supported by structural steel and metal decking. This portion of the facility houses the main lobby, auditorium, café and conference center. This facility was designed with sustainability and the environment in mind.</p>
 
@@ -61,11 +61,11 @@
                                 </li>
                                                                 	                                <li>
                                 	<strong>Industry</strong>
-                                    <span><a href="../../industry/science-technology/index.html">Science + Technology</a></span>
+                                    <span><a href="{{route('industry.science-technology')}}">Science + Technology</a></span>
 								 	</li>
                                                                                                 	<li>
                                 		<strong>Line of Business</strong>
-                                    	<span><a href="../../line_of_business/construction/index.html">Construction</a>, <a href="../../line_of_business/development/index.html">Development</a></span>
+                                    	<span><a href="../../line_of_business/construction">Construction</a>, <a href="../../line_of_business/development">Development</a></span>
                                 	</li>
                                                                                                 	<li>
                                 	<strong>Delivery Method</strong>
@@ -261,7 +261,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Science + Technology project</em><b></b></h4>
                                 <span>Caltech Resnick Sustainability Center</span>
-                                <a href="../caltech-resnick-sustainability-center/index.html"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../caltech-resnick-sustainability-center"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>
@@ -276,7 +276,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Education project</em><b></b></h4>
                                 <span>UC Riverside School of Medicine Education Building II</span>
-                                <a href="../uc-riverside-school-of-medicine-education-building-ii/index.html"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../uc-riverside-school-of-medicine-education-building-ii"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>
@@ -291,7 +291,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Science + Technology project</em><b></b></h4>
                                 <span>California Air Resources Board Headquarters – Mary D. Nichols Campus</span>
-                                <a href="../california-air-resources-board-headquarters-mary-d-nichols-campus/index.html"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../california-air-resources-board-headquarters-mary-d-nichols-campus"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>
@@ -306,7 +306,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Science + Technology project</em><b></b></h4>
                                 <span>National Institute of Standards and Technology Building 245 Modernization Task Orders 1 &#8211; 5</span>
-                                <a href="../national-institute-of-standards-and-technology-building-245-modernization-task-orders-1-5/index.html"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../national-institute-of-standards-and-technology-building-245-modernization-task-orders-1-5"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>
@@ -321,7 +321,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Science + Technology project</em><b></b></h4>
                                 <span>NIA Alzheimer Disease and Related Dementias Temporary Research Facility</span>
-                                <a href="../nia-alzheimer-disease-and-related-dementias-temporary-research-facility/index.html"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../nia-alzheimer-disease-and-related-dementias-temporary-research-facility"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>
@@ -336,7 +336,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Science + Technology project</em><b></b></h4>
                                 <span>Caltech Chen Neuroscience Research Building</span>
-                                <a href="../caltech-chen-neuroscience-research-building/index.html"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../caltech-chen-neuroscience-research-building"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>

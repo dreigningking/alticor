@@ -53,11 +53,11 @@
                                 </li>
                                                                                                 	                                <li>
                                 	<strong>Industry</strong>
-                                    <span><a href="../../industry/commercial/index.html">Commercial</a></span>
+                                    <span><a href="{{route('industry.commercial')}}">Commercial</a></span>
 								 	</li>
                                                                                                 	<li>
                                 		<strong>Line of Business</strong>
-                                    	<span><a href="../../line_of_business/construction/index.html">Construction</a></span>
+                                    	<span><a href="../../line_of_business/construction">Construction</a></span>
                                 	</li>
                                                                                                                                 	<li>
                                 	<strong>Completion Date</strong>
@@ -248,7 +248,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Commercial project</em><b></b></h4>
                                 <span>SeaWorld Aquatica SP2</span>
-                                <a href="../seaworld-aquatica-sp2/index.html"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../seaworld-aquatica-sp2"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>
@@ -263,7 +263,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Commercial project</em><b></b></h4>
                                 <span>701 Rio</span>
-                                <a href="../701-rio/index.html"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../701-rio"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>
@@ -293,7 +293,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Commercial project</em><b></b></h4>
                                 <span>The GEO Group Corporate Headquarters</span>
-                                <a href="../geo-group-corporate-headquarters/index.html"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../geo-group-corporate-headquarters"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>
@@ -308,7 +308,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Commercial project</em><b></b></h4>
                                 <span>Alticor Inc Pacific District Office Renovation</span>
-                                <a href="../hensel-phelps-pacific-district-office-renovation/index.html"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../hensel-phelps-pacific-district-office-renovation"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>
@@ -323,7 +323,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Commercial project</em><b></b></h4>
                                 <span>50Fifty Office Tower</span>
-                                <a href="../fifty-50-office-tower/index.html"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../fifty-50-office-tower"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>

@@ -63,11 +63,11 @@
                                 </li>
                                                                 	                                <li>
                                 	<strong>Industry</strong>
-                                    <span><a href="../../industry/aviation/index.html">Aviation</a></span>
+                                    <span><a href="{{route('industry.aviation')}}">Aviation</a></span>
 								 	</li>
                                                                                                 	<li>
                                 		<strong>Line of Business</strong>
-                                    	<span><a href="../../line_of_business/construction/index.html">Construction</a></span>
+                                    	<span><a href="../../line_of_business/construction">Construction</a></span>
                                 	</li>
                                                                                                 	<li>
                                 	<strong>Delivery Method</strong>
@@ -197,7 +197,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Aviation project</em><b></b></h4>
                                 <span>Tampa International Airport Main Terminal Curbside Expansion Program</span>
-                                <a href="../tampa-international-airport-main-terminal-curbside-expansion-program-2/index.html"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../tampa-international-airport-main-terminal-curbside-expansion-program-2"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>
@@ -212,7 +212,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Aviation project</em><b></b></h4>
                                 <span>China Lake South Airfield</span>
-                                <a href="../china-lake-south-airfield/index.html"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../china-lake-south-airfield"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>
@@ -227,7 +227,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Aviation project</em><b></b></h4>
                                 <span>LAX Southwest Airlines Terminal 1.5 Development Program</span>
-                                <a href="../lax-southwest-airlines-terminal-1-5-development-program/index.html"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../lax-southwest-airlines-terminal-1-5-development-program"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>
@@ -242,7 +242,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Aviation project</em><b></b></h4>
                                 <span>Hangar Reconstruction &#8211; Dulles Jet Center</span>
-                                <a href="../hangar-reconstruction-dulles-jet-center/index.html"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../hangar-reconstruction-dulles-jet-center"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>
@@ -257,7 +257,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Aviation project</em><b></b></h4>
                                 <span>Midfield Concourse at Washington Dulles International Airport</span>
-                                <a href="../midfield-concourse-washington-dulles-international-airport/index.html"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../midfield-concourse-washington-dulles-international-airport"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>
@@ -272,7 +272,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Aviation project</em><b></b></h4>
                                 <span>P263 Broad Area Maritime Surveillance Testing and Evaluation Hangar Facility (BAMSTE)</span>
-                                <a href="../p263-broad-area-maritime-surveillance-testing-evaluation-hangar-facility-bamste/index.html"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../p263-broad-area-maritime-surveillance-testing-evaluation-hangar-facility-bamste"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>

@@ -61,11 +61,11 @@
                                 </li>
                                                                 	                                <li>
                                 	<strong>Industry</strong>
-                                    <span><a href="../../industry/government-justice/index.html">Government + Justice</a></span>
+                                    <span><a href="{{route('industry.justice')}}">Government + Justice</a></span>
 								 	</li>
                                                                                                 	<li>
                                 		<strong>Line of Business</strong>
-                                    	<span><a href="../../line_of_business/construction/index.html">Construction</a></span>
+                                    	<span><a href="../../line_of_business/construction">Construction</a></span>
                                 	</li>
                                                                                                 	<li>
                                 	<strong>Delivery Method</strong>
@@ -288,7 +288,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Government + Justice project</em><b></b></h4>
                                 <span>Maricopa County Intake, Transfer and Release (ITR) Facility / Detention Facility</span>
-                                <a href="../maricopa-county-intake-transfer-and-release-itr-facility-detention-facility/index.html"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../maricopa-county-intake-transfer-and-release-itr-facility-detention-facility"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>
@@ -303,7 +303,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Government + Justice project</em><b></b></h4>
                                 <span>LAX Airport Police Facility</span>
-                                <a href="../lax-airport-police-facility/index.html"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../lax-airport-police-facility"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>
@@ -318,7 +318,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Government + Justice project</em><b></b></h4>
                                 <span>Western County of Riverside Emergency Operations Center</span>
-                                <a href="../western-county-of-riverside-emergency-operations-center/index.html"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../western-county-of-riverside-emergency-operations-center"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>
@@ -333,7 +333,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Aviation project</em><b></b></h4>
                                 <span>P263 Broad Area Maritime Surveillance Testing and Evaluation Hangar Facility (BAMSTE)</span>
-                                <a href="../p263-broad-area-maritime-surveillance-testing-evaluation-hangar-facility-bamste/index.html"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../p263-broad-area-maritime-surveillance-testing-evaluation-hangar-facility-bamste"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>
@@ -348,7 +348,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Education project</em><b></b></h4>
                                 <span>Naval Air Station Pensacola Building 633</span>
-                                <a href="../naval-air-station-pensacola-building-633/index.html"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../naval-air-station-pensacola-building-633"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>
@@ -363,7 +363,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Government + Justice project</em><b></b></h4>
                                 <span>Pacific Highway Land Port of Entry Building Envelope Replacement</span>
-                                <a href="../pacific-highway-land-port-entry-building-envelope-replacement/index.html"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../pacific-highway-land-port-entry-building-envelope-replacement"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>

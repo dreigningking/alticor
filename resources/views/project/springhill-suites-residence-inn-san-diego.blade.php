@@ -32,7 +32,7 @@
                     <h2 style="text-align: center">About the Project</h2>
 <p style="text-align: center">This 11-story, dual-branded Marriott hotel consists of leased retail area for shops and restaurants and an above-grade structured parking. The dual-branded project consists of a 253-key SpringHill Suites select service hotel and a 147-key Residence Inn extended stay hotel.</p>
 <h3 style="text-align: center">DEVELOPMENT</h3>
-<p style="text-align: center"><a href="../../what-we-do/development/index.html">Alticor Inc Development</a>, as part of a larger long-term waterfront hotel master plan and through a long-term ground lease with the Unified Port of San Diego, co-developed the first of two projects in the BRIC development. Alticor Inc Development provided conceptualization, programming, capital raising, development management and project financing.</p>
+<p style="text-align: center"><a href="{{route('what-we-do.development')}}">Alticor Inc Development</a>, as part of a larger long-term waterfront hotel master plan and through a long-term ground lease with the Unified Port of San Diego, co-developed the first of two projects in the BRIC development. Alticor Inc Development provided conceptualization, programming, capital raising, development management and project financing.</p>
 <h3 style="text-align: center">CONSTRUCTION</h3>
 <p style="text-align: center">The hotel offers cutting-edge design with its striking yellow wall, spectacular bay and city skyline views, fifth-floor outdoor swimming pool, bayfront patio area, state-of-the-art fitness center and meeting space that can accommodate up to 225 people. The towers have a common lobby and share a common elevator bank. The two brands also share function and amenity space at the top of the podium level. The podium structure includes approximately 414 total parking spaces–29 of which are provided for public use.</p>
 
@@ -61,11 +61,11 @@
                                 </li>
                                                                 	                                <li>
                                 	<strong>Industry</strong>
-                                    <span><a href="../../industry/hospitality/index.html">Hospitality</a></span>
+                                    <span><a href="{{route('industry.hospitality')}}">Hospitality</a></span>
 								 	</li>
                                                                                                 	<li>
                                 		<strong>Line of Business</strong>
-                                    	<span><a href="../../line_of_business/construction/index.html">Construction</a>, <a href="../../line_of_business/development/index.html">Development</a></span>
+                                    	<span><a href="../../line_of_business/construction">Construction</a>, <a href="../../line_of_business/development">Development</a></span>
                                 	</li>
                                                                                                 	<li>
                                 	<strong>Delivery Method</strong>
@@ -208,7 +208,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Hospitality project</em><b></b></h4>
                                 <span>Marriott International Headquarters and Hotel</span>
-                                <a href="../marriott-international-headquarters-and-hotel/index.html"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../marriott-international-headquarters-and-hotel"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>
@@ -223,7 +223,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Hospitality project</em><b></b></h4>
                                 <span>McGregor Square</span>
-                                <a href="../mcgregor-square/index.html"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../mcgregor-square"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>
@@ -238,7 +238,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Hospitality project</em><b></b></h4>
                                 <span>Archer Hotel Tysons</span>
-                                <a href="../archer-hotel-tysons/index.html"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../archer-hotel-tysons"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>
@@ -253,7 +253,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Hospitality project</em><b></b></h4>
                                 <span>Kalahari Resort and Convention Center</span>
-                                <a href="../kalahari-resort-convention-center/index.html"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../kalahari-resort-convention-center"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>
@@ -268,7 +268,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Hospitality project</em><b></b></h4>
                                 <span>Aventura Hotel at Universal Orlando</span>
-                                <a href="../aventura-hotel-at-universal-orlando/index.html"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../aventura-hotel-at-universal-orlando"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>
@@ -283,7 +283,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Hospitality project</em><b></b></h4>
                                 <span>Hokulani Waikiki by Hilton Grand Vacations</span>
-                                <a href="../hokulani-waikiki-hilton-grand-vacations/index.html"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../hokulani-waikiki-hilton-grand-vacations"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>

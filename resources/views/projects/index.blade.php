@@ -4054,7 +4054,7 @@
 
                         <span>Columbia Place Apartments and Hotel</span>
 
-                        <a href="href="{{route('projects.columbia-place-apartments-hotel')}}"" ><i
+                        <a href="href="{{route('projects.columbia-place-apartments-hotel" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>

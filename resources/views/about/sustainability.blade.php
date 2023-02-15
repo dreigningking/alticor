@@ -29,13 +29,13 @@
                                 href="{{route('about.technology')}}">Technology</a></li>
                         <li class="page_item page-item-36"><a href="{{route('about.history')}}">History</a></li>
                         <li class="page_item page-item-876 page_item_has_children"><a
-                                href="{{route('about.community')}}"">Community</a></li>
-                        <li class="page_item page-item-879"><a href="{{route('about.news-center')}}"">News Center</a></li>
-                        <li class="page_item page-item-42"><a href="{{route('about.leadership')}}"">Leadership</a></li>
+                                href="{{route('about.community">Community</a></li>
+                        <li class="page_item page-item-879"><a href="{{route('about.news-center">News Center</a></li>
+                        <li class="page_item page-item-42"><a href="{{route('about.leadership">Leadership</a></li>
                         <li class="page_item page-item-859"><a href="{{route('about.safety')}}">Safety</a></li>
-                        <li class="page_item page-item-863"><a href="{{route('about.quality')}}"">Quality</a></li>
+                        <li class="page_item page-item-863"><a href="{{route('about.quality">Quality</a></li>
                         <li class="page_item page-item-884 page_item_has_children"><a
-                                href="{{route('about.recognition-awards')}}"">Recognition &#038; Awards</a></li>
+                                href="{{route('about.recognition-awards">Recognition &#038; Awards</a></li>
                         <li class="page_item page-item-870 current_page_item"><a href="index.html"
                                 aria-current="page">Sustainability</a></li>
                     </ul>
@@ -70,7 +70,7 @@
                     amongst our engineers.</p>
                 <h3 id="pageContent"></h3>
                 <p><strong>Sustainability and Corporate Governance</strong></p>
-                <p><a class="btn inverse" href="{{route('about.sustainability-corporate-governance')}}"">LEARN MORE</a>
+                <p><a class="btn inverse" href="{{route('about.sustainability-corporate-governance">LEARN MORE</a>
                 </p>
 
 

@@ -53,11 +53,11 @@
                                 </li>
                                                                                                 	                                <li>
                                 	<strong>Industry</strong>
-                                    <span><a href="../../industry/healthcare/index.html">Healthcare</a></span>
+                                    <span><a href="{{route('industry.healthcare')}}">Healthcare</a></span>
 								 	</li>
                                                                                                 	<li>
                                 		<strong>Line of Business</strong>
-                                    	<span><a href="../../line_of_business/construction/index.html">Construction</a></span>
+                                    	<span><a href="../../line_of_business/construction">Construction</a></span>
                                 	</li>
                                                                                                                                 	<li>
                                 	<strong>Completion Date</strong>
@@ -196,7 +196,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Healthcare project</em><b></b></h4>
                                 <span>Kaiser Permanente Riverside Medical Center Bed Tower Expansion</span>
-                                <a href="../kaiser-permanente-riverside-medical-center-bed-tower-expansion/index.html"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../kaiser-permanente-riverside-medical-center-bed-tower-expansion"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>
@@ -211,7 +211,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Healthcare project</em><b></b></h4>
                                 <span>Harbor-UCLA Medical Center Replacement Program</span>
-                                <a href="../harbor-ucla-medical-center-replacement-program/index.html"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../harbor-ucla-medical-center-replacement-program"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>
@@ -226,7 +226,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Healthcare project</em><b></b></h4>
                                 <span>City of Hope Orange County Hospital</span>
-                                <a href="../city-of-hope-orange-county-hospital/index.html"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../city-of-hope-orange-county-hospital"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>
@@ -241,7 +241,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Healthcare project</em><b></b></h4>
                                 <span>UCI Medical Center Irvine</span>
-                                <a href="../uci-medical-center-irvine/index.html"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../uci-medical-center-irvine"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>
@@ -256,7 +256,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Healthcare project</em><b></b></h4>
                                 <span>Valencia Temporary Laboratory Buildout Emergency COVID Testing Facility</span>
-                                <a href="../valencia-temporary-laboratory-buildout-emergency-covid-testing-facility/index.html"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../valencia-temporary-laboratory-buildout-emergency-covid-testing-facility"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>
@@ -271,7 +271,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Healthcare project</em><b></b></h4>
                                 <span>Texas Tech University Health Sciences Center Oral Health Clinic</span>
-                                <a href="../texas-tech-university-health-sciences-center-oral-health-clinic/index.html"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../texas-tech-university-health-sciences-center-oral-health-clinic"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>

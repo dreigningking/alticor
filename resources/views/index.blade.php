@@ -23,7 +23,7 @@
         <div class="wrapper">
             <div class="process-block clearfix">
                 <div class="col-3">
-                    <a href="what-we-do/development/index.html">
+                    <a href="what-we-do/development">
                         <h2>Plan</h2>
                     </a>
                     <p>
@@ -31,7 +31,7 @@
                         projects from every angle using a collaborative planning process that identifies efficiencies
                         and anticipates issues.</p>
                     </p>
-                    <a href="what-we-do/development/index.html"><i class="fa fa-arrow-circle-right"
+                    <a href="what-we-do/development"><i class="fa fa-arrow-circle-right"
                             aria-hidden="true"></i><span>Explore development</span></a>
                 </div>
                 <div class="col-3">
@@ -59,7 +59,7 @@
                             aria-hidden="true"></i><span>Explore facility services</span></a>
                 </div>
 
-                <div class="btn-center"><a href="what-we-do/index.html" class="btn inverse">Learn More</a></div>
+                <div class="btn-center"><a href="what-we-do" class="btn inverse">Learn More</a></div>
             </div>
         </div>
     </div>
@@ -74,7 +74,7 @@
                     hospitality Case Study
                 </h3>
                 <p>Marriott International Headquarters and Hotel...</p>
-                <a href="project/marriott-international-headquarters-and-hotel/index.html"><i
+                <a href="{{route('project.marriott-international-headquarters-and-hotel"><i
                         class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>read the case study</span></a>
             </div>
 
@@ -91,7 +91,7 @@
                 <p>National Institute of Standards and Technology Building 245 Modernization Task Orders 1 &#8211; 5...
                 </p>
                 <a
-                    href="project/national-institute-of-standards-and-technology-building-245-modernization-task-orders-1-5/index.html"><i
+                    href="{{route('project.national-institute-of-standards-and-technology-building-245-modernization-task-orders-1-5"><i
                         class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>read the case study</span></a>
             </div>
 
@@ -106,7 +106,7 @@
                     hospitality Case Study
                 </h3>
                 <p>McGregor Square...</p>
-                <a href="project/mcgregor-square/index.html"><i class="fa fa-arrow-circle-right"
+                <a href="{{route('project.mcgregor-square"><i class="fa fa-arrow-circle-right"
                         aria-hidden="true"></i><span>read the case study</span></a>
             </div>
 
@@ -149,7 +149,7 @@
 
                     <div class="post-box project">
                         <a
-                            href="the-nashville-international-airport-terminal-lobby-and-international-arrivals-facility-team-reveals-the-new-grand-lobby/index.html">
+                            href="the-nashville-international-airport-terminal-lobby-and-international-arrivals-facility-team-reveals-the-new-grand-lobby">
                             <div class="news-post-image"
                                 style="background-image: url(wp-content/uploads/2023/02/Low-Res-3-768x511.jpg')}});">
                                 <img width="311" height="225"
@@ -177,7 +177,7 @@
 
 
                     <div class="post-box career">
-                        <a href="celebrating-a-successful-career-kirk-j-hazen/index.html">
+                        <a href="celebrating-a-successful-career-kirk-j-hazen">
                             <div class="news-post-image"
                                 style="background-image: url(wp-content/uploads/2023/01/Kirk-Celebration-Post1-1024x684.jpg')}});">
                                 <img width="311" height="225"
@@ -206,7 +206,7 @@
 
                     <div class="post-box special announcement">
                         <a
-                            href="hensel-phelps-launches-diverge-a-construction-innovation-and-technology-investment-company/index.html">
+                            href="hensel-phelps-launches-diverge-a-construction-innovation-and-technology-investment-company">
                             <div class="news-post-image"
                                 style="background-image: url(wp-content/uploads/2023/01/Diverge_Article_Graphics_1200x628_v2.jpg')}});">
                                 <img width="311" height="225"
@@ -235,7 +235,7 @@
 
 
                     <div class="post-box community">
-                        <a href="construction-executive-from-the-ground-up/index.html">
+                        <a href="construction-executive-from-the-ground-up">
                             <div class="news-post-image"
                                 style="background-image: url(wp-content/uploads/2022/12/QAE_Final_04-1024x684.jpg')}});">
                                 <img width="311" height="225"
@@ -263,7 +263,7 @@
 
 
                     <div class="post-box special announcement">
-                        <a href="hensel-phelps-board-of-directors-announces-promotion-of-key-personnel/index.html">
+                        <a href="hensel-phelps-board-of-directors-announces-promotion-of-key-personnel">
                             <div class="news-post-image"
                                 style="background-image: url(wp-content/uploads/2022/12/Promotions-Justin-Starnes-Scott-Bills-Hensel-Phelps.jpg')}});">
                                 <img width="311" height="225"
@@ -291,7 +291,7 @@
 
 
                     <div class="post-box award">
-                        <a href="celebrating-winning-teams-hensel-phelps-receives-seven-dbia-awards/index.html">
+                        <a href="celebrating-winning-teams-hensel-phelps-receives-seven-dbia-awards">
                             <div class="news-post-image"
                                 style="background-image: url(wp-content/uploads/2022/12/52476878843_1029b1b227_c-768x512.jpg')}});">
                                 <img width="311" height="225"
@@ -320,7 +320,7 @@
 
                     <div class="post-box project">
                         <a
-                            href="hensel-phelps-wins-536m-uc-san-diego-ridge-walk-north-living-and-learning-neighborhood-project/index.html">
+                            href="hensel-phelps-wins-536m-uc-san-diego-ridge-walk-north-living-and-learning-neighborhood-project">
                             <div class="news-post-image"
                                 style="background-image: url(wp-content/uploads/2022/12/SM-22-30162_HNPL_UCSD_STILLS_V05_EYELEVEL_DUSK-1024x684.jpg')}});">
                                 <img width="311" height="225"
@@ -349,7 +349,7 @@
 
 
                     <div class="post-box community">
-                        <a href="hensel-phelps-celebrates-a-culture-of-giving-back/index.html">
+                        <a href="hensel-phelps-celebrates-a-culture-of-giving-back">
                             <div class="news-post-image"
                                 style="background-image: url(wp-content/uploads/2022/12/BT-December-Website-Graphics_1200x720-1024x684.jpg')}});">
                                 <img width="311" height="225"

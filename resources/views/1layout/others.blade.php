@@ -180,7 +180,7 @@
     <footer class="footer">
         <div class="wrapper">
             <div class="footer-top clearfix" style="margin-bottom: 20px;">
-                <a href="../index.html" class="footer-logo">
+                <a href=".." class="footer-logo">
                     <img src="{{asset('wp-content/themes/henselphelps/img/footer-logo.png')}}" alt="">
                 </a>
                 <div class="social-links">
@@ -223,7 +223,7 @@
                                 href="{{route('projects.index')}}">Projects</a></li>
                         <li id="menu-item-116"
                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-116"><a
-                                href="../what-we-do/index.html">What We Do</a></li>
+                                href="../what-we-do">What We Do</a></li>
                         <li id="menu-item-105"
                             class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-16 current_page_item menu-item-105">
                             <a href="index.html" aria-current="page">Careers</a>
@@ -236,7 +236,7 @@
                                 href="{{route('trade-partners')}}">Trade Partners</a></li>
                         <li id="menu-item-5227"
                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5227"><a
-                                href="../sustainability-corporate-governance/index.html">Sustainability and Corporate
+                                href="../sustainability-corporate-governance">Sustainability and Corporate
                                 Governance</a></li>
                         <li id="menu-item-113"
                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113"><a

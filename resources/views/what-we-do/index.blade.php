@@ -59,7 +59,7 @@
                         beyond.</p>
                     </p>
 
-                    <a href="development/index.html')}}" ><i class="fa fa-arrow-circle-right"
+                    <a href="development/"><i class="fa fa-arrow-circle-right"
                             aria-hidden="true"></i><span>Learn More</span></a>
 
                 </div>
@@ -92,7 +92,7 @@
                         craftsmanship to create landmark buildings for our clients.</p>
                     </p>
 
-                    <a href="construction/index.html')}}" ><i class="fa fa-arrow-circle-right"
+                    <a href="construction/"><i class="fa fa-arrow-circle-right"
                             aria-hidden="true"></i><span>Learn More</span></a>
 
                 </div>
@@ -125,7 +125,7 @@
                         constantly shifting environment.</p>
                     </p>
 
-                    <a href="facility-services/index.html')}}" ><i class="fa fa-arrow-circle-right"
+                    <a href="facility-services/"><i class="fa fa-arrow-circle-right"
                             aria-hidden="true"></i><span>Learn More</span></a>
 
                 </div>
@@ -170,12 +170,12 @@
 
                     <div class="col-4 activate">
 
-                        <div class="opportunies-box"><a href="../the-hensel-phelps-way/safety/index.html')}}" ><img
+                        <div class="opportunies-box"><a href="../the-hensel-phelps-way/safety/"><img
                                     src="{{asset('wp-content/uploads/2017/02/image1.jpg')}}"></a>
 
                             <div class="opportunies-title">
 
-                                <span><a href="../the-hensel-phelps-way/safety/index.html')}}" >Safety</a></span>
+                                <span><a href="../the-hensel-phelps-way/safety/">Safety</a></span>
 
                                 <em></em>
 
@@ -183,12 +183,12 @@
 
                             <div class="opportunies-overlay">
                                 <div class="overlay-title">
-                                    <span><a href="../the-hensel-phelps-way/safety/index.html')}}" >Safety</a></span>
+                                    <span><a href="../the-hensel-phelps-way/safety/">Safety</a></span>
                                     <em></em>
                                 </div>
                                 <p>Our Zero Accident Safety Culture is firmly ingrained throughout our organization, and
                                     fully present on every project we deliver. </p>
-                                <a href="../the-hensel-phelps-way/safety/index.html')}}" ><i
+                                <a href="../the-hensel-phelps-way/safety/"><i
                                         class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
                                         More</span></a>
                             </div>
@@ -201,12 +201,12 @@
 
                     <div class="col-4 activate">
 
-                        <div class="opportunies-box"><a href="../the-hensel-phelps-way/quality/index.html')}}" ><img
+                        <div class="opportunies-box"><a href="../the-hensel-phelps-way/quality/"><img
                                     src="{{asset('wp-content/uploads/2017/02/quality-1.jpg')}}"></a>
 
                             <div class="opportunies-title">
 
-                                <span><a href="../the-hensel-phelps-way/quality/index.html')}}" >Quality</a></span>
+                                <span><a href="../the-hensel-phelps-way/quality/">Quality</a></span>
 
                                 <em></em>
 
@@ -214,12 +214,12 @@
 
                             <div class="opportunies-overlay">
                                 <div class="overlay-title">
-                                    <span><a href="../the-hensel-phelps-way/quality/index.html')}}" >Quality</a></span>
+                                    <span><a href="../the-hensel-phelps-way/quality/">Quality</a></span>
                                     <em></em>
                                 </div>
                                 <p>We hold the highest standard for quality, and implement a comprehensive Six-Step
                                     Quality Control (QC) program.</p>
-                                <a href="../the-hensel-phelps-way/quality/index.html')}}" ><i
+                                <a href="../the-hensel-phelps-way/quality/"><i
                                         class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
                                         More</span></a>
                             </div>
@@ -233,13 +233,13 @@
                     <div class="col-4 activate">
 
                         <div class="opportunies-box"><a
-                                href="../the-hensel-phelps-way/sustainability/index.html')}}" ><img
+                                href="../the-hensel-phelps-way/sustainability/"><img
                                     src="{{asset('wp-content/uploads/2017/02/sustain-1.jpg')}}"></a>
 
                             <div class="opportunies-title">
 
                                 <span><a
-                                        href="../the-hensel-phelps-way/sustainability/index.html')}}" >Sustainability</a></span>
+                                        href="../the-hensel-phelps-way/sustainability/">Sustainability</a></span>
 
                                 <em></em>
 
@@ -248,12 +248,12 @@
                             <div class="opportunies-overlay">
                                 <div class="overlay-title">
                                     <span><a
-                                            href="../the-hensel-phelps-way/sustainability/index.html')}}" >Sustainability</a></span>
+                                            href="../the-hensel-phelps-way/sustainability/">Sustainability</a></span>
                                     <em></em>
                                 </div>
                                 <p>We have delivered more than 200+ LEED certified projects and are committed to the
                                     continued growth of sustainable building practices in our industry.</p>
-                                <a href="../the-hensel-phelps-way/sustainability/index.html')}}" ><i
+                                <a href="../the-hensel-phelps-way/sustainability/"><i
                                         class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
                                         More</span></a>
                             </div>
@@ -267,13 +267,13 @@
                     <div class="col-4 activate">
 
                         <div class="opportunies-box"><a
-                                href="../the-hensel-phelps-way/technology/vdc/index.html')}}" ><img
+                                href="../the-hensel-phelps-way/technology/vdc/"><img
                                     src="{{asset('wp-content/uploads/2017/02/technology.jpg')}}"></a>
 
                             <div class="opportunies-title">
 
                                 <span><a
-                                        href="../the-hensel-phelps-way/technology/vdc/index.html')}}" >Technology</a></span>
+                                        href="../the-hensel-phelps-way/technology/vdc/">Technology</a></span>
 
                                 <em></em>
 
@@ -282,12 +282,12 @@
                             <div class="opportunies-overlay">
                                 <div class="overlay-title">
                                     <span><a
-                                            href="../the-hensel-phelps-way/technology/vdc/index.html')}}" >Technology</a></span>
+                                            href="../the-hensel-phelps-way/technology/vdc/">Technology</a></span>
                                     <em></em>
                                 </div>
                                 <p>We utilize advanced data capture and processing techniques to improve communications
                                     and leverage technology in the workplace.</p>
-                                <a href="../the-hensel-phelps-way/technology/vdc/index.html')}}" ><i
+                                <a href="../the-hensel-phelps-way/technology/vdc/"><i
                                         class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
                                         More</span></a>
                             </div>
