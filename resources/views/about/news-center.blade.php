@@ -35,7 +35,7 @@
                 <div class="category-filter">
                     <div class="post-box project">
                         <a
-                            href="{{route('about.the-nashville-international-airport-terminal-lobby-and-international-arrivals-facility-team-reveals-the-new-grand-lobby">
+                            href="{{route('about.the-nashville-international-airport-terminal-lobby-and-international-arrivals-facility-team-reveals-the-new-grand-lobby')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2023/02/Low-Res-3-768x511.jpg') }});">
                                 <img width="311" height="225"
@@ -59,7 +59,7 @@
                         </a>
                     </div>
                     <div class="post-box career">
-                        <a href="{{route('about.celebrating-a-successful-career-kirk-j-hazen">
+                        <a href="{{route('about.celebrating-a-successful-career-kirk-j-hazen')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2023/01/Kirk-Celebration-Post1-1024x684.jpg') }});">
                                 <img width="311" height="225"
@@ -84,7 +84,7 @@
                     </div>
                     <div class="post-box special announcement">
                         <a
-                            href="{{route('about.hensel-phelps-launches-diverge-a-construction-innovation-and-technology-investment-company">
+                            href="{{route('about.hensel-phelps-launches-diverge-a-construction-innovation-and-technology-investment-company')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2023/01/Diverge_Article_Graphics_1200x628_v2.jpg') }});">
                                 <img width="311" height="225"
@@ -109,7 +109,7 @@
                         </a>
                     </div>
                     <div class="post-box community">
-                        <a href="{{route('about.construction-executive-from-the-ground-up">
+                        <a href="{{route('about.construction-executive-from-the-ground-up')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2022/12/QAE_Final_04-1024x684.jpg') }});">
                                 <img width="311" height="225"
@@ -134,7 +134,7 @@
                     </div>
                     <div class="post-box special announcement">
                         <a
-                            href="{{route('about.hensel-phelps-board-of-directors-announces-promotion-of-key-personnel">
+                            href="{{route('about.hensel-phelps-board-of-directors-announces-promotion-of-key-personnel')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2022/12/Promotions-Justin-Starnes-Scott-Bills-Hensel-Phelps.jpg') }});">
                                 <img width="311" height="225"
@@ -158,7 +158,7 @@
                         </a>
                     </div>
                     <div class="post-box award">
-                        <a href="{{route('about.celebrating-winning-teams-hensel-phelps-receives-seven-dbia-awards">
+                        <a href="{{route('about.celebrating-winning-teams-hensel-phelps-receives-seven-dbia-awards')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2022/12/52476878843_1029b1b227_c-768x512.jpg') }});">
                                 <img width="311" height="225"
@@ -183,7 +183,7 @@
                     </div>
                     <div class="post-box project">
                         <a
-                            href="{{route('about.hensel-phelps-wins-536m-uc-san-diego-ridge-walk-north-living-and-learning-neighborhood-project">
+                            href="{{route('about.hensel-phelps-wins-536m-uc-san-diego-ridge-walk-north-living-and-learning-neighborhood-project')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2022/12/SM-22-30162_HNPL_UCSD_STILLS_V05_EYELEVEL_DUSK-1024x684.jpg') }});">
                                 <img width="311" height="225"
@@ -208,7 +208,7 @@
                         </a>
                     </div>
                     <div class="post-box community">
-                        <a href="{{route('about.hensel-phelps-celebrates-a-culture-of-giving-back">
+                        <a href="{{route('about.hensel-phelps-celebrates-a-culture-of-giving-back')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2022/12/BT-December-Website-Graphics_1200x720-1024x684.jpg') }});">
                                 <img width="311" height="225"
@@ -233,7 +233,7 @@
                     </div>
                     <div class="post-box project">
                         <a
-                            href="{{route('about.hensel-phelps-celebrates-national-institutes-of-health-nih-temporary-facility-ribbon-cutting">
+                            href="{{route('about.hensel-phelps-celebrates-national-institutes-of-health-nih-temporary-facility-ribbon-cutting')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2020/12/Untitled-2-01-1024x684.jpg') }});">
                                 <img width="311" height="225"
@@ -258,7 +258,7 @@
                         </a>
                     </div>
                     <div class="post-box community">
-                        <a href="{{route('about.pacific-northwest-hosts-4th-annual-veterans-day-event">
+                        <a href="{{route('about.pacific-northwest-hosts-4th-annual-veterans-day-event')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2022/11/DSC_0554-1-768x512.jpg') }});">
                                 <img width="311" height="225"
@@ -283,7 +283,7 @@
                         </a>
                     </div>
                     <div class="post-box project">
-                        <a href="{{route('about.southwest-airlines-phx-tech-ops-final-pick-topping-out">
+                        <a href="{{route('about.southwest-airlines-phx-tech-ops-final-pick-topping-out')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2022/11/HP-Team-Picture2-1024x684.jpg') }});">
                                 <img width="311" height="225"
@@ -307,7 +307,7 @@
                         </a>
                     </div>
                     <div class="post-box technology">
-                        <a href="{{route('about.fawcett-elementary-school-becomes-a-vdc-playground">
+                        <a href="{{route('about.fawcett-elementary-school-becomes-a-vdc-playground')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2022/11/DSC_0121_medium-768x512.jpg') }});">
                                 <img width="311" height="225"
@@ -332,7 +332,7 @@
                     </div>
                     <div class="post-box award">
                         <a
-                            href="{{route('about.hensel-phelps-wins-project-of-the-year-and-two-eagle-awards-at-abc-central-florida-excellence-in-construction-award-ceremony">
+                            href="{{route('about.hensel-phelps-wins-project-of-the-year-and-two-eagle-awards-at-abc-central-florida-excellence-in-construction-award-ceremony')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2022/10/2022-ABC-EIC-Awards-2-scaled-e1667243855280-1024x684.jpg') }});">
                                 <img width="311" height="225"
@@ -357,7 +357,7 @@
                         </a>
                     </div>
                     <div class="post-box community">
-                        <a href="{{route('about.hensel-phelps-recognizes-and-supports-awareness-for-mens-health">
+                        <a href="{{route('about.hensel-phelps-recognizes-and-supports-awareness-for-mens-health')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2022/10/Article-1024x684.jpg') }});">
                                 <img width="311" height="225"
@@ -382,7 +382,7 @@
                     </div>
                     <div class="post-box community">
                         <a
-                            href="{{route('about.invested-in-womens-health-hensel-phelps-supports-the-fight-against-cancer">
+                            href="{{route('about.invested-in-womens-health-hensel-phelps-supports-the-fight-against-cancer')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2022/10/1705_UCI-Anti-Cancer_OUT_v1_002-1024x684.jpg') }});">
                                 <img width="311" height="225"
@@ -407,7 +407,7 @@
                     </div>
                     <div class="post-box award">
                         <a
-                            href="{{route('about.a-lifetime-of-delivering-excellence-greg-gidez-recognized-with-dbia-lifetime-achievement-award">
+                            href="{{route('about.a-lifetime-of-delivering-excellence-greg-gidez-recognized-with-dbia-lifetime-achievement-award')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2022/10/Greg-Gidez-Lifetime-Achievement-Award_1200x628-02.jpg') }});">
                                 <img width="311" height="225"
@@ -432,7 +432,7 @@
                         </a>
                     </div>
                     <div class="post-box community">
-                        <a href="{{route('about.hensel-phelps-is-proud-to-support-construction-inclusion-week">
+                        <a href="{{route('about.hensel-phelps-is-proud-to-support-construction-inclusion-week')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2022/10/Construction-Inclusion-Web-Banner_1200x628.jpg') }});">
                                 <img width="311" height="225"
@@ -456,7 +456,7 @@
                         </a>
                     </div>
                     <div class="post-box community">
-                        <a href="{{route('about.hensel-phelps-recognizes-and-supports-womens-health">
+                        <a href="{{route('about.hensel-phelps-recognizes-and-supports-womens-health')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2022/09/Article-Graphic-1024x684.jpg') }});">
                                 <img width="311" height="225"
@@ -481,7 +481,7 @@
                     </div>
                     <div class="post-box event">
                         <a
-                            href="{{route('about.hensel-phelps-celebrates-trade-partners-at-inaugural-trade-partner-appreciation-awards-luncheon">
+                            href="{{route('about.hensel-phelps-celebrates-trade-partners-at-inaugural-trade-partner-appreciation-awards-luncheon')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2022/09/HP_2022_AwardsLuncheon-3-768x512.jpg') }});">
                                 <img width="311" height="225"
@@ -506,7 +506,7 @@
                     </div>
                     <div class="post-box award">
                         <a
-                            href="{{route('about.orlando-sentinel-names-hensel-phelps-a-2022-central-florida-top-workplace-for-the-7th-year-in-a-row">
+                            href="{{route('about.orlando-sentinel-names-hensel-phelps-a-2022-central-florida-top-workplace-for-the-7th-year-in-a-row')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2022/09/Banner2-768x512.jpg') }});">
                                 <img width="311" height="225"
@@ -531,7 +531,7 @@
                     </div>
                     <div class="post-box community">
                         <a
-                            href="{{route('about.ace-mentor-program-of-americas-third-annual-day-of-action-focuses-on-mentorship-in-the-community">
+                            href="{{route('about.ace-mentor-program-of-americas-third-annual-day-of-action-focuses-on-mentorship-in-the-community')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2022/09/For-the-third-consecutive-year-Hensel-Phelps-celebrates-the-ACE-Mentor-Program-of-Americas-annual-Day-of-Action..png') }});">
                                 <img width="311" height="225"
@@ -556,7 +556,7 @@
                     </div>
                     <div class="post-box community">
                         <a
-                            href="{{route('about.the-family-behind-the-small-business-celsue-construction-services-inc">
+                            href="{{route('about.the-family-behind-the-small-business-celsue-construction-services-inc')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2022/09/Building-Together-Graphics_Green-and-Yellow_Fam-Behind-Biz-Article-and-Social-1024x684.jpg') }});">
                                 <img width="311" height="225"
@@ -581,7 +581,7 @@
                     </div>
                     <div class="post-box project">
                         <a
-                            href="{{route('about.hensel-phelps-breaks-ground-on-the-wellington-water-treatment-plant-expansion">
+                            href="{{route('about.hensel-phelps-breaks-ground-on-the-wellington-water-treatment-plant-expansion')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2022/09/Wellington-Ground-Breaking-1024x684.jpg') }});">
                                 <img width="311" height="225"
@@ -607,7 +607,7 @@
                     </div>
                     <div class="post-box project">
                         <a
-                            href="{{route('about.hensel-phelps-awarded-the-integrated-capabilities-office-ico-at-cape-canaveral-space-force-station-florida">
+                            href="{{route('about.hensel-phelps-awarded-the-integrated-capabilities-office-ico-at-cape-canaveral-space-force-station-florida')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2022/09/Project-Win-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -632,7 +632,7 @@
                     </div>
                     <div class="post-box award">
                         <a
-                            href="{{route('about.enr-southeast-announces-best-project-awards-hensel-phelps-recognized-for-multiple-projects">
+                            href="{{route('about.enr-southeast-announces-best-project-awards-hensel-phelps-recognized-for-multiple-projects')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2022/09/Untitled-1-480x320.png') }});">
                                 <img width="311" height="225"
@@ -656,7 +656,7 @@
                         </a>
                     </div>
                     <div class="post-box community">
-                        <a href="{{route('about.hensel-phelps-celebrates-small-businesses-trade-partnership">
+                        <a href="{{route('about.hensel-phelps-celebrates-small-businesses-trade-partnership')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2022/09/Overview-Article-Image-480x320.png') }});">
                                 <img width="311" height="225"
@@ -680,7 +680,7 @@
                         </a>
                     </div>
                     <div class="post-box community">
-                        <a href="{{route('about.hensel-phelps-culture-of-care">
+                        <a href="{{route('about.hensel-phelps-culture-of-care')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2022/08/AdobeStock_351221115-scaled-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -705,7 +705,7 @@
                     </div>
                     <div class="post-box award">
                         <a
-                            href="{{route('about.tampa-international-airports-blue-express-curbside-expansion-project-wins-fdot-2022-commercial-service-airport-project-of-the-year">
+                            href="{{route('about.tampa-international-airports-blue-express-curbside-expansion-project-wins-fdot-2022-commercial-service-airport-project-of-the-year')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2022/08/HP-TPA-International-Finals-18-scaled-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -729,7 +729,7 @@
                         </a>
                     </div>
                     <div class="post-box award">
-                        <a href="{{route('about.enr-southeast-recognizes-two-hensel-phelps-project-managers">
+                        <a href="{{route('about.enr-southeast-recognizes-two-hensel-phelps-project-managers')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2022/08/FB-and-LI-Graphic-480x320.png') }});">
                                 <img width="311" height="225"
@@ -754,7 +754,7 @@
                     </div>
                     <div class="post-box project">
                         <a
-                            href="{{route('about.hensel-phelps-continues-to-hit-the-high-notes-at-the-nashville-international-airport">
+                            href="{{route('about.hensel-phelps-continues-to-hit-the-high-notes-at-the-nashville-international-airport')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2022/08/BNA-Exterior-Reduced-480x320.png') }});">
                                 <img width="311" height="225"
@@ -778,7 +778,7 @@
                         </a>
                     </div>
                     <div class="post-box community">
-                        <a href="{{route('about.hensel-phelps-supports-ace-mentor-program">
+                        <a href="{{route('about.hensel-phelps-supports-ace-mentor-program')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2020/08/Mike-Choutka-Speaking-to-ACE-Students-2020_01_15-resized-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -802,7 +802,7 @@
                         </a>
                     </div>
                     <div class="post-box community">
-                        <a href="{{route('about.hensel-phelps-celebrates-national-health-wellness-month">
+                        <a href="{{route('about.hensel-phelps-celebrates-national-health-wellness-month')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2022/07/BT-August-Website-2-1200x720-1-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -826,7 +826,7 @@
                         </a>
                     </div>
                     <div class="post-box community">
-                        <a href="{{route('about.hensel-phelps-cultural-cuisine-cookbook">
+                        <a href="{{route('about.hensel-phelps-cultural-cuisine-cookbook')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2022/07/MicrosoftTeams-image-8-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -850,7 +850,7 @@
                         </a>
                     </div>
                     <div class="post-box community">
-                        <a href="{{route('about.get-to-know-guam-and-its-diverse-culture">
+                        <a href="{{route('about.get-to-know-guam-and-its-diverse-culture')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2022/07/J-011-Team-Flags-scaled-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -874,7 +874,7 @@
                         </a>
                     </div>
                     <div class="post-box community">
-                        <a href="{{route('about.hensel-phelps-celebrates-cultures-across-the-company">
+                        <a href="{{route('about.hensel-phelps-celebrates-cultures-across-the-company')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2022/06/BT-July-Website-Graphics-02_1200x720-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -898,7 +898,7 @@
                         </a>
                     </div>
                     <div class="post-box community">
-                        <a href="{{route('about.hensel-phelps-respectful-workplace-series-builds-strong-allies">
+                        <a href="{{route('about.hensel-phelps-respectful-workplace-series-builds-strong-allies')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2022/06/HP-Onsite-Austin-123-scaled-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -922,7 +922,7 @@
                         </a>
                     </div>
                     <div class="post-box community">
-                        <a href="{{route('about.hensel-phelps-honors-juneteenth">
+                        <a href="{{route('about.hensel-phelps-honors-juneteenth')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2022/06/20852712-Juneteenth-Mural-Galveston-2-65ad46-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -947,7 +947,7 @@
                     </div>
                     <div class="post-box event">
                         <a
-                            href="{{route('about.fort-lauderdale-aquatic-center-debuts-27-meter-dive-tower-with-professional-divers-from-red-bull-cliff-diving-and-usa-diving">
+                            href="{{route('about.fort-lauderdale-aquatic-center-debuts-27-meter-dive-tower-with-professional-divers-from-red-bull-cliff-diving-and-usa-diving')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2022/06/IMG_1224_reduced-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -972,7 +972,7 @@
                     </div>
                     <div class="post-box award">
                         <a
-                            href="{{route('about.orlando-business-journal-names-timothy-queely-a-2022-40-under-40-honoree">
+                            href="{{route('about.orlando-business-journal-names-timothy-queely-a-2022-40-under-40-honoree')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2022/05/1-scaled-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -997,7 +997,7 @@
                         </a>
                     </div>
                     <div class="post-box project">
-                        <a href="{{route('about.the-history-behind-hensel-phelps-harvey-milk-terminal-project">
+                        <a href="{{route('about.the-history-behind-hensel-phelps-harvey-milk-terminal-project')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2022/06/01_SFO-TI_Jason-ORear_lo-res-scaled-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -1021,7 +1021,7 @@
                         </a>
                     </div>
                     <div class="post-box community">
-                        <a href="{{route('about.hensel-phelps-celebrates-lgbtq-pride-month">
+                        <a href="{{route('about.hensel-phelps-celebrates-lgbtq-pride-month')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2022/05/MicrosoftTeams-image-23-480x320.png') }});">
                                 <img width="311" height="225"
@@ -1046,7 +1046,7 @@
                     </div>
                     <div class="post-box career">
                         <a
-                            href="{{route('about.hensel-phelps-veterans-network-vnet-works-to-support-hire-and-connect-the-veteran-community">
+                            href="{{route('about.hensel-phelps-veterans-network-vnet-works-to-support-hire-and-connect-the-veteran-community')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2022/05/NorCal-VNET-Lunch-1-scaled-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -1071,7 +1071,7 @@
                     </div>
                     <div class="post-box project">
                         <a
-                            href="{{route('about.hensel-phelps-awarded-zone-1-f-35-flightline-facilities-at-tyndall-air-force-base-florida">
+                            href="{{route('about.hensel-phelps-awarded-zone-1-f-35-flightline-facilities-at-tyndall-air-force-base-florida')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2022/05/Renderings-Combined-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -1095,7 +1095,7 @@
                         </a>
                     </div>
                     <div class="post-box career">
-                        <a href="{{route('about.a-lifetime-dedicated-to-service-always-in-uniform">
+                        <a href="{{route('about.a-lifetime-dedicated-to-service-always-in-uniform')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2022/05/Picture1-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -1119,7 +1119,7 @@
                         </a>
                     </div>
                     <div class="post-box special announcement">
-                        <a href="{{route('about.hensel-phelps-celebrates-military-appreciation-month">
+                        <a href="{{route('about.hensel-phelps-celebrates-military-appreciation-month')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2022/05/Military-Apprec-Overview-Article-Image.jpg') }});">
                                 <img width="311" height="225"
@@ -1144,7 +1144,7 @@
                     </div>
                     <div class="post-box award">
                         <a
-                            href="{{route('about.hensel-phelps-awarded-the-2022-dwight-d-eisenhower-award-for-excellence">
+                            href="{{route('about.hensel-phelps-awarded-the-2022-dwight-d-eisenhower-award-for-excellence')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2022/05/2022-SBA-Eisenhower-Award-1.jpg') }});">
                                 <img width="311" height="225"
@@ -1169,7 +1169,7 @@
                     </div>
                     <div class="post-box special announcement">
                         <a
-                            href="{{route('about.hensel-phelps-celebrates-another-year-of-being-connected-supported-safe">
+                            href="{{route('about.hensel-phelps-celebrates-another-year-of-being-connected-supported-safe')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2022/05/DSC1444-1024x683.jpg') }});">
                                 <img width="311" height="225"
@@ -1194,7 +1194,7 @@
                         </a>
                     </div>
                     <div class="post-box special announcement">
-                        <a href="{{route('about.a-history-of-success-with-small-business-partnerships">
+                        <a href="{{route('about.a-history-of-success-with-small-business-partnerships')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2022/04/SBW-Article-Image-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -1219,7 +1219,7 @@
                     </div>
                     <div class="post-box community">
                         <a
-                            href="{{route('about.hensel-phelps-and-path-continue-partnership-through-the-employment-opportunity-program">
+                            href="{{route('about.hensel-phelps-and-path-continue-partnership-through-the-employment-opportunity-program')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2022/04/Employment-Opportunity-Program-Website-05.jpg') }});">
                                 <img width="311" height="225"
@@ -1243,7 +1243,7 @@
                         </a>
                     </div>
                     <div class="post-box award">
-                        <a href="{{route('about.hensel-phelps-wins-multiple-awards-for-diversity-and-inclusion">
+                        <a href="{{route('about.hensel-phelps-wins-multiple-awards-for-diversity-and-inclusion')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2022/03/51953843222_31a1ec8ed8_o-scaled-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -1268,7 +1268,7 @@
                     </div>
                     <div class="post-box community">
                         <a
-                            href="{{route('about.building-together-celebrating-diversity-equity-inclusion-and-community">
+                            href="{{route('about.building-together-celebrating-diversity-equity-inclusion-and-community')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2022/04/DSC6454-scaled-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -1293,7 +1293,7 @@
                     </div>
                     <div class="post-box project">
                         <a
-                            href="{{route('about.hensel-phelps-delivers-1-3-million-square-foot-marriott-international-headquarters-and-hotel">
+                            href="{{route('about.hensel-phelps-delivers-1-3-million-square-foot-marriott-international-headquarters-and-hotel')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2022/03/Untitled-3-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -1319,7 +1319,7 @@
                     </div>
                     <div class="post-box project">
                         <a
-                            href="{{route('about.design-build-team-hensel-phelps-hmc-architects-co-architects-to-deliver-upgrade-of-harbor-ucla-medical-center">
+                            href="{{route('about.design-build-team-hensel-phelps-hmc-architects-co-architects-to-deliver-upgrade-of-harbor-ucla-medical-center')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2022/03/Twitter_v02-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -1344,7 +1344,7 @@
                     </div>
                     <div class="post-box technology">
                         <a
-                            href="{{route('about.virtual-design-construction-on-the-bellvue-water-treatment-plant-package-b-project-and-beyond">
+                            href="{{route('about.virtual-design-construction-on-the-bellvue-water-treatment-plant-package-b-project-and-beyond')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2022/03/Model-6_smcropped-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -1370,7 +1370,7 @@
                         </a>
                     </div>
                     <div class="post-box career">
-                        <a href="{{route('about.women-in-construction-insight-from-hensel-phelps-rising-leaders">
+                        <a href="{{route('about.women-in-construction-insight-from-hensel-phelps-rising-leaders')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2022/03/BRAND-WIC-AD-Layouts-05-1-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -1394,7 +1394,7 @@
                         </a>
                     </div>
                     <div class="post-box special announcement">
-                        <a href="{{route('about.building-together-womens-history-month">
+                        <a href="{{route('about.building-together-womens-history-month')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2022/02/DSC6479-2-scaled-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -1419,7 +1419,7 @@
                     </div>
                     <div class="post-box project">
                         <a
-                            href="{{route('about.meta-formerly-the-facebook-company-awards-hensel-phelps-kuna-data-center">
+                            href="{{route('about.meta-formerly-the-facebook-company-awards-hensel-phelps-kuna-data-center')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2022/02/Meta1-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -1443,7 +1443,7 @@
                         </a>
                     </div>
                     <div class="post-box career">
-                        <a href="{{route('about.building-together-joel-kelley-iii">
+                        <a href="{{route('about.building-together-joel-kelley-iii')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2022/01/MicrosoftTeams-image-42-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -1468,7 +1468,7 @@
                         </a>
                     </div>
                     <div class="post-box community">
-                        <a href="{{route('about.building-together-city-group-solutions">
+                        <a href="{{route('about.building-together-city-group-solutions')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2022/02/NSAT-0034-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -1493,7 +1493,7 @@
                         </a>
                     </div>
                     <div class="post-box community">
-                        <a href="{{route('about.building-together-cloteal-haynes">
+                        <a href="{{route('about.building-together-cloteal-haynes')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2022/01/Cloteal-Haynes-Trade-Partner-Spotlight-04-480x320.png') }});">
                                 <img width="311" height="225"
@@ -1518,7 +1518,7 @@
                     </div>
                     <div class="post-box project">
                         <a
-                            href="{{route('about.ensuring-predictability-on-research-laboratory-projects-from-preconstruction-through-commissioning">
+                            href="{{route('about.ensuring-predictability-on-research-laboratory-projects-from-preconstruction-through-commissioning')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2022/01/2020_11_12_T_ZGFnist01_A-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -1542,7 +1542,7 @@
                         </a>
                     </div>
                     <div class="post-box special announcement">
-                        <a href="{{route('about.building-together-black-history-month">
+                        <a href="{{route('about.building-together-black-history-month')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2022/01/Screen-Shot-2022-01-28-at-12.52.47-PM-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -1566,7 +1566,7 @@
                         </a>
                     </div>
                     <div class="post-box community">
-                        <a href="{{route('about.every-blood-drive-donor-is-a-life-saver">
+                        <a href="{{route('about.every-blood-drive-donor-is-a-life-saver')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2022/01/IMG-6060-1-scaled-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -1591,7 +1591,7 @@
                     </div>
                     <div class="post-box project">
                         <a
-                            href="{{route('about.national-institutes-of-health-awards-hensel-phelps-research-and-laboratory-projects-in-maryland-and-montana">
+                            href="{{route('about.national-institutes-of-health-awards-hensel-phelps-research-and-laboratory-projects-in-maryland-and-montana')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2022/01/NIH-Building-40A-Rendering-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -1617,7 +1617,7 @@
                         </a>
                     </div>
                     <div class="post-box special announcement">
-                        <a href="{{route('about.building-together-a-culture-of-diversity-and-inclusion">
+                        <a href="{{route('about.building-together-a-culture-of-diversity-and-inclusion')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2022/01/MicrosoftTeams-image-37-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -1642,7 +1642,7 @@
                     </div>
                     <div class="post-box project">
                         <a
-                            href="{{route('about.hensel-phelps-awarded-the-chamonix-casino-hotel-project-in-cripple-creek-colorado">
+                            href="{{route('about.hensel-phelps-awarded-the-chamonix-casino-hotel-project-in-cripple-creek-colorado')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2021/12/Chamonix-Casino-Hotel_CannonDesignRendering-1-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -1667,7 +1667,7 @@
                     </div>
                     <div class="post-box project">
                         <a
-                            href="{{route('about.hensel-phelps-turns-over-the-lockheed-martin-missile-assembly-building-4">
+                            href="{{route('about.hensel-phelps-turns-over-the-lockheed-martin-missile-assembly-building-4')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2021/12/Reduced-1-480x320.png') }});">
                                 <img width="311" height="225"
@@ -1692,7 +1692,7 @@
                     </div>
                     <div class="post-box project">
                         <a
-                            href="{{route('about.hensel-phelps-pacific-northwest-region-successfully-places-large-pedestrian-bridge-in-the-heart-of-downtown-puyallup-washington">
+                            href="{{route('about.hensel-phelps-pacific-northwest-region-successfully-places-large-pedestrian-bridge-in-the-heart-of-downtown-puyallup-washington')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2021/11/Puyallup-Bridge-Installation-2-2-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -1717,7 +1717,7 @@
                     </div>
                     <div class="post-box award">
                         <a
-                            href="{{route('about.foreign-affairs-security-training-center-brings-home-11-industry-awards">
+                            href="{{route('about.foreign-affairs-security-training-center-brings-home-11-industry-awards')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2021/10/Aerial4_Reduced-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -1742,7 +1742,7 @@
                     </div>
                     <div class="post-box award">
                         <a
-                            href="{{route('about.trusted-partnerships-along-with-adaptive-and-inspired-solutions-lead-to-four-dbia-western-pacific-region-awards">
+                            href="{{route('about.trusted-partnerships-along-with-adaptive-and-inspired-solutions-lead-to-four-dbia-western-pacific-region-awards')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2021/10/Caltech-Chen-Neuroscience-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -1766,7 +1766,7 @@
                         </a>
                     </div>
                     <div class="post-box award">
-                        <a href="{{route('about.hensel-phelps-ranked-8-in-top-workplaces-in-central-florida">
+                        <a href="{{route('about.hensel-phelps-ranked-8-in-top-workplaces-in-central-florida')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2021/10/Orlando-Sentinel-Photo_resize-480x320.png') }});">
                                 <img width="311" height="225"
@@ -1791,7 +1791,7 @@
                     </div>
                     <div class="post-box event">
                         <a
-                            href="{{route('about.upcoming-webinar-how-to-do-business-with-hensel-phelps-ii-a-five-phase-approach-to-diverse-business-inclusion-and-enhancement">
+                            href="{{route('about.upcoming-webinar-how-to-do-business-with-hensel-phelps-ii-a-five-phase-approach-to-diverse-business-inclusion-and-enhancement')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2021/09/Supplier-Diversity-Webinar-scaled-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -1816,7 +1816,7 @@
                     </div>
                     <div class="post-box community">
                         <a
-                            href="{{route('about.small-business-mentorship-on-the-baltimore-washington-international-bwi-thurgood-marshall-airport-concourse-a-5-gate-extension">
+                            href="{{route('about.small-business-mentorship-on-the-baltimore-washington-international-bwi-thurgood-marshall-airport-concourse-a-5-gate-extension')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2021/09/BWI-article-photo1-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -1841,7 +1841,7 @@
                     </div>
                     <div class="post-box community">
                         <a
-                            href="{{route('about.ace-mentor-program-of-america-day-of-action-draws-attention-to-the-importance-of-mentoring">
+                            href="{{route('about.ace-mentor-program-of-america-day-of-action-draws-attention-to-the-importance-of-mentoring')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2021/09/IMG_2269-scaled-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -1866,7 +1866,7 @@
                     </div>
                     <div class="post-box special announcement">
                         <a
-                            href="{{route('about.hensel-phelps-joins-sba-in-celebrating-resilience-and-renewal-during-national-small-business-week">
+                            href="{{route('about.hensel-phelps-joins-sba-in-celebrating-resilience-and-renewal-during-national-small-business-week')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2021/09/HenselPhelps-Small-Business-Week-2021-scaled-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -1890,7 +1890,7 @@
                         </a>
                     </div>
                     <div class="post-box career">
-                        <a href="{{route('about.hensel-phelps-craft-industrial-athletes">
+                        <a href="{{route('about.hensel-phelps-craft-industrial-athletes')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2021/08/Hensel-Phelps-Craft-Industrial-Athletes_72-1-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -1915,7 +1915,7 @@
                     </div>
                     <div class="post-box award">
                         <a
-                            href="{{route('about.forward-thinking-innovative-building-hensel-phelps-receives-three-2021-dbia-awards">
+                            href="{{route('about.forward-thinking-innovative-building-hensel-phelps-receives-three-2021-dbia-awards')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2021/01/BNA-Concourse-D-3-1024x681-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -1940,7 +1940,7 @@
                     </div>
                     <div class="post-box special announcement">
                         <a
-                            href="{{route('about.hensel-phelps-expands-water-and-wastewater-capabilities-with-addition-of-hydro-construction">
+                            href="{{route('about.hensel-phelps-expands-water-and-wastewater-capabilities-with-addition-of-hydro-construction')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2021/08/Hensel-Phelps-Hydro-Construction-Wastewater-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -1965,7 +1965,7 @@
                     </div>
                     <div class="post-box project">
                         <a
-                            href="{{route('about.hensel-phelps-fentress-architects-team-practice-sustainable-site-design-for-the-fred-d-thompson-u-s-courthouse-and-federal-building">
+                            href="{{route('about.hensel-phelps-fentress-architects-team-practice-sustainable-site-design-for-the-fred-d-thompson-u-s-courthouse-and-federal-building')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2021/07/01-NE-Corner-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -1989,7 +1989,7 @@
                         </a>
                     </div>
                     <div class="post-box event">
-                        <a href="{{route('about.hensel-phelps-tops-off-tallest-dive-tower-in-western-hemisphere">
+                        <a href="{{route('about.hensel-phelps-tops-off-tallest-dive-tower-in-western-hemisphere')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2021/07/FLAC-Topping-Out-Team-Group-Photo-Horizontal-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -2013,7 +2013,7 @@
                         </a>
                     </div>
                     <div class="post-box community">
-                        <a href="{{route('about.rebuilding-texas-together">
+                        <a href="{{route('about.rebuilding-texas-together')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2021/06/Pic-3-1-e1625084338227-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -2037,7 +2037,7 @@
                         </a>
                     </div>
                     <div class="post-box community">
-                        <a href="{{route('about.hensel-phelps-hosts-2021-technical-assistance-program">
+                        <a href="{{route('about.hensel-phelps-hosts-2021-technical-assistance-program')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2021/03/TAP-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -2062,7 +2062,7 @@
                     </div>
                     <div class="post-box project">
                         <a
-                            href="{{route('about.hensel-phelps-co-architects-design-build-team-awarded-new-uc-riverside-school-medicine-education-building">
+                            href="{{route('about.hensel-phelps-co-architects-design-build-team-awarded-new-uc-riverside-school-medicine-education-building')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2021/04/Picture1-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -2086,7 +2086,7 @@
                         </a>
                     </div>
                     <div class="post-box community">
-                        <a href="{{route('about.bring-safety-home-hensel-phelps-coloring-book">
+                        <a href="{{route('about.bring-safety-home-hensel-phelps-coloring-book')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2021/04/Coloring-Books-on-Table-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -2111,7 +2111,7 @@
                         </a>
                     </div>
                     <div class="post-box special announcement">
-                        <a href="{{route('about.construction-safety-week-2021-present-focused-safe">
+                        <a href="{{route('about.construction-safety-week-2021-present-focused-safe')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2021/04/Safety-Week-Social-Media-1920x1005-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -2135,7 +2135,7 @@
                         </a>
                     </div>
                     <div class="post-box community">
-                        <a href="{{route('about.texans-helping-texans-serving-southwest-community">
+                        <a href="{{route('about.texans-helping-texans-serving-southwest-community')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2021/04/IMG_E2503-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -2159,7 +2159,7 @@
                         </a>
                     </div>
                     <div class="post-box project">
-                        <a href="{{route('about.healthcare-construction-best-practices-40-years-making">
+                        <a href="{{route('about.healthcare-construction-best-practices-40-years-making')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2021/04/Healthcare-Timeline-480x320.png') }});">
                                 <img width="311" height="225"
@@ -2184,7 +2184,7 @@
                     </div>
                     <div class="post-box project">
                         <a
-                            href="{{route('about.hensel-phelps-awarded-fawcett-elementary-school-replacement-project-tacoma-wa">
+                            href="{{route('about.hensel-phelps-awarded-fawcett-elementary-school-replacement-project-tacoma-wa')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2021/04/Fawcett-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -2208,7 +2208,7 @@
                         </a>
                     </div>
                     <div class="post-box award">
-                        <a href="{{route('about.hensel-phelps-awarded-2020-abc-national-diversity-excellence-award">
+                        <a href="{{route('about.hensel-phelps-awarded-2020-abc-national-diversity-excellence-award')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2021/03/51050469572_845928e9cc_o_1200x801-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -2233,7 +2233,7 @@
                     </div>
                     <div class="post-box project">
                         <a
-                            href="{{route('about.hensel-phelps-awarded-sof-amu-weapons-hangar-facility-hurlburt-field-fl">
+                            href="{{route('about.hensel-phelps-awarded-sof-amu-weapons-hangar-facility-hurlburt-field-fl')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2021/03/Hurlburt-Screenshot_small-480x320.png') }});">
                                 <img width="311" height="225"
@@ -2258,7 +2258,7 @@
                     </div>
                     <div class="post-box event">
                         <a
-                            href="{{route('about.registration-now-open-hensel-phelps-technical-assistance-program-series">
+                            href="{{route('about.registration-now-open-hensel-phelps-technical-assistance-program-series')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2021/03/TAP-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -2283,7 +2283,7 @@
                     </div>
                     <div class="post-box project">
                         <a
-                            href="{{route('about.innovative-solutions-deliver-85-tall-river-ceiling-seattle-tacoma-international-airport">
+                            href="{{route('about.innovative-solutions-deliver-85-tall-river-ceiling-seattle-tacoma-international-airport')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2021/03/NSAT_SuspendedScaffolding_3-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -2307,7 +2307,7 @@
                         </a>
                     </div>
                     <div class="post-box career">
-                        <a href="{{route('about.changing-the-face-of-construction-tashi-hebel">
+                        <a href="{{route('about.changing-the-face-of-construction-tashi-hebel')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2021/03/Changing-the-Face-of-Construction-03_1535x1025-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -2331,7 +2331,7 @@
                         </a>
                     </div>
                     <div class="post-box career">
-                        <a href="{{route('about.changing-the-face-of-construction-sandra-ichiho">
+                        <a href="{{route('about.changing-the-face-of-construction-sandra-ichiho')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2021/03/Changing-the-Face-of-Construction-04_1535x1025-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -2355,7 +2355,7 @@
                         </a>
                     </div>
                     <div class="post-box career">
-                        <a href="{{route('about.changing-the-face-of-construction-nichole-sterling">
+                        <a href="{{route('about.changing-the-face-of-construction-nichole-sterling')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2021/03/Changing-the-Face-of-Construction-05_1535x1025-1-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -2379,7 +2379,7 @@
                         </a>
                     </div>
                     <div class="post-box career">
-                        <a href="{{route('about.changing-the-face-of-construction-naomi-mercuris">
+                        <a href="{{route('about.changing-the-face-of-construction-naomi-mercuris')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2021/03/Changing-the-Face-of-Construction-09_1535x1025-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -2403,7 +2403,7 @@
                         </a>
                     </div>
                     <div class="post-box career">
-                        <a href="{{route('about.changing-the-face-of-construction-callie-hepler">
+                        <a href="{{route('about.changing-the-face-of-construction-callie-hepler')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2021/03/Changing-the-Face-of-Construction-06_1535x1025-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -2427,7 +2427,7 @@
                         </a>
                     </div>
                     <div class="post-box career">
-                        <a href="{{route('about.changing-face-construction-lea-edwards">
+                        <a href="{{route('about.changing-face-construction-lea-edwards')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2021/03/Changing-the-Face-of-Construction-07_1535x1025-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -2451,7 +2451,7 @@
                         </a>
                     </div>
                     <div class="post-box career">
-                        <a href="{{route('about.changing-the-face-of-construction-maria-martinez">
+                        <a href="{{route('about.changing-the-face-of-construction-maria-martinez')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2021/03/Changing-the-Face-of-Construction-08_1535x1025-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -2475,7 +2475,7 @@
                         </a>
                     </div>
                     <div class="post-box career">
-                        <a href="{{route('about.changing-the-face-of-construction-courtney-judish">
+                        <a href="{{route('about.changing-the-face-of-construction-courtney-judish')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2021/03/Changing-the-Face-of-Construction-01_1535x1025-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -2499,7 +2499,7 @@
                         </a>
                     </div>
                     <div class="post-box career">
-                        <a href="{{route('about.changing-face-construction-anna-cummins">
+                        <a href="{{route('about.changing-face-construction-anna-cummins')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2021/03/Changing-the-Face-of-Construction-02_1535x1025-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -2524,7 +2524,7 @@
                     </div>
                     <div class="post-box career">
                         <a
-                            href="{{route('about.celebrating-successful-past-inspiring-future-glen-miller-joel-douglass">
+                            href="{{route('about.celebrating-successful-past-inspiring-future-glen-miller-joel-douglass')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2021/02/Joel-Douglass_Glen_Miller_hensel-Phelps2020-13-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -2549,7 +2549,7 @@
                     </div>
                     <div class="post-box project">
                         <a
-                            href="{{route('about.hensel-phelps-completes-construction-baltimore-washington-international-airport-concourse-five-gate-extension">
+                            href="{{route('about.hensel-phelps-completes-construction-baltimore-washington-international-airport-concourse-five-gate-extension')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2020/10/BWI-Terminal-HP-41_Compressed-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -2574,7 +2574,7 @@
                     </div>
                     <div class="post-box career">
                         <a
-                            href="{{route('about.celebrating-successful-past-inspiring-future-jim-pappas-shannon-gustine">
+                            href="{{route('about.celebrating-successful-past-inspiring-future-jim-pappas-shannon-gustine')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2021/02/Shannon-and-Jim-Article-Photo-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -2598,7 +2598,7 @@
                         </a>
                     </div>
                     <div class="post-box special announcement">
-                        <a href="{{route('about.hardworking-hensel-phelps-employees-celebrated-song">
+                        <a href="{{route('about.hardworking-hensel-phelps-employees-celebrated-song')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2021/01/Brice-Long-Hensel-Phelps-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -2623,7 +2623,7 @@
                     </div>
                     <div class="post-box career">
                         <a
-                            href="{{route('about.kate-crawford-appointed-calosha-occupational-safety-health-standards-board">
+                            href="{{route('about.kate-crawford-appointed-calosha-occupational-safety-health-standards-board')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2021/01/Kate-Crawford-Hensel-Phelps-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -2648,7 +2648,7 @@
                     </div>
                     <div class="post-box project">
                         <a
-                            href="{{route('about.bnas-new-concourse-d-awarded-leed-silver-certification-green-design-construction">
+                            href="{{route('about.bnas-new-concourse-d-awarded-leed-silver-certification-green-design-construction')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2021/01/BNA-Concourse-D-3-1024x681-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -2672,7 +2672,7 @@
                         </a>
                     </div>
                     <div class="post-box special announcement">
-                        <a href="{{route('about.hensel-phelps-board-directors-announces-promotion-key-personnel">
+                        <a href="{{route('about.hensel-phelps-board-directors-announces-promotion-key-personnel')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2021/01/Hensel-Phelps-Promotions-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -2696,7 +2696,7 @@
                         </a>
                     </div>
                     <div class="post-box project">
-                        <a href="{{route('about.prep-game-day-texas">
+                        <a href="{{route('about.prep-game-day-texas')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2020/12/20200728_071650_-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -2720,7 +2720,7 @@
                         </a>
                     </div>
                     <div class="post-box event">
-                        <a href="{{route('about.18th-annual-womens-construction-industry-reception-spotlight">
+                        <a href="{{route('about.18th-annual-womens-construction-industry-reception-spotlight')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2020/12/Article-2%404x-480x320.png') }});">
                                 <img width="311" height="225"
@@ -2746,7 +2746,7 @@
                     </div>
                     <div class="post-box project">
                         <a
-                            href="{{route('about.hensel-phelps-awarded-cm-risk-terminal-modernization-project-asheville-regional-airport">
+                            href="{{route('about.hensel-phelps-awarded-cm-risk-terminal-modernization-project-asheville-regional-airport')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2020/12/Enscape_2020-07-27-07-30-15-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -2771,7 +2771,7 @@
                     </div>
                     <div class="post-box community">
                         <a
-                            href="{{route('about.hensel-phelps-celebrates-veterans-day-fundraising-drive-sea-tac-uso">
+                            href="{{route('about.hensel-phelps-celebrates-veterans-day-fundraising-drive-sea-tac-uso')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2020/12/BigCheck-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -2795,7 +2795,7 @@
                         </a>
                     </div>
                     <div class="post-box project">
-                        <a href="{{route('about.delta-sky-way-lax-project-tops-ahead-schedule">
+                        <a href="{{route('about.delta-sky-way-lax-project-tops-ahead-schedule')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2020/11/LAX-Delta-Sky-Way-Topping-Out_005-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -2819,7 +2819,7 @@
                         </a>
                     </div>
                     <div class="post-box community">
-                        <a href="{{route('about.hensel-phelps-donates-time-build-home-u-s-veteran-central-florida">
+                        <a href="{{route('about.hensel-phelps-donates-time-build-home-u-s-veteran-central-florida')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2020/11/Home-At-Last2-480x320.png') }});">
                                 <img width="311" height="225"
@@ -2844,7 +2844,7 @@
                     </div>
                     <div class="post-box project">
                         <a
-                            href="{{route('about.hensel-phelps-honors-owner-tampa-international-airport-main-terminal-curbside-expansion-topping">
+                            href="{{route('about.hensel-phelps-honors-owner-tampa-international-airport-main-terminal-curbside-expansion-topping')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2020/10/For-Web-2-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -2869,7 +2869,7 @@
                     </div>
                     <div class="post-box community">
                         <a
-                            href="{{route('about.hensel-phelps-leverages-small-business-relationships-plant-roots-nashville-tn">
+                            href="{{route('about.hensel-phelps-leverages-small-business-relationships-plant-roots-nashville-tn')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2020/09/Maven-Quote-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -2893,7 +2893,7 @@
                         </a>
                     </div>
                     <div class="post-box community">
-                        <a href="{{route('about.hensel-phelps-celebrates-national-small-business-week-2">
+                        <a href="{{route('about.hensel-phelps-celebrates-national-small-business-week-2')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2020/09/Small-Business-Week-Announcement-480x320.png') }});">
                                 <img width="311" height="225"
@@ -2918,7 +2918,7 @@
                     </div>
                     <div class="post-box special announcement">
                         <a
-                            href="{{route('about.hensel-phelps-celebrates-construction-safety-week-launching-culture-of-care">
+                            href="{{route('about.hensel-phelps-celebrates-construction-safety-week-launching-culture-of-care')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2020/09/Hensel-Phelps-Crane-NORCAL2-480x320.png') }});">
                                 <img width="311" height="225"
@@ -2943,7 +2943,7 @@
                     </div>
                     <div class="post-box community">
                         <a
-                            href="{{route('about.hensel-phelps-supports-ace-mentor-program-of-americas-day-of-action">
+                            href="{{route('about.hensel-phelps-supports-ace-mentor-program-of-americas-day-of-action')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2020/08/Mike-Choutka-Speaking-to-ACE-Students-2020_01_15-resized-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -2967,7 +2967,7 @@
                         </a>
                     </div>
                     <div class="post-box career">
-                        <a href="{{route('about.qa-hensel-phelps-intern-tristan-clark">
+                        <a href="{{route('about.qa-hensel-phelps-intern-tristan-clark')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2020/08/Tristan-Clark-Western-Distric_Intern-Social-Media-2-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -2991,7 +2991,7 @@
                         </a>
                     </div>
                     <div class="post-box career">
-                        <a href="{{route('about.qa-with-hensel-phelps-intern-brock-chavez">
+                        <a href="{{route('about.qa-with-hensel-phelps-intern-brock-chavez')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2020/08/Brock-Chavez-Hensel-Phelps-480x320.png') }});">
                                 <img width="311" height="225"
@@ -3015,7 +3015,7 @@
                         </a>
                     </div>
                     <div class="post-box career">
-                        <a href="{{route('about.qa-with-hensel-phelps-intern-connor-hudson">
+                        <a href="{{route('about.qa-with-hensel-phelps-intern-connor-hudson')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2020/08/CH_Landscape-01-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -3039,7 +3039,7 @@
                         </a>
                     </div>
                     <div class="post-box career">
-                        <a href="{{route('about.qa-with-hensel-phelps-intern-leah-gaines">
+                        <a href="{{route('about.qa-with-hensel-phelps-intern-leah-gaines')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2020/07/Gaines_socialmedia-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -3063,7 +3063,7 @@
                         </a>
                     </div>
                     <div class="post-box career">
-                        <a href="{{route('about.qa-with-hensel-phelps-intern-david-trinh">
+                        <a href="{{route('about.qa-with-hensel-phelps-intern-david-trinh')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2020/07/SoCal_Intern-Social-Media_Trinh-David-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -3087,7 +3087,7 @@
                         </a>
                     </div>
                     <div class="post-box career">
-                        <a href="{{route('about.qa-with-hensel-phelps-intern-jasaun-jt-clark">
+                        <a href="{{route('about.qa-with-hensel-phelps-intern-jasaun-jt-clark')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2020/07/Intern-Social-Media-Pacific-JT-Red-H-1-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -3112,7 +3112,7 @@
                     </div>
                     <div class="post-box project">
                         <a
-                            href="{{route('about.hensel-phelps-completes-construction-new-concourse-d-nashville-international-airport">
+                            href="{{route('about.hensel-phelps-completes-construction-new-concourse-d-nashville-international-airport')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2020/07/BNA-Exterior-reduced-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -3136,7 +3136,7 @@
                         </a>
                     </div>
                     <div class="post-box career">
-                        <a href="{{route('about.qa-with-hensel-phelps-intern-kj-miller">
+                        <a href="{{route('about.qa-with-hensel-phelps-intern-kj-miller')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2020/07/KJ-Miller_NorCal_Social-Media-Horizontal-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -3161,7 +3161,7 @@
                     </div>
                     <div class="post-box project">
                         <a
-                            href="{{route('about.hensel-phelps-awarded-p-463-sof-undersea-operational-training-facility">
+                            href="{{route('about.hensel-phelps-awarded-p-463-sof-undersea-operational-training-facility')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2020/06/Southwest-View.jpg') }});">
                                 <img width="311" height="225"
@@ -3185,7 +3185,7 @@
                         </a>
                     </div>
                     <div class="post-box career">
-                        <a href="{{route('about.qa-with-hensel-phelps-intern-aaron-welch">
+                        <a href="{{route('about.qa-with-hensel-phelps-intern-aaron-welch')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2020/07/Aaron_Welch_resized_Intern-Social-Media-Template-01-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -3210,7 +3210,7 @@
                     </div>
                     <div class="post-box project">
                         <a
-                            href="{{route('about.hensel-phelps-celebrates-completion-utmb-league-city-hospital-expansion-project">
+                            href="{{route('about.hensel-phelps-celebrates-completion-utmb-league-city-hospital-expansion-project')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2020/06/Cannon-Design-UTMB-League-City-Tower-08Apr2020-14-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -3234,7 +3234,7 @@
                         </a>
                     </div>
                     <div class="post-box career">
-                        <a href="{{route('about.qa-with-hensel-phelps-intern-mason-hill">
+                        <a href="{{route('about.qa-with-hensel-phelps-intern-mason-hill')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2020/06/Mason-Hill_Intern-FAQ-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -3258,7 +3258,7 @@
                         </a>
                     </div>
                     <div class="post-box project">
-                        <a href="{{route('about.hensel-phelps-awarded-wmata-projects">
+                        <a href="{{route('about.hensel-phelps-awarded-wmata-projects')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2020/06/WMATA-Web-Article-Graphic-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -3283,7 +3283,7 @@
                     </div>
                     <div class="post-box special announcement">
                         <a
-                            href="{{route('about.hensel-phelps-unites-employees-by-celebrating-company-vision-and-values">
+                            href="{{route('about.hensel-phelps-unites-employees-by-celebrating-company-vision-and-values')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2020/06/Excellence-Banner-Article_2-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -3307,7 +3307,7 @@
                         </a>
                     </div>
                     <div class="post-box award">
-                        <a href="{{route('about.hensel-phelps-awarded-agc-diversity-inclusion-award">
+                        <a href="{{route('about.hensel-phelps-awarded-agc-diversity-inclusion-award')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2020/04/Hensel-Phelps_Cropped-003-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -3331,7 +3331,7 @@
                         </a>
                     </div>
                     <div class="post-box award">
-                        <a href="{{route('about.hensel-phelps-recognized-industry-leader-safety-performance">
+                        <a href="{{route('about.hensel-phelps-recognized-industry-leader-safety-performance')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2020/04/Website-Graphic-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -3355,7 +3355,7 @@
                         </a>
                     </div>
                     <div class="post-box project">
-                        <a href="{{route('about.hensel-phelps-awarded-gravity-axis-warehouse">
+                        <a href="{{route('about.hensel-phelps-awarded-gravity-axis-warehouse')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2020/04/Gravity-Axis-480x320.png') }});">
                                 <img width="311" height="225"
@@ -3380,7 +3380,7 @@
                     </div>
                     <div class="post-box project">
                         <a
-                            href="{{route('about.hensel-phelps-breaks-ground-21-story-apartment-development-roosevelt-row-arts-district">
+                            href="{{route('about.hensel-phelps-breaks-ground-21-story-apartment-development-roosevelt-row-arts-district')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2020/05/Hensel-Phelps-Derby-Row-Phoenix-480x320.png') }});">
                                 <img width="311" height="225"
@@ -3404,7 +3404,7 @@
                         </a>
                     </div>
                     <div class="post-box project">
-                        <a href="{{route('about.construction-underway-redstone-arsenal-projects">
+                        <a href="{{route('about.construction-underway-redstone-arsenal-projects')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2020/03/Rendering-1-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -3429,7 +3429,7 @@
                     </div>
                     <div class="post-box award">
                         <a
-                            href="{{route('about.hensel-phelps-receives-agc-2020-construction-safety-excellence-award">
+                            href="{{route('about.hensel-phelps-receives-agc-2020-construction-safety-excellence-award')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2020/03/AGC-CSEA-Awards-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -3453,7 +3453,7 @@
                         </a>
                     </div>
                     <div class="post-box project">
-                        <a href="{{route('about.hensel-phelps-awarded-first-national-institutes-health-contract">
+                        <a href="{{route('about.hensel-phelps-awarded-first-national-institutes-health-contract')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2020/03/NIH.jpg') }});">
                                 <img width="311" height="225"
@@ -3477,7 +3477,7 @@
                         </a>
                     </div>
                     <div class="post-box community">
-                        <a href="{{route('about.workforce-development-program-nashville-international-airport-bna">
+                        <a href="{{route('about.workforce-development-program-nashville-international-airport-bna')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/themes/henselphelps/img/default.jpg') }});">
                                 <img src="{{ asset('wp-content/themes/henselphelps/img/default.jpg') }}">
@@ -3499,7 +3499,7 @@
                     </div>
                     <div class="post-box project">
                         <a
-                            href="{{route('about.hensel-phelps-design-build-team-selected-new-state-california-campus-sacramentos-river-district">
+                            href="{{route('about.hensel-phelps-design-build-team-selected-new-state-california-campus-sacramentos-river-district')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2020/02/1_RBOC-Plaza-View-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -3525,7 +3525,7 @@
                     </div>
                     <div class="post-box project">
                         <a
-                            href="{{route('about.close-coordination-tampa-international-airport-positively-affect-main-terminal-curbside-expansion-project">
+                            href="{{route('about.close-coordination-tampa-international-airport-positively-affect-main-terminal-curbside-expansion-project')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2020/01/Untitled-1-480x320.png') }});">
                                 <img width="311" height="225"
@@ -3549,7 +3549,7 @@
                         </a>
                     </div>
                     <div class="post-box project">
-                        <a href="{{route('about.hensel-phelps-awarded-healthcare-project-colorado-springs">
+                        <a href="{{route('about.hensel-phelps-awarded-healthcare-project-colorado-springs')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2020/01/Craft-In-Progress_018-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -3573,7 +3573,7 @@
                         </a>
                     </div>
                     <div class="post-box community">
-                        <a href="{{route('about.hensel-phelps-central-texas-food-banks-fight-hunger">
+                        <a href="{{route('about.hensel-phelps-central-texas-food-banks-fight-hunger')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2020/01/IMG_7840_web-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -3597,7 +3597,7 @@
                         </a>
                     </div>
                     <div class="post-box award">
-                        <a href="{{route('about.hensel-phelps-awarded-first-place-at-construction-safety-awards">
+                        <a href="{{route('about.hensel-phelps-awarded-first-place-at-construction-safety-awards')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2020/01/2019-CSEA-Awards-HP-10-10-19-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -3621,7 +3621,7 @@
                         </a>
                     </div>
                     <div class="post-box project">
-                        <a href="{{route('about.sharp-chula-vista-medical-center-opens-new-hospital-tower">
+                        <a href="{{route('about.sharp-chula-vista-medical-center-opens-new-hospital-tower')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/themes/henselphelps/img/default.jpg') }});">
                                 <img src="{{ asset('wp-content/themes/henselphelps/img/default.jpg') }}">
@@ -3642,7 +3642,7 @@
                         </a>
                     </div>
                     <div class="post-box project">
-                        <a href="{{route('about.san-ysidro-land-port-of-entry-celebrates-completion-of-expansion">
+                        <a href="{{route('about.san-ysidro-land-port-of-entry-celebrates-completion-of-expansion')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2019/12/GSA_SYLPOE-Ph2_001-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -3666,7 +3666,7 @@
                         </a>
                     </div>
                     <div class="post-box community">
-                        <a href="{{route('about.hensel-phelps-9th-annual-turkey-giveaway">
+                        <a href="{{route('about.hensel-phelps-9th-annual-turkey-giveaway')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2019/11/1Q8A7347-2_WEBSITE-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -3690,7 +3690,7 @@
                         </a>
                     </div>
                     <div class="post-box award">
-                        <a href="{{route('about.hensel-phelps-awarded-dbias-2019-design-build-project-year">
+                        <a href="{{route('about.hensel-phelps-awarded-dbias-2019-design-build-project-year')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2019/11/Sharp-Chula-Vista-Hensel-Phelps-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -3714,7 +3714,7 @@
                         </a>
                     </div>
                     <div class="post-box community">
-                        <a href="{{route('about.top-takeaways-tap-2019">
+                        <a href="{{route('about.top-takeaways-tap-2019')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2019/11/DSC_0916_for-web-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -3740,7 +3740,7 @@
                     </div>
                     <div class="post-box award">
                         <a
-                            href="{{route('about.hensel-phelps-wins-project-year-four-eagle-awards-abc-excellence-construction-award-ceremonies">
+                            href="{{route('about.hensel-phelps-wins-project-year-four-eagle-awards-abc-excellence-construction-award-ceremonies')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2019/11/20191027_ABC_0487_web-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -3766,7 +3766,7 @@
                     </div>
                     <div class="post-box project">
                         <a
-                            href="{{route('about.columbus-land-port-entry-project-receives-leed-platinum-certification">
+                            href="{{route('about.columbus-land-port-entry-project-receives-leed-platinum-certification')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2019/11/Columbus-POA-Oct-25-2018-32_v1_current-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -3791,7 +3791,7 @@
                     </div>
                     <div class="post-box technology">
                         <a
-                            href="{{route('about.hensel-phelps-applies-virtual-design-construction-plan-build-manage-every-project">
+                            href="{{route('about.hensel-phelps-applies-virtual-design-construction-plan-build-manage-every-project')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2019/10/2019-10-01_13-41-31-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -3816,7 +3816,7 @@
                         </a>
                     </div>
                     <div class="post-box community">
-                        <a href="{{route('about.making-great-strides-to-improve-our-communities">
+                        <a href="{{route('about.making-great-strides-to-improve-our-communities')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/themes/henselphelps/img/default.jpg') }});">
                                 <img src="{{ asset('wp-content/themes/henselphelps/img/default.jpg') }}">
@@ -3838,7 +3838,7 @@
                     </div>
                     <div class="post-box community">
                         <a
-                            href="{{route('about.hensel-phelps-annual-halloween-charity-golf-tournament-raises-120k-charities">
+                            href="{{route('about.hensel-phelps-annual-halloween-charity-golf-tournament-raises-120k-charities')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2019/10/1Q8A6172-3-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -3862,7 +3862,7 @@
                         </a>
                     </div>
                     <div class="post-box special announcement">
-                        <a href="{{route('about.qa-lorien-barlow-hensel-phelps-furthers-diversity-women-workforce">
+                        <a href="{{route('about.qa-lorien-barlow-hensel-phelps-furthers-diversity-women-workforce')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2019/10/HPStock_WIC_013-2-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -3887,7 +3887,7 @@
                     </div>
                     <div class="post-box project">
                         <a
-                            href="{{route('about.hensel-phelps-facilities-services-awarded-facilities-management-contract-denver-international-airport">
+                            href="{{route('about.hensel-phelps-facilities-services-awarded-facilities-management-contract-denver-international-airport')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2019/09/DEN-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -3912,7 +3912,7 @@
                     </div>
                     <div class="post-box award">
                         <a
-                            href="{{route('about.hensel-phelps-services-recognized-2019-national-safety-council-national-awards-celebration">
+                            href="{{route('about.hensel-phelps-services-recognized-2019-national-safety-council-national-awards-celebration')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2019/09/NSC_2019_Awards_Ceremony_0623red-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -3936,7 +3936,7 @@
                         </a>
                     </div>
                     <div class="post-box project">
-                        <a href="{{route('about.uc-irvines-middle-earth-towers-open">
+                        <a href="{{route('about.uc-irvines-middle-earth-towers-open')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2019/09/Hensel-Phelps_UCI-Middle-Earth-Towers_Exterior_ImagebyPlompMozes-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -3960,7 +3960,7 @@
                         </a>
                     </div>
                     <div class="post-box project">
-                        <a href="{{route('about.project-prepared-hurricane">
+                        <a href="{{route('about.project-prepared-hurricane')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2019/08/Untitled-3-480x320.png') }});">
                                 <img width="311" height="225"
@@ -3984,7 +3984,7 @@
                         </a>
                     </div>
                     <div class="post-box project">
-                        <a href="{{route('about.facilities-management-harlem-village-academies">
+                        <a href="{{route('about.facilities-management-harlem-village-academies')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2019/08/hvakids-480x320.png') }});">
                                 <img width="311" height="225"
@@ -4008,7 +4008,7 @@
                         </a>
                     </div>
                     <div class="post-box project">
-                        <a href="{{route('about.hensel-phelps-awarded-archer-hotel-tysons">
+                        <a href="{{route('about.hensel-phelps-awarded-archer-hotel-tysons')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2019/08/Archer-TysonsVA-Exterior-day-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -4033,7 +4033,7 @@
                     </div>
                     <div class="post-box event">
                         <a
-                            href="{{route('about.sea-tac-airport-celebrates-phase-1-north-satellite-terminal-modernization-project">
+                            href="{{route('about.sea-tac-airport-celebrates-phase-1-north-satellite-terminal-modernization-project')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2019/07/Phase1_01-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -4057,7 +4057,7 @@
                         </a>
                     </div>
                     <div class="post-box career">
-                        <a href="{{route('about.building-family-ties-carpenter-shawn-tyk-follows-familys-footsteps">
+                        <a href="{{route('about.building-family-ties-carpenter-shawn-tyk-follows-familys-footsteps')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2019/07/HP_SI_DCCSM_0116_2-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -4082,7 +4082,7 @@
                     </div>
                     <div class="post-box project">
                         <a
-                            href="{{route('about.hensel-phelps-celebrates-ribbon-cutting-of-new-defense-logistics-agency-headquarters">
+                            href="{{route('about.hensel-phelps-celebrates-ribbon-cutting-of-new-defense-logistics-agency-headquarters')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2019/06/Ribbon-cutting1_compressed-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -4107,7 +4107,7 @@
                     </div>
                     <div class="post-box event">
                         <a
-                            href="{{route('about.hensel-phelps-volunteers-girls-exploring-science-technology-engineering-math-gestem-event">
+                            href="{{route('about.hensel-phelps-volunteers-girls-exploring-science-technology-engineering-math-gestem-event')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2019/06/GESTEM-Photo-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -4132,7 +4132,7 @@
                         </a>
                     </div>
                     <div class="post-box award">
-                        <a href="{{route('about.hensel-phelps-wins-gca-build-hawaii-grand-award">
+                        <a href="{{route('about.hensel-phelps-wins-gca-build-hawaii-grand-award')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2019/06/GCA-Build-Hawaii-Awards-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -4156,7 +4156,7 @@
                         </a>
                     </div>
                     <div class="post-box project">
-                        <a href="{{route('about.aviation-construction-takes-off-virtual-design-construction">
+                        <a href="{{route('about.aviation-construction-takes-off-virtual-design-construction')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2019/05/Hensel-Phelps-Aerial-Construction-Technology-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -4180,7 +4180,7 @@
                         </a>
                     </div>
                     <div class="post-box special announcement">
-                        <a href="{{route('about.faa-grants-hensel-phelps-approval-drone-operations-people">
+                        <a href="{{route('about.faa-grants-hensel-phelps-approval-drone-operations-people')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2019/06/Pensacola-Onsite-113-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -4205,7 +4205,7 @@
                     </div>
                     <div class="post-box award">
                         <a
-                            href="{{route('about.hensel-phelps-receives-agc-washington-2019-champion-diversity-award">
+                            href="{{route('about.hensel-phelps-receives-agc-washington-2019-champion-diversity-award')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2019/05/HPGroup_AGC_Chapmionsofdiversity_2019-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -4229,7 +4229,7 @@
                         </a>
                     </div>
                     <div class="post-box community">
-                        <a href="{{route('about.building-small-businesses-mentor-protege-programs">
+                        <a href="{{route('about.building-small-businesses-mentor-protege-programs')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2019/05/Hensel-Phelps-Glen-Mar-Mentor-Protege-Program_2-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -4253,7 +4253,7 @@
                         </a>
                     </div>
                     <div class="post-box community">
-                        <a href="{{route('about.hensel-phelps-and-the-barbour-group">
+                        <a href="{{route('about.hensel-phelps-and-the-barbour-group')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2019/05/Hensel-Phelps-Small-Business-Programs-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -4277,7 +4277,7 @@
                         </a>
                     </div>
                     <div class="post-box special announcement">
-                        <a href="{{route('about.hensel-phelps-celebrates-small-business-week">
+                        <a href="{{route('about.hensel-phelps-celebrates-small-business-week')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2019/05/Hensel-Phelps-Small-Business-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -4301,7 +4301,7 @@
                         </a>
                     </div>
                     <div class="post-box special announcement">
-                        <a href="{{route('about.hensel-phelps-safe-choice">
+                        <a href="{{route('about.hensel-phelps-safe-choice')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2019/05/Hensel-Phelps-Construction-Safety-Week-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -4325,7 +4325,7 @@
                         </a>
                     </div>
                     <div class="post-box award">
-                        <a href="{{route('about.hensel-phelps-awarded-2018-national-diversity-excellence-award">
+                        <a href="{{route('about.hensel-phelps-awarded-2018-national-diversity-excellence-award')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2019/04/47531506151_13370fac74_o-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -4350,7 +4350,7 @@
                     </div>
                     <div class="post-box project">
                         <a
-                            href="{{route('about.hensel-phelps-awarded-advanced-munitions-technology-complex-at-eglin-air-force-base">
+                            href="{{route('about.hensel-phelps-awarded-advanced-munitions-technology-complex-at-eglin-air-force-base')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2019/03/Eglin-AFB-AMTC-Rendering_Page_2-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -4374,7 +4374,7 @@
                         </a>
                     </div>
                     <div class="post-box project">
-                        <a href="{{route('about.forefront-healthcare-construction">
+                        <a href="{{route('about.forefront-healthcare-construction')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2019/03/SHC_Emery-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -4400,7 +4400,7 @@
                     </div>
                     <div class="post-box project">
                         <a
-                            href="{{route('about.construction-begins-new-state-california-swing-space-office-building">
+                            href="{{route('about.construction-begins-new-state-california-swing-space-office-building')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2019/03/Render-Feb2019_edit2-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -4424,7 +4424,7 @@
                         </a>
                     </div>
                     <div class="post-box project">
-                        <a href="{{route('about.public-projects-build-nation">
+                        <a href="{{route('about.public-projects-build-nation')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/themes/henselphelps/img/default.jpg') }});">
                                 <img src="{{ asset('wp-content/themes/henselphelps/img/default.jpg') }}">
@@ -4445,7 +4445,7 @@
                         </a>
                     </div>
                     <div class="post-box project">
-                        <a href="{{route('about.austin-central-library-project-attains-leed-platinum-certification">
+                        <a href="{{route('about.austin-central-library-project-attains-leed-platinum-certification')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2019/02/48_RamaTiru_HPLib2017_small-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -4471,7 +4471,7 @@
                     </div>
                     <div class="post-box project">
                         <a
-                            href="{{route('about.hensel-phelps-breaks-ground-tampa-international-airport-skycenter-development">
+                            href="{{route('about.hensel-phelps-breaks-ground-tampa-international-airport-skycenter-development')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2019/02/img_0051_cropped-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -4495,7 +4495,7 @@
                         </a>
                     </div>
                     <div class="post-box special announcement">
-                        <a href="{{route('about.steve-friar-sworn-2019-agc-san-diego-president">
+                        <a href="{{route('about.steve-friar-sworn-2019-agc-san-diego-president')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2019/01/steve-and-wayne-agc-installation-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -4519,7 +4519,7 @@
                         </a>
                     </div>
                     <div class="post-box community">
-                        <a href="{{route('about.hensel-phelps-annual-golf-tournament-raises-110k-charity">
+                        <a href="{{route('about.hensel-phelps-annual-golf-tournament-raises-110k-charity')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2019/01/2018_Halloween-Golf-9164_r2-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -4544,7 +4544,7 @@
                     </div>
                     <div class="post-box community">
                         <a
-                            href="{{route('about.hensel-phelps-southern-california-district-holds-8th-annual-turkey-giveaway">
+                            href="{{route('about.hensel-phelps-southern-california-district-holds-8th-annual-turkey-giveaway')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2018/12/IMG_1438-2-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -4569,7 +4569,7 @@
                     </div>
                     <div class="post-box special announcement">
                         <a
-                            href="{{route('about.hensel-phelps-board-of-directors-announces-promotion-of-damian-buessing">
+                            href="{{route('about.hensel-phelps-board-of-directors-announces-promotion-of-damian-buessing')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2019/01/Hensel_phelps_special_announcement_Buessing-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -4594,7 +4594,7 @@
                     </div>
                     <div class="post-box special announcement">
                         <a
-                            href="{{route('about.hensel-phelps-announces-retirement-ceo-jeff-wenaas-appointment-mike-choutka-chief-executive-officer">
+                            href="{{route('about.hensel-phelps-announces-retirement-ceo-jeff-wenaas-appointment-mike-choutka-chief-executive-officer')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2018/01/Hensel_phelps_special_announcement-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -4618,7 +4618,7 @@
                         </a>
                     </div>
                     <div class="post-box project">
-                        <a href="{{route('about.hensel-phelps-awarded-tampa-skycenter-pedestrian-bridge">
+                        <a href="{{route('about.hensel-phelps-awarded-tampa-skycenter-pedestrian-bridge')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2018/12/Skycenter-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -4643,7 +4643,7 @@
                     </div>
                     <div class="post-box project">
                         <a
-                            href="{{route('about.hensel-phelps-lands-another-project-at-nashville-international-airport-bna">
+                            href="{{route('about.hensel-phelps-lands-another-project-at-nashville-international-airport-bna')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2018/11/BNA-Future-International-Arrivals-Facility-REDUCED-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -4668,7 +4668,7 @@
                     </div>
                     <div class="post-box event">
                         <a
-                            href="{{route('about.hensel-phelps-presents-construction-technology-2018-autodesk-university">
+                            href="{{route('about.hensel-phelps-presents-construction-technology-2018-autodesk-university')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2018/11/Autodesk-University-Will-Plato-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -4693,7 +4693,7 @@
                     </div>
                     <div class="post-box award">
                         <a
-                            href="{{route('about.1144-15th-street-office-building-project-sweeps-awards-rocky-mountain-region">
+                            href="{{route('about.1144-15th-street-office-building-project-sweeps-awards-rocky-mountain-region')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2018/11/1144-Website-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -4718,7 +4718,7 @@
                     </div>
                     <div class="post-box award">
                         <a
-                            href="{{route('about.hensel-phelps-greg-gidez-receives-the-design-build-industrys-highest-distinction">
+                            href="{{route('about.hensel-phelps-greg-gidez-receives-the-design-build-industrys-highest-distinction')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2018/11/DBIA-Fellows-480x320.png') }});">
                                 <img width="311" height="225"
@@ -4742,7 +4742,7 @@
                         </a>
                     </div>
                     <div class="post-box project">
-                        <a href="{{route('about.historic-lockkeepers-house-opens-public">
+                        <a href="{{route('about.historic-lockkeepers-house-opens-public')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2018/05/gallery-image-1-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -4766,7 +4766,7 @@
                         </a>
                     </div>
                     <div class="post-box award">
-                        <a href="{{route('about.enr-texas-louisiana-selects-ut-austin-eerc-as-project-of-the-year">
+                        <a href="{{route('about.enr-texas-louisiana-selects-ut-austin-eerc-as-project-of-the-year')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/08/D7S_2375-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -4791,7 +4791,7 @@
                     </div>
                     <div class="post-box project">
                         <a
-                            href="{{route('about.cutting-costs-increasing-operating-efficiency-lax-comprehensive-facility-management-operations-plan">
+                            href="{{route('about.cutting-costs-increasing-operating-efficiency-lax-comprehensive-facility-management-operations-plan')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/08/LAX-United-T7_Aviation_Gallery_001-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -4816,7 +4816,7 @@
                     </div>
                     <div class="post-box project">
                         <a
-                            href="{{route('about.the-city-of-dallas-enhances-airport-modernization-and-improvements-with-comprehensive-facility-management-and-maintenance-plans">
+                            href="{{route('about.the-city-of-dallas-enhances-airport-modernization-and-improvements-with-comprehensive-facility-management-and-maintenance-plans')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2018/09/Love-Field-Modernization-Program_Hensel-Phelps-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -4840,7 +4840,7 @@
                         </a>
                     </div>
                     <div class="post-box special announcement">
-                        <a href="{{route('about.constructing-the-airport-of-the-future">
+                        <a href="{{route('about.constructing-the-airport-of-the-future')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2018/09/Hensel-Phelps-Aviation-Expansion-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -4864,7 +4864,7 @@
                         </a>
                     </div>
                     <div class="post-box project">
-                        <a href="{{route('about.hensel-phelps-awarded-fll-welcome-sign-broward-county-logo-sign">
+                        <a href="{{route('about.hensel-phelps-awarded-fll-welcome-sign-broward-county-logo-sign')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2018/08/Rendering-480x320.png') }});">
                                 <img width="311" height="225"
@@ -4888,7 +4888,7 @@
                         </a>
                     </div>
                     <div class="post-box project">
-                        <a href="{{route('about.hensel-phelps-awarded-fort-lauderdale-aquatic-center-renovations">
+                        <a href="{{route('about.hensel-phelps-awarded-fort-lauderdale-aquatic-center-renovations')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2018/08/Aquatic_Complex_Birds_eye-Option-2-reduced-480x320.png') }});">
                                 <img width="311" height="225"
@@ -4912,7 +4912,7 @@
                         </a>
                     </div>
                     <div class="post-box career">
-                        <a href="{{route('about.hensel-phelps-ranked-top-100-companies">
+                        <a href="{{route('about.hensel-phelps-ranked-top-100-companies')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2018/08/Reduced-Size-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -4936,7 +4936,7 @@
                         </a>
                     </div>
                     <div class="post-box event">
-                        <a href="{{route('about.leadership-engages-small-businesses-at-tap-2018">
+                        <a href="{{route('about.leadership-engages-small-businesses-at-tap-2018')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2018/08/TAPCrew_Websized-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -4960,7 +4960,7 @@
                         </a>
                     </div>
                     <div class="post-box community">
-                        <a href="{{route('about.16th-annual-women-construction-industry-reception-wcir">
+                        <a href="{{route('about.16th-annual-women-construction-industry-reception-wcir')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2018/08/WCIR-Website-Article-01-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -4984,7 +4984,7 @@
                         </a>
                     </div>
                     <div class="post-box community">
-                        <a href="{{route('about.norcal-high-school-students-participate-in-externship-program">
+                        <a href="{{route('about.norcal-high-school-students-participate-in-externship-program')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2018/07/Will-Students-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -5008,7 +5008,7 @@
                         </a>
                     </div>
                     <div class="post-box award">
-                        <a href="{{route('about.assp-presents-2018-safety-management-honorable-mention-award">
+                        <a href="{{route('about.assp-presents-2018-safety-management-honorable-mention-award')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2018/07/ASSE-Safety-Management-Innovation-Award-Nomination-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -5033,7 +5033,7 @@
                     </div>
                     <div class="post-box project">
                         <a
-                            href="{{route('about.nashville-international-airport-concourse-d-terminal-wings-expansion-project-breaks-ground">
+                            href="{{route('about.nashville-international-airport-concourse-d-terminal-wings-expansion-project-breaks-ground')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2018/07/062018-BNA-TermD-037-smaller-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -5058,7 +5058,7 @@
                     </div>
                     <div class="post-box project">
                         <a
-                            href="{{route('about.hensel-phelps-awarded-marriott-international-headquarters-and-hotel-project">
+                            href="{{route('about.hensel-phelps-awarded-marriott-international-headquarters-and-hotel-project')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2018/06/website-image.jpg') }});">
                                 <img width="311" height="225"
@@ -5082,7 +5082,7 @@
                         </a>
                     </div>
                     <div class="post-box event">
-                        <a href="{{route('about.2018-womens-leadership-seminar-wls">
+                        <a href="{{route('about.2018-womens-leadership-seminar-wls')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2018/05/Hensel-Phelps-Women-Leadership-Construction-Event-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -5107,7 +5107,7 @@
                     </div>
                     <div class="post-box project">
                         <a
-                            href="{{route('about.hensel-phelps-awarded-curbside-expansion-program-tampa-international-airport">
+                            href="{{route('about.hensel-phelps-awarded-curbside-expansion-program-tampa-international-airport')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2018/06/2017_04-12-ROADWAY-BLUE-Rendering-REV1-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -5131,7 +5131,7 @@
                         </a>
                     </div>
                     <div class="post-box career">
-                        <a href="{{route('about.the-oldtimers-tradition">
+                        <a href="{{route('about.the-oldtimers-tradition')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2018/05/woodwall_resized-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -5157,7 +5157,7 @@
                         </a>
                     </div>
                     <div class="post-box project">
-                        <a href="{{route('about.hensel-phelps-enhancing-tampa-international-airport">
+                        <a href="{{route('about.hensel-phelps-enhancing-tampa-international-airport')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/themes/henselphelps/img/default.jpg') }});">
                                 <img src="{{ asset('wp-content/themes/henselphelps/img/default.jpg') }}">
@@ -5178,7 +5178,7 @@
                         </a>
                     </div>
                     <div class="post-box special announcement">
-                        <a href="{{route('about.hensel-phelps-celebrates-construction-safety-week-2018">
+                        <a href="{{route('about.hensel-phelps-celebrates-construction-safety-week-2018')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2018/05/Hensel-Phelps-Safety-Week-2018-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -5202,7 +5202,7 @@
                         </a>
                     </div>
                     <div class="post-box community">
-                        <a href="{{route('about.qa-emerging-10-small-business-program-participant-lisa-williams">
+                        <a href="{{route('about.qa-emerging-10-small-business-program-participant-lisa-williams')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2018/05/LisaGraphic_Website-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -5226,7 +5226,7 @@
                         </a>
                     </div>
                     <div class="post-box award">
-                        <a href="{{route('about.hensel-phelps-awarded-2018-dwight-d-eisenhower-award-excellence">
+                        <a href="{{route('about.hensel-phelps-awarded-2018-dwight-d-eisenhower-award-excellence')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2018/05/FridayGraphic_Website-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -5250,7 +5250,7 @@
                         </a>
                     </div>
                     <div class="post-box community">
-                        <a href="{{route('about.hensel-phelps-technical-assistance-program-tap">
+                        <a href="{{route('about.hensel-phelps-technical-assistance-program-tap')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2018/05/Hensel-Phelps-TAP-Program-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -5274,7 +5274,7 @@
                         </a>
                     </div>
                     <div class="post-box special announcement">
-                        <a href="{{route('about.hensel-phelps-celebrates-national-small-business-week">
+                        <a href="{{route('about.hensel-phelps-celebrates-national-small-business-week')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2018/04/MondayGraphic_Website-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -5298,7 +5298,7 @@
                         </a>
                     </div>
                     <div class="post-box award">
-                        <a href="{{route('about.hensel-phelps-named-best-place-work">
+                        <a href="{{route('about.hensel-phelps-named-best-place-work')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2018/04/HB1803-dc-BestPlacestoWork-5987-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -5323,7 +5323,7 @@
                     </div>
                     <div class="post-box award">
                         <a
-                            href="{{route('about.bob-majerus-named-chair-year-associated-general-contractors-america">
+                            href="{{route('about.bob-majerus-named-chair-year-associated-general-contractors-america')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2018/04/Bob-Majerus-Hensel-Phelps-480x320.png') }});">
                                 <img width="311" height="225"
@@ -5348,7 +5348,7 @@
                     </div>
                     <div class="post-box project">
                         <a
-                            href="{{route('about.contra-costa-county-selects-hensel-phelps-new-administration-building-emergency-operations-center">
+                            href="{{route('about.contra-costa-county-selects-hensel-phelps-new-administration-building-emergency-operations-center')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2018/04/CCC-Rendering_Page_1-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -5373,7 +5373,7 @@
                         </a>
                     </div>
                     <div class="post-box special announcement">
-                        <a href="{{route('about.welcome-hensel-phelps-award-winning-website">
+                        <a href="{{route('about.welcome-hensel-phelps-award-winning-website')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2018/03/HP-device-mockup-480x320.png') }});">
                                 <img width="311" height="225"
@@ -5399,7 +5399,7 @@
                     </div>
                     <div class="post-box award">
                         <a
-                            href="{{route('about.hensel-phelps-awarded-sixth-consecutive-national-diversity-excellence-award">
+                            href="{{route('about.hensel-phelps-awarded-sixth-consecutive-national-diversity-excellence-award')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2018/03/2017-Award-Acceptance-2-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -5424,7 +5424,7 @@
                     </div>
                     <div class="post-box project">
                         <a
-                            href="{{route('about.hensel-phelps-awarded-san-francisco-international-airport-courtyard-3-connector">
+                            href="{{route('about.hensel-phelps-awarded-san-francisco-international-airport-courtyard-3-connector')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2018/03/C3C-Final-Render_FINAL2-1-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -5448,7 +5448,7 @@
                         </a>
                     </div>
                     <div class="post-box special announcement">
-                        <a href="{{route('about.hensel-phelps-launches-security-awareness-campaign">
+                        <a href="{{route('about.hensel-phelps-launches-security-awareness-campaign')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2018/03/Article-header-graphic_700x400-01-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -5472,7 +5472,7 @@
                         </a>
                     </div>
                     <div class="post-box project">
-                        <a href="{{route('about.hensel-phelps-lands-303m-project-tampa-international-airport">
+                        <a href="{{route('about.hensel-phelps-lands-303m-project-tampa-international-airport')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2018/03/TPA1-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -5496,7 +5496,7 @@
                         </a>
                     </div>
                     <div class="post-box community">
-                        <a href="{{route('about.women-construction-week-2018">
+                        <a href="{{route('about.women-construction-week-2018')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2018/03/WIC-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -5522,7 +5522,7 @@
                         </a>
                     </div>
                     <div class="post-box project">
-                        <a href="{{route('about.hensel-phelps-awarded-schofield-behavioral-healthdental-clinic">
+                        <a href="{{route('about.hensel-phelps-awarded-schofield-behavioral-healthdental-clinic')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2018/03/Schofield-web-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -5547,7 +5547,7 @@
                     </div>
                     <div class="post-box project">
                         <a
-                            href="{{route('about.368-million-southern-california-consolidation-project-california-air-resources-board-awarded-hensel-phelps">
+                            href="{{route('about.368-million-southern-california-consolidation-project-california-air-resources-board-awarded-hensel-phelps')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2018/02/DGS_CARB_PR_Entrance.jpg') }});">
                                 <img width="311" height="225"
@@ -5571,7 +5571,7 @@
                         </a>
                     </div>
                     <div class="post-box project">
-                        <a href="{{route('about.hensel-phelps-awarded-hawaii-state-hospital-project">
+                        <a href="{{route('about.hensel-phelps-awarded-hawaii-state-hospital-project')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2018/02/Hensel-Phelps-Hawaii-State-Hospital-Announcement-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -5595,7 +5595,7 @@
                         </a>
                     </div>
                     <div class="post-box project">
-                        <a href="{{route('about.hensel-phelps-headed-music-city">
+                        <a href="{{route('about.hensel-phelps-headed-music-city')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2018/01/Nashville-Combined-Press-Release-Image-FINAL-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -5619,7 +5619,7 @@
                         </a>
                     </div>
                     <div class="post-box career">
-                        <a href="{{route('about.hensel-phelps-board-directors-announces-promotion">
+                        <a href="{{route('about.hensel-phelps-board-directors-announces-promotion')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2018/01/Hensel_phelps_special_announcement-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -5644,7 +5644,7 @@
                     </div>
                     <div class="post-box project">
                         <a
-                            href="{{route('about.hensel-phelps-mithun-design-build-team-awarded-211-million-nuevo-east-graduate-student-housing-uc-san-diego">
+                            href="{{route('about.hensel-phelps-mithun-design-build-team-awarded-211-million-nuevo-east-graduate-student-housing-uc-san-diego')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/12/UCSD_Ph3_Student_Housing_Hensel_Phelps_002-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -5668,7 +5668,7 @@
                         </a>
                     </div>
                     <div class="post-box community">
-                        <a href="{{route('about.hensel-phelps-holds-7th-annual-thanksgiving-turkey-giveaway">
+                        <a href="{{route('about.hensel-phelps-holds-7th-annual-thanksgiving-turkey-giveaway')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/11/Turkey-Giveaway-Website-Image-480x320.png') }});">
                                 <img width="311" height="225"
@@ -5694,7 +5694,7 @@
                     </div>
                     <div class="post-box project">
                         <a
-                            href="{{route('about.hensel-phelps-completes-south-automated-people-mover-apm-complex-parking-garage-c-orlando-international-airport">
+                            href="{{route('about.hensel-phelps-completes-south-automated-people-mover-apm-complex-parking-garage-c-orlando-international-airport')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/11/ext-2-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -5718,7 +5718,7 @@
                         </a>
                     </div>
                     <div class="post-box award">
-                        <a href="{{route('about.hensel-phelps-wins-2017-design-build-project-of-the-year-award">
+                        <a href="{{route('about.hensel-phelps-wins-2017-design-build-project-of-the-year-award')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/11/DBIA-PR-Collage-2.png') }});">
                                 <img width="311" height="225"
@@ -5742,7 +5742,7 @@
                         </a>
                     </div>
                     <div class="post-box community">
-                        <a href="{{route('about.hensel-phelps-annual-halloween-golf-tournament-raises-80k">
+                        <a href="{{route('about.hensel-phelps-annual-halloween-golf-tournament-raises-80k')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/11/171031_SoCal-Halloween-Golf-Tourney_Group-Photo_3-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -5766,7 +5766,7 @@
                         </a>
                     </div>
                     <div class="post-box community">
-                        <a href="{{route('about.hensel-phelps-releases-commit-safety-promotional-video">
+                        <a href="{{route('about.hensel-phelps-releases-commit-safety-promotional-video')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/10/Commit-Digital-Sign-480x320.png') }});">
                                 <img width="311" height="225"
@@ -5790,7 +5790,7 @@
                         </a>
                     </div>
                     <div class="post-box award">
-                        <a href="{{route('about.enr-national-selects-top-20-40-standouts">
+                        <a href="{{route('about.enr-national-selects-top-20-40-standouts')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/09/Derek-Hoffine-Colllage-NEW-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -5815,7 +5815,7 @@
                     </div>
                     <div class="post-box award">
                         <a
-                            href="{{route('about.hensel-phelps-accepts-2017-secretary-defense-employer-support-freedom-award">
+                            href="{{route('about.hensel-phelps-accepts-2017-secretary-defense-employer-support-freedom-award')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/09/ESFA-2a-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -5840,7 +5840,7 @@
                     </div>
                     <div class="post-box event">
                         <a
-                            href="{{route('about.hensel-phelps-northern-california-holds-annual-field-engineer-bootcamp">
+                            href="{{route('about.hensel-phelps-northern-california-holds-annual-field-engineer-bootcamp')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/09/Bootcamp-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -5864,7 +5864,7 @@
                         </a>
                     </div>
                     <div class="post-box community">
-                        <a href="{{route('about.hensel-phelps-releases-connect-safety-promotional-video">
+                        <a href="{{route('about.hensel-phelps-releases-connect-safety-promotional-video')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/09/Connect-Digital-Sign-480x320.png') }});">
                                 <img width="311" height="225"
@@ -5888,7 +5888,7 @@
                         </a>
                     </div>
                     <div class="post-box award">
-                        <a href="{{route('about.hensel-phelps-honored-dbia-national-award-merit">
+                        <a href="{{route('about.hensel-phelps-honored-dbia-national-award-merit')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/08/SEDO_4_website_605_340-480x320.png') }});">
                                 <img width="311" height="225"
@@ -5912,7 +5912,7 @@
                         </a>
                     </div>
                     <div class="post-box award">
-                        <a href="{{route('about.hensel-phelps-wins-national-smps-marketing-communications-awards">
+                        <a href="{{route('about.hensel-phelps-wins-national-smps-marketing-communications-awards')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/08/MCA_Website_Graphic_605_340-480x320.png') }});">
                                 <img width="311" height="225"
@@ -5937,7 +5937,7 @@
                     </div>
                     <div class="post-box award">
                         <a
-                            href="{{route('about.hensel-phelps-mithun-design-build-team-awarded-middle-earth-expansion-student-housing-uc-irvine">
+                            href="{{route('about.hensel-phelps-mithun-design-build-team-awarded-middle-earth-expansion-student-housing-uc-irvine')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/06/Hensel-PhelpsMithun_UCI-Middle-Earth-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -5961,7 +5961,7 @@
                         </a>
                     </div>
                     <div class="post-box award">
-                        <a href="{{route('about.hensel-phelps-receives-2017-employer-support-freedom-award">
+                        <a href="{{route('about.hensel-phelps-receives-2017-employer-support-freedom-award')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/08/ESFA_Website_605_340-480x320.png') }});">
                                 <img width="311" height="225"
@@ -5985,7 +5985,7 @@
                         </a>
                     </div>
                     <div class="post-box community">
-                        <a href="{{route('about.real-estate-business-community">
+                        <a href="{{route('about.real-estate-business-community')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/SAFE_Graphic_for_Website_605_340-480x320.png') }});">
                                 <img width="311" height="225"
@@ -6009,7 +6009,7 @@
                         </a>
                     </div>
                     <div class="post-box event">
-                        <a href="{{route('about.what-lessons-can-project-successful">
+                        <a href="{{route('about.what-lessons-can-project-successful')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/04/80_years_for_website.jpeg_605_340-480x320.png') }});">
                                 <img width="311" height="225"
@@ -6033,7 +6033,7 @@
                         </a>
                     </div>
                     <div class="post-box event">
-                        <a href="{{route('about.careers-at-school-of-global-management">
+                        <a href="{{route('about.careers-at-school-of-global-management')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/01/80th_Year_605_340-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -6057,7 +6057,7 @@
                         </a>
                     </div>
                     <div class="post-box career">
-                        <a href="{{route('about.a-project-on-discovery-of-artificial-intelligence">
+                        <a href="{{route('about.a-project-on-discovery-of-artificial-intelligence')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/01/Jan_17_Promo_Collage2.jpg') }});">
                                 <img width="311" height="225"
@@ -6081,7 +6081,7 @@
                         </a>
                     </div>
                     <div class="post-box project">
-                        <a href="{{route('about.vip-live-dreams">
+                        <a href="{{route('about.vip-live-dreams')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/01/Nuevo_West_605_340-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -6105,7 +6105,7 @@
                         </a>
                     </div>
                     <div class="post-box project">
-                        <a href="{{route('about.careers">
+                        <a href="{{route('about.careers')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/02/Careers-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -6129,7 +6129,7 @@
                         </a>
                     </div>
                     <div class="post-box project">
-                        <a href="{{route('about.tanzania-sports-and-culture-consultant">
+                        <a href="{{route('about.tanzania-sports-and-culture-consultant')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2016/10/UTEP_605_340-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -6153,7 +6153,7 @@
                         </a>
                     </div>
                     <div class="post-box project">
-                        <a href="{{route('about.posh-party-planners">
+                        <a href="{{route('about.posh-party-planners')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2016/10/NIST_605_340-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -6177,7 +6177,7 @@
                         </a>
                     </div>
                     <div class="post-box project">
-                        <a href="{{route('about.a-project-on-discovery-of-intelligence">
+                        <a href="{{route('about.a-project-on-discovery-of-intelligence')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2016/09/Bethune-Cookman_Graphic_605_340-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -6201,7 +6201,7 @@
                         </a>
                     </div>
                     <div class="post-box award">
-                        <a href="{{route('about.bs-best-b-school-project-award">
+                        <a href="{{route('about.bs-best-b-school-project-award')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2016/08/HP_Top_100_Graphic_605_340-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -6225,7 +6225,7 @@
                         </a>
                     </div>
                     <div class="post-box award">
-                        <a href="{{route('about.hensel-phelps-abia-east-infill-project-wins-enr-merit-award">
+                        <a href="{{route('about.hensel-phelps-abia-east-infill-project-wins-enr-merit-award')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/ABIA_Graphic_605_340-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -6249,7 +6249,7 @@
                         </a>
                     </div>
                     <div class="post-box award">
-                        <a href="{{route('about.hensel-phelps-wins-best-airportstransit-project-award">
+                        <a href="{{route('about.hensel-phelps-wins-best-airportstransit-project-award')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/image1-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -6273,7 +6273,7 @@
                         </a>
                     </div>
                     <div class="post-box project">
-                        <a href="{{route('about.hensel-phelps-successfully-moves-historic-structure-washington-d-c">
+                        <a href="{{route('about.hensel-phelps-successfully-moves-historic-structure-washington-d-c')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/image2-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -6297,7 +6297,7 @@
                         </a>
                     </div>
                     <div class="post-box event">
-                        <a href="{{route('about.hilton-grand-islander-project-tops">
+                        <a href="{{route('about.hilton-grand-islander-project-tops')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/image3-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -6321,7 +6321,7 @@
                         </a>
                     </div>
                     <div class="post-box award">
-                        <a href="{{route('about.hensel-phelps-safety-director-receives-bcsp-award-excellence">
+                        <a href="{{route('about.hensel-phelps-safety-director-receives-bcsp-award-excellence')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/image5-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -6345,7 +6345,7 @@
                         </a>
                     </div>
                     <div class="post-box award">
-                        <a href="{{route('about.hensel-phelps-team-wins-two-dbia-western-pacific-region-awards">
+                        <a href="{{route('about.hensel-phelps-team-wins-two-dbia-western-pacific-region-awards')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/image4-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -6369,7 +6369,7 @@
                         </a>
                     </div>
                     <div class="post-box award">
-                        <a href="{{route('about.hensel-phelps-given-three-esgr-awards">
+                        <a href="{{route('about.hensel-phelps-given-three-esgr-awards')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/image6-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -6393,7 +6393,7 @@
                         </a>
                     </div>
                     <div class="post-box career">
-                        <a href="{{route('about.hensel-phelps-board-directors-announces-promotions">
+                        <a href="{{route('about.hensel-phelps-board-directors-announces-promotions')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/themes/henselphelps/img/default.jpg') }});">
                                 <img src="{{ asset('wp-content/themes/henselphelps/img/default.jpg') }}">
@@ -6414,7 +6414,7 @@
                         </a>
                     </div>
                     <div class="post-box project">
-                        <a href="{{route('about.hensel-phelps-awarded-second-fire-protection-repairs-task-order">
+                        <a href="{{route('about.hensel-phelps-awarded-second-fire-protection-repairs-task-order')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/image1-480x320.png') }});">
                                 <img width="311" height="225"
@@ -6438,7 +6438,7 @@
                         </a>
                     </div>
                     <div class="post-box award">
-                        <a href="{{route('about.hensel-phelps-wins-asse-large-contractor-award">
+                        <a href="{{route('about.hensel-phelps-wins-asse-large-contractor-award')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/image7-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -6462,7 +6462,7 @@
                         </a>
                     </div>
                     <div class="post-box award">
-                        <a href="{{route('about.william-p-hobby-airport-project-wins-landmark-award">
+                        <a href="{{route('about.william-p-hobby-airport-project-wins-landmark-award')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/image2-480x320.png') }});">
                                 <img width="311" height="225"
@@ -6486,7 +6486,7 @@
                         </a>
                     </div>
                     <div class="post-box community">
-                        <a href="{{route('about.hensel-phelps-supports-safety-week-2016">
+                        <a href="{{route('about.hensel-phelps-supports-safety-week-2016')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/image3-480x320.png') }});">
                                 <img width="311" height="225"
@@ -6510,7 +6510,7 @@
                         </a>
                     </div>
                     <div class="post-box event">
-                        <a href="{{route('about.hensel-phelps-demolishes-former-nasa-building">
+                        <a href="{{route('about.hensel-phelps-demolishes-former-nasa-building')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/image8-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -6534,7 +6534,7 @@
                         </a>
                     </div>
                     <div class="post-box event">
-                        <a href="{{route('about.hensel-phelps-turns-lax-t1-west-terminal">
+                        <a href="{{route('about.hensel-phelps-turns-lax-t1-west-terminal')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/image9-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -6559,7 +6559,7 @@
                     </div>
                     <div class="post-box project">
                         <a
-                            href="{{route('about.hensel-phelps-awarded-fire-protection-repairs-task-order-little-rock-afb">
+                            href="{{route('about.hensel-phelps-awarded-fire-protection-repairs-task-order-little-rock-afb')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/image4-480x320.png') }});">
                                 <img width="311" height="225"
@@ -6583,7 +6583,7 @@
                         </a>
                     </div>
                     <div class="post-box project">
-                        <a href="{{route('about.work-continues-orlando-international-airport">
+                        <a href="{{route('about.work-continues-orlando-international-airport')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/image5-480x320.png') }});">
                                 <img width="311" height="225"
@@ -6607,7 +6607,7 @@
                         </a>
                     </div>
                     <div class="post-box award">
-                        <a href="{{route('about.yolo-superior-courthouse-earns-leed-silver-certification">
+                        <a href="{{route('about.yolo-superior-courthouse-earns-leed-silver-certification')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/image6-480x320.png') }});">
                                 <img width="311" height="225"
@@ -6631,7 +6631,7 @@
                         </a>
                     </div>
                     <div class="post-box project">
-                        <a href="{{route('about.hensel-phelps-wins-agc-alliant-build-america-award">
+                        <a href="{{route('about.hensel-phelps-wins-agc-alliant-build-america-award')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/image7-480x320.png') }});">
                                 <img width="311" height="225"
@@ -6655,7 +6655,7 @@
                         </a>
                     </div>
                     <div class="post-box award">
-                        <a href="{{route('about.university-arizona-cancer-center-team-receives-red-award">
+                        <a href="{{route('about.university-arizona-cancer-center-team-receives-red-award')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/image8-480x320.png') }});">
                                 <img width="311" height="225"
@@ -6679,7 +6679,7 @@
                         </a>
                     </div>
                     <div class="post-box award">
-                        <a href="{{route('about.slac-susb-earns-leed-gold-certification">
+                        <a href="{{route('about.slac-susb-earns-leed-gold-certification')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/image9-480x320.png') }});">
                                 <img width="311" height="225"
@@ -6703,7 +6703,7 @@
                         </a>
                     </div>
                     <div class="post-box award">
-                        <a href="{{route('about.hensel-phelps-abia-team-wins-outstanding-construction-award">
+                        <a href="{{route('about.hensel-phelps-abia-team-wins-outstanding-construction-award')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/image10-480x320.png') }});">
                                 <img width="311" height="225"
@@ -6728,7 +6728,7 @@
                         </a>
                     </div>
                     <div class="post-box community">
-                        <a href="{{route('about.hensel-phelps-supports-brown-santa-program">
+                        <a href="{{route('about.hensel-phelps-supports-brown-santa-program')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/image10-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -6753,7 +6753,7 @@
                     </div>
                     <div class="post-box project">
                         <a
-                            href="{{route('about.hensel-phelps-design-partners-selected-sharp-chula-vista-medical-center-ocean-view-tower">
+                            href="{{route('about.hensel-phelps-design-partners-selected-sharp-chula-vista-medical-center-ocean-view-tower')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/image11-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -6777,7 +6777,7 @@
                         </a>
                     </div>
                     <div class="post-box project">
-                        <a href="{{route('about.hensel-phelps-awarded-cmar-contract-austin-bergstrom-airport">
+                        <a href="{{route('about.hensel-phelps-awarded-cmar-contract-austin-bergstrom-airport')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/image12-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -6802,7 +6802,7 @@
                         </a>
                     </div>
                     <div class="post-box award">
-                        <a href="{{route('about.hensel-phelps-wins-design-build-project-year-award">
+                        <a href="{{route('about.hensel-phelps-wins-design-build-project-year-award')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/image13-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -6826,7 +6826,7 @@
                         </a>
                     </div>
                     <div class="post-box event">
-                        <a href="{{route('about.hensel-phelps-breaks-ground-denver-health-site">
+                        <a href="{{route('about.hensel-phelps-breaks-ground-denver-health-site')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/image14-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -6850,7 +6850,7 @@
                         </a>
                     </div>
                     <div class="post-box project">
-                        <a href="{{route('about.hensel-phelps-awarded-design-build-idiq-contract">
+                        <a href="{{route('about.hensel-phelps-awarded-design-build-idiq-contract')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/image15-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -6875,7 +6875,7 @@
                         </a>
                     </div>
                     <div class="post-box award">
-                        <a href="{{route('about.hensel-phelps-federal-building-project-wins-multiple-awards">
+                        <a href="{{route('about.hensel-phelps-federal-building-project-wins-multiple-awards')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/image16-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -6899,7 +6899,7 @@
                         </a>
                     </div>
                     <div class="post-box award">
-                        <a href="{{route('about.hensel-phelps-mlpoe-project-receives-two-awards">
+                        <a href="{{route('about.hensel-phelps-mlpoe-project-receives-two-awards')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/image17-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -6923,7 +6923,7 @@
                         </a>
                     </div>
                     <div class="post-box project">
-                        <a href="{{route('about.hensel-phelps-awarded-university-medical-center-expansion">
+                        <a href="{{route('about.hensel-phelps-awarded-university-medical-center-expansion')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/image18-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -6947,7 +6947,7 @@
                         </a>
                     </div>
                     <div class="post-box project">
-                        <a href="{{route('about.hensel-phelps-completes-first-project-marine-corps-base-hawaii">
+                        <a href="{{route('about.hensel-phelps-completes-first-project-marine-corps-base-hawaii')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/image19-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -6971,7 +6971,7 @@
                         </a>
                     </div>
                     <div class="post-box project">
-                        <a href="{{route('about.hensel-phelps-increase-utility-capacity-fort-meade">
+                        <a href="{{route('about.hensel-phelps-increase-utility-capacity-fort-meade')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/themes/henselphelps/img/default.jpg') }});">
                                 <img src="{{ asset('wp-content/themes/henselphelps/img/default.jpg') }}">
@@ -6992,7 +6992,7 @@
                         </a>
                     </div>
                     <div class="post-box event">
-                        <a href="{{route('about.hensel-phelps-turns-new-gate-lax">
+                        <a href="{{route('about.hensel-phelps-turns-new-gate-lax')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/image20-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -7016,7 +7016,7 @@
                         </a>
                     </div>
                     <div class="post-box community">
-                        <a href="{{route('about.hensel-phelps-supports-big-brother-big-sister">
+                        <a href="{{route('about.hensel-phelps-supports-big-brother-big-sister')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/image21-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -7040,7 +7040,7 @@
                         </a>
                     </div>
                     <div class="post-box community">
-                        <a href="{{route('about.hensel-phelps-serves-maui-community">
+                        <a href="{{route('about.hensel-phelps-serves-maui-community')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/image22-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -7064,7 +7064,7 @@
                         </a>
                     </div>
                     <div class="post-box event">
-                        <a href="{{route('about.hensel-phelps-breaks-ground-uc-san-diego-student-housing">
+                        <a href="{{route('about.hensel-phelps-breaks-ground-uc-san-diego-student-housing')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/image23-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -7088,7 +7088,7 @@
                         </a>
                     </div>
                     <div class="post-box project">
-                        <a href="{{route('about.hensel-phelps-helping-bring-residence-inn-marriott-johns-hopkins">
+                        <a href="{{route('about.hensel-phelps-helping-bring-residence-inn-marriott-johns-hopkins')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/image12-480x320.png') }});">
                                 <img width="311" height="225"
@@ -7113,7 +7113,7 @@
                     </div>
                     <div class="post-box project">
                         <a
-                            href="{{route('about.hensel-phelps-awarded-contract-national-historic-civil-engineering-landmark">
+                            href="{{route('about.hensel-phelps-awarded-contract-national-historic-civil-engineering-landmark')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/image13-480x320.png') }});">
                                 <img width="311" height="225"
@@ -7137,7 +7137,7 @@
                         </a>
                     </div>
                     <div class="post-box project">
-                        <a href="{{route('about.hensel-phelps-completes-advanced-cancer-center">
+                        <a href="{{route('about.hensel-phelps-completes-advanced-cancer-center')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/image24-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -7161,7 +7161,7 @@
                         </a>
                     </div>
                     <div class="post-box project">
-                        <a href="{{route('about.hensel-phelps-awarded-kailua-regional-wastewater-treatment-plant">
+                        <a href="{{route('about.hensel-phelps-awarded-kailua-regional-wastewater-treatment-plant')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/image25-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -7185,7 +7185,7 @@
                         </a>
                     </div>
                     <div class="post-box community">
-                        <a href="{{route('about.hensel-phelps-donates-school-supplies">
+                        <a href="{{route('about.hensel-phelps-donates-school-supplies')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/image26-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -7209,7 +7209,7 @@
                         </a>
                     </div>
                     <div class="post-box project">
-                        <a href="{{route('about.hensel-helps-build-911-memorial-kennedy-space-center">
+                        <a href="{{route('about.hensel-helps-build-911-memorial-kennedy-space-center')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/image14-480x320.png') }});">
                                 <img width="311" height="225"
@@ -7233,7 +7233,7 @@
                         </a>
                     </div>
                     <div class="post-box award">
-                        <a href="{{route('about.citywalk-wins-excellence-construction-award">
+                        <a href="{{route('about.citywalk-wins-excellence-construction-award')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/image27-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -7257,7 +7257,7 @@
                         </a>
                     </div>
                     <div class="post-box community">
-                        <a href="{{route('about.bethune-cookman-team-gives-back">
+                        <a href="{{route('about.bethune-cookman-team-gives-back')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/image28-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -7281,7 +7281,7 @@
                         </a>
                     </div>
                     <div class="post-box project">
-                        <a href="{{route('about.hensel-phelps-awarded-slac-tso-contract">
+                        <a href="{{route('about.hensel-phelps-awarded-slac-tso-contract')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/2012076-Social_Security_Administration_National_Support_Center_SSA_NSC-005_ExtraLarge_605_370-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -7305,7 +7305,7 @@
                         </a>
                     </div>
                     <div class="post-box project">
-                        <a href="{{route('about.hensel-phelps-awarded-pena-station-phase-1">
+                        <a href="{{route('about.hensel-phelps-awarded-pena-station-phase-1')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/Pena_Station_Aviation_Station-cropped2_605_399-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -7330,7 +7330,7 @@
                     </div>
                     <div class="post-box event">
                         <a
-                            href="{{route('about.environment-natural-resources-phase-2-enr2-reaches-substantial-completion">
+                            href="{{route('about.environment-natural-resources-phase-2-enr2-reaches-substantial-completion')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/ENR2_605_339-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -7355,7 +7355,7 @@
                     </div>
                     <div class="post-box award">
                         <a
-                            href="{{route('about.hensel-phelps-named-2015-large-general-contractor-year-associated-subcontractors-alliance">
+                            href="{{route('about.hensel-phelps-named-2015-large-general-contractor-year-associated-subcontractors-alliance')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/COMBO_605_605-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -7379,7 +7379,7 @@
                         </a>
                     </div>
                     <div class="post-box event">
-                        <a href="{{route('about.hensel-phelps-coming-national-mall">
+                        <a href="{{route('about.hensel-phelps-coming-national-mall')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/HP_On_the_Mall_-_Twitter_Post_605_365-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -7403,7 +7403,7 @@
                         </a>
                     </div>
                     <div class="post-box event">
-                        <a href="{{route('about.uci-mesa-court-tops">
+                        <a href="{{route('about.uci-mesa-court-tops')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/UCI2_605_454-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -7427,7 +7427,7 @@
                         </a>
                     </div>
                     <div class="post-box community">
-                        <a href="{{route('about.investing-in-the-community">
+                        <a href="{{route('about.investing-in-the-community')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/Group_Photo_Adjusted.jpg_605_379-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -7451,7 +7451,7 @@
                         </a>
                     </div>
                     <div class="post-box award">
-                        <a href="{{route('about.star-alliance-lounge-voted-best-alliance-lounge-skytrax">
+                        <a href="{{route('about.star-alliance-lounge-voted-best-alliance-lounge-skytrax')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/Star_Alliance_605_454-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -7475,7 +7475,7 @@
                         </a>
                     </div>
                     <div class="post-box project">
-                        <a href="{{route('about.hensel-phelps-boys-girls-clubs-weld-county">
+                        <a href="{{route('about.hensel-phelps-boys-girls-clubs-weld-county')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/Boys_and_girls_605_296.png') }});">
                                 <img width="311" height="225"
@@ -7499,7 +7499,7 @@
                         </a>
                     </div>
                     <div class="post-box award">
-                        <a href="{{route('about.san-ysidro-achieves-leed-platinum">
+                        <a href="{{route('about.san-ysidro-achieves-leed-platinum')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/MikkiPiper_San_Ysidro_43_605_359-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -7523,7 +7523,7 @@
                         </a>
                     </div>
                     <div class="post-box community">
-                        <a href="{{route('about.hensel-phelps-donates-3000-pounds-food">
+                        <a href="{{route('about.hensel-phelps-donates-3000-pounds-food')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/DSC_0341_605_907-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -7547,7 +7547,7 @@
                         </a>
                     </div>
                     <div class="post-box community">
-                        <a href="{{route('about.hensel-phelps-supports-glaaacc">
+                        <a href="{{route('about.hensel-phelps-supports-glaaacc')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/Hensel_Phelps_GLAAACC_04.02.15_605_388-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -7571,7 +7571,7 @@
                         </a>
                     </div>
                     <div class="post-box event">
-                        <a href="{{route('about.denvers-union-tower-west-breaks-ground">
+                        <a href="{{route('about.denvers-union-tower-west-breaks-ground')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/Union_Tower_West_605_430-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -7595,7 +7595,7 @@
                         </a>
                     </div>
                     <div class="post-box project">
-                        <a href="{{route('about.hensel-phelps-renovates-royal-hawaiian">
+                        <a href="{{route('about.hensel-phelps-renovates-royal-hawaiian')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/Royal_Hawaiian.png') }});">
                                 <img width="220" height="225"
@@ -7620,7 +7620,7 @@
                     </div>
                     <div class="post-box event">
                         <a
-                            href="{{route('about.hensel-phelps-cbic-topping-ceremony-william-p-hobby-international-expansion">
+                            href="{{route('about.hensel-phelps-cbic-topping-ceremony-william-p-hobby-international-expansion')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2015/01/Hobby_1_960_605_135-1-480x320.png') }});">
                                 <img width="311" height="225"
@@ -7645,7 +7645,7 @@
                     </div>
                     <div class="post-box award">
                         <a
-                            href="{{route('about.armed-forces-retirement-home-new-commons-healthcare-center-achieves-leed-platinum-certification">
+                            href="{{route('about.armed-forces-retirement-home-new-commons-healthcare-center-achieves-leed-platinum-certification')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/themes/henselphelps/img/default.jpg') }});">
                                 <img src="{{ asset('wp-content/themes/henselphelps/img/default.jpg') }}">
@@ -7667,7 +7667,7 @@
                     </div>
                     <div class="post-box award">
                         <a
-                            href="{{route('about.agc-california-recognizes-hensel-phelps-safety-personnel-performance">
+                            href="{{route('about.agc-california-recognizes-hensel-phelps-safety-personnel-performance')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/themes/henselphelps/img/default.jpg') }});">
                                 <img src="{{ asset('wp-content/themes/henselphelps/img/default.jpg') }}">
@@ -7689,7 +7689,7 @@
                     </div>
                     <div class="post-box career">
                         <a
-                            href="{{route('about.student-produces-video-documentary-hensel-phelps-summer-internship-experience">
+                            href="{{route('about.student-produces-video-documentary-hensel-phelps-summer-internship-experience')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2014/10/image004.jpg') }});">
                                 <img width="311" height="225"
@@ -7714,7 +7714,7 @@
                     </div>
                     <div class="post-box award">
                         <a
-                            href="{{route('about.hensel-phelps-wins-design-build-national-award-excellence-healthcare">
+                            href="{{route('about.hensel-phelps-wins-design-build-national-award-excellence-healthcare')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/themes/henselphelps/img/default.jpg') }});">
                                 <img src="{{ asset('wp-content/themes/henselphelps/img/default.jpg') }}">
@@ -7735,7 +7735,7 @@
                         </a>
                     </div>
                     <div class="post-box event">
-                        <a href="{{route('about.east-county-hall-justice-breaks-ground-dublin-ca">
+                        <a href="{{route('about.east-county-hall-justice-breaks-ground-dublin-ca')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/M.b_Site_Layout_rendering_605_340-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -7760,7 +7760,7 @@
                     </div>
                     <div class="post-box award">
                         <a
-                            href="{{route('about.air-force-technical-application-center-receives-national-design-build-award">
+                            href="{{route('about.air-force-technical-application-center-receives-national-design-build-award')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/2014_airforcetechnical_lg_605_485-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -7786,7 +7786,7 @@
                     </div>
                     <div class="post-box event">
                         <a
-                            href="{{route('about.hensel-phelps-tops-kaiser-permanente-san-diego-hospital-medical-center">
+                            href="{{route('about.hensel-phelps-tops-kaiser-permanente-san-diego-hospital-medical-center')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/20140925_KPSD_Topping_Out.jpg_605_403-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -7811,7 +7811,7 @@
                     </div>
                     <div class="post-box project">
                         <a
-                            href="{{route('about.hensel-phelps-southwest-airlines-team-kicks-off-lax-terminal-1-project">
+                            href="{{route('about.hensel-phelps-southwest-airlines-team-kicks-off-lax-terminal-1-project')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/SW_LAX_ground_605_454-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -7837,7 +7837,7 @@
                     </div>
                     <div class="post-box project">
                         <a
-                            href="{{route('about.hensel-phelps-awarded-metropolitan-washington-airports-authority-mwaa-contract">
+                            href="{{route('about.hensel-phelps-awarded-metropolitan-washington-airports-authority-mwaa-contract')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/themes/henselphelps/img/default.jpg') }});">
                                 <img src="{{ asset('wp-content/themes/henselphelps/img/default.jpg') }}">
@@ -7858,7 +7858,7 @@
                         </a>
                     </div>
                     <div class="post-box project">
-                        <a href="{{route('about.hensel-phelps-awarded-new-nasa-headquarters-building">
+                        <a href="{{route('about.hensel-phelps-awarded-new-nasa-headquarters-building')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/themes/henselphelps/img/default.jpg') }});">
                                 <img src="{{ asset('wp-content/themes/henselphelps/img/default.jpg') }}">
@@ -7880,7 +7880,7 @@
                     </div>
                     <div class="post-box project">
                         <a
-                            href="{{route('about.hensel-phelps-awarded-first-project-konterra-realty-boston-properties">
+                            href="{{route('about.hensel-phelps-awarded-first-project-konterra-realty-boston-properties')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/themes/henselphelps/img/default.jpg') }});">
                                 <img src="{{ asset('wp-content/themes/henselphelps/img/default.jpg') }}">
@@ -7902,7 +7902,7 @@
                     </div>
                     <div class="post-box project">
                         <a
-                            href="{{route('about.hensel-phelps-awarded-county-stanislaus-public-safety-expansion-projects-one-three">
+                            href="{{route('about.hensel-phelps-awarded-county-stanislaus-public-safety-expansion-projects-one-three')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/County_of_Stanislaus_Rendering_web_605_303.jpg') }});">
                                 <img width="311" height="225"
@@ -7926,7 +7926,7 @@
                         </a>
                     </div>
                     <div class="post-box project">
-                        <a href="{{route('about.hensel-phelps-awarded-wmata-andrews-federal-bus-garage">
+                        <a href="{{route('about.hensel-phelps-awarded-wmata-andrews-federal-bus-garage')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/rev_perspectives-no_border_web_605_234.png') }});">
                                 <img width="311" height="225"
@@ -7950,7 +7950,7 @@
                         </a>
                     </div>
                     <div class="post-box award">
-                        <a href="{{route('about.hensel-phelps-recognized-two-critical-healthcare-facilities">
+                        <a href="{{route('about.hensel-phelps-recognized-two-critical-healthcare-facilities')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/Hospitals2_605_340-480x320.png') }});">
                                 <img width="311" height="225"
@@ -7974,7 +7974,7 @@
                         </a>
                     </div>
                     <div class="post-box award">
-                        <a href="{{route('about.hensel-phelps-honored-navfac-safety-awards-recognition-star">
+                        <a href="{{route('about.hensel-phelps-honored-navfac-safety-awards-recognition-star')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/themes/henselphelps/img/default.jpg') }});">
                                 <img src="{{ asset('wp-content/themes/henselphelps/img/default.jpg') }}">
@@ -7996,7 +7996,7 @@
                     </div>
                     <div class="post-box project">
                         <a
-                            href="{{route('about.university-california-irvine-awards-hensel-phelps-design-build-team-92-million-student-housing">
+                            href="{{route('about.university-california-irvine-awards-hensel-phelps-design-build-team-92-million-student-housing')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/UCI_Student_Hosuing_605_339-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -8020,7 +8020,7 @@
                         </a>
                     </div>
                     <div class="post-box project">
-                        <a href="{{route('about.hensel-phelps-awarded-245-million-joint-operations-center">
+                        <a href="{{route('about.hensel-phelps-awarded-245-million-joint-operations-center')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/themes/henselphelps/img/default.jpg') }});">
                                 <img src="{{ asset('wp-content/themes/henselphelps/img/default.jpg') }}">
@@ -8041,7 +8041,7 @@
                         </a>
                     </div>
                     <div class="post-box award">
-                        <a href="{{route('about.hensel-phelps-top-25-best-corporations-veteran-owned-businesses">
+                        <a href="{{route('about.hensel-phelps-top-25-best-corporations-veteran-owned-businesses')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/themes/henselphelps/img/default.jpg') }});">
                                 <img src="{{ asset('wp-content/themes/henselphelps/img/default.jpg') }}">
@@ -8063,7 +8063,7 @@
                     </div>
                     <div class="post-box project">
                         <a
-                            href="{{route('about.hensel-phelps-awarded-contract-new-air-traffic-control-tower-tucson-international-airport">
+                            href="{{route('about.hensel-phelps-awarded-contract-new-air-traffic-control-tower-tucson-international-airport')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/themes/henselphelps/img/default.jpg') }});">
                                 <img src="{{ asset('wp-content/themes/henselphelps/img/default.jpg') }}">
@@ -8085,7 +8085,7 @@
                     </div>
                     <div class="post-box project">
                         <a
-                            href="{{route('about.hensel-phelps-awarded-facilities-equipment-maintenance-consulting-services-contract">
+                            href="{{route('about.hensel-phelps-awarded-facilities-equipment-maintenance-consulting-services-contract')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/themes/henselphelps/img/default.jpg') }});">
                                 <img src="{{ asset('wp-content/themes/henselphelps/img/default.jpg') }}">
@@ -8107,7 +8107,7 @@
                     </div>
                     <div class="post-box project">
                         <a
-                            href="{{route('about.hensel-phelps-awarded-nasa-contract-modify-kennedys-vehicle-assembly-building-high-bay-3">
+                            href="{{route('about.hensel-phelps-awarded-nasa-contract-modify-kennedys-vehicle-assembly-building-high-bay-3')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/nasa-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -8132,7 +8132,7 @@
                     </div>
                     <div class="post-box award">
                         <a
-                            href="{{route('about.hensel-phelps-wins-first-place-agc-america-safety-excellence-awards">
+                            href="{{route('about.hensel-phelps-wins-first-place-agc-america-safety-excellence-awards')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2014/03/Hensel-Phelps_Plan-Build-Manage_LOGO-480x320.png') }});">
                                 <img width="311" height="225"
@@ -8157,7 +8157,7 @@
                     </div>
                     <div class="post-box event">
                         <a
-                            href="{{route('about.hensel-phelps-ground-breaking-kaiser-permanentes-new-san-diego-central-hospital">
+                            href="{{route('about.hensel-phelps-ground-breaking-kaiser-permanentes-new-san-diego-central-hospital')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2014/02/KPSD_Groundbreaking_web-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -8182,7 +8182,7 @@
                     </div>
                     <div class="post-box award">
                         <a
-                            href="{{route('about.hensel-phelps-earns-national-diversity-excellence-award-associated-builders-contractors">
+                            href="{{route('about.hensel-phelps-earns-national-diversity-excellence-award-associated-builders-contractors')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/EIC-Diversity-Recipient-Logo.png') }});">
                                 <img width="311" height="225"
@@ -8207,7 +8207,7 @@
                     </div>
                     <div class="post-box award">
                         <a
-                            href="{{route('about.hensel-phelps-achieves-leed-platinum-navys-homeport-ashore-initiative">
+                            href="{{route('about.hensel-phelps-achieves-leed-platinum-navys-homeport-ashore-initiative')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/homeport_1_605_403-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -8231,7 +8231,7 @@
                         </a>
                     </div>
                     <div class="post-box project">
-                        <a href="{{route('about.hensel-phelps-sfo-terminal-3-boarding-area-e-video">
+                        <a href="{{route('about.hensel-phelps-sfo-terminal-3-boarding-area-e-video')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/Screen_Shot_2014-01-29_at_9.43.59_AM_605_339-480x320.png') }});">
                                 <img width="311" height="225"
@@ -8256,7 +8256,7 @@
                     </div>
                     <div class="post-box event">
                         <a
-                            href="{{route('about.sfo-unveils-hensel-phelps-terminal-3-boarding-area-e-design-build-renovation">
+                            href="{{route('about.sfo-unveils-hensel-phelps-terminal-3-boarding-area-e-design-build-renovation')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/themes/henselphelps/img/default.jpg') }});">
                                 <img src="{{ asset('wp-content/themes/henselphelps/img/default.jpg') }}">
@@ -8278,7 +8278,7 @@
                     </div>
                     <div class="post-box project">
                         <a
-                            href="{{route('about.hensel-phelps-awarded-navy-federal-credit-unions-pensacola-expansion">
+                            href="{{route('about.hensel-phelps-awarded-navy-federal-credit-unions-pensacola-expansion')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/themes/henselphelps/img/default.jpg') }});">
                                 <img src="{{ asset('wp-content/themes/henselphelps/img/default.jpg') }}">
@@ -8299,7 +8299,7 @@
                         </a>
                     </div>
                     <div class="post-box career">
-                        <a href="{{route('about.hensel-phelps-board-directors-key-personnel-announcement">
+                        <a href="{{route('about.hensel-phelps-board-directors-key-personnel-announcement')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/themes/henselphelps/img/default.jpg') }});">
                                 <img src="{{ asset('wp-content/themes/henselphelps/img/default.jpg') }}">
@@ -8321,7 +8321,7 @@
                     </div>
                     <div class="post-box event">
                         <a
-                            href="{{route('about.hensel-phelps-delivers-air-new-zealand-top-10-premium-airport-lounge-2013">
+                            href="{{route('about.hensel-phelps-delivers-air-new-zealand-top-10-premium-airport-lounge-2013')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/LAX_605_371-480x320.png') }});">
                                 <img width="311" height="225"
@@ -8345,7 +8345,7 @@
                         </a>
                     </div>
                     <div class="post-box award">
-                        <a href="{{route('about.hensel-phelps-presented-platinum-step-award">
+                        <a href="{{route('about.hensel-phelps-presented-platinum-step-award')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/DKR_Platinum_Step_Award.jpg-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -8370,7 +8370,7 @@
                     </div>
                     <div class="post-box project">
                         <a
-                            href="{{route('about.hensel-phelps-services-group-delivers-award-winning-performance-echostar-broadcasting-corp">
+                            href="{{route('about.hensel-phelps-services-group-delivers-award-winning-performance-echostar-broadcasting-corp')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2013/11/Screenshot_2013-11-11_09.20.15-480x320.png') }});">
                                 <img width="311" height="225"
@@ -8395,7 +8395,7 @@
                         </a>
                     </div>
                     <div class="post-box award">
-                        <a href="{{route('about.hensel-phelps-receives-two-agc-ace-awards">
+                        <a href="{{route('about.hensel-phelps-receives-two-agc-ace-awards')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2013/11/ACE2013-Web_605_503-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -8420,7 +8420,7 @@
                     </div>
                     <div class="post-box award">
                         <a
-                            href="{{route('about.hensel-phelps-receives-2013-dbia-national-design-build-award-benner-township-pa-project-112013">
+                            href="{{route('about.hensel-phelps-receives-2013-dbia-national-design-build-award-benner-township-pa-project-112013')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/themes/henselphelps/img/default.jpg') }});">
                                 <img src="{{ asset('wp-content/themes/henselphelps/img/default.jpg') }}">
@@ -8442,7 +8442,7 @@
                     </div>
                     <div class="post-box award">
                         <a
-                            href="{{route('about.hensel-phelps-receives-2013-dbia-national-design-build-award-camp-pendleton-ca-project-112013">
+                            href="{{route('about.hensel-phelps-receives-2013-dbia-national-design-build-award-camp-pendleton-ca-project-112013')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/themes/henselphelps/img/default.jpg') }});">
                                 <img src="{{ asset('wp-content/themes/henselphelps/img/default.jpg') }}">
@@ -8464,7 +8464,7 @@
                     </div>
                     <div class="post-box award">
                         <a
-                            href="{{route('about.hensel-phelps-receives-2013-dbia-national-design-build-award-san-antonio-texas-project-112013">
+                            href="{{route('about.hensel-phelps-receives-2013-dbia-national-design-build-award-san-antonio-texas-project-112013')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/themes/henselphelps/img/default.jpg') }});">
                                 <img src="{{ asset('wp-content/themes/henselphelps/img/default.jpg') }}">
@@ -8486,7 +8486,7 @@
                     </div>
                     <div class="post-box award">
                         <a
-                            href="{{route('about.hensel-phelps-receives-2013-dbia-national-design-build-award-cheyenne-wyoming-project-112013">
+                            href="{{route('about.hensel-phelps-receives-2013-dbia-national-design-build-award-cheyenne-wyoming-project-112013')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/themes/henselphelps/img/default.jpg') }});">
                                 <img src="{{ asset('wp-content/themes/henselphelps/img/default.jpg') }}">
@@ -8508,7 +8508,7 @@
                     </div>
                     <div class="post-box award">
                         <a
-                            href="{{route('about.hensel-phelps-receives-2013-dbia-design-build-award-twentynine-palms-california-project-112013">
+                            href="{{route('about.hensel-phelps-receives-2013-dbia-design-build-award-twentynine-palms-california-project-112013')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/themes/henselphelps/img/default.jpg') }});">
                                 <img src="{{ asset('wp-content/themes/henselphelps/img/default.jpg') }}">
@@ -8531,7 +8531,7 @@
                     </div>
                     <div class="post-box award">
                         <a
-                            href="{{route('about.hensel-phelps-receives-5-dbia-awards-exemplary-collaboration-integration-112013">
+                            href="{{route('about.hensel-phelps-receives-5-dbia-awards-exemplary-collaboration-integration-112013')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/themes/henselphelps/img/default.jpg') }});">
                                 <img src="{{ asset('wp-content/themes/henselphelps/img/default.jpg') }}">
@@ -8552,7 +8552,7 @@
                         </a>
                     </div>
                     <div class="post-box award">
-                        <a href="{{route('about.hensel-phelps-receives-two-safety-awards">
+                        <a href="{{route('about.hensel-phelps-receives-two-safety-awards')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/66_Steve_Phillips.jpg.jpg') }});">
                                 <img width="311" height="225"
@@ -8576,7 +8576,7 @@
                         </a>
                     </div>
                     <div class="post-box award">
-                        <a href="{{route('about.aci-presents-distinguished-achievement-award-hensel-phelps">
+                        <a href="{{route('about.aci-presents-distinguished-achievement-award-hensel-phelps')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/ACI_Distinguished_Achievement_Award-480x320.png') }});">
                                 <img width="311" height="225"
@@ -8600,7 +8600,7 @@
                         </a>
                     </div>
                     <div class="post-box event">
-                        <a href="{{route('about.hensel-phelps-launches-website-video-112013">
+                        <a href="{{route('about.hensel-phelps-launches-website-video-112013')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/themes/henselphelps/img/default.jpg') }});">
                                 <img src="{{ asset('wp-content/themes/henselphelps/img/default.jpg') }}">
@@ -8622,7 +8622,7 @@
                     </div>
                     <div class="post-box project">
                         <a
-                            href="{{route('about.hensel-phelps-awarded-stanford-linear-accelerator-complex-slac-national-accelerator-laboratory">
+                            href="{{route('about.hensel-phelps-awarded-stanford-linear-accelerator-complex-slac-national-accelerator-laboratory')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/SLAC.jpg') }});">
                                 <img width="311" height="225"
@@ -8646,7 +8646,7 @@
                         </a>
                     </div>
                     <div class="post-box project">
-                        <a href="{{route('about.hensel-phelps-awarded-university-texas-austin-dell-medical-school">
+                        <a href="{{route('about.hensel-phelps-awarded-university-texas-austin-dell-medical-school')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/UT_Austin_Dell_Medical_School_-_Project_Award_-_October_2013_605_351-480x320.png') }});">
                                 <img width="311" height="225"
@@ -8670,7 +8670,7 @@
                         </a>
                     </div>
                     <div class="post-box event">
-                        <a href="{{route('about.hesnel-phelps-celebrates-new-star-lax-alliance-premier-lounge">
+                        <a href="{{route('about.hesnel-phelps-celebrates-new-star-lax-alliance-premier-lounge')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/Star_Alliance_605_340-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -8695,7 +8695,7 @@
                     </div>
                     <div class="post-box project">
                         <a
-                            href="{{route('about.hensel-phelps-turn-key-power-consortium-wins-army-corps-wind-technology-renewable-energy-matoc">
+                            href="{{route('about.hensel-phelps-turn-key-power-consortium-wins-army-corps-wind-technology-renewable-energy-matoc')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/themes/henselphelps/img/default.jpg') }});">
                                 <img src="{{ asset('wp-content/themes/henselphelps/img/default.jpg') }}">
@@ -8717,7 +8717,7 @@
                     </div>
                     <div class="post-box event">
                         <a
-                            href="{{route('about.kaiser-permanente-celebrates-anniversary-hensel-phelps-delivered-anaheim-medical-center">
+                            href="{{route('about.kaiser-permanente-celebrates-anniversary-hensel-phelps-delivered-anaheim-medical-center')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/Kaiser_Anaheim_605_303.png') }});">
                                 <img width="311" height="225"
@@ -8741,7 +8741,7 @@
                         </a>
                     </div>
                     <div class="post-box event">
-                        <a href="{{route('about.hensel-phelps-dedicates-fourth-house-wounded-warrior-family">
+                        <a href="{{route('about.hensel-phelps-dedicates-fourth-house-wounded-warrior-family')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/themes/henselphelps/img/default.jpg') }});">
                                 <img src="{{ asset('wp-content/themes/henselphelps/img/default.jpg') }}">
@@ -8763,7 +8763,7 @@
                     </div>
                     <div class="post-box event">
                         <a
-                            href="{{route('about.hensel-phelps-granite-hangar-joint-venture-hangar-7-ribbon-cutting-ceremony-san-diego-california">
+                            href="{{route('about.hensel-phelps-granite-hangar-joint-venture-hangar-7-ribbon-cutting-ceremony-san-diego-california')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/Hangar_7_605_405-480x320.png') }});">
                                 <img width="311" height="225"
@@ -8787,7 +8787,7 @@
                         </a>
                     </div>
                     <div class="post-box event">
-                        <a href="{{route('about.san-ysidro-land-port-entry-hensel-phelps-substantial-completion">
+                        <a href="{{route('about.san-ysidro-land-port-entry-hensel-phelps-substantial-completion')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2013/09/SYLPOE.jpg') }});">
                                 <img width="311" height="225"
@@ -8812,7 +8812,7 @@
                     </div>
                     <div class="post-box project">
                         <a
-                            href="{{route('about.hensel-phelps-awarded-combat-systems-engineering-development-site-building-contract">
+                            href="{{route('about.hensel-phelps-awarded-combat-systems-engineering-development-site-building-contract')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/themes/henselphelps/img/default.jpg') }});">
                                 <img src="{{ asset('wp-content/themes/henselphelps/img/default.jpg') }}">
@@ -8833,7 +8833,7 @@
                         </a>
                     </div>
                     <div class="post-box project">
-                        <a href="{{route('about.hensel-phelps-manage-group-supports-nrol-65-launch-mission">
+                        <a href="{{route('about.hensel-phelps-manage-group-supports-nrol-65-launch-mission')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/NROL-65_605_340-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -8857,7 +8857,7 @@
                         </a>
                     </div>
                     <div class="post-box event">
-                        <a href="{{route('about.hensel-phelps-2400-nueces-celebrates-grand-opening">
+                        <a href="{{route('about.hensel-phelps-2400-nueces-celebrates-grand-opening')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/BWI_Checkpoint_605_454-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -8881,7 +8881,7 @@
                         </a>
                     </div>
                     <div class="post-box community">
-                        <a href="{{route('about.hensel-phelps-supports-water-projects-niger">
+                        <a href="{{route('about.hensel-phelps-supports-water-projects-niger')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/themes/henselphelps/img/default.jpg') }});">
                                 <img src="{{ asset('wp-content/themes/henselphelps/img/default.jpg') }}">
@@ -8902,7 +8902,7 @@
                         </a>
                     </div>
                     <div class="post-box award">
-                        <a href="{{route('about.hensel-phelps-receives-minority-contractors-association-award">
+                        <a href="{{route('about.hensel-phelps-receives-minority-contractors-association-award')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/themes/henselphelps/img/default.jpg') }});">
                                 <img src="{{ asset('wp-content/themes/henselphelps/img/default.jpg') }}">
@@ -8923,7 +8923,7 @@
                         </a>
                     </div>
                     <div class="post-box project">
-                        <a href="{{route('about.hensel-phelps-washington-d-c-marriott-marquis-hotel-milestone">
+                        <a href="{{route('about.hensel-phelps-washington-d-c-marriott-marquis-hotel-milestone')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2013/08/Marriott_Marquis_Sculptor.png') }});">
                                 <img width="288" height="162"
@@ -8948,7 +8948,7 @@
                     </div>
                     <div class="post-box career">
                         <a
-                            href="{{route('about.hensel-phelps-board-announces-promotion-laird-heikens-manager-work-procurement">
+                            href="{{route('about.hensel-phelps-board-announces-promotion-laird-heikens-manager-work-procurement')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/themes/henselphelps/img/default.jpg') }});">
                                 <img src="{{ asset('wp-content/themes/henselphelps/img/default.jpg') }}">
@@ -8970,7 +8970,7 @@
                     </div>
                     <div class="post-box award">
                         <a
-                            href="{{route('about.hensel-phelps-receives-5-awards-exemplary-collaboration-integration">
+                            href="{{route('about.hensel-phelps-receives-5-awards-exemplary-collaboration-integration')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/themes/henselphelps/img/default.jpg') }});">
                                 <img src="{{ asset('wp-content/themes/henselphelps/img/default.jpg') }}">
@@ -8992,7 +8992,7 @@
                     </div>
                     <div class="post-box award">
                         <a
-                            href="{{route('about.hensel-phelps-awarded-2013-dbia-design-build-award-twentynine-palms-california-project">
+                            href="{{route('about.hensel-phelps-awarded-2013-dbia-design-build-award-twentynine-palms-california-project')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/themes/henselphelps/img/default.jpg') }});">
                                 <img src="{{ asset('wp-content/themes/henselphelps/img/default.jpg') }}">
@@ -9015,7 +9015,7 @@
                     </div>
                     <div class="post-box award">
                         <a
-                            href="{{route('about.hensel-phelps-awarded-2013-dbia-national-design-build-award-benner-township-pa-project">
+                            href="{{route('about.hensel-phelps-awarded-2013-dbia-national-design-build-award-benner-township-pa-project')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/themes/henselphelps/img/default.jpg') }});">
                                 <img src="{{ asset('wp-content/themes/henselphelps/img/default.jpg') }}">
@@ -9037,7 +9037,7 @@
                     </div>
                     <div class="post-box award">
                         <a
-                            href="{{route('about.hensel-phelps-awarded-2013-dbia-national-design-build-award-camp-pendleton-california-project">
+                            href="{{route('about.hensel-phelps-awarded-2013-dbia-national-design-build-award-camp-pendleton-california-project')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/themes/henselphelps/img/default.jpg') }});">
                                 <img src="{{ asset('wp-content/themes/henselphelps/img/default.jpg') }}">
@@ -9059,7 +9059,7 @@
                     </div>
                     <div class="post-box award">
                         <a
-                            href="{{route('about.hensel-phelps-awarded-2013-dbia-national-design-build-award-san-antonio-texas-project">
+                            href="{{route('about.hensel-phelps-awarded-2013-dbia-national-design-build-award-san-antonio-texas-project')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/themes/henselphelps/img/default.jpg') }});">
                                 <img src="{{ asset('wp-content/themes/henselphelps/img/default.jpg') }}">
@@ -9081,7 +9081,7 @@
                     </div>
                     <div class="post-box award">
                         <a
-                            href="{{route('about.hensel-phelps-awarded-2013-dbia-national-design-build-award-cheyenne-wyoming-project">
+                            href="{{route('about.hensel-phelps-awarded-2013-dbia-national-design-build-award-cheyenne-wyoming-project')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/themes/henselphelps/img/default.jpg') }});">
                                 <img src="{{ asset('wp-content/themes/henselphelps/img/default.jpg') }}">
@@ -9102,7 +9102,7 @@
                         </a>
                     </div>
                     <div class="post-box project">
-                        <a href="{{route('about.hensel-phelps-awarded-nolan-building-garage-fort-belvoir-virginia">
+                        <a href="{{route('about.hensel-phelps-awarded-nolan-building-garage-fort-belvoir-virginia')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/themes/henselphelps/img/default.jpg') }});">
                                 <img src="{{ asset('wp-content/themes/henselphelps/img/default.jpg') }}">
@@ -9124,7 +9124,7 @@
                     </div>
                     <div class="post-box event">
                         <a
-                            href="{{route('about.hensel-phelps-presents-7th-annual-bim-features-conference-usc-school-architecture">
+                            href="{{route('about.hensel-phelps-presents-7th-annual-bim-features-conference-usc-school-architecture')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/MEO_at_USC.jpg_605_454-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -9148,7 +9148,7 @@
                         </a>
                     </div>
                     <div class="post-box community">
-                        <a href="{{route('about.hensel-phelps-supports-ace-mentor-program-america">
+                        <a href="{{route('about.hensel-phelps-supports-ace-mentor-program-america')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/themes/henselphelps/img/default.jpg') }});">
                                 <img src="{{ asset('wp-content/themes/henselphelps/img/default.jpg') }}">
@@ -9170,7 +9170,7 @@
                     </div>
                     <div class="post-box project">
                         <a
-                            href="{{route('about.hensel-phelps-new-washington-marriott-marquis-hotel-profiled-modern-steel-construction">
+                            href="{{route('about.hensel-phelps-new-washington-marriott-marquis-hotel-profiled-modern-steel-construction')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/themes/henselphelps/img/default.jpg') }});">
                                 <img src="{{ asset('wp-content/themes/henselphelps/img/default.jpg') }}">
@@ -9191,7 +9191,7 @@
                         </a>
                     </div>
                     <div class="post-box project">
-                        <a href="{{route('about.hensel-phelps-builds-worlds-tallest-airport-control-towers">
+                        <a href="{{route('about.hensel-phelps-builds-worlds-tallest-airport-control-towers')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/themes/henselphelps/img/default.jpg') }});">
                                 <img src="{{ asset('wp-content/themes/henselphelps/img/default.jpg') }}">
@@ -9213,7 +9213,7 @@
                     </div>
                     <div class="post-box award">
                         <a
-                            href="{{route('about.first-leed-gold-certification-federal-bureau-prisons-project-delivered-hensel-phelps">
+                            href="{{route('about.first-leed-gold-certification-federal-bureau-prisons-project-delivered-hensel-phelps')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/themes/henselphelps/img/default.jpg') }});">
                                 <img src="{{ asset('wp-content/themes/henselphelps/img/default.jpg') }}">
@@ -9234,7 +9234,7 @@
                         </a>
                     </div>
                     <div class="post-box event">
-                        <a href="{{route('about.hensel-phelps-tops-steel-hoag-health-center">
+                        <a href="{{route('about.hensel-phelps-tops-steel-hoag-health-center')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/Hoag_Topping_605_452-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -9258,7 +9258,7 @@
                         </a>
                     </div>
                     <div class="post-box award">
-                        <a href="{{route('about.hensel-phelps-navfac-southwest-rack-another-award">
+                        <a href="{{route('about.hensel-phelps-navfac-southwest-rack-another-award')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/APWA_John_Finn_Hall_Award_presentation.png') }});">
                                 <img width="284" height="182"
@@ -9282,7 +9282,7 @@
                         </a>
                     </div>
                     <div class="post-box award">
-                        <a href="{{route('about.hensel-phelps-recognized-award-excellence-green-building">
+                        <a href="{{route('about.hensel-phelps-recognized-award-excellence-green-building')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/themes/henselphelps/img/default.jpg') }});">
                                 <img src="{{ asset('wp-content/themes/henselphelps/img/default.jpg') }}">
@@ -9303,7 +9303,7 @@
                         </a>
                     </div>
                     <div class="post-box career">
-                        <a href="{{route('about.hensel-phelps-board-directors-announce-promotion-darren-leary">
+                        <a href="{{route('about.hensel-phelps-board-directors-announce-promotion-darren-leary')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/Darren_Leary.jpg.jpg') }});">
                                 <img width="311" height="225"
@@ -9328,7 +9328,7 @@
                     </div>
                     <div class="post-box award">
                         <a
-                            href="{{route('about.hensel-phelps-receives-national-safety-award-zero-lost-workday-case-incident-rate">
+                            href="{{route('about.hensel-phelps-receives-national-safety-award-zero-lost-workday-case-incident-rate')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/2012_AGC_NASA_Award_WEB.png') }});">
                                 <img width="311" height="225"
@@ -9352,7 +9352,7 @@
                         </a>
                     </div>
                     <div class="post-box award">
-                        <a href="{{route('about.hensel-phelps-receives-international-partnering-award">
+                        <a href="{{route('about.hensel-phelps-receives-international-partnering-award')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/themes/henselphelps/img/default.jpg') }});">
                                 <img src="{{ asset('wp-content/themes/henselphelps/img/default.jpg') }}">
@@ -9373,7 +9373,7 @@
                         </a>
                     </div>
                     <div class="post-box project">
-                        <a href="{{route('about.partnership-continues-southwest-airlines-hensel-phelps-lax">
+                        <a href="{{route('about.partnership-continues-southwest-airlines-hensel-phelps-lax')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/themes/henselphelps/img/default.jpg') }});">
                                 <img src="{{ asset('wp-content/themes/henselphelps/img/default.jpg') }}">
@@ -9395,7 +9395,7 @@
                     </div>
                     <div class="post-box award">
                         <a
-                            href="{{route('about.hensel-phelps-united-states-courthouse-team-awarded-2013-excellence-partnering-award">
+                            href="{{route('about.hensel-phelps-united-states-courthouse-team-awarded-2013-excellence-partnering-award')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/Awardees_Courthouse.png') }});">
                                 <img width="311" height="225"
@@ -9419,7 +9419,7 @@
                         </a>
                     </div>
                     <div class="post-box project">
-                        <a href="{{route('about.hensel-phelps-bwi-team-achieves-airport-schedule-milestone">
+                        <a href="{{route('about.hensel-phelps-bwi-team-achieves-airport-schedule-milestone')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/BWI_Checkpoint_605_454-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -9444,7 +9444,7 @@
                     </div>
                     <div class="post-box event">
                         <a
-                            href="{{route('about.ribbon-cutting-ceremony-hensel-phelps-new-high-altitude-aviation-training-site-haats-project">
+                            href="{{route('about.ribbon-cutting-ceremony-hensel-phelps-new-high-altitude-aviation-training-site-haats-project')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/HAATS_Flag_Posting_605_403-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -9468,7 +9468,7 @@
                         </a>
                     </div>
                     <div class="post-box project">
-                        <a href="{{route('about.hensel-phelps-awarded-national-zoo-project">
+                        <a href="{{route('about.hensel-phelps-awarded-national-zoo-project')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/themes/henselphelps/img/default.jpg') }});">
                                 <img src="{{ asset('wp-content/themes/henselphelps/img/default.jpg') }}">
@@ -9490,7 +9490,7 @@
                     </div>
                     <div class="post-box career">
                         <a
-                            href="{{route('about.board-directors-promotes-jim-pappas-northern-california-district-manager-vice-president">
+                            href="{{route('about.board-directors-promotes-jim-pappas-northern-california-district-manager-vice-president')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/themes/henselphelps/img/default.jpg') }});">
                                 <img src="{{ asset('wp-content/themes/henselphelps/img/default.jpg') }}">
@@ -9512,7 +9512,7 @@
                     </div>
                     <div class="post-box project">
                         <a
-                            href="{{route('about.dod-selects-hensel-phelps-blueforge-specialized-mentor-protege-program">
+                            href="{{route('about.dod-selects-hensel-phelps-blueforge-specialized-mentor-protege-program')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/themes/henselphelps/img/default.jpg') }});">
                                 <img src="{{ asset('wp-content/themes/henselphelps/img/default.jpg') }}">
@@ -9533,7 +9533,7 @@
                         </a>
                     </div>
                     <div class="post-box project">
-                        <a href="{{route('about.hobby-airport-fis-terminal-contract-awarded-hensel-phelps-jv">
+                        <a href="{{route('about.hobby-airport-fis-terminal-contract-awarded-hensel-phelps-jv')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/News_-_Hobby_Airport_FIS_Terminal_605_150.jpg') }});">
                                 <img width="311" height="150"
@@ -9558,7 +9558,7 @@
                     </div>
                     <div class="post-box project">
                         <a
-                            href="{{route('about.hensel-phelps-awarded-design-build-contract-dss-facility-addition-quantico">
+                            href="{{route('about.hensel-phelps-awarded-design-build-contract-dss-facility-addition-quantico')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/themes/henselphelps/img/default.jpg') }});">
                                 <img src="{{ asset('wp-content/themes/henselphelps/img/default.jpg') }}">
@@ -9579,7 +9579,7 @@
                         </a>
                     </div>
                     <div class="post-box career">
-                        <a href="{{route('about.hensel-phelps-board-directors-announces-gustine-promotion">
+                        <a href="{{route('about.hensel-phelps-board-directors-announces-gustine-promotion')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/themes/henselphelps/img/default.jpg') }});">
                                 <img src="{{ asset('wp-content/themes/henselphelps/img/default.jpg') }}">
@@ -9600,7 +9600,7 @@
                         </a>
                     </div>
                     <div class="post-box career">
-                        <a href="{{route('about.hensel-phelps-board-directors-announces-shelby-promotion">
+                        <a href="{{route('about.hensel-phelps-board-directors-announces-shelby-promotion')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/themes/henselphelps/img/default.jpg') }});">
                                 <img src="{{ asset('wp-content/themes/henselphelps/img/default.jpg') }}">
@@ -9622,7 +9622,7 @@
                     </div>
                     <div class="post-box project">
                         <a
-                            href="{{route('about.hensel-phelps-chosen-cmar-south-airport-automated-people-mover-complex-orlando">
+                            href="{{route('about.hensel-phelps-chosen-cmar-south-airport-automated-people-mover-complex-orlando')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/themes/henselphelps/img/default.jpg') }});">
                                 <img src="{{ asset('wp-content/themes/henselphelps/img/default.jpg') }}">
@@ -9643,7 +9643,7 @@
                         </a>
                     </div>
                     <div class="post-box project">
-                        <a href="{{route('about.hensel-phelps-awarded-guam-high-school-renovation-project">
+                        <a href="{{route('about.hensel-phelps-awarded-guam-high-school-renovation-project')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/themes/henselphelps/img/default.jpg') }});">
                                 <img src="{{ asset('wp-content/themes/henselphelps/img/default.jpg') }}">
@@ -9665,7 +9665,7 @@
                     </div>
                     <div class="post-box award">
                         <a
-                            href="{{route('about.hensel-phelps-phx-sky-train-stage-1-project-honored-abcs-pyramid-award">
+                            href="{{route('about.hensel-phelps-phx-sky-train-stage-1-project-honored-abcs-pyramid-award')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/themes/henselphelps/img/default.jpg') }});">
                                 <img src="{{ asset('wp-content/themes/henselphelps/img/default.jpg') }}">
@@ -9686,7 +9686,7 @@
                         </a>
                     </div>
                     <div class="post-box project">
-                        <a href="{{route('about.high-performance-computing-center-awarded-hensel-phelps-jv">
+                        <a href="{{route('about.high-performance-computing-center-awarded-hensel-phelps-jv')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/themes/henselphelps/img/default.jpg') }});">
                                 <img src="{{ asset('wp-content/themes/henselphelps/img/default.jpg') }}">
@@ -9707,7 +9707,7 @@
                         </a>
                     </div>
                     <div class="post-box award">
-                        <a href="{{route('about.abc-honors-hensel-phelps-national-diversity-excellence-award">
+                        <a href="{{route('about.abc-honors-hensel-phelps-national-diversity-excellence-award')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/News_-_ABC_Honors_HP_with_National_Diversity_Exc_Award_605_405-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -9732,7 +9732,7 @@
                     </div>
                     <div class="post-box event">
                         <a
-                            href="{{route('about.hensel-phelps-sponsors-entertainment-boots-n-business-luncheon-sixth-year">
+                            href="{{route('about.hensel-phelps-sponsors-entertainment-boots-n-business-luncheon-sixth-year')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/themes/henselphelps/img/default.jpg') }});">
                                 <img src="{{ asset('wp-content/themes/henselphelps/img/default.jpg') }}">
@@ -9753,7 +9753,7 @@
                         </a>
                     </div>
                     <div class="post-box career">
-                        <a href="{{route('about.hensel-phelps-board-directors-announces-key-personnel-promotions">
+                        <a href="{{route('about.hensel-phelps-board-directors-announces-key-personnel-promotions')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/themes/henselphelps/img/default.jpg') }});">
                                 <img src="{{ asset('wp-content/themes/henselphelps/img/default.jpg') }}">
@@ -9774,7 +9774,7 @@
                         </a>
                     </div>
                     <div class="post-box project">
-                        <a href="{{route('about.major-milestone-air-force-base-one-month-early">
+                        <a href="{{route('about.major-milestone-air-force-base-one-month-early')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/themes/henselphelps/img/default.jpg') }});">
                                 <img src="{{ asset('wp-content/themes/henselphelps/img/default.jpg') }}">
@@ -9795,7 +9795,7 @@
                         </a>
                     </div>
                     <div class="post-box project">
-                        <a href="{{route('about.substantial-completion-received-high-desert-infrastructure-project">
+                        <a href="{{route('about.substantial-completion-received-high-desert-infrastructure-project')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/News_-_Substantial_Compl_Received_for_High_Desert_Infrastructure_Project-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -9819,7 +9819,7 @@
                         </a>
                     </div>
                     <div class="post-box award">
-                        <a href="{{route('about.hensel-phelps-receives-five-dbia-awards">
+                        <a href="{{route('about.hensel-phelps-receives-five-dbia-awards')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/themes/henselphelps/img/default.jpg') }});">
                                 <img src="{{ asset('wp-content/themes/henselphelps/img/default.jpg') }}">
@@ -9840,7 +9840,7 @@
                         </a>
                     </div>
                     <div class="post-box event">
-                        <a href="{{route('about.hensel-phelps-delivers-dallas-love-fields-terminal-2-ticket-hall">
+                        <a href="{{route('about.hensel-phelps-delivers-dallas-love-fields-terminal-2-ticket-hall')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/News_-_HP_Delivers_Dallas_Love_Fields_Terminal_2_Ticket_Hall.jpg') }});">
                                 <img width="311" height="225"
@@ -9865,7 +9865,7 @@
                     </div>
                     <div class="post-box award">
                         <a
-                            href="{{route('about.hensel-phelps-receives-four-construction-excellence-industry-awards">
+                            href="{{route('about.hensel-phelps-receives-four-construction-excellence-industry-awards')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/News_-_HP_Receives_Four-Collage_605_154.jpg') }});">
                                 <img width="311" height="154"
@@ -9890,7 +9890,7 @@
                     </div>
                     <div class="post-box project">
                         <a
-                            href="{{route('about.hensel-phelps-mentor-protege-partner-completes-fort-sam-houston-project">
+                            href="{{route('about.hensel-phelps-mentor-protege-partner-completes-fort-sam-houston-project')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/News_-_HP_Mentor_Protege_Partner_Completes_Ft_Sam_Houston_Project.jpg') }});">
                                 <img width="311" height="166"
@@ -9915,7 +9915,7 @@
                         </a>
                     </div>
                     <div class="post-box project">
-                        <a href="{{route('about.hensel-phelps-awarded-renovation-project-upscale-hawaiian-resort">
+                        <a href="{{route('about.hensel-phelps-awarded-renovation-project-upscale-hawaiian-resort')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/themes/henselphelps/img/default.jpg') }});">
                                 <img src="{{ asset('wp-content/themes/henselphelps/img/default.jpg') }}">
@@ -9936,7 +9936,7 @@
                         </a>
                     </div>
                     <div class="post-box project">
-                        <a href="{{route('about.mountainview-project-awarded-hensel-phelps">
+                        <a href="{{route('about.mountainview-project-awarded-hensel-phelps')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/themes/henselphelps/img/default.jpg') }});">
                                 <img src="{{ asset('wp-content/themes/henselphelps/img/default.jpg') }}">
@@ -9958,7 +9958,7 @@
                     </div>
                     <div class="post-box event">
                         <a
-                            href="{{route('about.hensel-phelps-hosts-anti-topping-ceremony-martin-luther-king-jr-medical-center-project">
+                            href="{{route('about.hensel-phelps-hosts-anti-topping-ceremony-martin-luther-king-jr-medical-center-project')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/News_-_HP_Hosts_Anti-Topping_Out_Ceremony.jpg') }});">
                                 <img width="311" height="225"
@@ -9983,7 +9983,7 @@
                     </div>
                     <div class="post-box project">
                         <a
-                            href="{{route('about.hensel-phelps-awarded-kaiser-potrero-hill-medical-office-building-garage">
+                            href="{{route('about.hensel-phelps-awarded-kaiser-potrero-hill-medical-office-building-garage')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/News_-_Hensel_Phelps_Awarded_Kaiser_Potrero_Hill_MOB_and_Garage.jpg') }});">
                                 <img width="311" height="225"
@@ -10007,7 +10007,7 @@
                         </a>
                     </div>
                     <div class="post-box project">
-                        <a href="{{route('about.offutt-afb-contract-awarded">
+                        <a href="{{route('about.offutt-afb-contract-awarded')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/themes/henselphelps/img/default.jpg') }});">
                                 <img src="{{ asset('wp-content/themes/henselphelps/img/default.jpg') }}">
@@ -10029,7 +10029,7 @@
                     </div>
                     <div class="post-box project">
                         <a
-                            href="{{route('about.hensel-phelps-awarded-design-build-air-traffic-control-tower-fort-carson">
+                            href="{{route('about.hensel-phelps-awarded-design-build-air-traffic-control-tower-fort-carson')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/News_-_Hensel_Phelps_Awarded_D-B_ATCT_605_400-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -10054,7 +10054,7 @@
                     </div>
                     <div class="post-box project">
                         <a
-                            href="{{route('about.hensel-phelps-awarded-design-build-aviation-support-maintenance-hangar-fort-carson">
+                            href="{{route('about.hensel-phelps-awarded-design-build-aviation-support-maintenance-hangar-fort-carson')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/News_-_Hensel_Phelps_Awarded_D-B_Aviation_Support_Maintenance_Hangar_605_429-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -10078,7 +10078,7 @@
                         </a>
                     </div>
                     <div class="post-box award">
-                        <a href="{{route('about.hensel-phelps-ranked-no-3-2012-bim-construction-firm">
+                        <a href="{{route('about.hensel-phelps-ranked-no-3-2012-bim-construction-firm')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/News_-_Hensel_Phelps_Ranked_No_3_2012_BIM_-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -10103,7 +10103,7 @@
                     </div>
                     <div class="post-box award">
                         <a
-                            href="{{route('about.hensel-phelps-receives-best-municipal-project-award-san-antonio-public-safety-headquarters">
+                            href="{{route('about.hensel-phelps-receives-best-municipal-project-award-san-antonio-public-safety-headquarters')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2013/04/News_-_Best_Municipal_Award_for_SAPSH_605_378-480x320.jpg') }});">
                                 <img width="311" height="225"
@@ -10127,7 +10127,7 @@
                         </a>
                     </div>
                     <div class="post-box event">
-                        <a href="{{route('about.hensel-phelps-achieves-major-milestone-early-occupancy-goal">
+                        <a href="{{route('about.hensel-phelps-achieves-major-milestone-early-occupancy-goal')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/themes/henselphelps/img/default.jpg') }});">
                                 <img src="{{ asset('wp-content/themes/henselphelps/img/default.jpg') }}">
@@ -10149,7 +10149,7 @@
                     </div>
                     <div class="post-box project">
                         <a
-                            href="{{route('about.hensel-phelps-awarded-design-build-contract-basic-school-student-quarters-quantico">
+                            href="{{route('about.hensel-phelps-awarded-design-build-contract-basic-school-student-quarters-quantico')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/themes/henselphelps/img/default.jpg') }});">
                                 <img src="{{ asset('wp-content/themes/henselphelps/img/default.jpg') }}">
@@ -10170,7 +10170,7 @@
                         </a>
                     </div>
                     <div class="post-box event">
-                        <a href="{{route('about.hensel-phelps-delivers-birth-successful-data-center-keynote-speech">
+                        <a href="{{route('about.hensel-phelps-delivers-birth-successful-data-center-keynote-speech')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/News_-_Hensel_Phelps_Delivers_Birth_of_a_Successful_Data_Center.jpg') }});">
                                 <img width="311" height="225"
@@ -10195,7 +10195,7 @@
                     </div>
                     <div class="post-box event">
                         <a
-                            href="{{route('about.official-ribboncutting-school-dentistry-uthealth-built-hensel-phelps">
+                            href="{{route('about.official-ribboncutting-school-dentistry-uthealth-built-hensel-phelps')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/themes/henselphelps/img/default.jpg') }});">
                                 <img src="{{ asset('wp-content/themes/henselphelps/img/default.jpg') }}">
@@ -10216,7 +10216,7 @@
                         </a>
                     </div>
                     <div class="post-box award">
-                        <a href="{{route('about.hensel-phelps-history-colorado-center-project-receives-award">
+                        <a href="{{route('about.hensel-phelps-history-colorado-center-project-receives-award')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/News_-_Hensel_Phelps_History_Colorado_Ctr_Project_Receives_Award_605_314.png') }});">
                                 <img width="311" height="225"
@@ -10240,7 +10240,7 @@
                         </a>
                     </div>
                     <div class="post-box project">
-                        <a href="{{route('about.hensel-phelps-awarded-design-build-contract-fort-campbell-kentucky">
+                        <a href="{{route('about.hensel-phelps-awarded-design-build-contract-fort-campbell-kentucky')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/themes/henselphelps/img/default.jpg') }});">
                                 <img src="{{ asset('wp-content/themes/henselphelps/img/default.jpg') }}">
@@ -10261,7 +10261,7 @@
                         </a>
                     </div>
                     <div class="post-box project">
-                        <a href="{{route('about.hensel-phelps-continues-build-projects-bwi">
+                        <a href="{{route('about.hensel-phelps-continues-build-projects-bwi')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/uploads/2017/05/News_BWI_Concourse_B-C_RENDERING_605_255.png') }});">
                                 <img width="311" height="225"
@@ -10286,7 +10286,7 @@
                     </div>
                     <div class="post-box project">
                         <a
-                            href="{{route('about.hensel-phelps-launches-construction-jennie-sealy-replacement-hospital-2">
+                            href="{{route('about.hensel-phelps-launches-construction-jennie-sealy-replacement-hospital-2')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/themes/henselphelps/img/default.jpg') }});">
                                 <img src="{{ asset('wp-content/themes/henselphelps/img/default.jpg') }}">
@@ -10307,7 +10307,7 @@
                         </a>
                     </div>
                     <div class="post-box award">
-                        <a href="{{route('about.pentagon-renovation-wedges-2-5-receives-industry-awards">
+                        <a href="{{route('about.pentagon-renovation-wedges-2-5-receives-industry-awards')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/themes/henselphelps/img/default.jpg') }});">
                                 <img src="{{ asset('wp-content/themes/henselphelps/img/default.jpg') }}">
@@ -10328,7 +10328,7 @@
                         </a>
                     </div>
                     <div class="post-box project">
-                        <a href="{{route('about.haats-off">
+                        <a href="{{route('about.haats-off')}}">
                             <div class="news-post-image"
                                 style="background-image: url({{ asset('wp-content/themes/henselphelps/img/default.jpg') }});">
                                 <img src="{{ asset('wp-content/themes/henselphelps/img/default.jpg') }}">
