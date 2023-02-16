@@ -93,6 +93,8 @@ Route::group(['prefix'=> 'projects','as'=> 'projects.'],function(){
     Route::view('kalahari-resort-convention-center', 'kalahari-resort-convention-center')->name('kalahari-resort-convention-center');
     Route::view('wmata-andrews-federal-center-bus-garage', 'wmata-andrews-federal-center-bus-garage')->name('wmata-andrews-federal-center-bus-garage');
     Route::view('kailua-regional-wastewater-treatment-plant-tunnel-influent-pump-station-headworks-facility', 'kailua-regional-wastewater-treatment-plant-tunnel-influent-pump-station-headworks-facility')->name('kailua-regional-wastewater-treatment-plant-tunnel-influent-pump-station-headworks-facility');
+    Route::view('marriott-international-headquarters-and-hotel', 'marriott-international-headquarters-and-hotel')->name('marriott-international-headquarters-and-hotel');
+    Route::view('national-institute-of-standards-and-technology-building-245-modernization-task-orders-1-5', 'national-institute-of-standards-and-technology-building-245-modernization-task-orders-1-5')->name('national-institute-of-standards-and-technology-building-245-modernization-task-orders-1-5');
     
 });
 Route::group(['prefix'=> 'industry','as'=> 'industry.'],function(){
