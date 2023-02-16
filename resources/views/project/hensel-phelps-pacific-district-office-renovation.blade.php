@@ -1,4 +1,4 @@
-@extends('1layout.others')
+@extends('_layout.others')
 @section('content')
 
     <div class="page-banner" style="background-image:url({{asset('wp-content/uploads/2019/06/HP_Featured_PacificDO.jpg')}});">
@@ -310,7 +310,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Commercial project</em><b></b></h4>
                                 <span>1144 15th Street Office Building</span>
-                                <a href="../1144-15th-street-office-building"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../1144-15th-street-office-building')}}"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>

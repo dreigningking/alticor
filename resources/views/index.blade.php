@@ -1,4 +1,4 @@
-@extends('1layout.main')
+@extends('_layout.main')
 @section('content')
     <div class="hero-wrap" style="background-image:url({{asset('wp-content/uploads/2020/06/Hensel-Phelps-website-Banner_1.jpg')}});">
         <div class="index-video-wrapper">
@@ -23,7 +23,7 @@
         <div class="wrapper">
             <div class="process-block clearfix">
                 <div class="col-3">
-                    <a href="what-we-do/development">
+                    <a href="{{route('what-we-do.development')}}">
                         <h2>Plan</h2>
                     </a>
                     <p>
@@ -31,7 +31,7 @@
                         projects from every angle using a collaborative planning process that identifies efficiencies
                         and anticipates issues.</p>
                     </p>
-                    <a href="what-we-do/development"><i class="fa fa-arrow-circle-right"
+                    <a href="{{route('what-we-do.development')}}"><i class="fa fa-arrow-circle-right"
                             aria-hidden="true"></i><span>Explore development</span></a>
                 </div>
                 <div class="col-3">
@@ -74,13 +74,13 @@
                     hospitality Case Study
                 </h3>
                 <p>Marriott International Headquarters and Hotel...</p>
-                <a href="{{route('project.marriott-international-headquarters-and-hotel"><i
+                <a href="#"><i
                         class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>read the case study</span></a>
             </div>
 
             <!-- <div class="case-study-post-image" style="background-image:url()">-->
             <div class="case-study-post-image"
-                style="background-image:url(wp-content/uploads/2022/03/7768-Woodmont-Avenue-18_web.jpg)"><img
+                style="background-image:url({{asset('wp-content/uploads/2022/03/7768-Woodmont-Avenue-18_web.jpg')}})"><img
                     alt="" src="{{asset('wp-content/themes/henselphelps/img/placeholder.png') }}" /></div>
         </div>
         <div class="case-study-post clearfix ">
@@ -90,14 +90,13 @@
                 </h3>
                 <p>National Institute of Standards and Technology Building 245 Modernization Task Orders 1 &#8211; 5...
                 </p>
-                <a
-                    href="{{route('project.national-institute-of-standards-and-technology-building-245-modernization-task-orders-1-5"><i
-                        class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>read the case study</span></a>
+                <a href="#">
+                    <i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>read the case study</span></a>
             </div>
 
             <!-- <div class="case-study-post-image" style="background-image:url()">-->
             <div class="case-study-post-image"
-                style="background-image:url(wp-content/uploads/2022/01/2020_11_12_T_ZGFnist01_A.jpg)"><img
+                style="background-image:url({{asset('wp-content/uploads/2022/01/2020_11_12_T_ZGFnist01_A.jpg')}})"><img
                     alt="" src="{{asset('wp-content/themes/henselphelps/img/placeholder.png') }}" /></div>
         </div>
         <div class="case-study-post clearfix ">
@@ -106,13 +105,13 @@
                     hospitality Case Study
                 </h3>
                 <p>McGregor Square...</p>
-                <a href="{{route('project.mcgregor-square"><i class="fa fa-arrow-circle-right"
+                <a href="{{route('projects.mcgregor-square')}}"><i class="fa fa-arrow-circle-right')}}"
                         aria-hidden="true"></i><span>read the case study</span></a>
             </div>
 
             <!-- <div class="case-study-post-image" style="background-image:url()">-->
             <div class="case-study-post-image"
-                style="background-image:url(wp-content/uploads/2022/01/McGregor-Square-Case-Study.png)"><img
+                style="background-image:url({{asset('wp-content/uploads/2022/01/McGregor-Square-Case-Study.png')}})"><img
                     alt="" src="{{asset('wp-content/themes/henselphelps/img/placeholder.png') }}" /></div>
         </div>
 
@@ -151,7 +150,7 @@
                         <a
                             href="the-nashville-international-airport-terminal-lobby-and-international-arrivals-facility-team-reveals-the-new-grand-lobby">
                             <div class="news-post-image"
-                                style="background-image: url(wp-content/uploads/2023/02/Low-Res-3-768x511.jpg')}});">
+                                style="background-image: url({{asset('wp-content/uploads/2023/02/Low-Res-3-768x511.jpg')}});">
                                 <img width="311" height="225"
                                     src="{{asset('wp-content/uploads/2023/02/Low-Res-3-311x225.jpg') }}"
                                     class="attachment-news-thumbnail size-news-thumbnail wp-post-image" alt=""
@@ -179,7 +178,7 @@
                     <div class="post-box career">
                         <a href="celebrating-a-successful-career-kirk-j-hazen">
                             <div class="news-post-image"
-                                style="background-image: url(wp-content/uploads/2023/01/Kirk-Celebration-Post1-1024x684.jpg')}});">
+                                style="background-image: url({{asset('wp-content/uploads/2023/01/Kirk-Celebration-Post1-1024x684.jpg')}});">
                                 <img width="311" height="225"
                                     src="{{asset('wp-content/uploads/2023/01/Kirk-Celebration-Post1-311x225.jpg') }}"
                                     class="attachment-news-thumbnail size-news-thumbnail wp-post-image" alt=""
@@ -208,7 +207,7 @@
                         <a
                             href="hensel-phelps-launches-diverge-a-construction-innovation-and-technology-investment-company">
                             <div class="news-post-image"
-                                style="background-image: url(wp-content/uploads/2023/01/Diverge_Article_Graphics_1200x628_v2.jpg')}});">
+                                style="background-image: url({{asset('wp-content/uploads/2023/01/Diverge_Article_Graphics_1200x628_v2.jpg')}});">
                                 <img width="311" height="225"
                                     src="{{asset('wp-content/uploads/2023/01/Diverge_Article_Graphics_1200x628_v2-311x225.jpg') }}"
                                     class="attachment-news-thumbnail size-news-thumbnail wp-post-image" alt=""
@@ -237,7 +236,7 @@
                     <div class="post-box community">
                         <a href="construction-executive-from-the-ground-up">
                             <div class="news-post-image"
-                                style="background-image: url(wp-content/uploads/2022/12/QAE_Final_04-1024x684.jpg')}});">
+                                style="background-image: url({{asset('wp-content/uploads/2022/12/QAE_Final_04-1024x684.jpg')}});">
                                 <img width="311" height="225"
                                     src="{{asset('wp-content/uploads/2022/12/QAE_Final_04-311x225.jpg') }}"
                                     class="attachment-news-thumbnail size-news-thumbnail wp-post-image" alt=""
@@ -265,7 +264,7 @@
                     <div class="post-box special announcement">
                         <a href="hensel-phelps-board-of-directors-announces-promotion-of-key-personnel">
                             <div class="news-post-image"
-                                style="background-image: url(wp-content/uploads/2022/12/Promotions-Justin-Starnes-Scott-Bills-Hensel-Phelps.jpg')}});">
+                                style="background-image: url({{asset('wp-content/uploads/2022/12/Promotions-Justin-Starnes-Scott-Bills-Hensel-Phelps.jpg')}});">
                                 <img width="311" height="225"
                                     src="{{asset('wp-content/uploads/2022/12/Promotions-Justin-Starnes-Scott-Bills-Hensel-Phelps-311x225.jpg') }}"
                                     class="attachment-news-thumbnail size-news-thumbnail wp-post-image" alt=""
@@ -293,7 +292,7 @@
                     <div class="post-box award">
                         <a href="celebrating-winning-teams-hensel-phelps-receives-seven-dbia-awards">
                             <div class="news-post-image"
-                                style="background-image: url(wp-content/uploads/2022/12/52476878843_1029b1b227_c-768x512.jpg')}});">
+                                style="background-image: url({{asset('wp-content/uploads/2022/12/52476878843_1029b1b227_c-768x512.jpg')}});">
                                 <img width="311" height="225"
                                     src="{{asset('wp-content/uploads/2022/12/52476878843_1029b1b227_c-311x225.jpg') }}"
                                     class="attachment-news-thumbnail size-news-thumbnail wp-post-image" alt=""
@@ -322,7 +321,7 @@
                         <a
                             href="hensel-phelps-wins-536m-uc-san-diego-ridge-walk-north-living-and-learning-neighborhood-project">
                             <div class="news-post-image"
-                                style="background-image: url(wp-content/uploads/2022/12/SM-22-30162_HNPL_UCSD_STILLS_V05_EYELEVEL_DUSK-1024x684.jpg')}});">
+                                style="background-image: url({{asset('wp-content/uploads/2022/12/SM-22-30162_HNPL_UCSD_STILLS_V05_EYELEVEL_DUSK-1024x684.jpg')}});">
                                 <img width="311" height="225"
                                     src="{{asset('wp-content/uploads/2022/12/SM-22-30162_HNPL_UCSD_STILLS_V05_EYELEVEL_DUSK-311x225.jpg') }}"
                                     class="attachment-news-thumbnail size-news-thumbnail wp-post-image"
@@ -351,7 +350,7 @@
                     <div class="post-box community">
                         <a href="hensel-phelps-celebrates-a-culture-of-giving-back">
                             <div class="news-post-image"
-                                style="background-image: url(wp-content/uploads/2022/12/BT-December-Website-Graphics_1200x720-1024x684.jpg')}});">
+                                style="background-image: url({{asset('wp-content/uploads/2022/12/BT-December-Website-Graphics_1200x720-1024x684.jpg')}});">
                                 <img width="311" height="225"
                                     src="{{ asset('wp-content/uploads/2022/12/BT-December-Website-Graphics_1200x720-311x225.jpg') }}"
                                     class="attachment-news-thumbnail size-news-thumbnail wp-post-image" alt=""

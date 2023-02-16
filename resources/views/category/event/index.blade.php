@@ -993,9 +993,9 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                          <div class="project-content">
 
                                          	<h3>Commercial</h3>
-<p><a href="{{route('project.1144-15th-street-office-building"><img loading="lazy" class="alignnone wp-image-961 size-full" src="{{asset('wp-content/uploads/2019/03/Hensel-Phelps-Colorado-Skyscraper.jpg')}}"  alt="" width="300" height="200" /></a></p>
+<p><a href="{{route('projects.1144-15th-street-office-building')}}"><img loading="lazy" class="alignnone wp-image-961 size-full" src="{{asset('wp-content/uploads/2019/03/Hensel-Phelps-Colorado-Skyscraper.jpg')}}"  alt="" width="300" height="200" /></a></p>
 <h5><span style="color: #ffffff;">Featured Commercial Case Study</span></h5>
-<h4><a href="{{route('project.ascend-apollo">1144 15th Street Office Building</a></h4>
+<h4><a href="{{route('projects.ascend-apollo')}}">1144 15th Street Office Building</a></h4>
 
                                         </div>
 
@@ -1003,9 +1003,9 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                          <div class="project-content">
 
                                          	<h3>Education</h3>
-<p><a href="{{route('project.bethune-cookman-university-residence-halls"><img loading="lazy" class="alignnone wp-image-954 size-full" src="{{asset('wp-content/uploads/2017/06/education-menu.jpg')}}"  alt="" width="300" height="200" /></a></p>
+<p><a href="{{route('projects.bethune-cookman-university-residence-halls')}}"><img loading="lazy" class="alignnone wp-image-954 size-full" src="{{asset('wp-content/uploads/2017/06/education-menu.jpg')}}"  alt="" width="300" height="200" /></a></p>
 <h5><span style="color: #ffffff;">Featured Education Case Study</span></h5>
-<h4><a href="{{route('project.bethune-cookman-university-residence-halls">Bethune-Cookman University Residence Halls</a></h4>
+<h4><a href="{{route('projects.bethune-cookman-university-residence-halls')}}">Bethune-Cookman University Residence Halls</a></h4>
 
                                         </div>
 
@@ -1013,9 +1013,9 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                          <div class="project-content">
 
                                          	<h3>Government + Justice</h3>
-<p><a href="{{route('project.foreign-affairs-security-training-center-fastc-contracts-1-3"><img loading="lazy" class="alignnone wp-image-991 size-full" src="{{asset('wp-content/uploads/2021/07/Foreign-Affairs-.jpg')}}"  alt="" width="300" height="200" /></a></p>
+<p><a href="{{route('projects.foreign-affairs-security-training-center-fastc-contracts-1-3"><img loading="lazy" class="alignnone wp-image-991 size-full" src="{{asset('wp-content/uploads/2021/07/Foreign-Affairs-.jpg')}}"  alt="" width="300" height="200" /></a></p>
 <h5><span style="color: #ffffff;">Featured Government + Justice Case Study</span></h5>
-<h4><a href="{{route('project.foreign-affairs-security-training-center-fastc-contracts-1-3">Foreign Affairs Security Training Center (FASTC) Contracts 1 and 3</a></h4>
+<h4><a href="{{route('projects.foreign-affairs-security-training-center-fastc-contracts-1-3">Foreign Affairs Security Training Center (FASTC) Contracts 1 and 3</a></h4>
 
                                         </div>
 
@@ -1023,10 +1023,10 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                          <div class="project-content">
 
                                          	<h3>Healthcare</h3>
-<p><a href="{{route('project.the-university-of-texas-medical-branch-at-galveston-jennie-sealy-replacement-hospital"><img loading="lazy" class="wp-image-2837 size-medium alignnone" src="{{asset('wp-content/uploads/2020/01/UTMB_JennieSealy_01.jpg')}}"  alt="" width="300" height="200" /></a></p>
+<p><a href="{{route('projects.the-university-of-texas-medical-branch-at-galveston-jennie-sealy-replacement-hospital"><img loading="lazy" class="wp-image-2837 size-medium alignnone" src="{{asset('wp-content/uploads/2020/01/UTMB_JennieSealy_01.jpg')}}"  alt="" width="300" height="200" /></a></p>
 <p>&nbsp;</p>
 <h5><span style="color: #ffffff;">Featured Healthcare Case Study</span></h5>
-<h4><a href="{{route('project.the-university-of-texas-medical-branch-at-galveston-jennie-sealy-replacement-hospital">The University of Texas Medical Branch at Galveston Jennie Sealy Replacement Hospital</a></h4>
+<h4><a href="{{route('projects.the-university-of-texas-medical-branch-at-galveston-jennie-sealy-replacement-hospital">The University of Texas Medical Branch at Galveston Jennie Sealy Replacement Hospital</a></h4>
 
                                         </div>
 
@@ -1034,9 +1034,9 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                          <div class="project-content">
 
                                          	<h3>Hospitality</h3>
-<p><a href="{{route('project.kalahari-resort-convention-center"><img loading="lazy" class="alignnone wp-image-790 size-full" src="{{asset('wp-content/uploads/2021/07/Kalahari-Website.jpg')}}"  alt="" width="300" height="200" /></a></p>
+<p><a href="{{route('projects.kalahari-resort-convention-center"><img loading="lazy" class="alignnone wp-image-790 size-full" src="{{asset('wp-content/uploads/2021/07/Kalahari-Website.jpg')}}"  alt="" width="300" height="200" /></a></p>
 <h5><span style="color: #ffffff;">Featured Hospitality Case Study</span></h5>
-<h4><a href="{{route('project.kalahari-resort-convention-center">Kalahari Resort and Convention Center</a></h4>
+<h4><a href="{{route('projects.kalahari-resort-convention-center">Kalahari Resort and Convention Center</a></h4>
 
                                         </div>
 
@@ -1044,9 +1044,9 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                          <div class="project-content">
 
                                          	<h3>Infrastructure + Transportation</h3>
-<p><a href="{{route('project.wmata-andrews-federal-center-bus-garage"><img loading="lazy" class="alignnone wp-image-979 size-full" src="{{asset('wp-content/uploads/2021/07/WMATA-Bus-Garage-2.jpg')}}"  alt="" width="300" height="200" /></a></p>
+<p><a href="{{route('projects.wmata-andrews-federal-center-bus-garage"><img loading="lazy" class="alignnone wp-image-979 size-full" src="{{asset('wp-content/uploads/2021/07/WMATA-Bus-Garage-2.jpg')}}"  alt="" width="300" height="200" /></a></p>
 <h5><span style="color: #ffffff;">Featured Infrastructure + Transportation Case Study</span></h5>
-<h4><a href="{{route('project.wmata-andrews-federal-center-bus-garage">WMATA Andrews Federal Center Bus Garage</a></h4>
+<h4><a href="{{route('projects.wmata-andrews-federal-center-bus-garage">WMATA Andrews Federal Center Bus Garage</a></h4>
 
                                         </div>
 
@@ -1064,10 +1064,10 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                          <div class="project-content">
 
                                          	<h3>Water + Wastewater</h3>
-<p><a href="{{route('project.kailua-regional-wastewater-treatment-plant-tunnel-influent-pump-station-headworks-facility"><img loading="lazy" class="wp-image-2837 size-medium alignnone" src="{{asset('wp-content/uploads/2017/08/KWWTP_0030-1024x684.jpg')}}"  alt="" width="300" height="200" /></a></p>
+<p><a href="{{route('projects.kailua-regional-wastewater-treatment-plant-tunnel-influent-pump-station-headworks-facility"><img loading="lazy" class="wp-image-2837 size-medium alignnone" src="{{asset('wp-content/uploads/2017/08/KWWTP_0030-1024x684.jpg')}}"  alt="" width="300" height="200" /></a></p>
 <p>&nbsp;</p>
 <h5><span style="color: #ffffff;">Featured Water + Wastewater Case Study</span></h5>
-<h4><a href="{{route('project.kailua-regional-wastewater-treatment-plant-tunnel-influent-pump-station-headworks-facility">Kailua Regional Wastewater Treatment Plant</a></h4>
+<h4><a href="{{route('projects.kailua-regional-wastewater-treatment-plant-tunnel-influent-pump-station-headworks-facility">Kailua Regional Wastewater Treatment Plant</a></h4>
 
                                         </div>
 
@@ -1438,7 +1438,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                             <h3>Safety</h3>
 <p><img loading="lazy" class="size-medium wp-image-2533 alignnone" src="{{asset('wp-content/uploads/2017/07/safety-300x200.jpg')}}"  alt="" width="300" height="200" srcset="{{asset('wp-content/uploads/2017/07/safety-300x200.jpg 300w, {{asset('wp-content/uploads/2017/07/safety.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></p>
 <h5><span style="color: #ffffff;">A Zero-Accident Safety Culture</span></h5>
-<h4><a href="{{route('what-we-do.safety')}}">We maintain an unwavering commitment to the safety of our people and trade partners.<br />
+<h4><a href="{{route('about.safety')}}">We maintain an unwavering commitment to the safety of our people and trade partners.<br />
 </a></h4>
 
                                         </div>
@@ -1460,7 +1460,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                             <h3>Sustainability</h3>
 <p><img loading="lazy" class="size-medium wp-image-2535 alignnone" src="{{asset('wp-content/uploads/2017/07/sustainability-300x200.jpg')}}"  alt="" width="300" height="200" srcset="{{asset('wp-content/uploads/2017/07/sustainability-300x200.jpg 300w, {{asset('wp-content/uploads/2017/07/sustainability.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></p>
 <h5><span style="color: #ffffff;">Benefiting the Environment</span></h5>
-<h4><a href="{{route('what-we-do.sustainability')}}">We help you make informed decisions that benefit the environment as well as your budget.</a></h4>
+<h4><a href="{{route('about.sustainability')}}">We help you make informed decisions that benefit the environment as well as your budget.</a></h4>
 
                                         </div>
 
@@ -1470,7 +1470,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                             <h3>Technology</h3>
 <p><img loading="lazy" class="size-medium wp-image-2536 alignnone" src="{{asset('wp-content/uploads/2017/07/technology-300x200.jpg')}}"  alt="" width="300" height="200" srcset="{{asset('wp-content/uploads/2017/07/technology-300x200.jpg 300w, {{asset('wp-content/uploads/2017/07/technology.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></p>
 <h5><span style="color: #ffffff;">Leading the Way in Innovation</span></h5>
-<h4><a href="{{route('what-we-do.technology')}}">We are constantly creating new efficiencies that translate into better value for our clients.</a></h4>
+<h4><a href="{{route('about.technology')}}">We are constantly creating new efficiencies that translate into better value for our clients.</a></h4>
 
                                         </div>
 

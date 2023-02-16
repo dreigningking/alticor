@@ -1,4 +1,4 @@
-@extends('1layout.others')
+@extends('_layout.others')
 @section('content')
 
     <div class="page-banner" style="background-image:url({{asset('wp-content/uploads/2019/01/UTMB-Level-6-ICS.jpg')}});">

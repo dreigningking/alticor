@@ -1,4 +1,4 @@
-@extends('1layout.others')
+@extends('_layout.others')
 @section('content')
 
     <div class="page-banner" style="background-image:url({{asset('wp-content/uploads/2020/05/American-Airlines-Terminal-4-5-Redevelopment-Program-at-LAX_HERO.jpg')}});">

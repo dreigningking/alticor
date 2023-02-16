@@ -1,4 +1,4 @@
-@extends('1layout.others')
+@extends('_layout.others')
 @section('content')
 
     <div class="page-banner" style="background-image:url({{asset('wp-content/uploads/2021/07/Website-Cover-Photo_-1-scaled.jpg')}});">
@@ -306,7 +306,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Healthcare project</em><b></b></h4>
                                 <span>Grandview Medical Office Building</span>
-                                <a href="../grandview-medical-office-building"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../grandview-medical-office-building')}}"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>

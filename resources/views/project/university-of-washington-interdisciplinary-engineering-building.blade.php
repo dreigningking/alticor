@@ -1,4 +1,4 @@
-@extends('1layout.others')
+@extends('_layout.others')
 @section('content')
 
     <div class="page-banner" style="background-image:url({{asset('wp-content/uploads/2021/03/HP_Large_Website_IEB_August2022_Medium.png'	
@@ -37,7 +37,7 @@
 <p>&nbsp;</p>
 <p style="text-align: center;">The project required demolition of four smaller buildings to make way for the Interdisciplinary Engineering Building.</p>
 <p>&nbsp;</p>
-<p style="text-align: center;">To learn more about the University of Washington’s vision for the project and how they’re building for the future, please visit: <a href="https://facilities.uw.edu/projects/interdisciplinary-engineering-building">https://facilities.uw.edu/projects/interdisciplinary-engineering-building</a></p>
+<p style="text-align: center;">To learn more about the University of Washington’s vision for the project and how they’re building for the future, please visit: <a href="https://facilities.uw.edu/projects/interdisciplinary-engineering-building')}}">https://facilities.uw.edu/projects/interdisciplinary-engineering-building</a></p>
 <p>&nbsp;</p>
 <p>Concept renderings credit: KieranTimberlake</p>
 

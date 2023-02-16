@@ -1,4 +1,4 @@
-@extends('1layout.others')
+@extends('_layout.others')
 @section('content')
     <div class="page-banner" style="background-image:url({{asset('wp-content/uploads/2020/05/Banner-01-1440x340.jpg') }});">
 
@@ -133,7 +133,7 @@
                     <h4>The Alticor Inc Way:</h4>
                     <h5><strong>People, Process, Partnership and Technology.</strong><br />
                         The four pillars that define our collaborative approach and project success. We invite you to
-                        learn more about <a href="{{route('about.the-hensel-phelps-way')}}>The Alticor Inc Way</a>.</h5>
+                        learn more about <a href="{{route('about.ourway')}}>The Alticor Inc Way</a>.</h5>
                     <h4></h4>
                     <h4></h4>
                     <p>&nbsp;</p>

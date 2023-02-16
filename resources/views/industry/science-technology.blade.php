@@ -1,4 +1,4 @@
-@extends('1layout.others')
+@extends('_layout.others')
 @section('content')
 
 
@@ -215,7 +215,7 @@
                                 1 &#8211; 5</span>
 
                             <a
-                                href="{{route('project.national-institute-of-standards-and-technology-building-245-modernization-task-orders-1-5"><i
+                                href="{{route('projects.national-institute-of-standards-and-technology-building-245-modernization-task-orders-1-5')}}"><i
                                     class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
                                     More</span></a>
 
@@ -280,7 +280,7 @@
 
                             <span>Caltech Chen Neuroscience Research Building</span>
 
-                            <a href="{{route('project.caltech-chen-neuroscience-research-building"><i
+                            <a href="{{route('project.caltech-chen-neuroscience-research-building')}}"><i
                                     class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
                                     More</span></a>
 

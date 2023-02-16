@@ -1,4 +1,4 @@
-@extends('1layout.others')
+@extends('_layout.others')
 @section('content')
 
     <div class="page-banner" style="background-image:url({{asset('wp-content/uploads/2022/02/website-image-4.jpg')}});">
@@ -291,7 +291,7 @@ The Task Order 2 scope of work includes the design and construction of the D Win
                             <div class="pro-hover-content">
                                 <h4><em>Science + Technology project</em><b></b></h4>
                                 <span>Caltech Chen Neuroscience Research Building</span>
-                                <a href="../caltech-chen-neuroscience-research-building"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../caltech-chen-neuroscience-research-building')}}"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>

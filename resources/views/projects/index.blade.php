@@ -1,4 +1,4 @@
-@extends('1layout.others')
+@extends('_layout.others')
 @section('content')
 
     
@@ -1043,7 +1043,7 @@
 
                         <span>Marriott International Headquarters and Hotel</span>
 
-                        <a href="{{route('projects.marriott-international-headquarters-and-hotel')}}" ><i
+                        <a href="#" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -4055,7 +4055,7 @@
                         <span>Columbia Place Apartments and Hotel</span>
 
 <<<<<<< HEAD
-                        <a href="href="{{route('projects.columbia-place-apartments-hotel" ><i
+                        <a href="href="{{route('projects.columbia-place-apartments-hotel')}}" ><i
 =======
                         <a href="href="{{route('projects.columbia-place-apartments-hotel')}}" ><i
 >>>>>>> 70f61d1ec593560e238b1892275a81bb6e51aaa5

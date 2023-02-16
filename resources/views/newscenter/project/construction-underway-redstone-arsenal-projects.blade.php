@@ -1,5 +1,5 @@
 
-@extends('1layout.others')
+@extends('_layout.others')
 @section('content')
 
 

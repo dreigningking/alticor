@@ -1,4 +1,4 @@
-@extends('1layout.others')
+@extends('_layout.others')
 @section('content')
 
     <div class="page-banner" style="background-image:url({{asset('wp-content/uploads/2020/04/Kaiser-Permanente-Irwindale-Specialty-Medical-Office-Building-and-Parking-Structure_HERO.jpg')}});">

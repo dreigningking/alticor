@@ -1,4 +1,4 @@
-@extends('1layout.others')
+@extends('_layout.others')
 @section('content')
 
     <div class="page-banner" style="background-image:url({{asset('wp-content/uploads/2020/05/HP_Large_Website_Hero_CARB.jpg')}});">
@@ -295,7 +295,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Science + Technology project</em><b></b></h4>
                                 <span>National Institute of Standards and Technology Building 245 Modernization Task Orders 1 &#8211; 5</span>
-                                <a href="../national-institute-of-standards-and-technology-building-245-modernization-task-orders-1-5"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../national-institute-of-standards-and-technology-building-245-modernization-task-orders-1-5')}}"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>
@@ -325,7 +325,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Science + Technology project</em><b></b></h4>
                                 <span>Caltech Chen Neuroscience Research Building</span>
-                                <a href="../caltech-chen-neuroscience-research-building"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../caltech-chen-neuroscience-research-building')}}"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>

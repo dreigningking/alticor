@@ -15,6 +15,7 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/', function(){return view('index');})->name('index');
 
+Route::view('privacy', 'privacy')->name('privacy');
 Route::view('trade-partners', 'index')->name('trade-partners');
 
 Route::group(['prefix'=> 'about','as'=>'about.'],function(){
@@ -43,8 +44,8 @@ Route::group(['prefix'=> 'projects','as'=> 'projects.'],function(){
     Route::view('701-rio', '701-rio')->name('701-rio');
     Route::view('1144-15th-street-office-building', '1144-15th-street-office-building')->name('1144-15th-street-office-building');
     Route::view('2400-nueces', '2400-nueces')->name('2400-nueces');
-    
-    
+    Route::view('mcgregor-square','projects.mcgregor-square')->name('mcgregor-square');
+    Route::view('foreign-affairs-security-training-center-fastc-contracts-1-3','foreign-affairs-security-training-center-fastc-contracts-1-3')->name('foreign-affairs-security-training-center-fastc-contracts-1-3');
     Route::view('aegis-ashore-missile-defense-test-complex', 'aegis-ashore-missile-defense-test-complex')->name('aegis-ashore-missile-defense-test-complex');
     Route::view('alaska-airlines-north-main-terminal-redevelopment-project-at-sea', 'alaska-airlines-north-main-terminal-redevelopment-project-at-sea')->name('alaska-airlines-north-main-terminal-redevelopment-project-at-sea');
     Route::view('allure-apollo', 'allure-apollo')->name('allure-apollo');
@@ -88,6 +89,10 @@ Route::group(['prefix'=> 'projects','as'=> 'projects.'],function(){
     Route::view('columbus-land-port-entry', 'columbus-land-port-entry')->name('columbus-land-port-entry');
     Route::view('commercial-crew-cargo-processing-facility-c3pf-phases-1-3', 'commercial-crew-cargo-processing-facility-c3pf-phases-1-3')->name('commercial-crew-cargo-processing-facility-c3pf-phases-1-3');
     Route::view('commercial-crew-transportation-capability-cctcap-tower', 'commercial-crew-transportation-capability-cctcap-tower')->name('commercial-crew-transportation-capability-cctcap-tower');
+    Route::view('the-university-of-texas-medical-branch-at-galveston-jennie-sealy-replacement-hospital', 'the-university-of-texas-medical-branch-at-galveston-jennie-sealy-replacement-hospital')->name('the-university-of-texas-medical-branch-at-galveston-jennie-sealy-replacement-hospital');
+    Route::view('kalahari-resort-convention-center', 'kalahari-resort-convention-center')->name('kalahari-resort-convention-center');
+    Route::view('wmata-andrews-federal-center-bus-garage', 'wmata-andrews-federal-center-bus-garage')->name('wmata-andrews-federal-center-bus-garage');
+    Route::view('kailua-regional-wastewater-treatment-plant-tunnel-influent-pump-station-headworks-facility', 'kailua-regional-wastewater-treatment-plant-tunnel-influent-pump-station-headworks-facility')->name('kailua-regional-wastewater-treatment-plant-tunnel-influent-pump-station-headworks-facility');
     
 });
 Route::group(['prefix'=> 'industry','as'=> 'industry.'],function(){

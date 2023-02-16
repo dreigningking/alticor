@@ -1,4 +1,4 @@
-@extends('1layout.others')
+@extends('_layout.others')
 @section('content')
 
     <div class="page-banner" style="background-image:url({{asset('wp-content/uploads/2019/06/Aventura-Hotel_Large_Hero-3.jpg')}});">
@@ -228,7 +228,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Hospitality project</em><b></b></h4>
                                 <span>Marriott International Headquarters and Hotel</span>
-                                <a href="../marriott-international-headquarters-and-hotel"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../marriott-international-headquarters-and-hotel')}}"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>
@@ -243,7 +243,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Hospitality project</em><b></b></h4>
                                 <span>McGregor Square</span>
-                                <a href="../mcgregor-square"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="{{route('projects.mcgregor-square')}}"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>
@@ -303,7 +303,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Hospitality project</em><b></b></h4>
                                 <span>Hilton Miami Dadeland Hotel</span>
-                                <a href="../hilton-miami-dadeland-hotel"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../hilton-miami-dadeland-hotel')}}"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>

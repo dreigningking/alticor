@@ -1,17 +1,5 @@
-@extends('1layout.others')
+@extends('_layout.others')
 @section('content')
-
-    <!--[if lt IE 9]>
-  
-<style type="text/css">
- .page-banner{
- filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="{{asset('wp-content/uploads/2017/07/hospitality.jpg', sizingMethod='scale');
--ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src="{{asset('wp-content/uploads/2017/07/hospitality.jpg', sizingMethod='scale')";
- }
-</style>
-<![endif]-->
-
-
 
     <div class="page-banner" style="background-image:url({{asset('wp-content/uploads/2017/07/hospitality.jpg')}});">
 
@@ -128,7 +116,7 @@
 
                             <span>Marriott International Headquarters and Hotel</span>
 
-                            <a href="{{route('project.marriott-international-headquarters-and-hotel"><i
+                            <a href="#"><i
                                     class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
                                     More</span></a>
 
@@ -160,7 +148,7 @@
 
                             <span>McGregor Square</span>
 
-                            <a href="{{route('project.mcgregor-square"><i class="fa fa-arrow-circle-right"
+                            <a href="{{route('projects.mcgregor-square')}}"><i class="fa fa-arrow-circle-right"
                                     aria-hidden="true"></i><span>Learn More</span></a>
 
                         </div>

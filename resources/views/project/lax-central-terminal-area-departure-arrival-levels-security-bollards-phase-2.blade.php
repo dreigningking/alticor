@@ -1,4 +1,4 @@
-@extends('1layout.others')
+@extends('_layout.others')
 @section('content')
 
     <div class="page-banner" style="background-image:url({{asset('wp-content/uploads/2020/04/CTA-Departure-and-Arrival-Levels-Security-Bollards-%e2%80%93-Phase-2-at-LAX_HERO.jpg')}});">

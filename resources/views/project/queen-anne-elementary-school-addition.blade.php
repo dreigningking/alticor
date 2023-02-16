@@ -1,4 +1,4 @@
-@extends('1layout.others')
+@extends('_layout.others')
 @section('content')
 
     <div class="page-banner" style="background-image:url({{asset('wp-content/uploads/2019/08/HP_Large_Website_QAE_Template_2.jpg')}});">
@@ -299,7 +299,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Education project</em><b></b></h4>
                                 <span>University of Washington Interdisciplinary Engineering Building</span>
-                                <a href="../university-of-washington-interdisciplinary-engineering-building"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../university-of-washington-interdisciplinary-engineering-building')}}"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>

@@ -1,4 +1,4 @@
-@extends('1layout.others')
+@extends('_layout.others')
 @section('content')
   
 
@@ -278,7 +278,7 @@
                             <span>University of Washington Interdisciplinary Engineering Building</span>
 
                             <a
-                                href="{{route('project.university-of-washington-interdisciplinary-engineering-building"><i
+                                href="{{route('project.university-of-washington-interdisciplinary-engineering-building')}}"><i
                                     class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
                                     More</span></a>
 
