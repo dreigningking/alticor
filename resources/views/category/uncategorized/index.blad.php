@@ -1480,7 +1480,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
 <p><img loading="lazy" class="alignnone size-medium wp-image-2313" src="{{asset('wp-content/uploads/2017/06/hp_aboutus-300x167.jpg')}}"  alt="" width="300" height="167" srcset="{{asset('wp-content/uploads/2017/06/hp_aboutus-300x167.jpg 300w, {{asset('wp-content/uploads/2017/06/hp_aboutus-768x426.jpg 768w, {{asset('wp-content/uploads/2017/06/hp_aboutus-1024x568.jpg 1024w, {{asset('wp-content/uploads/2017/06/hp_aboutus.jpg 1427w" sizes="(max-width: 300px) 100vw, 300px" /></p>
 <p>&nbsp;</p>
 <h5><span style="color: #ffffff;">Celebrating 80 Years</span></h5>
-<h4><a href="//about/history/">From one man’s dream to one of America’s most successful contractors.</a></h4>
+<h4><a href="{{route('about.history')}}">From one man’s dream to one of America’s most successful contractors.</a></h4>
 
                                         </div>
 
@@ -1490,7 +1490,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                             <h3>Community</h3>
 <p><img loading="lazy" class="size-medium wp-image-2537 alignnone" src="{{asset('wp-content/uploads/2017/07/community-300x200.jpg')}}"  alt="" width="300" height="200" srcset="{{asset('wp-content/uploads/2017/07/community-300x200.jpg 300w, {{asset('wp-content/uploads/2017/07/community.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></p>
 <h5><span style="color: #ffffff;">Doing Our Part</span></h5>
-<h4><a href="//about/community/">Building Stronger Communities Together.</a></h4>
+<h4><a href="{{route('about.community')}}">Building Stronger Communities Together.</a></h4>
 
                                         </div>
 
@@ -1508,9 +1508,9 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                         <div class="project-content">
 
                                             <h3>News Center</h3>
-<p><a href="//about/news-center/"><img loading="lazy" class="alignnone" src="{{asset('wp-content/uploads/2017/05/news-news.jpg')}}"  alt="" width="300" height="200" /></a></p>
+<p><a href="{{route('about.news-center')}}"><img loading="lazy" class="alignnone" src="{{asset('wp-content/uploads/2017/05/news-news.jpg')}}"  alt="" width="300" height="200" /></a></p>
 <h5><span style="color: #ffffff;">What’s Happening</span></h5>
-<h4><a href="//about/news-center/">Stay in the know with Alticor Inc news and events.</a></h4>
+<h4><a href="{{route('about.news-center')}}">Stay in the know with Alticor Inc news and events.</a></h4>
 
                                         </div>
 
@@ -1520,7 +1520,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                             <h3>Leadership</h3>
 <p><img loading="lazy" class="size-medium wp-image-2538 alignnone" src="{{asset('wp-content/uploads/2017/07/leadership-300x200.jpg')}}"  alt="" width="300" height="200" srcset="{{asset('wp-content/uploads/2017/07/leadership-300x200.jpg 300w, {{asset('wp-content/uploads/2017/07/leadership.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></p>
 <h5><span style="color: #ffffff;">Empowered Teams</span></h5>
-<h4><a href="//about/leadership/">Project leadership is one of the cornerstones of our company structure.</a></h4>
+<h4><a href="{{route('about.leadership')}}">Project leadership is one of the cornerstones of our company structure.</a></h4>
 
                                         </div>
 
@@ -1530,7 +1530,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                             <h3>Recognition &amp; Awards</h3>
 <p><img loading="lazy" class="size-medium wp-image-2539 alignnone" src="{{asset('wp-content/uploads/2017/07/awards-300x200.jpg')}}"  alt="" width="300" height="200" srcset="{{asset('wp-content/uploads/2017/07/awards-300x200.jpg 300w, {{asset('wp-content/uploads/2017/07/awards.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></p>
 <h5><span style="color: #ffffff;">Jobs Well Done</span></h5>
-<h4><a href="//about/recognition-awards/">At Alticor Inc, our work speaks for itself.</a></h4>
+<h4><a href="{{route('about.recognition-awards')}}">At Alticor Inc, our work speaks for itself.</a></h4>
 
                                         </div>
 
@@ -1540,7 +1540,7 @@ article.mec-single-event.mec-single-modern.mec-single-modal > div.col-md-8{
                                             <h3>Trade Partners</h3>
 <p><img loading="lazy" class="size-medium wp-image-2539 alignnone" src="{{asset('wp-content/uploads/2017/04/Subcontractor-Outreach-300x247.jpg')}}"  alt="" width="300" height="200" /></p>
 <h5><span style="color: #ffffff;">Partnering with Alticor Inc</span></h5>
-<h4><a href="//about/recognition-awards/">We welcome the opportunity to work with trade partners who share our dedication and goals.</a></h4>
+<h4><a href="{{route('about.recognition-awards')}}">We welcome the opportunity to work with trade partners who share our dedication and goals.</a></h4>
 
                                         </div>
 

@@ -31,7 +31,7 @@
                         projects from every angle using a collaborative planning process that identifies efficiencies
                         and anticipates issues.</p>
                     </p>
-                    <a href="what-we-do/development"><i class="fa fa-arrow-circle-right"
+                    <a href="{{route('what-we-do.development')}}"><i class="fa fa-arrow-circle-right"
                             aria-hidden="true"></i><span>Explore development</span></a>
                 </div>
                 <div class="col-3">
@@ -74,7 +74,7 @@
                     hospitality Case Study
                 </h3>
                 <p>Marriott International Headquarters and Hotel...</p>
-                <a href="{{route('project.marriott-international-headquarters-and-hotel"><i
+                <a href="{{route('project.marriott-international-headquarters-and-hotel')}}"><i
                         class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>read the case study</span></a>
             </div>
 
@@ -91,7 +91,7 @@
                 <p>National Institute of Standards and Technology Building 245 Modernization Task Orders 1 &#8211; 5...
                 </p>
                 <a
-                    href="{{route('project.national-institute-of-standards-and-technology-building-245-modernization-task-orders-1-5"><i
+                    href="{{route('project.national-institute-of-standards-and-technology-building-245-modernization-task-orders-1-5')}}"><i
                         class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>read the case study</span></a>
             </div>
 
@@ -106,7 +106,7 @@
                     hospitality Case Study
                 </h3>
                 <p>McGregor Square...</p>
-                <a href="{{route('project.mcgregor-square"><i class="fa fa-arrow-circle-right"
+                <a href="{{route('project.mcgregor-square')}}"><i class="fa fa-arrow-circle-right')}}"
                         aria-hidden="true"></i><span>read the case study</span></a>
             </div>
 

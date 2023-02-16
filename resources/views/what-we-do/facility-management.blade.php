@@ -80,11 +80,11 @@
             <div class="footer-bottom">
             	<div class="footer-nav">
                     <ul id="menu-footer-menu" class=""><li id="menu-item-115" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-115"><a href="{{route('projects.index')}}">Projects</a></li>
-<li id="menu-item-116" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-116"><a href="../">What We Do</a></li>
+<li id="menu-item-116" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-116"><a href="{{route('what-we-do.index')}}">What We Do</a></li>
 <li id="menu-item-105" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-105"><a href="../../careers/">Careers</a></li>
 <li id="menu-item-4379" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4379"><a href="../../the-hensel-phelps-way/">The Alticor Inc Way</a></li>
 <li id="menu-item-2779" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2779"><a href="{{route('trade-partners')}}">Trade Partners</a></li>
-<li id="menu-item-5227" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5227"><a href="../../sustainability-corporate-governance/">Sustainability and Corporate Governance</a></li>
+<li id="menu-item-5227" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5227"><a href="{{route('about.sustainability')}}">Sustainability and Corporate Governance</a></li>
 <li id="menu-item-113" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113"><a href="{{route('contact')}}" >Contact Us</a></li>
 </ul>                </div>
                 <div class="copyright">
