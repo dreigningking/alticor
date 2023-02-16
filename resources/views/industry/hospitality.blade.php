@@ -116,7 +116,7 @@
 
                             <span>Marriott International Headquarters and Hotel</span>
 
-                            <a href="#"><i
+                            <a href="{{route('project.marriott-international-headquarters-and-hotel')}}"><i
                                     class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
                                     More</span></a>
 

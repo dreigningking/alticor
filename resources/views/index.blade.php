@@ -74,7 +74,7 @@
                     hospitality Case Study
                 </h3>
                 <p>Marriott International Headquarters and Hotel...</p>
-                <a href="#"><i
+                <a href="{{route('project.marriott-international-headquarters-and-hotel')}}"><i
                         class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>read the case study</span></a>
             </div>
 
@@ -90,8 +90,9 @@
                 </h3>
                 <p>National Institute of Standards and Technology Building 245 Modernization Task Orders 1 &#8211; 5...
                 </p>
-                <a href="#">
-                    <i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>read the case study</span></a>
+                <a
+                    href="{{route('project.national-institute-of-standards-and-technology-building-245-modernization-task-orders-1-5')}}"><i
+                        class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>read the case study</span></a>
             </div>
 
             <!-- <div class="case-study-post-image" style="background-image:url()">-->
@@ -105,7 +106,7 @@
                     hospitality Case Study
                 </h3>
                 <p>McGregor Square...</p>
-                <a href="{{route('projects.mcgregor-square')}}"><i class="fa fa-arrow-circle-right')}}"
+                <a href="{{route('project.mcgregor-square')}}"><i class="fa fa-arrow-circle-right')}}"
                         aria-hidden="true"></i><span>read the case study</span></a>
             </div>
 
