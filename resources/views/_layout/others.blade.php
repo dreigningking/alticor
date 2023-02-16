@@ -283,6 +283,9 @@
             });
         });
     </script>
+    <script type='text/javascript' id='mec-frontend-script-js-extra'>
+        // jQuery('#project-filter').click(function(){alert('ok')})
+    </script>
     <script type='text/javascript'
         src="{{ asset('wp-content/plugins/modern-events-calendar-lite/assets/js/jquery.typewatchc945.js?ver=5.19.0') }}"
         id='mec-typekit-script-js'></script>
@@ -328,11 +331,7 @@
         id='jquery.map-js'></script>
     <script type='text/javascript' src="{{ asset('wp-content/themes/henselphelps/js/jquery.inview1eb7.js?ver=6.0.3') }}"
         id='jquery.inview-js'></script>
-    <script type='text/javascript' id='jquery.custom-js-extra'>
-        /* <![CDATA[ */
-        var ajaxurl = "index.html\/\/henselphelps.com\/wp-admin\/admin-ajax.php";
-        /* ]]> */
-    </script>
+    
     <script type='text/javascript' src="{{ asset('wp-content/themes/henselphelps/js/custom1eb7.js?ver=6.0.3') }}"
         id='jquery.custom-js'></script>
     <script type='text/javascript' src="{{ asset('wp-content/themes/henselphelps/js/bio-scripts1eb7.js?ver=6.0.3') }}"

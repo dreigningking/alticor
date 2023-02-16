@@ -366,27 +366,7 @@
     id='jquery-core-js'></script>
 <script type='text/javascript' src="{{ asset('wp-includes/js/jquery/jquery-migrate.mind617.js?ver=3.3.2') }}"
     id='jquery-migrate-js'></script>
-<script type='text/javascript' id='mec-frontend-script-js-extra'>
-    /* <![CDATA[ */
-    var mecdata = {
-        "day": "day",
-        "days": "days",
-        "hour": "hour",
-        "hours": "hours",
-        "minute": "minute",
-        "minutes": "minutes",
-        "second": "second",
-        "seconds": "seconds",
-        "elementor_edit_mode": "no",
-        "recapcha_key": "",
-        "ajax_url": "https:\/\/henselphelps.com\/wp-admin\/admin-ajax.php",
-        "fes_nonce": "a07a1904d3",
-        "current_year": "2023",
-        "current_month": "02",
-        "datepicker_format": "mm\/dd\/yy&m\/d\/Y"
-    };
-    /* ]]> */
-</script>
+
 <script type='text/javascript'
     src="{{ asset('wp-content/plugins/modern-events-calendar-lite/assets/js/frontendc945.js?ver=5.19.0') }}"
     id='mec-frontend-script-js'></script>
@@ -652,7 +632,3 @@
         width: 100% !important;
     }
 </style>
-<<<<<<< HEAD
- 
-=======
->>>>>>> 70f61d1ec593560e238b1892275a81bb6e51aaa5

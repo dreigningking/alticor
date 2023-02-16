@@ -7,10 +7,7 @@
    
 
 
-    <div class="page-banner" style="background-image:url(
-
-
-	'../wp-content/uploads/2017/02/projects.jpg')}});">
+    <div class="page-banner" style="background-image:url({{asset('wp-content/uploads/2017/02/projects.jpg')}});">
 
         <div class="page-banner-block">
 
@@ -3376,36 +3373,7 @@
 
             </li>
 
-
-            <li class="grid-item">
-
-                <div class="pro-image-box">
-
-
-
-
-
-                    <img src="{{asset('wp-content/uploads/2019/06/HP_Project_PacificDO-480x320.jpg')}}">
-
-
-
-
-                    <div class="pro-hover-content">
-
-                        <h4><em>Commercial project </em><b></b></h4>
-
-                        <span>Alticor Inc Pacific District Office Renovation</span>
-
-                        <a href="{{route('projects.hensel-phelps-pacific-district-office-renovation')}}" ><i
-                                class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
-
-                    </div>
-
-
-
-                </div>
-
-            </li>
+          
 
 
             <li class="grid-item">
@@ -4054,11 +4022,7 @@
 
                         <span>Columbia Place Apartments and Hotel</span>
 
-<<<<<<< HEAD
-                        <a href="href="{{route('projects.columbia-place-apartments-hotel')}}" ><i
-=======
-                        <a href="href="{{route('projects.columbia-place-apartments-hotel')}}" ><i
->>>>>>> 70f61d1ec593560e238b1892275a81bb6e51aaa5
+                        <a href="{{route('projects.columbia-place-apartments-hotel')}}" ><i
                                 class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
 
                     </div>
@@ -4630,7 +4594,7 @@
 
             </li>
 
-
+            {{--
             <li class="grid-item">
 
                 <div class="pro-image-box">
@@ -4661,7 +4625,7 @@
 
             </li>
 
-
+            
             <li class="grid-item">
 
                 <div class="pro-image-box">
@@ -9771,7 +9735,7 @@
                 </div>
 
             </li>
-
+            --}}
 
 
         </ul>
