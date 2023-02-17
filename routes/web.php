@@ -31,6 +31,7 @@ Route::group(['prefix'=> 'about','as'=>'about.'],function(){
     Route::view('news-center', 'about.news-center')->name('news-center');
     Route::view('leadership', 'about.leadership')->name('leadership');
     Route::view('recognition-awards', 'about.recognition-awards')->name('recognition-awards');
+    Route::view('subcontractor-outreach', 'about.subcontractor-outreach')->name('subcontractor-outreach');
     
 });
 

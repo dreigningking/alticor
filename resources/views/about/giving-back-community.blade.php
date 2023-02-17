@@ -42,7 +42,7 @@
 
                 <div class="wp-block-image">
                     <figure class="alignright size-full is-resized"><img
-                            src="../../../wp-content/uploads/2017/07/giving-back.jpg')}}" alt=""
+                            src="{{asset('wp-content/uploads/2017/07/giving-back.jpg')}}" alt=""
                             class="wp-image-2563" width="500" height="404" /></figure>
                 </div>
 
