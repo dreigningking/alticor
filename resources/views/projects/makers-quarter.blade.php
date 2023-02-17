@@ -1,13 +1,13 @@
 @extends('_layout.others')
 @section('content')
 
-    <div class="page-banner" style="background-image:url({{asset('wp-content/uploads/2017/04/Apollo-Banner.jpg')}});">
+    <div class="page-banner" style="background-image:url({{asset('wp-content/uploads/2017/08/HERO-Block-A-Rendering-Creative-Suite.jpg')}});">
 
         <div class="page-banner-block">
 
             <div class="page-banner-content">
 
-                <h1>Ascend Apollo</h1>
+                <h1>Makers Quarter</h1>
 
             </div>
         </div>
@@ -30,7 +30,11 @@
                 <div class="small-wrapper about-project">
 
                     <h2>About the Project</h2>
-<p>Alticor Inc Development acted as co-developer and owner alongside Peter N.G. Schwartz Management Co. with Canyon Partners as co-financier for the Ascend Apollo residential complex in Largo, Maryland. Alticor Inc Construction executed the build of the three interconnected buildings, representing the first phase of a larger development of multi-family units, parking and retail adjacent to WMATA Metro. Ascend Apollo consists of a 424-unit mid-rise building totaling 461,044 square feet, with three interior courtyards and a six-level structured parking garage. The courtyards include a pool, bocce court and a landscaped plaza. The building also features a fitness facility, game room, club room, a business center with conference room, dog spa and an area on the ground floor to accommodate future retail tenants.</p>
+<p>Comprised of approximately six blocks spanning 14th Street to 17th Street, Broadway Avenue to G Street, this neighborhood in the Upper East Village is surrounded by San Diego City College, the vibrant East Village, and Golden Hill.  Makers Quarter seeks to provide connectivity between each of these desirable regions while creating a central, live-work-play quarter for eastern Downtown.  Makers Quarter will create connections in transit housing, jobs, open space, and significant density with a vision to merge innovative economies with a strong urban community.</p>
+<p>&nbsp;</p>
+<p>The gradual, incremental build begins with the residential mixed-use block to combine market and community uses.  Next will be a combination of creative offices, a mixture of small, local, and mid-sized retail anchors as well as residential, all stitched together by a strong and significant office space plan.  Respectful of the long history in the area, Makers Quarter will incorporate historic elements and architecture into the design and function of the neighborhood with a strong focus on sustainability.</p>
+<p>&nbsp;</p>
+<p>The Navarra Family selected <a href="{{route('what-we-do.development')}}">Alticor Inc Development</a> and their associates to develop what has been creatively branded as Makers Quarter, an upcoming urban neighborhood to establish, enhance, and promote linkages throughout San Diego and downtown.  The Development team provided expertise in the areas of project management / owner&#8217;s representation.</p>
 
                 </div>
 
@@ -44,12 +48,12 @@
                             <ul>
                             	                                <li>
                                 	<strong>Location</strong>
-                                    <span>Largo, Maryland</span>
+                                    <span>San Diego, CA</span>
                                 </li>
                                 
                                                                 <li>
                                 	<strong>Client</strong>
-                                    <span>Peter N.G. Schwartz <br> Management Company</span>
+                                    <span>L2HP, LLC</span>
                                 </li>
                                                                                                 	                                <li>
                                 	<strong>Industry</strong>
@@ -57,85 +61,19 @@
 								 	</li>
                                                                                                 	<li>
                                 		<strong>Line of Business</strong>
-                                    	<span><a href="../../line_of_business/construction">Construction</a>, <a href="../../line_of_business/development">Development</a></span>
+                                    	<span><a href="../../line_of_business/development">Development</a></span>
                                 	</li>
-                                                                                                                                	<li>
-                                	<strong>Completion Date</strong>
-                                    <span>April 2017</span>
+                                                                                                                                                                                                                                                                	<li>
+                                	<strong>Square Footage</strong>
+                                    <span>317,000 SF</span>
                                 	</li>
-                                                                                                	<li>
-                                	<strong>Duration</strong>
-                                    <span>22 Months</span>
-                                	</li>
-                                                                                               	 	<li>
-                                	<strong>Contract Value</strong>
-                                    <span>$ 655,000 SF</span>
-                                	</li>
-                                                                                                                                                            </ul>
+                                                                                            </ul>
                         </div>
                     </div>
                                     
 
                     
 						
-                            <div class="overflow small-wrapper margin">
-    <blockquote><p>&#8220;I know it has been a tremendous effort and that everyone is working very hard. It is not going unnoticed&#8230; I have confidence that your team will succeed.&#8221;</p></blockquote>
-</div>
-                        
-                            <div class="about-grid-section Challenge clearfix">
-    <h2>Challenge</h2>
-    <div class="grid-box-area">
-    	
-        
-                
-                
-                <div class="grid-box2">
-            <img src="{{asset('wp-content/uploads/2017/04/ApolloAscend1-1.jpg')}}" alt="">
-        </div>
-                
-        <div class="grid-box1 ">
-            <h3>Competing Scopes Collide in a Race to the Finish Line</h3>
-<p>On this fast-paced development project, the schedule required that the first building in the complex, featuring the interior courtyard which houses the 1,850-square-foot pool, be turned over for temporary occupancy in the fall of 2016. With several activities running concurrently to meet the fast-track schedule, this meant that the Alticor Inc team needed to dig and construct the pool at the same time as they were installing the building’s complex multi-system skin and floor-to-ceiling windows in the courtyard.</p>
-        </div>
-        
-        
-        
-                
-        
-        
-        
-    </div>
-</div>
-                        
-                            <div class="about-grid-section Solution clearfix">
-    <h2>Solution</h2>
-    <div class="grid-box-area">
-    	
-        
-                
-                
-        <div class="grid-box1 ">
-            <h3>A Carefully Orchestrated Plan Kept Crews Focused on Quality and Safety</h3>
-<p>In order to complete the entire scope of work in time, the team ran multiple crews concurrently in a carefully orchestrated staging plan. The exterior finish work in the courtyard had to be performed on boom lifts and the navigable space for theses lifts became very narrow, due to the digging of the pool. The team proceeded to install the skin system which included four different exterior finishes and the architectural details and joints required extensive coordination to ensure a timely, high quality installation. Safety was a key focus for the team as this complex skin work was going on literally above the pool work. To accommodate additional lay down area, two ground floor units were left unfinished until roughly two weeks before building turnover, and were then finished on a highly accelerated schedule.</p>
-        </div>
-        
-                <div class="grid-box2">
-            <img src="{{asset('wp-content/uploads/2017/04/StagedStudio3.jpg')}}" alt="">
-        </div>
-                
-                
-        
-        
-        
-    </div>
-</div>
-                        
-                            <div class="overflow small-wrapper margin">
-    <h2 style="text-align: center;">Result</h2>
-<h3 style="text-align: center;">Delivering on the Promise of Quality</h3>
-<p style="text-align: center;">As the Apollo Ascend project included oversight from both Alticor Inc’ Development and Construction, the high quality expectations were established from the outset of the project. This continuity of service helped deliver this project on a tight schedule while meeting the high expectations of the client. The pool and courtyard work was finished in time to remove the lifts, finish the remaining apartments, and meet the client’s needs for its opening date.</p>
-</div>
-                        
                             
 
 
@@ -154,7 +92,7 @@
 			  
 
 			  
-			<li><img src="{{asset('wp-content/uploads/2017/04/StagedStudio3-1-1024x684.jpg')}}" alt=""></li>
+			<li><img src="{{asset('wp-content/uploads/2017/08/2-Block-B-GALLERY.jpg')}}" alt=""></li>
 
 			
 			  
@@ -167,7 +105,7 @@
 			  
 
 			  
-			<li><img src="{{asset('wp-content/uploads/2017/04/Staged_LivingRoom4.jpg')}}" alt=""></li>
+			<li><img src="{{asset('wp-content/uploads/2017/08/3-Block-C-GALLERY.jpg')}}" alt=""></li>
 
 			
 			  
@@ -180,7 +118,7 @@
 			  
 
 			  
-			<li><img src="{{asset('wp-content/uploads/2017/04/Exterior1.jpg')}}" alt=""></li>
+			<li><img src="{{asset('wp-content/uploads/2017/08/4-Makers-Quarter-Block-D-GALLERYl.jpg')}}" alt=""></li>
 
 			
 			  
@@ -193,7 +131,7 @@
 			  
 
 			  
-			<li><img src="{{asset('wp-content/uploads/2017/04/ApolloAscend3-1.jpg')}}" alt=""></li>
+			<li><img src="{{asset('wp-content/uploads/2017/08/5-Makers-Quarter-Block-D-GALLERY.jpg')}}" alt=""></li>
 
 			
 			  
@@ -206,20 +144,7 @@
 			  
 
 			  
-			<li><img src="{{asset('wp-content/uploads/2017/04/ApolloAscend2-1.jpg')}}" alt=""></li>
-
-			
-			  
-
-			 
-
-            
-
-            
-			  
-
-			  
-			<li><img src="{{asset('wp-content/uploads/2017/04/ApolloAscend1-2.jpg')}}" alt=""></li>
+			<li><img src="{{asset('wp-content/uploads/2017/08/6-Makers-Quarter-Block-D-001-GALLERY.jpg')}}" alt=""></li>
 
 			
 			  
@@ -323,7 +248,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Commercial project</em><b></b></h4>
                                 <span>Alticor Inc Pacific District Office Renovation</span>
-                                <a href="../hensel-phelps-pacific-district-office-renovation"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../pacific-district-office-renovation"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>
@@ -384,14 +309,13 @@
 							dropdown.onchange = onCatChange;
 							*/
 						</script>
-                    </div>Alticor Inc.
+                    </div>
 
                 </div>
             </div>
 
-        </div>
+        </div>Alticor Inc.
 
     </div>
 
-
-	@endsection
+    @endsection

@@ -1,13 +1,13 @@
 @extends('_layout.others')
 @section('content')
 
-    <div class="page-banner" style="background-image:url({{asset('wp-content/uploads/2022/06/HP_Large_Website_Hero_SeaWorld-Aquatica.jpg')}});">
+    <div class="page-banner" style="background-image:url({{asset('wp-content/uploads/2017/04/Hensel-Phelps-Pacific-Mamizu1.jpg')}});">
 
         <div class="page-banner-block">
 
             <div class="page-banner-content">
 
-                <h1>SeaWorld Aquatica SP2</h1>
+                <h1>Mamizu Utilities and Site Improvements Phase 1</h1>
 
             </div>
         </div>
@@ -29,10 +29,14 @@
 
                 <div class="small-wrapper about-project">
 
-                    <h2 style="text-align: center">About the Project</h2>
-<p style="text-align: center">The SeaWorld Aquatica SP2 project is a redevelopment of the Aquatica San Diego water park into the &#8220;Sesame Street&#8221;-themed park, the first such theme park on the West Coast and only the second in the country. The refreshed park joined Legoland in Carlsbad, California, as the only two theme parks in the nation that primarily tailor their services to children. The 17-acre, two-phase redevelopment was re-branded and re-named Sesame Place and incorporated many existing water attractions into the new park. These were built to cater to younger children and remain appealing to all ages. Sesame Place will be a Certified Autism Center.</p>
+                    <h2>About the Project</h2>
+<p>The JFY09 Mamizu J-001 Utilities and Site Improvements Phase 1 project provided underground utilities and site improvements necessary to support the relocation of thousands of U.S. Marines from Okinawa, Japan to Guam. The work was spread across two sites on Guam, including:</p>
 <p>&nbsp;</p>
-<p style="text-align: center">The extensive makeover by Alticor Inc of SeaWorld’s Aquatica Sesame Place San Diego featured seven theme park rides geared toward younger kids and 11 water park attractions with the highlight of the new park, a recreation of the “Sesame Street” television show set.</p>
+<p><strong>Anderson Air Force Base (ACE Gate)</strong>: Construction at Anderson Air Force Base included new entry gate and entry control facilities and roadway to the proposed USMC North Ramp Aviation Facilities. The work included intersection improvements, installation of new traffic signals, and construction of a one-story base pass and ID office and vehicle queuing control facility.</p>
+<p>&nbsp;</p>
+<p><strong>Apra Harbor Naval Station</strong>: The work at Apra Harbor was comprised of shore-side utility improvements to the Sierra, Tango, Uniform, and Victor Wharves which included steam, compressed air, potable water, power, communications duct-banks, wastewater, fire alarm, and fire hydrants to support the Marine Corps embarkation capability on Guam. Additionally, the work included a welcome center.</p>
+<p>&nbsp;</p>
+<p>The successful completion of this design-build project was a critical first step in preparing Guam for the build-up of our Armed Forces on the island.</p>
 
                 </div>
 
@@ -46,48 +50,32 @@
                             <ul>
                             	                                <li>
                                 	<strong>Location</strong>
-                                    <span>Chula Vista, California</span>
+                                    <span>Pacific</span>
                                 </li>
                                 
                                                                 <li>
                                 	<strong>Client</strong>
-                                    <span>SeaWorld Parks &amp; Entertainment - Orlando</span>
+                                    <span>NAVFAC Pacific</span>
                                 </li>
-                                                                                                <li>
-                                	<strong>Architect</strong>
-                                    <span>PGAV: PGAV Destinations (PGAV)</span>
-                                </li>
-                                                                	                                <li>
+                                                                                                	                                <li>
                                 	<strong>Industry</strong>
-                                    <span><a href="{{route('industry.commercial')}}">Commercial</a></span>
+                                    <span><a href="{{route('industry.infrastructure-transportation')}}">Infrastructure + Transportation</a></span>
 								 	</li>
                                                                                                 	<li>
                                 		<strong>Line of Business</strong>
                                     	<span><a href="../../line_of_business/construction">Construction</a></span>
                                 	</li>
-                                                                                                	<li>
-                                	<strong>Delivery Method</strong>
-                                  	<span>Design-Bid-Build (Hard Bid)</span>
-                                	</li>
-                                                                                                	<li>
+                                                                                                                                	<li>
                                 	<strong>Completion Date</strong>
-                                    <span>March 2022</span>
+                                    <span>June 2014</span>
                                 	</li>
                                                                                                 	<li>
                                 	<strong>Duration</strong>
-                                    <span>27 Months</span>
+                                    <span>33 Months</span>
                                 	</li>
-                                                                                               	 	<li>
-                                	<strong>Contract Value</strong>
-                                    <span>$ 22,241,512</span>
-                                	</li>
-                                                                                                	<li>
-                                	<strong>Sustainability</strong>
-                                    <span>N/A</span>
-                                </li>
-                                                                                                	<li>
+                                                                                                                                                                	<li>
                                 	<strong>Square Footage</strong>
-                                    <span>15,140 SF</span>
+                                    <span>78,498 SF</span>
                                 	</li>
                                                                                             </ul>
                         </div>
@@ -114,7 +102,7 @@
 			  
 
 			  
-			<li><img src="{{asset('wp-content/uploads/2022/06/Main-Image-SeaWorld-Aquatica-02.jpg')}}" alt=""></li>
+			<li><img src="{{asset('wp-content/uploads/2017/04/Mamizu-DO1A9031-1024x684.jpg')}}" alt=""></li>
 
 			
 			  
@@ -127,7 +115,7 @@
 			  
 
 			  
-			<li><img src="{{asset('wp-content/uploads/2022/06/SeaWorld-Aquatica-06.jpg')}}" alt=""></li>
+			<li><img src="{{asset('wp-content/uploads/2017/04/Mamizu-DO1A8898-1024x684.jpg')}}" alt=""></li>
 
 			
 			  
@@ -140,7 +128,7 @@
 			  
 
 			  
-			<li><img src="{{asset('wp-content/uploads/2022/06/SeaWorld-Aquatica-05.jpg')}}" alt=""></li>
+			<li><img src="{{asset('wp-content/uploads/2017/04/Mamizu-DO1A8863-1024x684.jpg')}}" alt=""></li>
 
 			
 			  
@@ -153,33 +141,7 @@
 			  
 
 			  
-			<li><img src="{{asset('wp-content/uploads/2022/06/SeaWorld-Aquatica-04.jpg')}}" alt=""></li>
-
-			
-			  
-
-			 
-
-            
-
-            
-			  
-
-			  
-			<li><img src="{{asset('wp-content/uploads/2022/06/SeaWorld-Aquatica-03.jpg')}}" alt=""></li>
-
-			
-			  
-
-			 
-
-            
-
-            
-			  
-
-			  
-			<li><img src="{{asset('wp-content/uploads/2022/06/SeaWorld-Aquatica-01.jpg')}}" alt=""></li>
+			<li><img src="{{asset('wp-content/uploads/2017/04/Mamizu-DO1A8828-1024x684.jpg')}}" alt=""></li>
 
 			
 			  
@@ -216,6 +178,21 @@
           	<ul class="clearfix">
 
             	                    <li class="grid-item">
+                        <div class="pro-image-box">
+							
+							                            	<img src="{{asset('wp-content/uploads/2022/06/Main-Image-SeaWorld-Aquatica-02-1-480x320.jpg')}}">
+							
+                            <div class="pro-hover-content">
+                                <h4><em>Commercial project</em><b></b></h4>
+                                <span>SeaWorld Aquatica SP2</span>
+                                <a href="../seaworld-aquatica-sp2"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                            </div>
+
+                        </div>
+
+                     </li>
+
+                                    <li class="grid-item">
                         <div class="pro-image-box">
 							
 							                            	<img src="{{asset('wp-content/uploads/2022/01/701-Rio-Main-Image-480x320.jpg')}}">
@@ -268,7 +245,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Commercial project</em><b></b></h4>
                                 <span>Alticor Inc Pacific District Office Renovation</span>
-                                <a href="../hensel-phelps-pacific-district-office-renovation"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../pacific-district-office-renovation"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>
@@ -284,21 +261,6 @@
                                 <h4><em>Commercial project</em><b></b></h4>
                                 <span>50Fifty Office Tower</span>
                                 <a href="../fifty-50-office-tower"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
-                            </div>
-
-                        </div>
-
-                     </li>
-
-                                    <li class="grid-item">
-                        <div class="pro-image-box">
-							
-							                            	<img src="{{asset('wp-content/uploads/2019/03/Hensel-Phelps-Colorado-Skyscraper-480x320.jpg')}}">
-							
-                            <div class="pro-hover-content">
-                                <h4><em>Commercial project</em><b></b></h4>
-                                <span>1144 15th Street Office Building</span>
-                                <a href="../1144-15th-street-office-building')}}"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>
@@ -344,7 +306,7 @@
 							dropdown.onchange = onCatChange;
 							*/
 						</script>
-                    </div>Alticor Inc.
+                    </div>
 
                 </div>
             </div>

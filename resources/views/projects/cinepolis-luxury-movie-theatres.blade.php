@@ -1,16 +1,13 @@
 @extends('_layout.others')
 @section('content')
 
-    <div class="page-banner" style="background-image:url({{asset('wp-content/uploads/2017/08/NFCU-Ph-2-Large.png'	
-
-        
-        );">
+    <div class="page-banner" style="background-image:url({{asset('wp-content/uploads/2017/08/Cinepolis-Large.jpg')}});">
 
         <div class="page-banner-block">
 
             <div class="page-banner-content">
 
-                <h1>Navy Federal Credit Union Phase 2 Campus Expansion</h1>
+                <h1>Cinépolis Luxury Movie Theatres</h1>
 
             </div>
         </div>
@@ -32,12 +29,10 @@
 
                 <div class="small-wrapper about-project">
 
-                    <h2 style="text-align: center;">About the Project</h2>
-<p style="text-align: center;">The 242-acre site is a parcel adjacent to the existing Navy Federal Credit Union campus in Pensacola, FL. The Phase 2 Expansion scope of work includes two office buildings (Buildings 7 &amp; 8), an amenities building, two parking decks, equipment additions to the existing Central Energy Plant (CEP-2), and associated connecting bridges, roads, walking paths, stormwater retention and infrastructure.</p>
-<p>&nbsp;</p>
-<p style="text-align: center;">Building 7 is a 510,000 SF, six-story building with mechanical penthouses. It contains large open-office space and supporting training, conference, and break rooms. The first floor contains a 15,000 SF fitness center and a 4,500 SF health clinic. Building 8 mirrors Building 7, totaling 510,000 SF, with the following exceptions: 1) in lieu of a fitness center and health clinic, the first floor is open-office space; 2) the equipment in the mechanical penthouses varies some to support the additional floor of office functions.</p>
-<p>&nbsp;</p>
-<p style="text-align: center;">The Amenities Building is placed between Building 7 and Building 8. The Amenities Building is three stories, and includes a double-height auditorium, training areas, a cafeteria, kitchen and eating areas, and totals 148,520 SF. Equipment additions to the Central Energy Plant (CEP-2) are located in positions provided for in the original CEP-2 Phase 1 construction. The building&#8217;s interior partitions and exterior walls were not modified. Parking Deck 3 (D3) is a 842,000 SF, six-level, open construction garage with around 2,300 parking spaces. Parking Deck 4 (D4) is a mirror image on Deck 3 with the exception of some retaining wall work outside of the deck footprint.</p>
+                    <h2>About the Project</h2>
+<div style="text-align: left;">The 60,000-SF Cinépolis Luxury Cinema in Jupiter, Florida, was a design-bid-build project consisting of a total of 14 theaters with eight &#8220;Important Person&#8221;-style premium theaters and six &#8220;VIP&#8221; theaters with fully reclining chairs and access to full kitchen and bar services inside the theater. The Cinépolis Luxury Cinema in Davenport, Florida, was a design-bid-build project completed in just under seven months that included nine theaters with a project footprint of 40,000 SF. The cinema consisted of eight premium-style theaters with wider chairs and access to a full kitchen and bar services prior to entering the theater.</div>
+<div></div>
+<div style="text-align: left;">The theater also operates a 3-D IMAX cinema house, one of only a select few in the greater Orlando area. The IMAX house was built to the uniquely high optical and acoustical standards of the IMAX brand. The finishes selected for the theater were all upgrades from standard finishes and include stainless steel, Chinese mahogany, custom lighting fixtures, and more.</div>
 
                 </div>
 
@@ -51,12 +46,12 @@
                             <ul>
                             	                                <li>
                                 	<strong>Location</strong>
-                                    <span>Pensacola, FL</span>
+                                    <span>Jupiter, FL & Davenport, FL</span>
                                 </li>
                                 
                                                                 <li>
                                 	<strong>Client</strong>
-                                    <span>Navy Federal Credit Union</span>
+                                    <span>Cinépolis Luxury Cinemas</span>
                                 </li>
                                                                                                 	                                <li>
                                 	<strong>Industry</strong>
@@ -68,19 +63,15 @@
                                 	</li>
                                                                                                                                 	<li>
                                 	<strong>Completion Date</strong>
-                                    <span>May 2020</span>
+                                    <span>June 2015</span>
                                 	</li>
                                                                                                                                	 	<li>
                                 	<strong>Contract Value</strong>
-                                    <span>$ Confidential</span>
+                                    <span>$ 23,635,000</span>
                                 	</li>
-                                                                                                	<li>
-                                	<strong>Sustainability</strong>
-                                    <span>LEED Certified</span>
-                                </li>
-                                                                                                	<li>
+                                                                                                                                	<li>
                                 	<strong>Square Footage</strong>
-                                    <span>2,771,767 SF</span>
+                                    <span>120,000 SF</span>
                                 	</li>
                                                                                             </ul>
                         </div>
@@ -107,7 +98,7 @@
 			  
 
 			  
-			<li><img src="{{asset('wp-content/uploads/2020/08/NFCU-Phase-3-Final-Photos-57-1024x684.jpg')}}" alt=""></li>
+			<li><img src="{{asset('wp-content/uploads/2017/08/M5A7923-1024x684.jpg')}}" alt=""></li>
 
 			
 			  
@@ -120,7 +111,7 @@
 			  
 
 			  
-			<li><img src="{{asset('wp-content/uploads/2020/08/NFCU-Phase-3-Final-Photos-46-1024x684.jpg')}}" alt=""></li>
+			<li><img src="{{asset('wp-content/uploads/2017/08/M5A7934-1024x684.jpg')}}" alt=""></li>
 
 			
 			  
@@ -133,7 +124,7 @@
 			  
 
 			  
-			<li><img src="{{asset('wp-content/uploads/2020/08/NFCU-Phase-3-Final-Photos-61-1024x684.jpg')}}" alt=""></li>
+			<li><img src="{{asset('wp-content/uploads/2017/08/M5A7946-1024x684.jpg')}}" alt=""></li>
 
 			
 			  
@@ -146,7 +137,7 @@
 			  
 
 			  
-			<li><img src="{{asset('wp-content/uploads/2020/08/NFCU-Phase-3-Final-Photos-40-1024x684.jpg')}}" alt=""></li>
+			<li><img src="{{asset('wp-content/uploads/2017/08/M5A7955-1024x684.jpg')}}" alt=""></li>
 
 			
 			  
@@ -159,7 +150,7 @@
 			  
 
 			  
-			<li><img src="{{asset('wp-content/uploads/2020/08/NFCU-Phase-3-Final-Photos-36-1024x684.jpg')}}" alt=""></li>
+			<li><img src="{{asset('wp-content/uploads/2017/08/M5A7965-1024x684.jpg')}}" alt=""></li>
 
 			
 			  
@@ -172,7 +163,7 @@
 			  
 
 			  
-			<li><img src="{{asset('wp-content/uploads/2020/08/NFCU-Phase-3-Final-Photos-33-1024x684.jpg')}}" alt=""></li>
+			<li><img src="{{asset('wp-content/uploads/2017/08/CinepolisJupiterInteriors-49-1024x684.jpg')}}" alt=""></li>
 
 			
 			  
@@ -185,7 +176,7 @@
 			  
 
 			  
-			<li><img src="{{asset('wp-content/uploads/2020/08/NFCU-Phase-2-38-1024x684.jpg')}}" alt=""></li>
+			<li><img src="{{asset('wp-content/uploads/2017/08/CinepolisJupiterInteriors-201-1024x684.jpg')}}" alt=""></li>
 
 			
 			  
@@ -198,7 +189,7 @@
 			  
 
 			  
-			<li><img src="{{asset('wp-content/uploads/2020/08/NFCU-Phase-2-18-1024x684.jpg')}}" alt=""></li>
+			<li><img src="{{asset('wp-content/uploads/2017/08/1.jpg')}}" alt=""></li>
 
 			
 			  
@@ -302,7 +293,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Commercial project</em><b></b></h4>
                                 <span>Alticor Inc Pacific District Office Renovation</span>
-                                <a href="../hensel-phelps-pacific-district-office-renovation"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../pacific-district-office-renovation"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>

@@ -1,13 +1,13 @@
 @extends('_layout.others')
 @section('content')
 
-    <div class="page-banner" style="background-image:url({{asset('wp-content/uploads/2017/04/Hensel-Phelps-Pacific-Mamizu1.jpg')}});">
+    <div class="page-banner" style="background-image:url({{asset('wp-content/uploads/2017/08/University-Village-Thousand-Oaks-Featured-Image.jpg')}});">
 
         <div class="page-banner-block">
 
             <div class="page-banner-content">
 
-                <h1>Mamizu Utilities and Site Improvements Phase 1</h1>
+                <h1>University Village Thousand Oaks</h1>
 
             </div>
         </div>
@@ -29,14 +29,14 @@
 
                 <div class="small-wrapper about-project">
 
-                    <h2>About the Project</h2>
-<p>The JFY09 Mamizu J-001 Utilities and Site Improvements Phase 1 project provided underground utilities and site improvements necessary to support the relocation of thousands of U.S. Marines from Okinawa, Japan to Guam. The work was spread across two sites on Guam, including:</p>
+                    <h2 style="text-align: center">About the Project</h2>
+<p style="text-align: center">University Village Thousand Oaks is a high-end retirement community constructed on a beautiful 65-acre site in Thousand Oaks. The project consisted of residential, commercial and site packages.</p>
 <p>&nbsp;</p>
-<p><strong>Anderson Air Force Base (ACE Gate)</strong>: Construction at Anderson Air Force Base included new entry gate and entry control facilities and roadway to the proposed USMC North Ramp Aviation Facilities. The work included intersection improvements, installation of new traffic signals, and construction of a one-story base pass and ID office and vehicle queuing control facility.</p>
+<p style="text-align: center">The residential package included four large independent living residential apartment buildings consisting of 251 apartment units and three smaller garden terrace buildings consisting of 48 larger units.</p>
 <p>&nbsp;</p>
-<p><strong>Apra Harbor Naval Station</strong>: The work at Apra Harbor was comprised of shore-side utility improvements to the Sierra, Tango, Uniform, and Victor Wharves which included steam, compressed air, potable water, power, communications duct-banks, wastewater, fire alarm, and fire hydrants to support the Marine Corps embarkation capability on Guam. Additionally, the work included a welcome center.</p>
+<p style="text-align: center">The commercial package consisted of commons and recreation buildings with large open restaurant-style dining areas, a commercial kitchen, library, lounges, wine storage and tasting rooms, computer center, arts and crafts studio, fitness center, mail room, auditorium, bar and lounge, billiard and card rooms, terraces, spa facility, salon and massage rooms, locker rooms, administrative offices and back-of-house employee areas.</p>
 <p>&nbsp;</p>
-<p>The successful completion of this design-build project was a critical first step in preparing Guam for the build-up of our Armed Forces on the island.</p>
+<p style="text-align: center">The site package included two small and one large natural pond with waterfall features. Amenities included fountains, a putting green, bocce court, gazebos, swimming pool, spa, trellises, golf cart parking, walking paths, paseos, private gardening areas, dog park, nine-hole golf course and a maintenance storage and repair building. It also included the guardhouse, OSHPD-compliant emergency generators, more than two miles of road, curb, and gutter construction, extensive site lighting, a cart bridge, seven garage structures and 13 carport structures.</p>
 
                 </div>
 
@@ -50,32 +50,44 @@
                             <ul>
                             	                                <li>
                                 	<strong>Location</strong>
-                                    <span>Pacific</span>
+                                    <span>Thousand Oaks, California</span>
                                 </li>
                                 
                                                                 <li>
                                 	<strong>Client</strong>
-                                    <span>NAVFAC Pacific</span>
+                                    <span>Continuing Life Communities</span>
                                 </li>
-                                                                                                	                                <li>
+                                                                                                <li>
+                                	<strong>Architect</strong>
+                                    <span>VTBS Architects</span>
+                                </li>
+                                                                	                                <li>
                                 	<strong>Industry</strong>
-                                    <span><a href="{{route('industry.infrastructure-transportation')}}">Infrastructure + Transportation</a></span>
+                                    <span><a href="{{route('industry.commercial')}}">Commercial</a></span>
 								 	</li>
                                                                                                 	<li>
                                 		<strong>Line of Business</strong>
                                     	<span><a href="../../line_of_business/construction">Construction</a></span>
                                 	</li>
-                                                                                                                                	<li>
+                                                                                                	<li>
+                                	<strong>Delivery Method</strong>
+                                  	<span>Design-Bid-Build</span>
+                                	</li>
+                                                                                                	<li>
                                 	<strong>Completion Date</strong>
-                                    <span>June 2014</span>
+                                    <span>August 2007</span>
                                 	</li>
                                                                                                 	<li>
                                 	<strong>Duration</strong>
-                                    <span>33 Months</span>
+                                    <span>21 months</span>
                                 	</li>
-                                                                                                                                                                	<li>
+                                                                                               	 	<li>
+                                	<strong>Contract Value</strong>
+                                    <span>$ 85,244,000</span>
+                                	</li>
+                                                                                                                                	<li>
                                 	<strong>Square Footage</strong>
-                                    <span>78,498 SF</span>
+                                    <span>437,047 SF</span>
                                 	</li>
                                                                                             </ul>
                         </div>
@@ -102,7 +114,7 @@
 			  
 
 			  
-			<li><img src="{{asset('wp-content/uploads/2017/04/Mamizu-DO1A9031-1024x684.jpg')}}" alt=""></li>
+			<li><img src="{{asset('wp-content/uploads/2017/08/University-Village-Thousand-Oaks-Gallery-Image-6.jpg')}}" alt=""></li>
 
 			
 			  
@@ -115,7 +127,7 @@
 			  
 
 			  
-			<li><img src="{{asset('wp-content/uploads/2017/04/Mamizu-DO1A8898-1024x684.jpg')}}" alt=""></li>
+			<li><img src="{{asset('wp-content/uploads/2017/08/University-Village-Thousand-Oaks-Gallery-Image-7.jpg')}}" alt=""></li>
 
 			
 			  
@@ -128,7 +140,7 @@
 			  
 
 			  
-			<li><img src="{{asset('wp-content/uploads/2017/04/Mamizu-DO1A8863-1024x684.jpg')}}" alt=""></li>
+			<li><img src="{{asset('wp-content/uploads/2017/08/University-Village-Thousand-Oaks-Gallery-Image-8.jpg')}}" alt=""></li>
 
 			
 			  
@@ -141,7 +153,111 @@
 			  
 
 			  
-			<li><img src="{{asset('wp-content/uploads/2017/04/Mamizu-DO1A8828-1024x684.jpg')}}" alt=""></li>
+			<li><img src="{{asset('wp-content/uploads/2017/08/University-Village-Thousand-Oaks-Gallery-Image-9.jpg')}}" alt=""></li>
+
+			
+			  
+
+			 
+
+            
+
+            
+			  
+
+			  
+			<li><img src="{{asset('wp-content/uploads/2017/08/University-Village-Thousand-Oaks-Gallery-Image-10.jpg')}}" alt=""></li>
+
+			
+			  
+
+			 
+
+            
+
+            
+			  
+
+			  
+			<li><img src="{{asset('wp-content/uploads/2017/08/University-Village-Thousand-Oaks-Gallery-Image-11.jpg')}}" alt=""></li>
+
+			
+			  
+
+			 
+
+            
+
+            
+			  
+
+			  
+			<li><img src="{{asset('wp-content/uploads/2017/08/University-Village-Thousand-Oaks-Gallery-Image-12.jpg')}}" alt=""></li>
+
+			
+			  
+
+			 
+
+            
+
+            
+			  
+
+			  
+			<li><img src="{{asset('wp-content/uploads/2017/08/University-Village-Thousand-Oaks-Gallery-Image-1.jpg')}}" alt=""></li>
+
+			
+			  
+
+			 
+
+            
+
+            
+			  
+
+			  
+			<li><img src="{{asset('wp-content/uploads/2017/08/University-Village-Thousand-Oaks-Gallery-Image-2.jpg')}}" alt=""></li>
+
+			
+			  
+
+			 
+
+            
+
+            
+			  
+
+			  
+			<li><img src="{{asset('wp-content/uploads/2017/08/University-Village-Thousand-Oaks-Gallery-Image-3.jpg')}}" alt=""></li>
+
+			
+			  
+
+			 
+
+            
+
+            
+			  
+
+			  
+			<li><img src="{{asset('wp-content/uploads/2017/08/University-Village-Thousand-Oaks-Gallery-Image-4.jpg')}}" alt=""></li>
+
+			
+			  
+
+			 
+
+            
+
+            
+			  
+
+			  
+			<li><img src="{{asset('wp-content/uploads/2017/08/University-Village-Thousand-Oaks-Gallery-Image-5.jpg')}}" alt=""></li>
 
 			
 			  
@@ -162,6 +278,25 @@
 
 
 
+
+                        
+                            
+	<div class="small-wrapper margin">
+        <div class="awards">
+        	            <h2>Awards</h2>
+                        
+                            <div class="acc-content">
+                                            <div class="acc-cont-box">
+                            <h4 class="acc-trigger"><a href="#">2008</a></h4>
+                            <div class="acc-para acc-container">
+                                <ul>
+<li>2008 California Building Industry Association Gold Nugget Award – Best Senior Housing</li>
+</ul>
+                            </div>
+                        </div>
+                                    </div>
+                    </div>
+     </div>
 
                         
                     
@@ -245,7 +380,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Commercial project</em><b></b></h4>
                                 <span>Alticor Inc Pacific District Office Renovation</span>
-                                <a href="../hensel-phelps-pacific-district-office-renovation"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../pacific-district-office-renovation"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>
@@ -276,7 +411,7 @@
         
         
         <div class="cta-block-wrap career-bg">
-            <div class="cta-block">
+            <div class="cta-block">Alticor Inc.
                 <div class="cta-block-content">
                     <h3>Contact Us</h3>
                     <div class="select-region">

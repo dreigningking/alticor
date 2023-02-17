@@ -1,13 +1,13 @@
 @extends('_layout.others')
 @section('content')
 
-    <div class="page-banner" style="background-image:url({{asset('wp-content/uploads/2017/08/NFCU-1-Hero-Large.jpg')}});">
+    <div class="page-banner" style="background-image:url({{asset('wp-content/uploads/2019/03/1144-15th-Street-Office-Building-Hensel-Phelps-Construction.jpg')}});">
 
         <div class="page-banner-block">
 
             <div class="page-banner-content">
 
-                <h1>Navy Federal Credit Union Phase 1 Campus Expansion</h1>
+                <h1>1144 15th Street Office Building</h1>
 
             </div>
         </div>
@@ -29,10 +29,8 @@
 
                 <div class="small-wrapper about-project">
 
-                    <h2 style="text-align: center;">About the Project</h2>
-<div style="text-align: center;">Phase I  of Navy Federal Credit Union&#8217;s Pensacola campus expansion included a three-story, multi-wing office building, a central energy plant, a parking deck, surface parking areas, and associated connecting bridges, roads, walking paths, stormwater retention and infrastructure.  The 319,000-SF three-story office building includes open office space for training space, call center operations, conference rooms, meeting rooms, a cafe, a fitness center, and systems furniture, including access flooring.</div>
-<div style="text-align: center;"></div>
-<div style="text-align: center;">The 40,320-SF, two-story Central Energy Plant (CEP) not only provides power and cooling support for the new office building but will also provide redundancy for the existing campus operations. The new five-story parking deck was constructed for 912 cars and 10 motorcycles. The parking deck connects directly to the office building through a series of bridges at each level to provide easy access for all employees.  Navy Federal Credit Union is committed to sustainable design practices, and the office building is pending LEED Silver certification by the USGBC.</div>
+                    <h2>About the Project</h2>
+<p>The 42-story 1144 15th Street project is the fourth tallest, occupied office building in downtown Denver. It provides approximately 708,000 SF of Class A office space on 27 floors and 477,000 SF of parking, located on two below-grade parking levels and twelve above-grade parking levels for a total of 840 parking spaces. The office building also includes a ground floor lobby with two retail spaces, a 5,500 SF fitness center with locker rooms and a 2,500 SF “living room” gathering space.</p>
 
                 </div>
 
@@ -46,14 +44,18 @@
                             <ul>
                             	                                <li>
                                 	<strong>Location</strong>
-                                    <span>Pensacola, FL</span>
+                                    <span>Denver, CO</span>
                                 </li>
                                 
                                                                 <li>
                                 	<strong>Client</strong>
-                                    <span>Navy Federal Credit Union</span>
+                                    <span>1144 Fifteenth Partners LLC (Hines)</span>
                                 </li>
-                                                                                                	                                <li>
+                                                                                                <li>
+                                	<strong>Architect</strong>
+                                    <span>Pickard and Chilton Architects Inc.</span>
+                                </li>
+                                                                	                                <li>
                                 	<strong>Industry</strong>
                                     <span><a href="{{route('industry.commercial')}}">Commercial</a></span>
 								 	</li>
@@ -61,21 +63,25 @@
                                 		<strong>Line of Business</strong>
                                     	<span><a href="../../line_of_business/construction">Construction</a></span>
                                 	</li>
-                                                                                                                                	<li>
-                                	<strong>Completion Date</strong>
-                                    <span>June 2016</span>
-                                	</li>
-                                                                                                                               	 	<li>
-                                	<strong>Contract Value</strong>
-                                    <span>$ Confidential</span>
+                                                                                                	<li>
+                                	<strong>Delivery Method</strong>
+                                  	<span>CM at Risk</span>
                                 	</li>
                                                                                                 	<li>
+                                	<strong>Completion Date</strong>
+                                    <span>March 2018</span>
+                                	</li>
+                                                                                                	<li>
+                                	<strong>Duration</strong>
+                                    <span>33 Months</span>
+                                	</li>
+                                                                                                                                	<li>
                                 	<strong>Sustainability</strong>
-                                    <span>LEED Silver (Pending)</span>
+                                    <span>LEED Gold</span>
                                 </li>
                                                                                                 	<li>
                                 	<strong>Square Footage</strong>
-                                    <span>554,000 SF</span>
+                                    <span>1,185,000 SF</span>
                                 	</li>
                                                                                             </ul>
                         </div>
@@ -84,6 +90,68 @@
 
                     
 						
+                            <div class="overflow small-wrapper margin">
+    <blockquote><p>“We have been continually impressed by the caliber of professionalism of their [Alticor Inc] team members both on and off the jobsite. Alticor Inc is a true partner on our project, and they provided a team that continually demonstrates the ability to identify and solve issues, while minimizing impact to the project cost or schedule.”</p>
+<h6><span style="color: #a6192e;">Dave Klebba</span><br />
+<span style="color: #a6192e;">former Vice President of Construction at Hines (owner)</span></h6>
+</blockquote>
+</div>
+                        
+                            <div class="about-grid-section Challenge clearfix">
+    <h2>Challenge</h2>
+    <div class="grid-box-area">
+    	
+        
+                
+                
+                <div class="grid-box2">
+            <img src="{{asset('wp-content/uploads/2019/03/Challenge-Photo-1144.jpg')}}" alt="">
+        </div>
+                
+        <div class="grid-box1 ">
+            <h3>Constructing a Bifurcated Crown</h3>
+<p>The capstone feature of the building is a bifurcated crown that presented several challenges from how to shed snow from steeply pitched skylights to structuring the 35-foot-tall parapet. The 38,000 SF rounded glass and steel roof required 752 connection types to be placed 600 feet in the air.</p>
+        </div>
+        
+        
+        
+                
+        
+        
+        
+    </div>
+</div>
+                        
+                            <div class="about-grid-section Solution clearfix">
+    <h2>Solution</h2>
+    <div class="grid-box-area">
+    	
+        
+                
+                
+        <div class="grid-box1 ">
+            <h3>Teamwork Resulted in Zero Construction Issues or Delays in the Curtain Wall Installation</h3>
+<p>Through extensive teamwork, Alticor Inc, the structural engineer, structural steel fabricators, and the curtain-wall subcontractors held weekly meetings to check and review every single connection point. This coordination involved extensive modeling to determine the feasibility of the design. The result was zero erection issues and zero scheduled delays during the curtain wall installation.</p>
+        </div>
+        
+                <div class="grid-box2">
+            <img src="{{asset('wp-content/uploads/2019/03/Gallery-Lobby-1144.jpg')}}" alt="">
+        </div>
+                
+                
+        
+        
+        
+    </div>
+</div>
+                        
+                            <div class="overflow small-wrapper margin">
+    <h2 style="text-align: center;">Result</h2>
+<h3 style="text-align: center;">A Landmark, Instantly Recognizable Tower for the City of Denver</h3>
+<p style="text-align: center;">This 1.1 million SF office building serves as a benchmark for Class A, high-rise office space in downtown Denver. The distinctive tower was designed to be evocative of the surrounding Rocky Mountains. Clad in high-performance glass and aluminum curtain wall, the tower’s office floors feature 10-foot floor-to-ceiling glass on typical floors with 12-, 13-, and 15-foot floor-to-ceiling glass on select floors that provide dramatic views of the Rockies.</p>
+<p>&nbsp;</p>
+</div>
+                        
                             
 
 
@@ -102,7 +170,7 @@
 			  
 
 			  
-			<li><img src="{{asset('wp-content/uploads/2017/08/B5-North-Elevation-2-e1502903384278-1024x684.jpg')}}" alt=""></li>
+			<li><img src="{{asset('wp-content/uploads/2019/03/Gallery-Entrance-1144-1024x684.jpg')}}" alt=""></li>
 
 			
 			  
@@ -115,7 +183,7 @@
 			  
 
 			  
-			<li><img src="{{asset('wp-content/uploads/2017/08/B5-across-4H-Pond-2016-12-02-e1502903373897-1024x684.jpg')}}" alt=""></li>
+			<li><img src="{{asset('wp-content/uploads/2019/03/Gallery-Lobby-1144-2-1024x684.jpg')}}" alt=""></li>
 
 			
 			  
@@ -128,7 +196,7 @@
 			  
 
 			  
-			<li><img src="{{asset('wp-content/uploads/2017/08/B56-LgConfRm-02-1024x684.jpg')}}" alt=""></li>
+			<li><img src="{{asset('wp-content/uploads/2019/03/Gallery-Lobby-1144-1024x684.jpg')}}" alt=""></li>
 
 			
 			  
@@ -141,72 +209,7 @@
 			  
 
 			  
-			<li><img src="{{asset('wp-content/uploads/2017/08/B6-Atrium-002-e1502903403359-1024x684.jpg')}}" alt=""></li>
-
-			
-			  
-
-			 
-
-            
-
-            
-			  
-
-			  
-			<li><img src="{{asset('wp-content/uploads/2017/08/B6-Seating-001-e1502903446983-1024x684.jpg')}}" alt=""></li>
-
-			
-			  
-
-			 
-
-            
-
-            
-			  
-
-			  
-			<li><img src="{{asset('wp-content/uploads/2017/08/CEP2-001-e1502903476390-1024x684.jpg')}}" alt=""></li>
-
-			
-			  
-
-			 
-
-            
-
-            
-			  
-
-			  
-			<li><img src="{{asset('wp-content/uploads/2017/08/B5B6-Lobby-003-e1502903519254-1024x684.jpg')}}" alt=""></li>
-
-			
-			  
-
-			 
-
-            
-
-            
-			  
-
-			  
-			<li><img src="{{asset('wp-content/uploads/2017/08/B56-Cafe-Seating-01-e1502903556147-1024x684.jpg')}}" alt=""></li>
-
-			
-			  
-
-			 
-
-            
-
-            
-			  
-
-			  
-			<li><img src="{{asset('wp-content/uploads/2017/08/PD2_001-e1502903577302-1024x684.jpg')}}" alt=""></li>
+			<li><img src="{{asset('wp-content/uploads/2019/03/Hensel-Phelps-Colorado-Skyscraper.jpg')}}" alt=""></li>
 
 			
 			  
@@ -227,6 +230,32 @@
 
 
 
+
+                        
+                            
+	<div class="small-wrapper margin">
+        <div class="awards">
+        	            <h2>Awards</h2>
+                        
+                            <div class="acc-content">
+                                            <div class="acc-cont-box">
+                            <h4 class="acc-trigger"><a href="#">2018</a></h4>
+                            <div class="acc-para acc-container">
+                                <ul>
+<li>Downtown Denver Award</li>
+<li>Associated General Contractors ACE Award for Construction Excellence &#8211; Best Building, Over $70M</li>
+<li>ABC Rocky Mountain 2018 Excellence in Construction Award &#8211; Mega Project | More Than $100M</li>
+<li>ABC Rocky Mountain 2018 Excellence in Construction Award &#8211; Project of the Year</li>
+<li>ABC Rocky Mountain 2018 Excellence in Construction Award &#8211; Free Enterprise</li>
+<li>ENR Mountain States Best Project &#8211; Office/Retail/Mixed-Use Development</li>
+<li>ENR Mountain States Project of the Year</li>
+<li>ENR Mountain States Excellence in Safety</li>
+</ul>
+                            </div>
+                        </div>
+                                    </div>
+                    </div>
+     </div>
 
                         
                     
@@ -310,7 +339,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Commercial project</em><b></b></h4>
                                 <span>Alticor Inc Pacific District Office Renovation</span>
-                                <a href="../hensel-phelps-pacific-district-office-renovation"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../pacific-district-office-renovation"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>
@@ -356,7 +385,7 @@
 	<option class="level-0" value="446">Plains</option>
 	<option class="level-0" value="454">Southeast</option>
 	<option class="level-0" value="362">Southern California</option>
-	<option class="level-0" value="456">Southwest</option>Alticor Inc.
+	<option class="level-0" value="456">Southwest</option>
 	<option class="level-0" value="458">Western</option>
 </select>
                         <script type="text/javascript">

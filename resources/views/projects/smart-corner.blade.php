@@ -1,14 +1,13 @@
 @extends('_layout.others')
 @section('content')
 
-
-    <div class="page-banner" style="background-image:url({{asset('wp-content/uploads/2017/08/HERO-NCTD-Sprinter.jpg')}});">
+    <div class="page-banner" style="background-image:url({{asset('wp-content/uploads/2017/08/HP_Large_Website_Hero_Smart-Corner.jpg')}});">
 
         <div class="page-banner-block">
 
             <div class="page-banner-content">
 
-                <h1>North County Transit District</h1>
+                <h1>Smart Corner</h1>
 
             </div>
         </div>
@@ -30,12 +29,8 @@
 
                 <div class="small-wrapper about-project">
 
-                    <h2>About the Project</h2>
-<p>The Alticor Inc team provided comprehensive and innovative consulting services to North County Transit District (NCTD) in Oceanside, California.</p>
-<p>&nbsp;</p>
-<p>The services included risk analysis, work order management, building assessments, development of a Facility Management Plan, outsourcing studies, and development of Request for Proposals and Statements of Work.</p>
-<p>&nbsp;</p>
-<p>NCTD operates bus and rail lines primarily in north San Diego County, with an annual patronage of 12 million passengers. Their maintenance needs cover the rolling stock (bus and train units) and the stations that serve the bus and rail lines, as well as several administrative and maintenance buildings.</p>
+                    <h2 style="text-align: center">About the Project</h2>
+<p style="font-weight: 400">The Smart Corner project is a signature mixed-use, transit-oriented development located in downtown San Diego. The project consists of a 19-story, 300-unit, residential tower and a five-story, Class-A office building with retail space. Residents enjoy a fitness center on the second floor and a rooftop observation deck with spa and barbecue area on the 20th level. Both structures sit over four levels of a below-grade, cast-in-place parking structure with 634 parking stalls and are separated at grade by the San Diego Trolley’s City College Station. This project was a major element of the Park-to-Bay Link public improvement project by the San Diego Association of Governments (SANDAG) and associated agencies.</p>
 
                 </div>
 
@@ -49,28 +44,48 @@
                             <ul>
                             	                                <li>
                                 	<strong>Location</strong>
-                                    <span>Oceanside, CA</span>
+                                    <span>San Diego, California</span>
                                 </li>
                                 
                                                                 <li>
                                 	<strong>Client</strong>
-                                    <span>North County Transit District</span>
+                                    <span>Lankford &amp; Associates</span>
                                 </li>
-                                                                                                	                                <li>
+                                                                                                <li>
+                                	<strong>Architect</strong>
+                                    <span>Austin Veum Robbins Parshalle</span>
+                                </li>
+                                                                	                                <li>
                                 	<strong>Industry</strong>
                                     <span><a href="{{route('industry.commercial')}}">Commercial</a></span>
 								 	</li>
                                                                                                 	<li>
                                 		<strong>Line of Business</strong>
-                                    	<span><a href="../../line_of_business/services">Facility Services</a></span>
+                                    	<span><a href="../../line_of_business/construction">Construction</a></span>
                                 	</li>
-                                                                                                                                	<li>
+                                                                                                	<li>
+                                	<strong>Delivery Method</strong>
+                                  	<span>CM at Risk</span>
+                                	</li>
+                                                                                                	<li>
                                 	<strong>Completion Date</strong>
-                                    <span>November 2015</span>
+                                    <span>May 2007</span>
                                 	</li>
-                                                                                                                                                                                                	<li>
+                                                                                                	<li>
+                                	<strong>Duration</strong>
+                                    <span>38 Months</span>
+                                	</li>
+                                                                                               	 	<li>
+                                	<strong>Contract Value</strong>
+                                    <span>$ 89,294,594</span>
+                                	</li>
+                                                                                                	<li>
+                                	<strong>Sustainability</strong>
+                                    <span>LEED Silver</span>
+                                </li>
+                                                                                                	<li>
                                 	<strong>Square Footage</strong>
-                                    <span>2,000,000 SF</span>
+                                    <span>670,000 SF</span>
                                 	</li>
                                                                                             </ul>
                         </div>
@@ -97,7 +112,85 @@
 			  
 
 			  
-			<li><img src="{{asset('wp-content/uploads/2017/08/2-NCTD-GALLERY.jpg')}}" alt=""></li>
+			<li><img src="{{asset('wp-content/uploads/2017/08/Smart-Corner-01.jpg')}}" alt=""></li>
+
+			
+			  
+
+			 
+
+            
+
+            
+			  
+
+			  
+			<li><img src="{{asset('wp-content/uploads/2017/08/Smart-Corner-03.jpg')}}" alt=""></li>
+
+			
+			  
+
+			 
+
+            
+
+            
+			  
+
+			  
+			<li><img src="{{asset('wp-content/uploads/2017/08/Smart-Corner-08.jpg')}}" alt=""></li>
+
+			
+			  
+
+			 
+
+            
+
+            
+			  
+
+			  
+			<li><img src="{{asset('wp-content/uploads/2017/08/Smart-Corner-04.jpg')}}" alt=""></li>
+
+			
+			  
+
+			 
+
+            
+
+            
+			  
+
+			  
+			<li><img src="{{asset('wp-content/uploads/2017/08/Smart-Corner-02.jpg')}}" alt=""></li>
+
+			
+			  
+
+			 
+
+            
+
+            
+			  
+
+			  
+			<li><img src="{{asset('wp-content/uploads/2017/08/Smart-Corner-05.jpg')}}" alt=""></li>
+
+			
+			  
+
+			 
+
+            
+
+            
+			  
+
+			  
+			<li><img src="{{asset('wp-content/uploads/2017/08/Smart-Corner-06.jpg')}}" alt=""></li>
 
 			
 			  
@@ -118,6 +211,27 @@
 
 
 
+
+                        
+                            
+	<div class="small-wrapper margin">
+        <div class="awards">
+        	            <h2>Awards</h2>
+                        
+                            <div class="acc-content">
+                                            <div class="acc-cont-box">
+                            <h4 class="acc-trigger"><a href="#">Awards</a></h4>
+                            <div class="acc-para acc-container">
+                                <ul>
+<li>2008 American Concrete Institute – San Diego Chapter – Innovative Use of Concrete Award</li>
+<li>2007 AGC San Diego Build San Diego Award – Excellence in building Construction &#8211; Private Work</li>
+<li class="p1">2007 AGC California Constructor Award – Meeting the Challenge of the Difficult Job – Builder Classification</li>
+</ul>
+                            </div>
+                        </div>
+                                    </div>
+                    </div>
+     </div>
 
                         
                     
@@ -201,7 +315,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Commercial project</em><b></b></h4>
                                 <span>Alticor Inc Pacific District Office Renovation</span>
-                                <a href="../hensel-phelps-pacific-district-office-renovation"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../pacific-district-office-renovation"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>
@@ -257,7 +371,7 @@
 								if ( dropdown.options[dropdown.selectedIndex].value > 0 ) {
 									location.href = "https://henselphelps.com/?page_id="+dropdown.options[dropdown.selectedIndex].value;
 								}
-
+Alticor Inc.
 							}
 							dropdown.onchange = onCatChange;
 							*/

@@ -1,18 +1,5 @@
 @extends('_layout.others')
 @section('content')
-
-    <!--[if lt IE 9]>
-  
-<style type="text/css">
- .page-banner{
- filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="{{asset('wp-content/uploads/2017/07/infrastructure.jpg', sizingMethod='scale');
--ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src="{{asset('wp-content/uploads/2017/07/infrastructure.jpg', sizingMethod='scale')";
- }
-</style>
-<![endif]-->
-
-
-
     <div class="page-banner" style="background-image:url({{asset('wp-content/uploads/2017/07/infrastructure.jpg')}});">
 
         <div class="page-banner-block">
@@ -126,7 +113,7 @@
 
                             <span>Puyallup Station Parking Garage</span>
 
-                            <a href="{{route('project.puyallup-station-parking-garage"><i
+                            <a href="{{route('projects.puyallup-station-parking-garage')}}"><i
                                     class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
                                     More</span></a>
 
@@ -158,7 +145,7 @@
 
                             <span>Kaneohe / Kailua Tunnel Influent Facility</span>
 
-                            <a href="{{route('project.kaneohe-kailua-tunnel-influent-facility"><i
+                            <a href="{{route('projects.kaneohe-kailua-tunnel-influent-facility')}}"><i
                                     class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
                                     More</span></a>
 
@@ -191,7 +178,7 @@
                             <span>Downtown Redmond Link Extension &#8211; Parking Garage and Stations</span>
 
                             <a
-                                href="{{route('project.downtown-redmond-link-extension-parking-garage-stations"><i
+                                href="{{route('projects.downtown-redmond-link-extension-parking-garage-stations')}}"><i
                                     class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
                                     More</span></a>
 
@@ -202,70 +189,66 @@
                     </div>
 
                 </li>
-
 
                 <li class="grid-item">
 
                     <div class="pro-image-box">
-
-
-
-
-
-                        <img src="{{asset('wp-content/uploads/2020/05/SYLPOE-Ph2-Project-Main-Image-480x320.jpg')}}">
-
-
-
-
+    
+    
+    
+    
+    
+                        <img src="{{asset('wp-content/uploads/2018/05/Atlas-V-TDRSM-Launch-3-480x320.jpg')}}">
+    
+    
+    
+    
                         <div class="pro-hover-content">
-
-                            <h4><em>Government + Justice project</em><b></b></h4>
-
-                            <span>San Ysidro Land Port of Entry – Phase 2</span>
-
-                            <a href="{{route('project.san-ysidro-land-port-of-entry-phase-2"><i
-                                    class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
-                                    More</span></a>
-
+    
+                            <h4><em>Infrastructure + Transportation project </em><b></b></h4>
+    
+                            <span>Commercial Crew &amp; Transportation Capability (CCtCap) Tower</span>
+    
+                            <a href="{{route('projects.commercial-crew-transportation-capability-cctcap-tower')}}" ><i
+                                    class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+    
                         </div>
-
-
-
+    
+    
+    
                     </div>
-
+    
                 </li>
-
-
                 <li class="grid-item">
 
                     <div class="pro-image-box">
-
-
-
-
-
-                        <img src="{{asset('wp-content/uploads/2019/06/4261_C1A6796_web-480x320.jpg')}}">
-
-
-
-
+    
+    
+    
+    
+    
+                        <img src="{{asset('wp-content/uploads/2018/01/MWAA-RailYard-93-480x320.jpg')}}">
+    
+    
+    
+    
                         <div class="pro-hover-content">
-
-                            <h4><em>Education project</em><b></b></h4>
-
-                            <span>UT Medical Branch League City Parking Initiatives</span>
-
-                            <a href="{{route('project.ut-medical-branch-league-city-parking-initiatives"><i
-                                    class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
-                                    More</span></a>
-
+    
+                            <h4><em>Infrastructure + Transportation project </em><b></b></h4>
+    
+                            <span>MWAA Dulles Railyard and Maintenance Facility</span>
+    
+                            <a href="{{route('projects.mwaa-dulles-railyard-and-maintenance-facility')}}" ><i
+                                    class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+    
                         </div>
-
-
-
+    
+    
+    
                     </div>
-
+    
                 </li>
+                
 
 
                 <li class="grid-item">
@@ -287,7 +270,7 @@
 
                             <span>WMATA Andrews Federal Center Bus Garage</span>
 
-                            <a href="{{route('project.wmata-andrews-federal-center-bus-garage"><i
+                            <a href="{{route('projects.wmata-andrews-federal-center-bus-garage')}}"><i
                                     class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
                                     More</span></a>
 

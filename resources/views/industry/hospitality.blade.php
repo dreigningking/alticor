@@ -116,7 +116,8 @@
 
                             <span>Marriott International Headquarters and Hotel</span>
 
-                            <a href="{{route('projects.marriott-international-headquarters-and-hotel')}}"><i
+                            <a href="{{route('projects.marriott-international-headquarters-and-hotel')}}"
+                                    class=><i
                                     class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
                                     More</span></a>
 
@@ -179,9 +180,10 @@
 
                             <span>Archer Hotel Tysons</span>
 
-                            <a href="{{route('project.archer-hotel-tysons"><i
-                                    class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
-                                    More</span></a>
+                            <a href="{{route('projects.archer-hotel-tysons')}}">
+                                <i class="fa fa-arrow-circle-right" aria-hidden="true"></i>
+                                <span>Learn More</span>
+                            </a>
 
                         </div>
 
@@ -195,11 +197,6 @@
                 <li class="grid-item">
 
                     <div class="pro-image-box">
-
-
-
-
-
                         <img src="{{asset('wp-content/uploads/2021/01/RamaTiru_Kalahari_HP-28-480x320.jpg')}}">
 
 
@@ -211,7 +208,7 @@
 
                             <span>Kalahari Resort and Convention Center</span>
 
-                            <a href="{{route('project.kalahari-resort-convention-center"><i
+                            <a href="{{route('projects.kalahari-resort-convention-center')}}"><i
                                     class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
                                     More</span></a>
 
@@ -243,7 +240,7 @@
 
                             <span>Aventura Hotel at Universal Orlando</span>
 
-                            <a href="{{route('project.aventura-hotel-at-universal-orlando"><i
+                            <a href="{{route('projects.aventura-hotel-at-universal-orlando')}}"><i
                                     class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
                                     More</span></a>
 
@@ -275,7 +272,7 @@
 
                             <span>Hokulani Waikiki by Hilton Grand Vacations</span>
 
-                            <a href="{{route('project.hokulani-waikiki-hilton-grand-vacations"><i
+                            <a href="{{route('projects.hokulani-waikiki-hilton-grand-vacations')}}"><i
                                     class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
                                     More</span></a>
 

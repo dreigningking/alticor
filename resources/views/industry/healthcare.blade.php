@@ -35,7 +35,7 @@
 
             <h3>Building to Improve Patient Care</h3>
             <p>Healthcare facilities require a unique approach. At Alticor Inc, our expert planners, builders and
-                managers understand the requirements needed for all phases of healthcare related project. With
+                managers understand the requirements needed for all phases of healthcare related projects. With
                 experience delivering medical facilities ranging from surgery suites to trauma centers to entire medical
                 center campuses, Alticor Inc builds for some of the largest healthcare organizations in the country. Our
                 integrated approach to construction brings teams together to focus on patient comfort as a priority, but
@@ -119,7 +119,7 @@
                             <span>Kaiser Permanente Riverside Medical Center Bed Tower Expansion</span>
 
                             <a
-                                href="{{route('project.kaiser-permanente-riverside-medical-center-bed-tower-expansion"><i
+                                href="{{route('projects.kaiser-permanente-riverside-medical-center-bed-tower-expansion')}}"><i
                                     class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
                                     More</span></a>
 
@@ -151,7 +151,7 @@
 
                             <span>Harbor-UCLA Medical Center Replacement Program</span>
 
-                            <a href="{{route('project.harbor-ucla-medical-center-replacement-program"><i
+                            <a href="{{route('projects.harbor-ucla-medical-center-replacement-program')}}"><i
                                     class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
                                     More</span></a>
 
@@ -183,9 +183,9 @@
 
                             <span>City of Hope Orange County Hospital</span>
 
-                            <a href="{{route('project.city-of-hope-orange-county-hospital"><i
-                                    class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
-                                    More</span></a>
+                            <a href="{{route('projects.city-of-hope-orange-county-hospital')}}">
+                                <i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span>
+                            </a>
 
                         </div>
 
@@ -215,7 +215,7 @@
 
                             <span>UCI Medical Center Irvine</span>
 
-                            <a href="{{route('project.uci-medical-center-irvine"><i
+                            <a href="{{route('projects.uci-medical-center-irvine')}}"><i
                                     class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
                                     More</span></a>
 
@@ -248,7 +248,7 @@
                             <span>Valencia Temporary Laboratory Buildout Emergency COVID Testing Facility</span>
 
                             <a
-                                href="{{route('project.valencia-temporary-laboratory-buildout-emergency-covid-testing-facility"><i
+                                href="{{route('projects.valencia-temporary-laboratory-buildout-emergency-covid-testing-facility')}}"><i
                                     class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
                                     More</span></a>
 
@@ -281,7 +281,7 @@
                             <span>Texas Tech University Health Sciences Center Oral Health Clinic</span>
 
                             <a
-                                href="{{route('project.texas-tech-university-health-sciences-center-oral-health-clinic"><i
+                                href="{{route('projects.texas-tech-university-health-sciences-center-oral-health-clinic')}}"><i
                                     class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
                                     More</span></a>
 

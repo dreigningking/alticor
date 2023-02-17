@@ -1,13 +1,13 @@
 @extends('_layout.others')
 @section('content')
 
-    <div class="page-banner" style="background-image:url({{asset('wp-content/uploads/2017/08/Hotel-Indigo_Featured-Image.jpg')}});">
+    <div class="page-banner" style="background-image:url({{asset('wp-content/uploads/2022/01/701-Rio-Featured-Image.jpg')}});">
 
         <div class="page-banner-block">
 
             <div class="page-banner-content">
 
-                <h1>Hotel Indigo</h1>
+                <h1>701 Rio</h1>
 
             </div>
         </div>
@@ -29,13 +29,10 @@
 
                 <div class="small-wrapper about-project">
 
-                    <h2 style="text-align: center">About the Project</h2>
-<p style="text-align: center">Hotel Indigo, situated in the East Village District in San Diego, is an oasis amidst the urban chaos of everyday life. This hotel is blocks away from Petco Park and the historic Gaslamp District.</p>
-<h3 style="text-align: center">DEVELOPMENT</h3>
-<p style="text-align: center">Alticor Inc Development was selected by InterContinental Hotels Group to develop the 210-key Hotel Indigo. Alticor Inc Development was responsible for all design, financing, construction and fit-out.</p>
-<h3 style="text-align: center">CONSTRUCTION</h3>
-<p style="text-align: center">This 12-story hotel consisted of a post-tension, cast-in-place concrete structure with a façade that was designed to provide transparency from the street to the public spaces for maximum visibility. The hotel includes a podium at street grade that rests above a two-level, 65-stall, subterranean cast-in-place parking garage. Alticor Inc self-performed all the concrete work, including the form, place and finish of 10,000 yards of structural concrete.</p>
-<p style="text-align: center">Several elements such as a 4,000 SF eco roof, alternative transportation components and energy-efficient systems were integrated into the building to achieve LEED Certified Certification, making it the first LEED hotel in San Diego and the first LEED hotel for the Indigo brand.</p>
+                    <h2>About the Project</h2>
+<p>The 701 Rio project is a five-story office building located at the corner of Rio Grande and 7th Street in the downtown Central Business District of Austin. The project site is in a historic neighborhood near the State Capitol Building and parallel to the well-known entertainment district, West 6th Street. The 701 Rio project consists of four floors of Class A office space with the opportunity for ground floor retail and/or additional office space. The 124,206 gross SF office building contains five levels of underground parking allowing for up to 296 parking stalls (or a parking ratio of 3 stalls/1,000 RSF). Building amenities include a fitness center, lockers, showers, bike/scooter storage, a 6,418 SF rooftop terrace and Austin Energy Green Building 1 Star Rating.</p>
+<p>&nbsp;</p>
+<p>Austin-based ownership group, Investor&#8217;s Alliance, hired Alticor Inc Development to act as their Development Manager.</p>
 
                 </div>
 
@@ -49,24 +46,20 @@
                             <ul>
                             	                                <li>
                                 	<strong>Location</strong>
-                                    <span>San Diego, California</span>
+                                    <span>Austin, TX</span>
                                 </li>
                                 
                                                                 <li>
                                 	<strong>Client</strong>
-                                    <span>IND East Village SD Holdings and LLC &amp; Phelps Development, LLC</span>
+                                    <span>602 7th Street Partners, LP</span>
                                 </li>
-                                                                                                <li>
-                                	<strong>Architect</strong>
-                                    <span>JWDA</span>
-                                </li>
-                                                                	                                <li>
+                                                                                                	                                <li>
                                 	<strong>Industry</strong>
-                                    <span><a href="{{route('industry.commercial')}}">Commercial</a>, <a href="{{route('industry.hospitality')}}">Hospitality</a></span>
+                                    <span><a href="{{route('industry.commercial')}}">Commercial</a></span>
 								 	</li>
                                                                                                 	<li>
                                 		<strong>Line of Business</strong>
-                                    	<span><a href="../../line_of_business/construction">Construction</a>, <a href="../../line_of_business/development">Development</a></span>
+                                    	<span><a href="../../line_of_business/development">Development</a>, <a href="../../line_of_business/construction">Construction</a></span>
                                 	</li>
                                                                                                 	<li>
                                 	<strong>Delivery Method</strong>
@@ -74,23 +67,15 @@
                                 	</li>
                                                                                                 	<li>
                                 	<strong>Completion Date</strong>
-                                    <span>June 2009</span>
+                                    <span>07/13/2021</span>
                                 	</li>
-                                                                                                	<li>
-                                	<strong>Duration</strong>
-                                    <span>17 months</span>
-                                	</li>
-                                                                                               	 	<li>
+                                                                                                                               	 	<li>
                                 	<strong>Contract Value</strong>
-                                    <span>$ 40,362,907</span>
+                                    <span>$ 38,500,000</span>
                                 	</li>
-                                                                                                	<li>
-                                	<strong>Sustainability</strong>
-                                    <span>LEED Certified</span>
-                                </li>
-                                                                                                	<li>
+                                                                                                                                	<li>
                                 	<strong>Square Footage</strong>
-                                    <span>195,000 SF</span>
+                                    <span>253,000 SF</span>
                                 	</li>
                                                                                             </ul>
                         </div>
@@ -117,7 +102,7 @@
 			  
 
 			  
-			<li><img src="{{asset('wp-content/uploads/2017/08/Hotel-Indigo_Gallery-Image-1.jpg')}}" alt=""></li>
+			<li><img src="{{asset('wp-content/uploads/2022/01/701-GalleryImage1.jpg')}}" alt=""></li>
 
 			
 			  
@@ -130,7 +115,7 @@
 			  
 
 			  
-			<li><img src="{{asset('wp-content/uploads/2017/08/Hotel-Indigo_Gallery-Image-2.jpg')}}" alt=""></li>
+			<li><img src="{{asset('wp-content/uploads/2022/01/701-GalleryImage5.jpg')}}" alt=""></li>
 
 			
 			  
@@ -143,7 +128,7 @@
 			  
 
 			  
-			<li><img src="{{asset('wp-content/uploads/2017/08/Hotel-Indigo_Gallery-Image-3.jpg')}}" alt=""></li>
+			<li><img src="{{asset('wp-content/uploads/2022/01/701-GalleryImage7.jpg')}}" alt=""></li>
 
 			
 			  
@@ -156,7 +141,7 @@
 			  
 
 			  
-			<li><img src="{{asset('wp-content/uploads/2017/08/Hotel-Indigo_Gallery-Image-4-1024x684.jpg')}}" alt=""></li>
+			<li><img src="{{asset('wp-content/uploads/2022/01/701-GalleryImage3.jpg')}}" alt=""></li>
 
 			
 			  
@@ -169,7 +154,7 @@
 			  
 
 			  
-			<li><img src="{{asset('wp-content/uploads/2017/08/Hotel-Indigo_Gallery-Image-5.jpg')}}" alt=""></li>
+			<li><img src="{{asset('wp-content/uploads/2022/01/701-GalleryImage4.jpg')}}" alt=""></li>
 
 			
 			  
@@ -182,7 +167,7 @@
 			  
 
 			  
-			<li><img src="{{asset('wp-content/uploads/2017/08/Hotel-Indigo_Gallery-Image-6.jpg')}}" alt=""></li>
+			<li><img src="{{asset('wp-content/uploads/2022/01/701-GalleryImage2.jpg')}}" alt=""></li>
 
 			
 			  
@@ -195,7 +180,7 @@
 			  
 
 			  
-			<li><img src="{{asset('wp-content/uploads/2017/08/Hotel-Indigo_Gallery-Image-7.jpg')}}" alt=""></li>
+			<li><img src="{{asset('wp-content/uploads/2022/01/701-GalleryImage6.jpg')}}" alt=""></li>
 
 			
 			  
@@ -208,7 +193,7 @@
 			  
 
 			  
-			<li><img src="{{asset('wp-content/uploads/2017/08/Hotel-Indigo_Gallery-Image-8.jpg')}}" alt=""></li>
+			<li><img src="{{asset('wp-content/uploads/2022/01/701-GalleryImage8.jpg')}}" alt=""></li>
 
 			
 			  
@@ -221,7 +206,7 @@
 			  
 
 			  
-			<li><img src="{{asset('wp-content/uploads/2017/08/Hotel-Indigo_Gallery-Image-9-1024x684.jpg')}}" alt=""></li>
+			<li><img src="{{asset('wp-content/uploads/2022/01/701-GalleryImage9.jpg')}}" alt=""></li>
 
 			
 			  
@@ -275,21 +260,6 @@
                                     <li class="grid-item">
                         <div class="pro-image-box">
 							
-							                            	<img src="{{asset('wp-content/uploads/2022/01/701-Rio-Main-Image-480x320.jpg')}}">
-							
-                            <div class="pro-hover-content">
-                                <h4><em>Commercial project</em><b></b></h4>
-                                <span>701 Rio</span>
-                                <a href="../701-rio"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
-                            </div>
-
-                        </div>
-
-                     </li>
-
-                                    <li class="grid-item">
-                        <div class="pro-image-box">
-							
 							                            	<img src="{{asset('wp-content/uploads/2019/08/website-image1-480x320.jpg')}}">
 							
                             <div class="pro-hover-content">
@@ -325,7 +295,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Commercial project</em><b></b></h4>
                                 <span>Alticor Inc Pacific District Office Renovation</span>
-                                <a href="../hensel-phelps-pacific-district-office-renovation"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../pacific-district-office-renovation"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>
@@ -341,6 +311,21 @@
                                 <h4><em>Commercial project</em><b></b></h4>
                                 <span>50Fifty Office Tower</span>
                                 <a href="../fifty-50-office-tower"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                            </div>
+
+                        </div>
+
+                     </li>
+
+                                    <li class="grid-item">
+                        <div class="pro-image-box">
+							
+							                            	<img src="{{asset('wp-content/uploads/2019/03/Hensel-Phelps-Colorado-Skyscraper-480x320.jpg')}}">
+							
+                            <div class="pro-hover-content">
+                                <h4><em>Commercial project</em><b></b></h4>
+                                <span>1144 15th Street Office Building</span>
+                                <a href="../1144-15th-street-office-building')}}"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>
@@ -395,4 +380,5 @@
 
     </div>
 
-    @endsection
+
+	@endsection

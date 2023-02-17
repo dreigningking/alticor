@@ -1,13 +1,13 @@
 @extends('_layout.others')
 @section('content')
 
-    <div class="page-banner" style="background-image:url({{asset('wp-content/uploads/2022/01/701-Rio-Featured-Image.jpg')}});">
+    <div class="page-banner" style="background-image:url({{asset('wp-content/uploads/2017/08/NFCU-1-Hero-Large.jpg')}});">
 
         <div class="page-banner-block">
 
             <div class="page-banner-content">
 
-                <h1>701 Rio</h1>
+                <h1>Navy Federal Credit Union Phase 1 Campus Expansion</h1>
 
             </div>
         </div>
@@ -29,10 +29,10 @@
 
                 <div class="small-wrapper about-project">
 
-                    <h2>About the Project</h2>
-<p>The 701 Rio project is a five-story office building located at the corner of Rio Grande and 7th Street in the downtown Central Business District of Austin. The project site is in a historic neighborhood near the State Capitol Building and parallel to the well-known entertainment district, West 6th Street. The 701 Rio project consists of four floors of Class A office space with the opportunity for ground floor retail and/or additional office space. The 124,206 gross SF office building contains five levels of underground parking allowing for up to 296 parking stalls (or a parking ratio of 3 stalls/1,000 RSF). Building amenities include a fitness center, lockers, showers, bike/scooter storage, a 6,418 SF rooftop terrace and Austin Energy Green Building 1 Star Rating.</p>
-<p>&nbsp;</p>
-<p>Austin-based ownership group, Investor&#8217;s Alliance, hired Alticor Inc Development to act as their Development Manager.</p>
+                    <h2 style="text-align: center;">About the Project</h2>
+<div style="text-align: center;">Phase I  of Navy Federal Credit Union&#8217;s Pensacola campus expansion included a three-story, multi-wing office building, a central energy plant, a parking deck, surface parking areas, and associated connecting bridges, roads, walking paths, stormwater retention and infrastructure.  The 319,000-SF three-story office building includes open office space for training space, call center operations, conference rooms, meeting rooms, a cafe, a fitness center, and systems furniture, including access flooring.</div>
+<div style="text-align: center;"></div>
+<div style="text-align: center;">The 40,320-SF, two-story Central Energy Plant (CEP) not only provides power and cooling support for the new office building but will also provide redundancy for the existing campus operations. The new five-story parking deck was constructed for 912 cars and 10 motorcycles. The parking deck connects directly to the office building through a series of bridges at each level to provide easy access for all employees.  Navy Federal Credit Union is committed to sustainable design practices, and the office building is pending LEED Silver certification by the USGBC.</div>
 
                 </div>
 
@@ -46,12 +46,12 @@
                             <ul>
                             	                                <li>
                                 	<strong>Location</strong>
-                                    <span>Austin, TX</span>
+                                    <span>Pensacola, FL</span>
                                 </li>
                                 
                                                                 <li>
                                 	<strong>Client</strong>
-                                    <span>602 7th Street Partners, LP</span>
+                                    <span>Navy Federal Credit Union</span>
                                 </li>
                                                                                                 	                                <li>
                                 	<strong>Industry</strong>
@@ -59,23 +59,23 @@
 								 	</li>
                                                                                                 	<li>
                                 		<strong>Line of Business</strong>
-                                    	<span><a href="../../line_of_business/development">Development</a>, <a href="../../line_of_business/construction">Construction</a></span>
+                                    	<span><a href="../../line_of_business/construction">Construction</a></span>
                                 	</li>
-                                                                                                	<li>
-                                	<strong>Delivery Method</strong>
-                                  	<span>CM at Risk</span>
-                                	</li>
-                                                                                                	<li>
+                                                                                                                                	<li>
                                 	<strong>Completion Date</strong>
-                                    <span>07/13/2021</span>
+                                    <span>June 2016</span>
                                 	</li>
                                                                                                                                	 	<li>
                                 	<strong>Contract Value</strong>
-                                    <span>$ 38,500,000</span>
+                                    <span>$ Confidential</span>
                                 	</li>
-                                                                                                                                	<li>
+                                                                                                	<li>
+                                	<strong>Sustainability</strong>
+                                    <span>LEED Silver (Pending)</span>
+                                </li>
+                                                                                                	<li>
                                 	<strong>Square Footage</strong>
-                                    <span>253,000 SF</span>
+                                    <span>554,000 SF</span>
                                 	</li>
                                                                                             </ul>
                         </div>
@@ -102,7 +102,7 @@
 			  
 
 			  
-			<li><img src="{{asset('wp-content/uploads/2022/01/701-GalleryImage1.jpg')}}" alt=""></li>
+			<li><img src="{{asset('wp-content/uploads/2017/08/B5-North-Elevation-2-e1502903384278-1024x684.jpg')}}" alt=""></li>
 
 			
 			  
@@ -115,7 +115,7 @@
 			  
 
 			  
-			<li><img src="{{asset('wp-content/uploads/2022/01/701-GalleryImage5.jpg')}}" alt=""></li>
+			<li><img src="{{asset('wp-content/uploads/2017/08/B5-across-4H-Pond-2016-12-02-e1502903373897-1024x684.jpg')}}" alt=""></li>
 
 			
 			  
@@ -128,7 +128,7 @@
 			  
 
 			  
-			<li><img src="{{asset('wp-content/uploads/2022/01/701-GalleryImage7.jpg')}}" alt=""></li>
+			<li><img src="{{asset('wp-content/uploads/2017/08/B56-LgConfRm-02-1024x684.jpg')}}" alt=""></li>
 
 			
 			  
@@ -141,7 +141,7 @@
 			  
 
 			  
-			<li><img src="{{asset('wp-content/uploads/2022/01/701-GalleryImage3.jpg')}}" alt=""></li>
+			<li><img src="{{asset('wp-content/uploads/2017/08/B6-Atrium-002-e1502903403359-1024x684.jpg')}}" alt=""></li>
 
 			
 			  
@@ -154,7 +154,7 @@
 			  
 
 			  
-			<li><img src="{{asset('wp-content/uploads/2022/01/701-GalleryImage4.jpg')}}" alt=""></li>
+			<li><img src="{{asset('wp-content/uploads/2017/08/B6-Seating-001-e1502903446983-1024x684.jpg')}}" alt=""></li>
 
 			
 			  
@@ -167,7 +167,7 @@
 			  
 
 			  
-			<li><img src="{{asset('wp-content/uploads/2022/01/701-GalleryImage2.jpg')}}" alt=""></li>
+			<li><img src="{{asset('wp-content/uploads/2017/08/CEP2-001-e1502903476390-1024x684.jpg')}}" alt=""></li>
 
 			
 			  
@@ -180,7 +180,7 @@
 			  
 
 			  
-			<li><img src="{{asset('wp-content/uploads/2022/01/701-GalleryImage6.jpg')}}" alt=""></li>
+			<li><img src="{{asset('wp-content/uploads/2017/08/B5B6-Lobby-003-e1502903519254-1024x684.jpg')}}" alt=""></li>
 
 			
 			  
@@ -193,7 +193,7 @@
 			  
 
 			  
-			<li><img src="{{asset('wp-content/uploads/2022/01/701-GalleryImage8.jpg')}}" alt=""></li>
+			<li><img src="{{asset('wp-content/uploads/2017/08/B56-Cafe-Seating-01-e1502903556147-1024x684.jpg')}}" alt=""></li>
 
 			
 			  
@@ -206,7 +206,7 @@
 			  
 
 			  
-			<li><img src="{{asset('wp-content/uploads/2022/01/701-GalleryImage9.jpg')}}" alt=""></li>
+			<li><img src="{{asset('wp-content/uploads/2017/08/PD2_001-e1502903577302-1024x684.jpg')}}" alt=""></li>
 
 			
 			  
@@ -260,6 +260,21 @@
                                     <li class="grid-item">
                         <div class="pro-image-box">
 							
+							                            	<img src="{{asset('wp-content/uploads/2022/01/701-Rio-Main-Image-480x320.jpg')}}">
+							
+                            <div class="pro-hover-content">
+                                <h4><em>Commercial project</em><b></b></h4>
+                                <span>701 Rio</span>
+                                <a href="../701-rio"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                            </div>
+
+                        </div>
+
+                     </li>
+
+                                    <li class="grid-item">
+                        <div class="pro-image-box">
+							
 							                            	<img src="{{asset('wp-content/uploads/2019/08/website-image1-480x320.jpg')}}">
 							
                             <div class="pro-hover-content">
@@ -295,7 +310,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Commercial project</em><b></b></h4>
                                 <span>Alticor Inc Pacific District Office Renovation</span>
-                                <a href="../hensel-phelps-pacific-district-office-renovation"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../pacific-district-office-renovation"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>
@@ -311,21 +326,6 @@
                                 <h4><em>Commercial project</em><b></b></h4>
                                 <span>50Fifty Office Tower</span>
                                 <a href="../fifty-50-office-tower"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
-                            </div>
-
-                        </div>
-
-                     </li>
-
-                                    <li class="grid-item">
-                        <div class="pro-image-box">
-							
-							                            	<img src="{{asset('wp-content/uploads/2019/03/Hensel-Phelps-Colorado-Skyscraper-480x320.jpg')}}">
-							
-                            <div class="pro-hover-content">
-                                <h4><em>Commercial project</em><b></b></h4>
-                                <span>1144 15th Street Office Building</span>
-                                <a href="../1144-15th-street-office-building')}}"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>
@@ -380,5 +380,4 @@
 
     </div>
 
-
-	@endsection
+    @endsection

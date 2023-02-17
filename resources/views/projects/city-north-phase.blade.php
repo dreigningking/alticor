@@ -1,13 +1,13 @@
 @extends('_layout.others')
 @section('content')
 
-    <div class="page-banner" style="background-image:url({{asset('wp-content/uploads/2017/08/HP_Large_Hero_621CapitolMall_2-1.jpg')}});">
+    <div class="page-banner" style="background-image:url({{asset('wp-content/uploads/2017/08/HP_Large_Hero_City-North-1.jpg')}});">
 
         <div class="page-banner-block">
 
             <div class="page-banner-content">
 
-                <h1>US Bank Tower | 621 Capitol Mall</h1>
+                <h1>City North Phase I</h1>
 
             </div>
         </div>
@@ -29,8 +29,10 @@
 
                 <div class="small-wrapper about-project">
 
-                    <h2 class="p1">About the Project</h2>
-<p class="p1">The U.S. Bank Tower at 621 Capitol Mall is a new 25-story high-rise, Class A office building.<span class="Apple-converted-space"> </span>Located in the heart of the city, just three blocks from the State Capitol and numerous other governmental agencies, the 676,500 SF building includes ground floor restaurant and retail space, an 813 stall parking garage, 17 floors of Class A office space, and a mechanical penthouse on the 16th floor. The building features a grand seven-level open atrium main lobby that provides stunning views of Capitol Mall, as well as an aluminum and glass exterior with distinctive lighting designed to dramatically emphasize the artistic crown of the building. The tower adds to the growing list of Alticor Inc projects that have helped define the skyline of Sacramento.</p>
+                    <h2>About the Project</h2>
+<p>City North is a multi-phased, mixed-use project. Phase I consists of developing 20 of 144 acres.  It includes 11 mixed-use buildings including retail, office, residential, a parking structure, a sales and marketing center, and all infrastructure. Phase I includes approximately 1,200,000 SF.</p>
+<p>The project offers the opportunity to create an interactive lifestyle with an exciting mix of retail, restaurant, residential, office, cultural, civic, entertainment and fitness uses. With areas of high and low density and buildings layered with uses, City North is far more than a lifestyle center. It incorporates and encourages all the best aspects of city living: excitement, authenticity, public and private spaces, evolution, varied architectural styles, a sense of unexpectedness, movement, spontaneity, and refreshment.</p>
+<p>At completion, City North&#8217;s retail program will include over one million SF of the broadest range of retail experiences to be found in one project. Additionally, it will include over two million SF of office space where tenants will have many choices from single user, corporate headquarters to smaller, loft offices located above shops and restaurants in multi-use buildings. As with the retail and dining components, City North offers an array of urban residential options integrated with the project&#8217;s other uses including townhouses and luxury high-rise apartments with post tension concrete floors above retail shops and restaurants.</p>
 
                 </div>
 
@@ -44,12 +46,12 @@
                             <ul>
                             	                                <li>
                                 	<strong>Location</strong>
-                                    <span>Sacramento, CA</span>
+                                    <span>Phoenix, AZ</span>
                                 </li>
                                 
                                                                 <li>
                                 	<strong>Client</strong>
-                                    <span>David S. Taylor Interests</span>
+                                    <span>Thomas J. Klutznick / Related Midwest Corp.</span>
                                 </li>
                                                                                                 	                                <li>
                                 	<strong>Industry</strong>
@@ -61,15 +63,19 @@
                                 	</li>
                                                                                                                                 	<li>
                                 	<strong>Completion Date</strong>
-                                    <span>February 2008</span>
+                                    <span>November 2008</span>
                                 	</li>
-                                                                                                                               	 	<li>
+                                                                                                	<li>
+                                	<strong>Duration</strong>
+                                    <span>20 months</span>
+                                	</li>
+                                                                                               	 	<li>
                                 	<strong>Contract Value</strong>
-                                    <span>$ 75,366,185</span>
+                                    <span>$ 148,000,000</span>
                                 	</li>
                                                                                                                                 	<li>
                                 	<strong>Square Footage</strong>
-                                    <span>676,500 SF</span>
+                                    <span>1,207,000 SF</span>
                                 	</li>
                                                                                             </ul>
                         </div>
@@ -96,7 +102,7 @@
 			  
 
 			  
-			<li><img src="{{asset('wp-content/uploads/2017/08/621-Capitol-Mall-EP-5005035-32-1024x684.jpg')}}" alt=""></li>
+			<li><img src="{{asset('wp-content/uploads/2017/08/CityNorth-Parking_0023-1024x684.jpg')}}" alt=""></li>
 
 			
 			  
@@ -109,7 +115,7 @@
 			  
 
 			  
-			<li><img src="{{asset('wp-content/uploads/2017/08/621-Capitol-Mall-EL-5005035-26-1024x684.jpg')}}" alt=""></li>
+			<li><img src="{{asset('wp-content/uploads/2017/08/CityNorth_0024-1024x684.jpg')}}" alt=""></li>
 
 			
 			  
@@ -122,7 +128,7 @@
 			  
 
 			  
-			<li><img src="{{asset('wp-content/uploads/2017/08/621-Capitol-Mall-EP-5005035-46.jpg')}}" alt=""></li>
+			<li><img src="{{asset('wp-content/uploads/2017/08/CityNorth-A4.jpg')}}" alt=""></li>
 
 			
 			  
@@ -135,7 +141,59 @@
 			  
 
 			  
-			<li><img src="{{asset('wp-content/uploads/2017/08/621-Capitol-Mall-EL-5005035-43-1024x684.jpg')}}" alt=""></li>
+			<li><img src="{{asset('wp-content/uploads/2017/08/CityNorth-A11-AM.jpg')}}" alt=""></li>
+
+			
+			  
+
+			 
+
+            
+
+            
+			  
+
+			  
+			<li><img src="{{asset('wp-content/uploads/2017/08/CityNorth_04a.jpg')}}" alt=""></li>
+
+			
+			  
+
+			 
+
+            
+
+            
+			  
+
+			  
+			<li><img src="{{asset('wp-content/uploads/2017/08/CityNorth_01c.jpg')}}" alt=""></li>
+
+			
+			  
+
+			 
+
+            
+
+            
+			  
+
+			  
+			<li><img src="{{asset('wp-content/uploads/2017/08/CityNorth_03a.jpg')}}" alt=""></li>
+
+			
+			  
+
+			 
+
+            
+
+            
+			  
+
+			  
+			<li><img src="{{asset('wp-content/uploads/2017/08/A3-1024x684.jpg')}}" alt=""></li>
 
 			
 			  
@@ -239,7 +297,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Commercial project</em><b></b></h4>
                                 <span>Alticor Inc Pacific District Office Renovation</span>
-                                <a href="../hensel-phelps-pacific-district-office-renovation"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../pacific-district-office-renovation"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>
@@ -290,7 +348,7 @@
 </select>
                         <script type="text/javascript">
 							/*
-							var dropdown = document.getElementById("page_id");
+							var dropdown = document.getElementById("page_id");Alticor Inc.
 							function onCatChange() {
 								if ( dropdown.options[dropdown.selectedIndex].value > 0 ) {
 									location.href = "https://henselphelps.com/?page_id="+dropdown.options[dropdown.selectedIndex].value;

@@ -1,13 +1,13 @@
 @extends('_layout.others')
 @section('content')
 
-    <div class="page-banner" style="background-image:url({{asset('wp-content/uploads/2017/08/University-Village-Thousand-Oaks-Featured-Image.jpg')}});">
+    <div class="page-banner" style="background-image:url({{asset('wp-content/uploads/2017/08/Hotel-Indigo_Featured-Image.jpg')}});">
 
         <div class="page-banner-block">
 
             <div class="page-banner-content">
 
-                <h1>University Village Thousand Oaks</h1>
+                <h1>Hotel Indigo</h1>
 
             </div>
         </div>
@@ -30,13 +30,12 @@
                 <div class="small-wrapper about-project">
 
                     <h2 style="text-align: center">About the Project</h2>
-<p style="text-align: center">University Village Thousand Oaks is a high-end retirement community constructed on a beautiful 65-acre site in Thousand Oaks. The project consisted of residential, commercial and site packages.</p>
-<p>&nbsp;</p>
-<p style="text-align: center">The residential package included four large independent living residential apartment buildings consisting of 251 apartment units and three smaller garden terrace buildings consisting of 48 larger units.</p>
-<p>&nbsp;</p>
-<p style="text-align: center">The commercial package consisted of commons and recreation buildings with large open restaurant-style dining areas, a commercial kitchen, library, lounges, wine storage and tasting rooms, computer center, arts and crafts studio, fitness center, mail room, auditorium, bar and lounge, billiard and card rooms, terraces, spa facility, salon and massage rooms, locker rooms, administrative offices and back-of-house employee areas.</p>
-<p>&nbsp;</p>
-<p style="text-align: center">The site package included two small and one large natural pond with waterfall features. Amenities included fountains, a putting green, bocce court, gazebos, swimming pool, spa, trellises, golf cart parking, walking paths, paseos, private gardening areas, dog park, nine-hole golf course and a maintenance storage and repair building. It also included the guardhouse, OSHPD-compliant emergency generators, more than two miles of road, curb, and gutter construction, extensive site lighting, a cart bridge, seven garage structures and 13 carport structures.</p>
+<p style="text-align: center">Hotel Indigo, situated in the East Village District in San Diego, is an oasis amidst the urban chaos of everyday life. This hotel is blocks away from Petco Park and the historic Gaslamp District.</p>
+<h3 style="text-align: center">DEVELOPMENT</h3>
+<p style="text-align: center">Alticor Inc Development was selected by InterContinental Hotels Group to develop the 210-key Hotel Indigo. Alticor Inc Development was responsible for all design, financing, construction and fit-out.</p>
+<h3 style="text-align: center">CONSTRUCTION</h3>
+<p style="text-align: center">This 12-story hotel consisted of a post-tension, cast-in-place concrete structure with a façade that was designed to provide transparency from the street to the public spaces for maximum visibility. The hotel includes a podium at street grade that rests above a two-level, 65-stall, subterranean cast-in-place parking garage. Alticor Inc self-performed all the concrete work, including the form, place and finish of 10,000 yards of structural concrete.</p>
+<p style="text-align: center">Several elements such as a 4,000 SF eco roof, alternative transportation components and energy-efficient systems were integrated into the building to achieve LEED Certified Certification, making it the first LEED hotel in San Diego and the first LEED hotel for the Indigo brand.</p>
 
                 </div>
 
@@ -50,44 +49,48 @@
                             <ul>
                             	                                <li>
                                 	<strong>Location</strong>
-                                    <span>Thousand Oaks, California</span>
+                                    <span>San Diego, California</span>
                                 </li>
                                 
                                                                 <li>
                                 	<strong>Client</strong>
-                                    <span>Continuing Life Communities</span>
+                                    <span>IND East Village SD Holdings and LLC &amp; Phelps Development, LLC</span>
                                 </li>
                                                                                                 <li>
                                 	<strong>Architect</strong>
-                                    <span>VTBS Architects</span>
+                                    <span>JWDA</span>
                                 </li>
                                                                 	                                <li>
                                 	<strong>Industry</strong>
-                                    <span><a href="{{route('industry.commercial')}}">Commercial</a></span>
+                                    <span><a href="{{route('industry.commercial')}}">Commercial</a>, <a href="{{route('industry.hospitality')}}">Hospitality</a></span>
 								 	</li>
                                                                                                 	<li>
                                 		<strong>Line of Business</strong>
-                                    	<span><a href="../../line_of_business/construction">Construction</a></span>
+                                    	<span><a href="../../line_of_business/construction">Construction</a>, <a href="../../line_of_business/development">Development</a></span>
                                 	</li>
                                                                                                 	<li>
                                 	<strong>Delivery Method</strong>
-                                  	<span>Design-Bid-Build</span>
+                                  	<span>CM at Risk</span>
                                 	</li>
                                                                                                 	<li>
                                 	<strong>Completion Date</strong>
-                                    <span>August 2007</span>
+                                    <span>June 2009</span>
                                 	</li>
                                                                                                 	<li>
                                 	<strong>Duration</strong>
-                                    <span>21 months</span>
+                                    <span>17 months</span>
                                 	</li>
                                                                                                	 	<li>
                                 	<strong>Contract Value</strong>
-                                    <span>$ 85,244,000</span>
+                                    <span>$ 40,362,907</span>
                                 	</li>
-                                                                                                                                	<li>
+                                                                                                	<li>
+                                	<strong>Sustainability</strong>
+                                    <span>LEED Certified</span>
+                                </li>
+                                                                                                	<li>
                                 	<strong>Square Footage</strong>
-                                    <span>437,047 SF</span>
+                                    <span>195,000 SF</span>
                                 	</li>
                                                                                             </ul>
                         </div>
@@ -114,7 +117,7 @@
 			  
 
 			  
-			<li><img src="{{asset('wp-content/uploads/2017/08/University-Village-Thousand-Oaks-Gallery-Image-6.jpg')}}" alt=""></li>
+			<li><img src="{{asset('wp-content/uploads/2017/08/Hotel-Indigo_Gallery-Image-1.jpg')}}" alt=""></li>
 
 			
 			  
@@ -127,7 +130,7 @@
 			  
 
 			  
-			<li><img src="{{asset('wp-content/uploads/2017/08/University-Village-Thousand-Oaks-Gallery-Image-7.jpg')}}" alt=""></li>
+			<li><img src="{{asset('wp-content/uploads/2017/08/Hotel-Indigo_Gallery-Image-2.jpg')}}" alt=""></li>
 
 			
 			  
@@ -140,7 +143,7 @@
 			  
 
 			  
-			<li><img src="{{asset('wp-content/uploads/2017/08/University-Village-Thousand-Oaks-Gallery-Image-8.jpg')}}" alt=""></li>
+			<li><img src="{{asset('wp-content/uploads/2017/08/Hotel-Indigo_Gallery-Image-3.jpg')}}" alt=""></li>
 
 			
 			  
@@ -153,7 +156,7 @@
 			  
 
 			  
-			<li><img src="{{asset('wp-content/uploads/2017/08/University-Village-Thousand-Oaks-Gallery-Image-9.jpg')}}" alt=""></li>
+			<li><img src="{{asset('wp-content/uploads/2017/08/Hotel-Indigo_Gallery-Image-4-1024x684.jpg')}}" alt=""></li>
 
 			
 			  
@@ -166,7 +169,7 @@
 			  
 
 			  
-			<li><img src="{{asset('wp-content/uploads/2017/08/University-Village-Thousand-Oaks-Gallery-Image-10.jpg')}}" alt=""></li>
+			<li><img src="{{asset('wp-content/uploads/2017/08/Hotel-Indigo_Gallery-Image-5.jpg')}}" alt=""></li>
 
 			
 			  
@@ -179,7 +182,7 @@
 			  
 
 			  
-			<li><img src="{{asset('wp-content/uploads/2017/08/University-Village-Thousand-Oaks-Gallery-Image-11.jpg')}}" alt=""></li>
+			<li><img src="{{asset('wp-content/uploads/2017/08/Hotel-Indigo_Gallery-Image-6.jpg')}}" alt=""></li>
 
 			
 			  
@@ -192,7 +195,7 @@
 			  
 
 			  
-			<li><img src="{{asset('wp-content/uploads/2017/08/University-Village-Thousand-Oaks-Gallery-Image-12.jpg')}}" alt=""></li>
+			<li><img src="{{asset('wp-content/uploads/2017/08/Hotel-Indigo_Gallery-Image-7.jpg')}}" alt=""></li>
 
 			
 			  
@@ -205,7 +208,7 @@
 			  
 
 			  
-			<li><img src="{{asset('wp-content/uploads/2017/08/University-Village-Thousand-Oaks-Gallery-Image-1.jpg')}}" alt=""></li>
+			<li><img src="{{asset('wp-content/uploads/2017/08/Hotel-Indigo_Gallery-Image-8.jpg')}}" alt=""></li>
 
 			
 			  
@@ -218,46 +221,7 @@
 			  
 
 			  
-			<li><img src="{{asset('wp-content/uploads/2017/08/University-Village-Thousand-Oaks-Gallery-Image-2.jpg')}}" alt=""></li>
-
-			
-			  
-
-			 
-
-            
-
-            
-			  
-
-			  
-			<li><img src="{{asset('wp-content/uploads/2017/08/University-Village-Thousand-Oaks-Gallery-Image-3.jpg')}}" alt=""></li>
-
-			
-			  
-
-			 
-
-            
-
-            
-			  
-
-			  
-			<li><img src="{{asset('wp-content/uploads/2017/08/University-Village-Thousand-Oaks-Gallery-Image-4.jpg')}}" alt=""></li>
-
-			
-			  
-
-			 
-
-            
-
-            
-			  
-
-			  
-			<li><img src="{{asset('wp-content/uploads/2017/08/University-Village-Thousand-Oaks-Gallery-Image-5.jpg')}}" alt=""></li>
+			<li><img src="{{asset('wp-content/uploads/2017/08/Hotel-Indigo_Gallery-Image-9-1024x684.jpg')}}" alt=""></li>
 
 			
 			  
@@ -278,25 +242,6 @@
 
 
 
-
-                        
-                            
-	<div class="small-wrapper margin">
-        <div class="awards">
-        	            <h2>Awards</h2>
-                        
-                            <div class="acc-content">
-                                            <div class="acc-cont-box">
-                            <h4 class="acc-trigger"><a href="#">2008</a></h4>
-                            <div class="acc-para acc-container">
-                                <ul>
-<li>2008 California Building Industry Association Gold Nugget Award – Best Senior Housing</li>
-</ul>
-                            </div>
-                        </div>
-                                    </div>
-                    </div>
-     </div>
 
                         
                     
@@ -380,7 +325,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Commercial project</em><b></b></h4>
                                 <span>Alticor Inc Pacific District Office Renovation</span>
-                                <a href="../hensel-phelps-pacific-district-office-renovation"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../pacific-district-office-renovation"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>
@@ -411,7 +356,7 @@
         
         
         <div class="cta-block-wrap career-bg">
-            <div class="cta-block">Alticor Inc.
+            <div class="cta-block">
                 <div class="cta-block-content">
                     <h3>Contact Us</h3>
                     <div class="select-region">
@@ -426,7 +371,7 @@
 	<option class="level-0" value="446">Plains</option>
 	<option class="level-0" value="454">Southeast</option>
 	<option class="level-0" value="362">Southern California</option>
-	<option class="level-0" value="456">Southwest</option>
+	<option class="level-0" value="456">Southwest</option>Alticor Inc.
 	<option class="level-0" value="458">Western</option>
 </select>
                         <script type="text/javascript">

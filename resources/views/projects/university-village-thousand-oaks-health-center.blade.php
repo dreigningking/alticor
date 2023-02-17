@@ -1,13 +1,13 @@
 @extends('_layout.others')
 @section('content')
 
-    <div class="page-banner" style="background-image:url({{asset('wp-content/uploads/2019/08/website-image.jpg')}});">
+    <div class="page-banner" style="background-image:url({{asset('wp-content/uploads/2017/08/University-Village-Health-Center-Featured-Image.jpg')}});">
 
         <div class="page-banner-block">
 
             <div class="page-banner-content">
 
-                <h1>Allure Apollo</h1>
+                <h1>University Village Thousand Oaks Health Center</h1>
 
             </div>
         </div>
@@ -29,14 +29,8 @@
 
                 <div class="small-wrapper about-project">
 
-                    <h2 style="text-align: center;">About the Project</h2>
-<p>The Allure Apollo project is the second phase of a three-phase, mixed-use, multifamily, transit-oriented Apollo development. Allure includes 384 Class-A apartment units consisting of 18 studio units, 176 one-bedroom units, and 190 two-bedroom units. An above-ground parking garage serves residents and can accommodate 650 cars. Once complete, all phases of development will create an urban town center development adjacent to the Branch Avenue Metro Station located in Camp Springs, MD. The town center will introduce a new retail center and office space.</p>
-<p>&nbsp;</p>
-<p>The project is a combination of 3A (six stories wood frame over podium) and 5A (six stories wood frame) construction which wraps around a precast concrete-structured parking garage. The multifamily apartments carry high level finishes including granite countertops, stainless steel appliances, and electronic controlled access to common areas and apartments.</p>
-<p>&nbsp;</p>
-<p>Allure Apollo also includes a large amenities package. Indoor amenities include a theater, bar, card room, game room, fitness and yoga studio, conference space, and club room. The outdoor amenities include a courtyard area with a pool, bocce ball court, zen garden and extensive landscaping package.</p>
-<p>&nbsp;</p>
-<p>In 2017, Alticor Inc completed construction of the first phase of the master plan, <a href="../ascend-apollo">Ascend Apollo</a>.</p>
+                    <h2 style="text-align: center">About the Project</h2>
+<p style="text-align: center">University Village Thousand Oaks Health Center is situated adjacent to the University Village campus. It is comprised of a one-story, 33,000 SF skilled nursing facility and a two-story, 42,710 SF assisted-living facility. The 48-bed, state-of-the-art skilled nursing facility offers private and semi-private rooms. It includes a private dining room and offers specialized nursing, care of IV therapy, wound care and pain management and rehabilitative services. The center also offers restaurant-style dining and strives to make residents feel at home with studio, one- and two-bedroom apartments.</p>
 
                 </div>
 
@@ -50,32 +44,44 @@
                             <ul>
                             	                                <li>
                                 	<strong>Location</strong>
-                                    <span>Camp Springs, MD</span>
+                                    <span>Thousand Oaks, California</span>
                                 </li>
                                 
                                                                 <li>
                                 	<strong>Client</strong>
-                                    <span>Peter NG Schwartz Management Company</span>
+                                    <span>Continuing Life Communities</span>
                                 </li>
-                                                                                                	                                <li>
+                                                                                                <li>
+                                	<strong>Architect</strong>
+                                    <span>VTBS Architects</span>
+                                </li>
+                                                                	                                <li>
                                 	<strong>Industry</strong>
-                                    <span><a href="{{route('industry.commercial')}}">Commercial</a></span>
+                                    <span><a href="{{route('industry.commercial')}}">Commercial</a>, <a href="{{route('industry.healthcare')}}">Healthcare</a></span>
 								 	</li>
                                                                                                 	<li>
                                 		<strong>Line of Business</strong>
-                                    	<span><a href="../../line_of_business/construction">Construction</a>, <a href="../../line_of_business/development">Development</a></span>
+                                    	<span><a href="../../line_of_business/construction">Construction</a></span>
                                 	</li>
-                                                                                                                                	<li>
+                                                                                                	<li>
+                                	<strong>Delivery Method</strong>
+                                  	<span>Design-Bid-Build</span>
+                                	</li>
+                                                                                                	<li>
                                 	<strong>Completion Date</strong>
-                                    <span>June 30, 2019</span>
+                                    <span>February 2008</span>
                                 	</li>
-                                                                                                                               	 	<li>
+                                                                                                	<li>
+                                	<strong>Duration</strong>
+                                    <span>16 months</span>
+                                	</li>
+                                                                                               	 	<li>
                                 	<strong>Contract Value</strong>
-                                    <span>$ 64,000,000</span>
+                                    <span>$ 21,782,096</span>
                                 	</li>
                                                                                                                                 	<li>
                                 	<strong>Square Footage</strong>
-                                    <span>492,000 SF</span>
+                                    <span>75,710 SF</span>
                                 	</li>
                                                                                             </ul>
                         </div>
@@ -102,7 +108,7 @@
 			  
 
 			  
-			<li><img src="{{asset('wp-content/uploads/2019/08/website-image1.jpg')}}" alt=""></li>
+			<li><img src="{{asset('wp-content/uploads/2017/08/University-Village-Health-Center-Gallery-Image-4.jpg')}}" alt=""></li>
 
 			
 			  
@@ -115,7 +121,7 @@
 			  
 
 			  
-			<li><img src="{{asset('wp-content/uploads/2019/08/website-image2.jpg')}}" alt=""></li>
+			<li><img src="{{asset('wp-content/uploads/2017/08/University-Village-Health-Center-Gallery-Image-3-1024x684.jpg')}}" alt=""></li>
 
 			
 			  
@@ -128,46 +134,7 @@
 			  
 
 			  
-			<li><img src="{{asset('wp-content/uploads/2019/08/website-image3.jpg')}}" alt=""></li>
-
-			
-			  
-
-			 
-
-            
-
-            
-			  
-
-			  
-			<li><img src="{{asset('wp-content/uploads/2019/08/website-image4.jpg')}}" alt=""></li>
-
-			
-			  
-
-			 
-
-            
-
-            
-			  
-
-			  
-			<li><img src="{{asset('wp-content/uploads/2019/08/website-image5.jpg')}}" alt=""></li>
-
-			
-			  
-
-			 
-
-            
-
-            
-			  
-
-			  
-			<li><img src="{{asset('wp-content/uploads/2019/08/website-image6.jpg')}}" alt=""></li>
+			<li><img src="{{asset('wp-content/uploads/2017/08/University-Village-Health-Center-Gallery-Image-2.jpg')}}" alt=""></li>
 
 			
 			  
@@ -236,6 +203,21 @@
                                     <li class="grid-item">
                         <div class="pro-image-box">
 							
+							                            	<img src="{{asset('wp-content/uploads/2019/08/website-image1-480x320.jpg')}}">
+							
+                            <div class="pro-hover-content">
+                                <h4><em>Commercial project</em><b></b></h4>
+                                <span>Allure Apollo</span>
+                                <a href="{{route('projects.allure-apollo')}}"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                            </div>
+
+                        </div>
+
+                     </li>
+
+                                    <li class="grid-item">
+                        <div class="pro-image-box">
+							
 							                            	<img src="{{asset('wp-content/uploads/2019/06/GEOGroup_025_reduced-480x320.jpg')}}">
 							
                             <div class="pro-hover-content">
@@ -256,7 +238,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Commercial project</em><b></b></h4>
                                 <span>Alticor Inc Pacific District Office Renovation</span>
-                                <a href="../hensel-phelps-pacific-district-office-renovation"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../pacific-district-office-renovation"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>
@@ -272,21 +254,6 @@
                                 <h4><em>Commercial project</em><b></b></h4>
                                 <span>50Fifty Office Tower</span>
                                 <a href="../fifty-50-office-tower"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
-                            </div>
-
-                        </div>
-
-                     </li>
-
-                                    <li class="grid-item">
-                        <div class="pro-image-box">
-							
-							                            	<img src="{{asset('wp-content/uploads/2019/03/Hensel-Phelps-Colorado-Skyscraper-480x320.jpg')}}">
-							
-                            <div class="pro-hover-content">
-                                <h4><em>Commercial project</em><b></b></h4>
-                                <span>1144 15th Street Office Building</span>
-                                <a href="../1144-15th-street-office-building')}}"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>
@@ -332,7 +299,7 @@
 							dropdown.onchange = onCatChange;
 							*/
 						</script>
-                    </div>Alticor Inc.
+                    </div>
 
                 </div>
             </div>

@@ -117,7 +117,8 @@
                             <span>LAUSD Belvedere Middle School Comprehensive Modernization</span>
 
                             <a
-                                href="{{route('project.lausd-belvedere-middle-school-comprehensive-modernization"><i
+                                href="{{route('projects.lausd-belvedere-middle-school-comprehensive-modernization')}}"
+                                    class=><i
                                     class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
                                     More</span></a>
 
@@ -149,7 +150,7 @@
 
                             <span>UC Riverside School of Medicine Education Building II</span>
 
-                            <a href="{{route('project.uc-riverside-school-of-medicine-education-building-ii"><i
+                            <a href="{{route('projects.uc-riverside-school-of-medicine-education-building-ii')}}"><i
                                     class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
                                     More</span></a>
 
@@ -181,7 +182,7 @@
 
                             <span>Naval Air Station Pensacola Building 633</span>
 
-                            <a href="{{route('project.naval-air-station-pensacola-building-633"><i
+                            <a href="{{route('projects.naval-air-station-pensacola-building-633')}}"><i
                                     class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
                                     More</span></a>
 
@@ -213,7 +214,7 @@
 
                             <span>Fawcett Elementary School Replacement</span>
 
-                            <a href="{{route('project.fawcett-elementary-school-replacement"><i
+                            <a href="{{route('projects.fawcett-elementary-school-replacement')}}"><i
                                     class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
                                     More</span></a>
 
@@ -245,7 +246,7 @@
 
                             <span>Camp Paumalu STEM Center for Excellence</span>
 
-                            <a href="{{route('project.camp-paumalu-stem-center-for-excellence"><i
+                            <a href="{{route('projects.camp-paumalu-stem-center-for-excellence')}}"><i
                                     class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
                                     More</span></a>
 
@@ -278,7 +279,8 @@
                             <span>University of Washington Interdisciplinary Engineering Building</span>
 
                             <a
-                                href="{{route('project.university-of-washington-interdisciplinary-engineering-building')}}"><i
+                                href="{{route('projects.university-of-washington-interdisciplinary-engineering-building')}}"
+                                    class=><i
                                     class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
                                     More</span></a>
 

@@ -95,7 +95,35 @@
 
             <ul class="clearfix">
 
+                <li class="grid-item">
 
+                    <div class="pro-image-box">
+    
+    
+    
+    
+    
+                        <img src="{{asset('wp-content/uploads/2020/12/Tac-Maze-Exterior-480x320.jpg')}}">
+    
+    
+    
+    
+                        <div class="pro-hover-content">
+    
+                            <h4><em>Government + Justice case study </em><b></b></h4>
+    
+                            <span>Foreign Affairs Security Training Center (FASTC) Contracts 1 and 3</span>
+    
+                            <a href="{{route('projects.foreign-affairs-security-training-center-fastc-contracts-1-3')}}" ><i
+                                    class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+    
+                        </div>
+    
+    
+    
+                    </div>
+    
+                </li>
                 <li class="grid-item">
 
                     <div class="pro-image-box">
@@ -117,7 +145,7 @@
                                 Facility</span>
 
                             <a
-                                href="{{route('project.maricopa-county-intake-transfer-and-release-itr-facility-detention-facility"><i
+                                href="{{route('projects.maricopa-county-intake-transfer-and-release-itr-facility-detention-facility')}}"><i
                                     class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
                                     More</span></a>
 
@@ -149,7 +177,7 @@
 
                             <span>LAX Airport Police Facility</span>
 
-                            <a href="{{route('project.lax-airport-police-facility"><i
+                            <a href="{{route('projects.lax-airport-police-facility')}}"><i
                                     class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
                                     More</span></a>
 
@@ -182,7 +210,7 @@
                             <span>Western County of Riverside Emergency Operations Center</span>
 
                             <a
-                                href="{{route('project.western-county-of-riverside-emergency-operations-center"><i
+                                href="{{route('projects.western-county-of-riverside-emergency-operations-center')}}"><i
                                     class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
                                     More</span></a>
 
@@ -198,93 +226,42 @@
                 <li class="grid-item">
 
                     <div class="pro-image-box">
-
-
-
-
-
-                        <img src="{{asset('wp-content/uploads/2022/02/Interior_Hangar_Bays_10-1-480x320.jpg')}}">
-
-
-
-
+    
+                        <img src="{{asset('wp-content/uploads/2018/06/MAIN-16.Efacade-480x320.jpg')}}">
+    
+    
+    
+    
                         <div class="pro-hover-content">
-
-                            <h4><em>Aviation project</em><b></b></h4>
-
-                            <span>P263 Broad Area Maritime Surveillance Testing and Evaluation Hangar Facility
-                                (BAMSTE)</span>
-
-                            <a
-                                href="{{route('project.p263-broad-area-maritime-surveillance-testing-evaluation-hangar-facility-bamste"><i
-                                    class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
-                                    More</span></a>
-
+    
+                            <h4><em>Government + Justice project </em><b></b></h4>
+    
+                            <span>Colorado Convention Center and Expansion</span>
+    
+                            <a href="{{route('projects.colorado-convention-center-and-expansion')}}" ><i
+                                    class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+    
                         </div>
-
-
-
+    
+    
+    
                     </div>
-
+    
                 </li>
 
 
-                <li class="grid-item">
-
-                    <div class="pro-image-box">
-
-
-
-
-
-                        <img src="{{asset('wp-content/uploads/2021/11/NAS-Pensacola-B633-3-Reduced-scaled-480x320.jpg')}}">
-
-
-
-
-                        <div class="pro-hover-content">
-
-                            <h4><em>Education project</em><b></b></h4>
-
-                            <span>Naval Air Station Pensacola Building 633</span>
-
-                            <a href="{{route('project.naval-air-station-pensacola-building-633"><i
-                                    class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
-                                    More</span></a>
-
-                        </div>
-
-
-
-                    </div>
-
-                </li>
-
+                
 
                 <li class="grid-item">
-
                     <div class="pro-image-box">
-
-
-
-
-
-                        <img
-                            src="{{asset('wp-content/uploads/2021/07/SSA-Altmeyer-Award-Selections-1_Compressed-480x320.jpg')}}">
-
-
-
-
+                        <img src="{{asset('wp-content/uploads/2021/07/SSA-Altmeyer-Award-Selections-1_Compressed-480x320.jpg')}}">
                         <div class="pro-hover-content">
-
                             <h4><em>Government + Justice project</em><b></b></h4>
-
                             <span>Social Security Administration (SSA) Arthur J. Altmeyer Modernization</span>
-
-                            <a
-                                href="{{route('project.social-security-administration-ssa-arthur-j-altmeyer-modernization"><i
-                                    class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
-                                    More</span></a>
+                            <a href="{{route('projects.social-security-administration-ssa-arthur-j-altmeyer-modernization')}}">
+                                <i class="fa fa-arrow-circle-right" aria-hidden="true"></i>
+                                <span>Learn More</span>
+                            </a>
 
                         </div>
 

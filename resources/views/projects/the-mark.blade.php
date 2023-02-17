@@ -1,13 +1,13 @@
 @extends('_layout.others')
 @section('content')
 
-    <div class="page-banner" style="background-image:url({{asset('wp-content/uploads/2017/08/University-Village-Health-Center-Featured-Image.jpg')}});">
+    <div class="page-banner" style="background-image:url({{asset('wp-content/uploads/2017/08/HP_Large_Website_Hero_The-Mark.jpg')}});">
 
         <div class="page-banner-block">
 
             <div class="page-banner-content">
 
-                <h1>University Village Thousand Oaks Health Center</h1>
+                <h1>The Mark</h1>
 
             </div>
         </div>
@@ -30,7 +30,7 @@
                 <div class="small-wrapper about-project">
 
                     <h2 style="text-align: center">About the Project</h2>
-<p style="text-align: center">University Village Thousand Oaks Health Center is situated adjacent to the University Village campus. It is comprised of a one-story, 33,000 SF skilled nursing facility and a two-story, 42,710 SF assisted-living facility. The 48-bed, state-of-the-art skilled nursing facility offers private and semi-private rooms. It includes a private dining room and offers specialized nursing, care of IV therapy, wound care and pain management and rehabilitative services. The center also offers restaurant-style dining and strives to make residents feel at home with studio, one- and two-bedroom apartments.</p>
+<p style="font-weight: 400">The Mark is located on an entire block in downtown San Diego’s East Village and is a 33-story, 244-unit residential condominium project. The ground floor includes retail space and 517 parking spaces located in a subterranean parking structure. The project also includes two-story Type V townhouses at street level and a community center with a multipurpose room, fitness center and a swimming pool.</p>
 
                 </div>
 
@@ -44,44 +44,40 @@
                             <ul>
                             	                                <li>
                                 	<strong>Location</strong>
-                                    <span>Thousand Oaks, California</span>
+                                    <span>San Diego, California</span>
                                 </li>
                                 
                                                                 <li>
                                 	<strong>Client</strong>
-                                    <span>Continuing Life Communities</span>
+                                    <span>The Mark Condominiums, LLC</span>
                                 </li>
                                                                                                 <li>
                                 	<strong>Architect</strong>
-                                    <span>VTBS Architects</span>
+                                    <span>Martinez + Cutri Corporation</span>
                                 </li>
                                                                 	                                <li>
                                 	<strong>Industry</strong>
-                                    <span><a href="{{route('industry.commercial')}}">Commercial</a>, <a href="{{route('industry.healthcare')}}">Healthcare</a></span>
+                                    <span><a href="{{route('industry.commercial')}}">Commercial</a></span>
 								 	</li>
                                                                                                 	<li>
                                 		<strong>Line of Business</strong>
                                     	<span><a href="../../line_of_business/construction">Construction</a></span>
                                 	</li>
-                                                                                                	<li>
-                                	<strong>Delivery Method</strong>
-                                  	<span>Design-Bid-Build</span>
-                                	</li>
-                                                                                                	<li>
+                                                                                                                                	<li>
                                 	<strong>Completion Date</strong>
-                                    <span>February 2008</span>
+                                    <span>May 2007</span>
                                 	</li>
                                                                                                 	<li>
                                 	<strong>Duration</strong>
-                                    <span>16 months</span>
+                                    <span>38 Months</span>
                                 	</li>
                                                                                                	 	<li>
                                 	<strong>Contract Value</strong>
-                                    <span>$ 21,782,096</span>
+                                    <span>$ 90,833,563</span>
                                 	</li>
                                                                                                                                 	<li>
                                 	<strong>Square Footage</strong>
-                                    <span>75,710 SF</span>
+                                    <span>360,000 SF</span>
                                 	</li>
                                                                                             </ul>
                         </div>
@@ -108,7 +104,7 @@
 			  
 
 			  
-			<li><img src="{{asset('wp-content/uploads/2017/08/University-Village-Health-Center-Gallery-Image-4.jpg')}}" alt=""></li>
+			<li><img src="{{asset('wp-content/uploads/2017/08/The-Mark-04.jpg')}}" alt=""></li>
 
 			
 			  
@@ -121,7 +117,7 @@
 			  
 
 			  
-			<li><img src="{{asset('wp-content/uploads/2017/08/University-Village-Health-Center-Gallery-Image-3-1024x684.jpg')}}" alt=""></li>
+			<li><img src="{{asset('wp-content/uploads/2017/08/The-Mark-05.jpg')}}" alt=""></li>
 
 			
 			  
@@ -134,7 +130,72 @@
 			  
 
 			  
-			<li><img src="{{asset('wp-content/uploads/2017/08/University-Village-Health-Center-Gallery-Image-2.jpg')}}" alt=""></li>
+			<li><img src="{{asset('wp-content/uploads/2017/08/The-Mark-06.jpg')}}" alt=""></li>
+
+			
+			  
+
+			 
+
+            
+
+            
+			  
+
+			  
+			<li><img src="{{asset('wp-content/uploads/2017/08/The-Mark-01.jpg')}}" alt=""></li>
+
+			
+			  
+
+			 
+
+            
+
+            
+			  
+
+			  
+			<li><img src="{{asset('wp-content/uploads/2017/08/The-Mark-03.jpg')}}" alt=""></li>
+
+			
+			  
+
+			 
+
+            
+
+            
+			  
+
+			  
+			<li><img src="{{asset('wp-content/uploads/2017/08/The-Mark-07.jpg')}}" alt=""></li>
+
+			
+			  
+
+			 
+
+            
+
+            
+			  
+
+			  
+			<li><img src="{{asset('wp-content/uploads/2017/08/The-Mark-08.jpg')}}" alt=""></li>
+
+			
+			  
+
+			 
+
+            
+
+            
+			  
+
+			  
+			<li><img src="{{asset('wp-content/uploads/2017/08/The-Mark-09.jpg')}}" alt=""></li>
 
 			
 			  
@@ -238,7 +299,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Commercial project</em><b></b></h4>
                                 <span>Alticor Inc Pacific District Office Renovation</span>
-                                <a href="../hensel-phelps-pacific-district-office-renovation"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../pacific-district-office-renovation"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>
@@ -289,7 +350,7 @@
 </select>
                         <script type="text/javascript">
 							/*
-							var dropdown = document.getElementById("page_id");
+							var dropdown = document.getElementById("page_id");Alticor Inc.
 							function onCatChange() {
 								if ( dropdown.options[dropdown.selectedIndex].value > 0 ) {
 									location.href = "https://henselphelps.com/?page_id="+dropdown.options[dropdown.selectedIndex].value;

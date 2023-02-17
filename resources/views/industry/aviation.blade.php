@@ -96,7 +96,7 @@
             <ul class="clearfix">
 
 
-                <li class="grid-item">
+                 <li class="grid-item">
 
                     <div class="pro-image-box">
 
@@ -117,7 +117,7 @@
                             <span>Tampa International Airport Main Terminal Curbside Expansion Program</span>
 
                             <a
-                                href="{{route('project.tampa-international-airport-main-terminal-curbside-expansion-program-2"><i
+                                href="{{route('projects.tampa-international-airport-main-terminal-curbside-expansion-program-2')}}"><i
                                     class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
                                     More</span></a>
 
@@ -127,8 +127,8 @@
 
                     </div>
 
-                </li>
-
+                </li> 
+                
 
                 <li class="grid-item">
 
@@ -149,7 +149,7 @@
 
                             <span>China Lake South Airfield</span>
 
-                            <a href="{{route('project.china-lake-south-airfield"><i
+                            <a href="{{route('projects.china-lake-south-airfield')}}"><i
                                     class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
                                     More</span></a>
 
@@ -163,50 +163,26 @@
 
 
                 <li class="grid-item">
-
                     <div class="pro-image-box">
-
-
-
-
-
                         <img src="{{asset('wp-content/uploads/2020/05/HP_Website_Main_LAX-T1.5-480x320.jpg')}}">
-
-
-
-
                         <div class="pro-hover-content">
 
                             <h4><em>Aviation project</em><b></b></h4>
 
                             <span>LAX Southwest Airlines Terminal 1.5 Development Program</span>
 
-                            <a
-                                href="{{route('project.lax-southwest-airlines-terminal-1-5-development-program"><i
-                                    class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
-                                    More</span></a>
+                            <a href="{{route('projects.lax-southwest-airlines-terminal-1-5-development-program')}}">
+                                <i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span>
+                            </a>
 
                         </div>
-
-
-
                     </div>
-
                 </li>
 
 
                 <li class="grid-item">
-
                     <div class="pro-image-box">
-
-
-
-
-
                         <img src="{{asset('wp-content/uploads/2022/02/DJC_Final_31Jan2012_010-480x320.jpg')}}">
-
-
-
 
                         <div class="pro-hover-content">
 
@@ -214,16 +190,12 @@
 
                             <span>Hangar Reconstruction &#8211; Dulles Jet Center</span>
 
-                            <a href="{{route('project.hangar-reconstruction-dulles-jet-center"><i
+                            <a href="{{route('projects.hangar-reconstruction-dulles-jet-center')}}"><i
                                     class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
                                     More</span></a>
 
                         </div>
-
-
-
                     </div>
-
                 </li>
 
 
@@ -248,7 +220,7 @@
                             <span>Midfield Concourse at Washington Dulles International Airport</span>
 
                             <a
-                                href="{{route('project.midfield-concourse-washington-dulles-international-airport"><i
+                                href="{{route('projects.midfield-concourse-washington-dulles-international-airport')}}"><i
                                     class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
                                     More</span></a>
 
@@ -264,31 +236,17 @@
                 <li class="grid-item">
 
                     <div class="pro-image-box">
-
-
-
-
-
                         <img src="{{asset('wp-content/uploads/2022/02/BWI-Terminal-Ext-122-7x10-72dpi-1-480x320.jpg')}}">
-
-
-
-
                         <div class="pro-hover-content">
 
                             <h4><em>Aviation project</em><b></b></h4>
 
                             <span>Baltimore Washington International Airport Terminal A/B Expansion</span>
 
-                            <a
-                                href="{{route('project.baltimore-washington-international-airport-terminal-b-expansion"><i
-                                    class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
-                                    More</span></a>
-
+                            <a href="{{route('projects.baltimore-washington-international-airport-terminal-b-expansion')}}">
+                                <i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span>
+                            </a>
                         </div>
-
-
-
                     </div>
 
                 </li>

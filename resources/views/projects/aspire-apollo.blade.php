@@ -1,13 +1,13 @@
 @extends('_layout.others')
 @section('content')
 
-    <div class="page-banner" style="background-image:url({{asset('wp-content/uploads/2017/05/Hensel_Phelps_Commerical_Potomac_MADO.jpg')}});">
+    <div class="page-banner" style="background-image:url({{asset('wp-content/uploads/2017/08/HERO-Aspire-Apollo-01.jpg')}});">
 
         <div class="page-banner-block">
 
             <div class="page-banner-content">
 
-                <h1>Potomac Town Center</h1>
+                <h1>ASPIRE Apollo</h1>
 
             </div>
         </div>
@@ -30,7 +30,10 @@
                 <div class="small-wrapper about-project">
 
                     <h2>About the Project</h2>
-<p>The project is the second phase of Stonebridge at Potomac Town Center, an open air retail center in Woodbridge, Virginia. Featuring 249,493 SF of retail space, the project included 6 separate core and shell retail spaces and was constructed for Stonebridge Development in 327 calendar days. Core and shell spaces were constructed for prominent retailers and restaurants including Travinia Italian Kitchen, Coldwater Creek, PF Changs, Toby Keith&#8217;s I Love This Bar, White House / Black Market, REI, Golfsmith and DSW.</p>
+<p>Alticor Inc Development is the co-developer for ASPIRE Apollo to develop the second phase of this multi-phase development. ASPIRE is a 384-unit multifamily apartment complex.</p>
+<p>Alticor Inc Development is responsible for all development management services necessary to insure successful completion of entitlements, design and construction activities to allow for tenant occupancy. The project is part of a new development of Class A mid-rise apartments with a structured parking garage containing 650 parking stalls.  The property also includes a fully equipped wellness club, media room, pet spa, internet café, and swimming pool with lush landscaping throughout the 7.7-acre site.</p>
+<p>The ASPIRE Apollo project is part of a three-phase development which has a total of 801 multifamily units and will also include a restaurant row and walkable urban destination retail center (Phase III).</p>
+<p>This transient-oriented development is located at the intersection of Capital Gateway Boulevard and Telfair Drive in Prince George’s County. Being situated directly adjacent to the Branch Avenue Metrorail Station at the end of the Green Line, it has direct access to 13 stops within the District of Columbia.</p>
 
                 </div>
 
@@ -44,12 +47,12 @@
                             <ul>
                             	                                <li>
                                 	<strong>Location</strong>
-                                    <span>Woodbridge, VA</span>
+                                    <span>Camp Springs, MD</span>
                                 </li>
                                 
                                                                 <li>
                                 	<strong>Client</strong>
-                                    <span>Diamond Potomac Center, LLC</span>
+                                    <span>Residences at Town Center, LLC</span>
                                 </li>
                                                                                                 	                                <li>
                                 	<strong>Industry</strong>
@@ -57,19 +60,15 @@
 								 	</li>
                                                                                                 	<li>
                                 		<strong>Line of Business</strong>
-                                    	<span><a href="../../line_of_business/construction">Construction</a></span>
+                                    	<span><a href="../../line_of_business/development">Development</a></span>
                                 	</li>
                                                                                                                                 	<li>
                                 	<strong>Completion Date</strong>
-                                    <span>September 2012</span>
+                                    <span>June 2016</span>
                                 	</li>
-                                                                                                                               	 	<li>
-                                	<strong>Contract Value</strong>
-                                    <span>$ 35,745,465</span>
-                                	</li>
-                                                                                                                                	<li>
+                                                                                                                                                                                                	<li>
                                 	<strong>Square Footage</strong>
-                                    <span>249,493 SF</span>
+                                    <span>790,345 SF</span>
                                 	</li>
                                                                                             </ul>
                         </div>
@@ -96,7 +95,7 @@
 			  
 
 			  
-			<li><img src="{{asset('wp-content/uploads/2017/05/2011069-Potomac-Town-Center-Buildings-2-7-018_Original-e1502905039130-1024x684.jpg')}}" alt=""></li>
+			<li><img src="{{asset('wp-content/uploads/2017/08/2-Aspire-Apollo-GALLERY.jpg')}}" alt=""></li>
 
 			
 			  
@@ -109,7 +108,7 @@
 			  
 
 			  
-			<li><img src="{{asset('wp-content/uploads/2017/05/2011069-Potomac-Town-Center-Buildings-2-7-019_Original-e1502905059595-1024x684.jpg')}}" alt=""></li>
+			<li><img src="{{asset('wp-content/uploads/2017/08/3-ASPIRE-Apollo-GALLERY.jpg')}}" alt=""></li>
 
 			
 			  
@@ -122,72 +121,7 @@
 			  
 
 			  
-			<li><img src="{{asset('wp-content/uploads/2017/05/2011069-Potomac-Town-Center-Buildings-2-7-020_Original-1-e1502905078949-1024x684.jpg')}}" alt=""></li>
-
-			
-			  
-
-			 
-
-            
-
-            
-			  
-
-			  
-			<li><img src="{{asset('wp-content/uploads/2017/05/2011069-Potomac-Town-Center-Buildings-2-7-023_Original-e1502905098830-1024x684.jpg')}}" alt=""></li>
-
-			
-			  
-
-			 
-
-            
-
-            
-			  
-
-			  
-			<li><img src="{{asset('wp-content/uploads/2017/05/2011069-Potomac-Town-Center-Buildings-2-7-039_Original-e1502905118566-1024x684.jpg')}}" alt=""></li>
-
-			
-			  
-
-			 
-
-            
-
-            
-			  
-
-			  
-			<li><img src="{{asset('wp-content/uploads/2017/05/2011069-Potomac-Town-Center-Buildings-2-7-038_Original-e1502905158247-1024x684.jpg')}}" alt=""></li>
-
-			
-			  
-
-			 
-
-            
-
-            
-			  
-
-			  
-			<li><img src="{{asset('wp-content/uploads/2017/05/2011069-Potomac-Town-Center-Buildings-2-7-037_Original-e1502905180932-1024x684.jpg')}}" alt=""></li>
-
-			
-			  
-
-			 
-
-            
-
-            
-			  
-
-			  
-			<li><img src="{{asset('wp-content/uploads/2017/05/2011069-Potomac-Town-Center-Buildings-2-7-028_Original-e1502905205921-1024x684.jpg')}}" alt=""></li>
+			<li><img src="{{asset('wp-content/uploads/2017/08/4-Aspire-Apollo-GALLERY.jpg')}}" alt=""></li>
 
 			
 			  
@@ -208,23 +142,6 @@
 
 
 
-
-                        
-                            
-	<div class="small-wrapper margin">
-        <div class="awards">
-        	            <h2>Awards</h2>
-                        
-                            <div class="acc-content">
-                                            <div class="acc-cont-box">
-                            <h4 class="acc-trigger"><a href="#">2012</a></h4>
-                            <div class="acc-para acc-container">
-                                <p>Excellence in Construction</p>
-                            </div>
-                        </div>
-                                    </div>
-                    </div>
-     </div>
 
                         
                     
@@ -308,7 +225,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Commercial project</em><b></b></h4>
                                 <span>Alticor Inc Pacific District Office Renovation</span>
-                                <a href="../hensel-phelps-pacific-district-office-renovation"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../pacific-district-office-renovation"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>
@@ -359,7 +276,7 @@
 </select>
                         <script type="text/javascript">
 							/*
-							var dropdown = document.getElementById("page_id");Alticor Inc.
+							var dropdown = document.getElementById("page_id");
 							function onCatChange() {
 								if ( dropdown.options[dropdown.selectedIndex].value > 0 ) {
 									location.href = "https://henselphelps.com/?page_id="+dropdown.options[dropdown.selectedIndex].value;
@@ -378,4 +295,5 @@
 
     </div>
 
-    @endsection
+
+	@endsection

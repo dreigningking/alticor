@@ -96,7 +96,36 @@
 
             <ul class="clearfix">
 
+                <li class="grid-item">
 
+                    <div class="pro-image-box">
+    
+    
+    
+    
+    
+                        <img src="{{asset('wp-content/uploads/2022/06/HP_Website_Main_P229-480x320.jpg')}}">
+    
+    
+    
+    
+                        <div class="pro-hover-content">
+    
+                            <h4><em>Science + Technology project </em><b></b></h4>
+    
+                            <span>NAVFAC P229 Weapons Surveillance and Testing Laboratory and Calibration Laboratory</span>
+    
+                            <a
+                                href="{{route('projects.navfac-p229-weapons-surveillance-testing-laboratory-calibration-laboratory')}}" ><i
+                                    class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+    
+                        </div>
+    
+    
+    
+                    </div>
+    
+                </li>
                 <li class="grid-item">
 
                     <div class="pro-image-box">
@@ -116,7 +145,7 @@
 
                             <span>Caltech Resnick Sustainability Center</span>
 
-                            <a href="{{route('project.caltech-resnick-sustainability-center"><i
+                            <a href="{{route('projects.caltech-resnick-sustainability-center')}}"><i
                                     class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
                                     More</span></a>
 
@@ -129,37 +158,7 @@
                 </li>
 
 
-                <li class="grid-item">
-
-                    <div class="pro-image-box">
-
-
-
-
-
-                        <img src="{{asset('wp-content/uploads/2022/06/UCR-SOM-EBII-02-480x320.jpg')}}">
-
-
-
-
-                        <div class="pro-hover-content">
-
-                            <h4><em>Education project</em><b></b></h4>
-
-                            <span>UC Riverside School of Medicine Education Building II</span>
-
-                            <a href="{{route('project.uc-riverside-school-of-medicine-education-building-ii"><i
-                                    class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
-                                    More</span></a>
-
-                        </div>
-
-
-
-                    </div>
-
-                </li>
-
+                
 
                 <li class="grid-item">
 
@@ -181,7 +180,7 @@
                             <span>California Air Resources Board Headquarters – Mary D. Nichols Campus</span>
 
                             <a
-                                href="{{route('project.california-air-resources-board-headquarters-mary-d-nichols-campus"><i
+                                href="{{route('projects.california-air-resources-board-headquarters-mary-d-nichols-campus')}}"><i
                                     class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
                                     More</span></a>
 
@@ -215,7 +214,8 @@
                                 1 &#8211; 5</span>
 
                             <a
-                                href="{{route('projects.national-institute-of-standards-and-technology-building-245-modernization-task-orders-1-5')}}"><i
+                                href="{{route('projects.national-institute-of-standards-and-technology-building-245-modernization-task-orders-1-5')}}"
+                                    class=><i
                                     class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
                                     More</span></a>
 
@@ -248,7 +248,7 @@
                             <span>NIA Alzheimer Disease and Related Dementias Temporary Research Facility</span>
 
                             <a
-                                href="{{route('project.nia-alzheimer-disease-and-related-dementias-temporary-research-facility"><i
+                                href="{{route('projects.nia-alzheimer-disease-and-related-dementias-temporary-research-facility')}}"><i
                                     class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
                                     More</span></a>
 
@@ -280,7 +280,8 @@
 
                             <span>Caltech Chen Neuroscience Research Building</span>
 
-                            <a href="{{route('project.caltech-chen-neuroscience-research-building')}}"><i
+                            <a href="{{route('projects.caltech-chen-neuroscience-research-building')}}"
+                                    class=><i
                                     class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
                                     More</span></a>
 

@@ -1,13 +1,13 @@
 @extends('_layout.others')
 @section('content')
 
-    <div class="page-banner" style="background-image:url({{asset('wp-content/uploads/2017/08/HP_Large_Hero_City-North-1.jpg')}});">
+    <div class="page-banner" style="background-image:url({{asset('wp-content/uploads/2017/08/HERO-Eastman-Kodak-Aerial.jpg')}});">
 
         <div class="page-banner-block">
 
             <div class="page-banner-content">
 
-                <h1>City North Phase I</h1>
+                <h1>Eastman Kodak Campus</h1>
 
             </div>
         </div>
@@ -30,9 +30,11 @@
                 <div class="small-wrapper about-project">
 
                     <h2>About the Project</h2>
-<p>City North is a multi-phased, mixed-use project. Phase I consists of developing 20 of 144 acres.  It includes 11 mixed-use buildings including retail, office, residential, a parking structure, a sales and marketing center, and all infrastructure. Phase I includes approximately 1,200,000 SF.</p>
-<p>The project offers the opportunity to create an interactive lifestyle with an exciting mix of retail, restaurant, residential, office, cultural, civic, entertainment and fitness uses. With areas of high and low density and buildings layered with uses, City North is far more than a lifestyle center. It incorporates and encourages all the best aspects of city living: excitement, authenticity, public and private spaces, evolution, varied architectural styles, a sense of unexpectedness, movement, spontaneity, and refreshment.</p>
-<p>At completion, City North&#8217;s retail program will include over one million SF of the broadest range of retail experiences to be found in one project. Additionally, it will include over two million SF of office space where tenants will have many choices from single user, corporate headquarters to smaller, loft offices located above shops and restaurants in multi-use buildings. As with the retail and dining components, City North offers an array of urban residential options integrated with the project&#8217;s other uses including townhouses and luxury high-rise apartments with post tension concrete floors above retail shops and restaurants.</p>
+<p>Alticor Inc provided Facility Management services to Kodak Colorado Division from 1969 through 2012 under the auspices of a General Service Agreement that covered a wide range of call work, preventative maintenance, and reactive maintenance. Included were projects involving new construction, remodel, demolition, site work, mechanical, electrical, plumbing, and HVAC for the industrial complex.</p>
+<p>&nbsp;</p>
+<p>Alticor Inc was the builder and Facility Services provider for the Eastman Kodak Colorado Division from 1966 until the contract was terminated in the business dissolution in 2012. Beginning with a 650-acre site in Windsor, Colorado, the manufacturing facility expanded to eventually cover more than 900 acres, containing 24 buildings/structures, and comprising more than 3,000,000 SF of building space. During the height of operations, the Kodak Windsor plant operated 24 hours a day, 365 days per year, with critical shutdowns scheduled three or four times per year for intensive equipment servicing.</p>
+<p>&nbsp;</p>
+<p>Over the years, Alticor Inc provided commissioning and TSO services for multiple buildings on the Kodak campus. Alticor Inc performed decommissioning services as buildings were closed. Alticor Inc worked with the new facility owners to prepare and transition the buildings and maintenance data to new ownership and maintenance systems.</p>
 
                 </div>
 
@@ -46,12 +48,12 @@
                             <ul>
                             	                                <li>
                                 	<strong>Location</strong>
-                                    <span>Phoenix, AZ</span>
+                                    <span>Windsor, CO</span>
                                 </li>
                                 
                                                                 <li>
                                 	<strong>Client</strong>
-                                    <span>Thomas J. Klutznick / Related Midwest Corp.</span>
+                                    <span>Kodak Colorado Division</span>
                                 </li>
                                                                                                 	                                <li>
                                 	<strong>Industry</strong>
@@ -59,23 +61,15 @@
 								 	</li>
                                                                                                 	<li>
                                 		<strong>Line of Business</strong>
-                                    	<span><a href="../../line_of_business/construction">Construction</a></span>
+                                    	<span><a href="../../line_of_business/services">Facility Services</a></span>
                                 	</li>
                                                                                                                                 	<li>
                                 	<strong>Completion Date</strong>
-                                    <span>November 2008</span>
+                                    <span>January 2012</span>
                                 	</li>
-                                                                                                	<li>
-                                	<strong>Duration</strong>
-                                    <span>20 months</span>
-                                	</li>
-                                                                                               	 	<li>
-                                	<strong>Contract Value</strong>
-                                    <span>$ 148,000,000</span>
-                                	</li>
-                                                                                                                                	<li>
+                                                                                                                                                                                                	<li>
                                 	<strong>Square Footage</strong>
-                                    <span>1,207,000 SF</span>
+                                    <span>3,000,000 SF</span>
                                 	</li>
                                                                                             </ul>
                         </div>
@@ -102,98 +96,7 @@
 			  
 
 			  
-			<li><img src="{{asset('wp-content/uploads/2017/08/CityNorth-Parking_0023-1024x684.jpg')}}" alt=""></li>
-
-			
-			  
-
-			 
-
-            
-
-            
-			  
-
-			  
-			<li><img src="{{asset('wp-content/uploads/2017/08/CityNorth_0024-1024x684.jpg')}}" alt=""></li>
-
-			
-			  
-
-			 
-
-            
-
-            
-			  
-
-			  
-			<li><img src="{{asset('wp-content/uploads/2017/08/CityNorth-A4.jpg')}}" alt=""></li>
-
-			
-			  
-
-			 
-
-            
-
-            
-			  
-
-			  
-			<li><img src="{{asset('wp-content/uploads/2017/08/CityNorth-A11-AM.jpg')}}" alt=""></li>
-
-			
-			  
-
-			 
-
-            
-
-            
-			  
-
-			  
-			<li><img src="{{asset('wp-content/uploads/2017/08/CityNorth_04a.jpg')}}" alt=""></li>
-
-			
-			  
-
-			 
-
-            
-
-            
-			  
-
-			  
-			<li><img src="{{asset('wp-content/uploads/2017/08/CityNorth_01c.jpg')}}" alt=""></li>
-
-			
-			  
-
-			 
-
-            
-
-            
-			  
-
-			  
-			<li><img src="{{asset('wp-content/uploads/2017/08/CityNorth_03a.jpg')}}" alt=""></li>
-
-			
-			  
-
-			 
-
-            
-
-            
-			  
-
-			  
-			<li><img src="{{asset('wp-content/uploads/2017/08/A3-1024x684.jpg')}}" alt=""></li>
+			<li><img src="{{asset('wp-content/uploads/2017/08/2-Kodak-ColoradoGALLERY.jpg')}}" alt=""></li>
 
 			
 			  
@@ -297,7 +200,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Commercial project</em><b></b></h4>
                                 <span>Alticor Inc Pacific District Office Renovation</span>
-                                <a href="../hensel-phelps-pacific-district-office-renovation"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../pacific-district-office-renovation"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>
@@ -348,7 +251,7 @@
 </select>
                         <script type="text/javascript">
 							/*
-							var dropdown = document.getElementById("page_id");Alticor Inc.
+							var dropdown = document.getElementById("page_id");
 							function onCatChange() {
 								if ( dropdown.options[dropdown.selectedIndex].value > 0 ) {
 									location.href = "https://henselphelps.com/?page_id="+dropdown.options[dropdown.selectedIndex].value;

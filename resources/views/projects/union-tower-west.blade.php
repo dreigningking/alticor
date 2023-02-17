@@ -1,13 +1,13 @@
 @extends('_layout.others')
 @section('content')
 
-    <div class="page-banner" style="background-image:url({{asset('wp-content/uploads/2017/08/HERO-Eastman-Kodak-Aerial.jpg')}});">
+    <div class="page-banner" style="background-image:url({{asset('wp-content/uploads/2017/08/UTW_Hero.jpg')}});">
 
         <div class="page-banner-block">
 
             <div class="page-banner-content">
 
-                <h1>Eastman Kodak Campus</h1>
+                <h1>Union Tower West</h1>
 
             </div>
         </div>
@@ -30,11 +30,13 @@
                 <div class="small-wrapper about-project">
 
                     <h2>About the Project</h2>
-<p>Alticor Inc provided Facility Management services to Kodak Colorado Division from 1969 through 2012 under the auspices of a General Service Agreement that covered a wide range of call work, preventative maintenance, and reactive maintenance. Included were projects involving new construction, remodel, demolition, site work, mechanical, electrical, plumbing, and HVAC for the industrial complex.</p>
+<p>This 300,000-SF mixed-use project features a 180-room boutique-style hotel (the state’s first Hotel Indigo), 1,188 SF of meeting and event space, a Colorado gold rush-inspired rustic American restaurant and modern saloon (Hearth and Dram), a 216-stall parking garage and four floors of AA office space.</p>
+<h3><a href="{{route('what-we-do.development')}}">DEVELOPMENT</a></h3>
+<p>Developed by Alticor Inc Development and associates in the Lower Downtown (Lo-Do) district of Denver, the Union Tower West mixed-use project helps activate the area around the historic Union Station and extends the concepts of connectivity, walkability, and urbanism inherent in the overall master plan for Denver’s newest neighborhood, The Commons.  Areas of expertise provided by the Development team included project financing, and project management/owner’s representation.</p>
+<h3><a href="{{route('what-we-do.construction')}}">CONSTRUCTION</a></h3>
+<p class="p1">The hotel and office building site is located at the Northeast corner of 18th Street and Wewatta Street in Denver, CO. It is a vertical mixed-use project consisting of approximately 300,000 SF. The ground floor provides core and shell retail space, separate lobby areas for the hotel and office functions, a restaurant with a bar, as well as meeting and hotel program space. Parking for the project is provided in the structure on levels 2-4. Levels 5-8 consists of 180 hotel rooms, and levels 9-12 consist of corporate office space.</p>
 <p>&nbsp;</p>
-<p>Alticor Inc was the builder and Facility Services provider for the Eastman Kodak Colorado Division from 1966 until the contract was terminated in the business dissolution in 2012. Beginning with a 650-acre site in Windsor, Colorado, the manufacturing facility expanded to eventually cover more than 900 acres, containing 24 buildings/structures, and comprising more than 3,000,000 SF of building space. During the height of operations, the Kodak Windsor plant operated 24 hours a day, 365 days per year, with critical shutdowns scheduled three or four times per year for intensive equipment servicing.</p>
 <p>&nbsp;</p>
-<p>Over the years, Alticor Inc provided commissioning and TSO services for multiple buildings on the Kodak campus. Alticor Inc performed decommissioning services as buildings were closed. Alticor Inc worked with the new facility owners to prepare and transition the buildings and maintenance data to new ownership and maintenance systems.</p>
 
                 </div>
 
@@ -48,28 +50,48 @@
                             <ul>
                             	                                <li>
                                 	<strong>Location</strong>
-                                    <span>Windsor, CO</span>
+                                    <span>Denver, CO</span>
                                 </li>
                                 
                                                                 <li>
                                 	<strong>Client</strong>
-                                    <span>Kodak Colorado Division</span>
+                                    <span>Portman Holdings</span>
                                 </li>
-                                                                                                	                                <li>
+                                                                                                <li>
+                                	<strong>Architect</strong>
+                                    <span>Portman Architects</span>
+                                </li>
+                                                                	                                <li>
                                 	<strong>Industry</strong>
                                     <span><a href="{{route('industry.commercial')}}">Commercial</a></span>
 								 	</li>
                                                                                                 	<li>
                                 		<strong>Line of Business</strong>
-                                    	<span><a href="../../line_of_business/services">Facility Services</a></span>
+                                    	<span><a href="../../line_of_business/construction">Construction</a></span>
                                 	</li>
-                                                                                                                                	<li>
+                                                                                                	<li>
+                                	<strong>Delivery Method</strong>
+                                  	<span>CM at Risk</span>
+                                	</li>
+                                                                                                	<li>
                                 	<strong>Completion Date</strong>
-                                    <span>January 2012</span>
+                                    <span>January 2017</span>
                                 	</li>
-                                                                                                                                                                                                	<li>
+                                                                                                	<li>
+                                	<strong>Duration</strong>
+                                    <span>21 months</span>
+                                	</li>
+                                                                                               	 	<li>
+                                	<strong>Contract Value</strong>
+                                    <span>$ 52,580,000</span>
+                                	</li>
+                                                                                                	<li>
+                                	<strong>Sustainability</strong>
+                                    <span>LEED Certified</span>
+                                </li>
+                                                                                                	<li>
                                 	<strong>Square Footage</strong>
-                                    <span>3,000,000 SF</span>
+                                    <span>293,078 SF</span>
                                 	</li>
                                                                                             </ul>
                         </div>
@@ -96,7 +118,98 @@
 			  
 
 			  
-			<li><img src="{{asset('wp-content/uploads/2017/08/2-Kodak-ColoradoGALLERY.jpg')}}" alt=""></li>
+			<li><img src="{{asset('wp-content/uploads/2017/08/smUnion-Tower-West1-1024x684-1024x684.jpg')}}" alt=""></li>
+
+			
+			  
+
+			 
+
+            
+
+            
+			  
+
+			  
+			<li><img src="{{asset('wp-content/uploads/2017/08/smUnion-Tower-West4-1024x684-1024x684.jpg')}}" alt=""></li>
+
+			
+			  
+
+			 
+
+            
+
+            
+			  
+
+			  
+			<li><img src="{{asset('wp-content/uploads/2017/08/smUnion-Tower-West5-1024x684-1024x684.jpg')}}" alt=""></li>
+
+			
+			  
+
+			 
+
+            
+
+            
+			  
+
+			  
+			<li><img src="{{asset('wp-content/uploads/2017/08/smUnion-Tower-West8-1024x684-1024x684.jpg')}}" alt=""></li>
+
+			
+			  
+
+			 
+
+            
+
+            
+			  
+
+			  
+			<li><img src="{{asset('wp-content/uploads/2017/08/smUnion-Tower-West9-1024x684-1024x684.jpg')}}" alt=""></li>
+
+			
+			  
+
+			 
+
+            
+
+            
+			  
+
+			  
+			<li><img src="{{asset('wp-content/uploads/2017/08/smUnion-Tower-West12-1024x684-1024x684.jpg')}}" alt=""></li>
+
+			
+			  
+
+			 
+
+            
+
+            
+			  
+
+			  
+			<li><img src="{{asset('wp-content/uploads/2017/08/smUnion-Tower-West13-865x684.jpg')}}" alt=""></li>
+
+			
+			  
+
+			 
+
+            
+
+            
+			  
+
+			  
+			<li><img src="{{asset('wp-content/uploads/2017/08/Final-Union-Tower-West14a_Retouched-1024x684.jpg')}}" alt=""></li>
 
 			
 			  
@@ -117,6 +230,34 @@
 
 
 
+
+                        
+                            
+	<div class="small-wrapper margin">
+        <div class="awards">
+        	            <h2>Awards</h2>
+                        
+                            <div class="acc-content">
+                                            <div class="acc-cont-box">
+                            <h4 class="acc-trigger"><a href="#">2017</a></h4>
+                            <div class="acc-para acc-container">
+                                <ul>
+<li>ABC Rocky Mountain 2017 Excellence In Construction Award &#8211; Award of Merit Entry Category: Commercial | $25 to $100M</li>
+</ul>
+<p>&nbsp;</p>
+<ul>
+<li>ENR Award of Merit</li>
+</ul>
+<p>&nbsp;</p>
+<ul>
+<li>28th Annual ABC National Excellence in Construction Pyramid Award &#8211; General Contractors / Construction Management &#8211; Commercial | $35 to $100 Million</li>
+</ul>
+<p>&nbsp;</p>
+                            </div>
+                        </div>
+                                    </div>
+                    </div>
+     </div>
 
                         
                     
@@ -200,7 +341,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Commercial project</em><b></b></h4>
                                 <span>Alticor Inc Pacific District Office Renovation</span>
-                                <a href="../hensel-phelps-pacific-district-office-renovation"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../pacific-district-office-renovation"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>
@@ -251,7 +392,7 @@
 </select>
                         <script type="text/javascript">
 							/*
-							var dropdown = document.getElementById("page_id");
+							var dropdown = document.getElementById("page_id");Alticor Inc.
 							function onCatChange() {
 								if ( dropdown.options[dropdown.selectedIndex].value > 0 ) {
 									location.href = "https://henselphelps.com/?page_id="+dropdown.options[dropdown.selectedIndex].value;

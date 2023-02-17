@@ -1,13 +1,13 @@
 @extends('_layout.others')
 @section('content')
 
-    <div class="page-banner" style="background-image:url({{asset('wp-content/uploads/2017/08/UTW_Hero.jpg')}});">
+    <div class="page-banner" style="background-image:url({{asset('wp-content/uploads/2017/05/Hensel_Phelps_Commerical_Potomac_MADO.jpg')}});">
 
         <div class="page-banner-block">
 
             <div class="page-banner-content">
 
-                <h1>Union Tower West</h1>
+                <h1>Potomac Town Center</h1>
 
             </div>
         </div>
@@ -30,13 +30,7 @@
                 <div class="small-wrapper about-project">
 
                     <h2>About the Project</h2>
-<p>This 300,000-SF mixed-use project features a 180-room boutique-style hotel (the state’s first Hotel Indigo), 1,188 SF of meeting and event space, a Colorado gold rush-inspired rustic American restaurant and modern saloon (Hearth and Dram), a 216-stall parking garage and four floors of AA office space.</p>
-<h3><a href="{{route('what-we-do.development')}}">DEVELOPMENT</a></h3>
-<p>Developed by Alticor Inc Development and associates in the Lower Downtown (Lo-Do) district of Denver, the Union Tower West mixed-use project helps activate the area around the historic Union Station and extends the concepts of connectivity, walkability, and urbanism inherent in the overall master plan for Denver’s newest neighborhood, The Commons.  Areas of expertise provided by the Development team included project financing, and project management/owner’s representation.</p>
-<h3><a href="{{route('what-we-do.construction')}}">CONSTRUCTION</a></h3>
-<p class="p1">The hotel and office building site is located at the Northeast corner of 18th Street and Wewatta Street in Denver, CO. It is a vertical mixed-use project consisting of approximately 300,000 SF. The ground floor provides core and shell retail space, separate lobby areas for the hotel and office functions, a restaurant with a bar, as well as meeting and hotel program space. Parking for the project is provided in the structure on levels 2-4. Levels 5-8 consists of 180 hotel rooms, and levels 9-12 consist of corporate office space.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p>The project is the second phase of Stonebridge at Potomac Town Center, an open air retail center in Woodbridge, Virginia. Featuring 249,493 SF of retail space, the project included 6 separate core and shell retail spaces and was constructed for Stonebridge Development in 327 calendar days. Core and shell spaces were constructed for prominent retailers and restaurants including Travinia Italian Kitchen, Coldwater Creek, PF Changs, Toby Keith&#8217;s I Love This Bar, White House / Black Market, REI, Golfsmith and DSW.</p>
 
                 </div>
 
@@ -50,18 +44,14 @@
                             <ul>
                             	                                <li>
                                 	<strong>Location</strong>
-                                    <span>Denver, CO</span>
+                                    <span>Woodbridge, VA</span>
                                 </li>
                                 
                                                                 <li>
                                 	<strong>Client</strong>
-                                    <span>Portman Holdings</span>
+                                    <span>Diamond Potomac Center, LLC</span>
                                 </li>
-                                                                                                <li>
-                                	<strong>Architect</strong>
-                                    <span>Portman Architects</span>
-                                </li>
-                                                                	                                <li>
+                                                                                                	                                <li>
                                 	<strong>Industry</strong>
                                     <span><a href="{{route('industry.commercial')}}">Commercial</a></span>
 								 	</li>
@@ -69,29 +59,17 @@
                                 		<strong>Line of Business</strong>
                                     	<span><a href="../../line_of_business/construction">Construction</a></span>
                                 	</li>
-                                                                                                	<li>
-                                	<strong>Delivery Method</strong>
-                                  	<span>CM at Risk</span>
-                                	</li>
-                                                                                                	<li>
+                                                                                                                                	<li>
                                 	<strong>Completion Date</strong>
-                                    <span>January 2017</span>
+                                    <span>September 2012</span>
                                 	</li>
-                                                                                                	<li>
-                                	<strong>Duration</strong>
-                                    <span>21 months</span>
-                                	</li>
-                                                                                               	 	<li>
+                                                                                                                               	 	<li>
                                 	<strong>Contract Value</strong>
-                                    <span>$ 52,580,000</span>
+                                    <span>$ 35,745,465</span>
                                 	</li>
-                                                                                                	<li>
-                                	<strong>Sustainability</strong>
-                                    <span>LEED Certified</span>
-                                </li>
-                                                                                                	<li>
+                                                                                                                                	<li>
                                 	<strong>Square Footage</strong>
-                                    <span>293,078 SF</span>
+                                    <span>249,493 SF</span>
                                 	</li>
                                                                                             </ul>
                         </div>
@@ -118,7 +96,7 @@
 			  
 
 			  
-			<li><img src="{{asset('wp-content/uploads/2017/08/smUnion-Tower-West1-1024x684-1024x684.jpg')}}" alt=""></li>
+			<li><img src="{{asset('wp-content/uploads/2017/05/2011069-Potomac-Town-Center-Buildings-2-7-018_Original-e1502905039130-1024x684.jpg')}}" alt=""></li>
 
 			
 			  
@@ -131,7 +109,7 @@
 			  
 
 			  
-			<li><img src="{{asset('wp-content/uploads/2017/08/smUnion-Tower-West4-1024x684-1024x684.jpg')}}" alt=""></li>
+			<li><img src="{{asset('wp-content/uploads/2017/05/2011069-Potomac-Town-Center-Buildings-2-7-019_Original-e1502905059595-1024x684.jpg')}}" alt=""></li>
 
 			
 			  
@@ -144,7 +122,7 @@
 			  
 
 			  
-			<li><img src="{{asset('wp-content/uploads/2017/08/smUnion-Tower-West5-1024x684-1024x684.jpg')}}" alt=""></li>
+			<li><img src="{{asset('wp-content/uploads/2017/05/2011069-Potomac-Town-Center-Buildings-2-7-020_Original-1-e1502905078949-1024x684.jpg')}}" alt=""></li>
 
 			
 			  
@@ -157,7 +135,7 @@
 			  
 
 			  
-			<li><img src="{{asset('wp-content/uploads/2017/08/smUnion-Tower-West8-1024x684-1024x684.jpg')}}" alt=""></li>
+			<li><img src="{{asset('wp-content/uploads/2017/05/2011069-Potomac-Town-Center-Buildings-2-7-023_Original-e1502905098830-1024x684.jpg')}}" alt=""></li>
 
 			
 			  
@@ -170,7 +148,7 @@
 			  
 
 			  
-			<li><img src="{{asset('wp-content/uploads/2017/08/smUnion-Tower-West9-1024x684-1024x684.jpg')}}" alt=""></li>
+			<li><img src="{{asset('wp-content/uploads/2017/05/2011069-Potomac-Town-Center-Buildings-2-7-039_Original-e1502905118566-1024x684.jpg')}}" alt=""></li>
 
 			
 			  
@@ -183,7 +161,7 @@
 			  
 
 			  
-			<li><img src="{{asset('wp-content/uploads/2017/08/smUnion-Tower-West12-1024x684-1024x684.jpg')}}" alt=""></li>
+			<li><img src="{{asset('wp-content/uploads/2017/05/2011069-Potomac-Town-Center-Buildings-2-7-038_Original-e1502905158247-1024x684.jpg')}}" alt=""></li>
 
 			
 			  
@@ -196,7 +174,7 @@
 			  
 
 			  
-			<li><img src="{{asset('wp-content/uploads/2017/08/smUnion-Tower-West13-865x684.jpg')}}" alt=""></li>
+			<li><img src="{{asset('wp-content/uploads/2017/05/2011069-Potomac-Town-Center-Buildings-2-7-037_Original-e1502905180932-1024x684.jpg')}}" alt=""></li>
 
 			
 			  
@@ -209,7 +187,7 @@
 			  
 
 			  
-			<li><img src="{{asset('wp-content/uploads/2017/08/Final-Union-Tower-West14a_Retouched-1024x684.jpg')}}" alt=""></li>
+			<li><img src="{{asset('wp-content/uploads/2017/05/2011069-Potomac-Town-Center-Buildings-2-7-028_Original-e1502905205921-1024x684.jpg')}}" alt=""></li>
 
 			
 			  
@@ -239,20 +217,9 @@
                         
                             <div class="acc-content">
                                             <div class="acc-cont-box">
-                            <h4 class="acc-trigger"><a href="#">2017</a></h4>
+                            <h4 class="acc-trigger"><a href="#">2012</a></h4>
                             <div class="acc-para acc-container">
-                                <ul>
-<li>ABC Rocky Mountain 2017 Excellence In Construction Award &#8211; Award of Merit Entry Category: Commercial | $25 to $100M</li>
-</ul>
-<p>&nbsp;</p>
-<ul>
-<li>ENR Award of Merit</li>
-</ul>
-<p>&nbsp;</p>
-<ul>
-<li>28th Annual ABC National Excellence in Construction Pyramid Award &#8211; General Contractors / Construction Management &#8211; Commercial | $35 to $100 Million</li>
-</ul>
-<p>&nbsp;</p>
+                                <p>Excellence in Construction</p>
                             </div>
                         </div>
                                     </div>
@@ -341,7 +308,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Commercial project</em><b></b></h4>
                                 <span>Alticor Inc Pacific District Office Renovation</span>
-                                <a href="../hensel-phelps-pacific-district-office-renovation"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../pacific-district-office-renovation"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>

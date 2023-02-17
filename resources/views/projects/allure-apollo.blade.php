@@ -1,13 +1,13 @@
 @extends('_layout.others')
 @section('content')
 
-    <div class="page-banner" style="background-image:url({{asset('wp-content/uploads/2017/05/Hensel_Phelps_Commericial_City_Northeastern.jpg')}});">
+    <div class="page-banner" style="background-image:url({{asset('wp-content/uploads/2019/08/website-image.jpg')}});">
 
         <div class="page-banner-block">
 
             <div class="page-banner-content">
 
-                <h1>City North Phoenix Phase I</h1>
+                <h1>Allure Apollo</h1>
 
             </div>
         </div>
@@ -29,8 +29,14 @@
 
                 <div class="small-wrapper about-project">
 
-                    <h2>About the Project</h2>
-<p>City North is a phased, mixed-use project spanning 11 mixed-use buildings including retail, office, residential, parking structure, a sales and marketing center, and all infrastructure, totaling 1,200,000 SF. The project offers the opportunity to create an interactive lifestyle with an exciting mix of retail, restaurant, residential, office, cultural, civic, entertainment and fitness uses. With areas of high and low density and buildings layered with uses, City North is far more than a lifestyle center. It incorporates and encourages all the best aspects of city living: excitement, authenticity, public and private spaces, evolution, varied architectural styles, a sense of unexpectedness, movement, spontaneity, refreshment. As with the retail and dining components, City North offers an array of urban residential options integrated with the project&#8217;s other uses incuding Townhomes, luxury highrise condominiums with post tension concrete floors, and apartments above retail shops and restaurants are all in the mix.</p>
+                    <h2 style="text-align: center;">About the Project</h2>
+<p>The Allure Apollo project is the second phase of a three-phase, mixed-use, multifamily, transit-oriented Apollo development. Allure includes 384 Class-A apartment units consisting of 18 studio units, 176 one-bedroom units, and 190 two-bedroom units. An above-ground parking garage serves residents and can accommodate 650 cars. Once complete, all phases of development will create an urban town center development adjacent to the Branch Avenue Metro Station located in Camp Springs, MD. The town center will introduce a new retail center and office space.</p>
+<p>&nbsp;</p>
+<p>The project is a combination of 3A (six stories wood frame over podium) and 5A (six stories wood frame) construction which wraps around a precast concrete-structured parking garage. The multifamily apartments carry high level finishes including granite countertops, stainless steel appliances, and electronic controlled access to common areas and apartments.</p>
+<p>&nbsp;</p>
+<p>Allure Apollo also includes a large amenities package. Indoor amenities include a theater, bar, card room, game room, fitness and yoga studio, conference space, and club room. The outdoor amenities include a courtyard area with a pool, bocce ball court, zen garden and extensive landscaping package.</p>
+<p>&nbsp;</p>
+<p>In 2017, Alticor Inc completed construction of the first phase of the master plan, <a href="../ascend-apollo">Ascend Apollo</a>.</p>
 
                 </div>
 
@@ -44,12 +50,12 @@
                             <ul>
                             	                                <li>
                                 	<strong>Location</strong>
-                                    <span>Phoenix, AZ</span>
+                                    <span>Camp Springs, MD</span>
                                 </li>
                                 
                                                                 <li>
                                 	<strong>Client</strong>
-                                    <span>Thomas J. Klutznick / Related Midwest Corp.</span>
+                                    <span>Peter NG Schwartz Management Company</span>
                                 </li>
                                                                                                 	                                <li>
                                 	<strong>Industry</strong>
@@ -57,27 +63,19 @@
 								 	</li>
                                                                                                 	<li>
                                 		<strong>Line of Business</strong>
-                                    	<span><a href="../../line_of_business/construction">Construction</a></span>
+                                    	<span><a href="../../line_of_business/construction">Construction</a>, <a href="../../line_of_business/development">Development</a></span>
                                 	</li>
                                                                                                                                 	<li>
                                 	<strong>Completion Date</strong>
-                                    <span>November 2008</span>
+                                    <span>June 30, 2019</span>
                                 	</li>
-                                                                                                	<li>
-                                	<strong>Duration</strong>
-                                    <span>25 Months</span>
-                                	</li>
-                                                                                               	 	<li>
+                                                                                                                               	 	<li>
                                 	<strong>Contract Value</strong>
-                                    <span>$ 148,342,658</span>
+                                    <span>$ 64,000,000</span>
                                 	</li>
-                                                                                                	<li>
-                                	<strong>Sustainability</strong>
-                                    <span>Built to LEED standards</span>
-                                </li>
-                                                                                                	<li>
+                                                                                                                                	<li>
                                 	<strong>Square Footage</strong>
-                                    <span>1,207,000 SF</span>
+                                    <span>492,000 SF</span>
                                 	</li>
                                                                                             </ul>
                         </div>
@@ -104,7 +102,7 @@
 			  
 
 			  
-			<li><img src="{{asset('wp-content/uploads/2017/05/5906044-City-North-Phoenix-Phase-I-014_Original-1-e1502904882369-1024x684.jpg')}}" alt=""></li>
+			<li><img src="{{asset('wp-content/uploads/2019/08/website-image1.jpg')}}" alt=""></li>
 
 			
 			  
@@ -117,7 +115,7 @@
 			  
 
 			  
-			<li><img src="{{asset('wp-content/uploads/2017/05/5906044-City-North-Phoenix-Phase-I-015_Original.jpg')}}" alt=""></li>
+			<li><img src="{{asset('wp-content/uploads/2019/08/website-image2.jpg')}}" alt=""></li>
 
 			
 			  
@@ -130,7 +128,7 @@
 			  
 
 			  
-			<li><img src="{{asset('wp-content/uploads/2017/05/5906044-City-North-Phoenix-Phase-I-016_Original-e1502904914134-1024x684.jpg')}}" alt=""></li>
+			<li><img src="{{asset('wp-content/uploads/2019/08/website-image3.jpg')}}" alt=""></li>
 
 			
 			  
@@ -143,7 +141,7 @@
 			  
 
 			  
-			<li><img src="{{asset('wp-content/uploads/2017/05/5906044-City-North-Phoenix-Phase-I-017_Original.jpg')}}" alt=""></li>
+			<li><img src="{{asset('wp-content/uploads/2019/08/website-image4.jpg')}}" alt=""></li>
 
 			
 			  
@@ -156,7 +154,7 @@
 			  
 
 			  
-			<li><img src="{{asset('wp-content/uploads/2017/05/5906044-City-North-Phoenix-Phase-I-019_Original-e1502904947592-1024x684.jpg')}}" alt=""></li>
+			<li><img src="{{asset('wp-content/uploads/2019/08/website-image5.jpg')}}" alt=""></li>
 
 			
 			  
@@ -169,7 +167,7 @@
 			  
 
 			  
-			<li><img src="{{asset('wp-content/uploads/2017/05/5906044-City-North-Phoenix-Phase-I-028_Original-e1502904976216-1024x684.jpg')}}" alt=""></li>
+			<li><img src="{{asset('wp-content/uploads/2019/08/website-image6.jpg')}}" alt=""></li>
 
 			
 			  
@@ -238,21 +236,6 @@
                                     <li class="grid-item">
                         <div class="pro-image-box">
 							
-							                            	<img src="{{asset('wp-content/uploads/2019/08/website-image1-480x320.jpg')}}">
-							
-                            <div class="pro-hover-content">
-                                <h4><em>Commercial project</em><b></b></h4>
-                                <span>Allure Apollo</span>
-                                <a href="{{route('projects.allure-apollo')}}"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
-                            </div>
-
-                        </div>
-
-                     </li>
-
-                                    <li class="grid-item">
-                        <div class="pro-image-box">
-							
 							                            	<img src="{{asset('wp-content/uploads/2019/06/GEOGroup_025_reduced-480x320.jpg')}}">
 							
                             <div class="pro-hover-content">
@@ -273,7 +256,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Commercial project</em><b></b></h4>
                                 <span>Alticor Inc Pacific District Office Renovation</span>
-                                <a href="../hensel-phelps-pacific-district-office-renovation"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../pacific-district-office-renovation"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>
@@ -289,6 +272,21 @@
                                 <h4><em>Commercial project</em><b></b></h4>
                                 <span>50Fifty Office Tower</span>
                                 <a href="../fifty-50-office-tower"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                            </div>
+
+                        </div>
+
+                     </li>
+
+                                    <li class="grid-item">
+                        <div class="pro-image-box">
+							
+							                            	<img src="{{asset('wp-content/uploads/2019/03/Hensel-Phelps-Colorado-Skyscraper-480x320.jpg')}}">
+							
+                            <div class="pro-hover-content">
+                                <h4><em>Commercial project</em><b></b></h4>
+                                <span>1144 15th Street Office Building</span>
+                                <a href="../1144-15th-street-office-building')}}"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>

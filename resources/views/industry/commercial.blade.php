@@ -117,7 +117,7 @@
 
                             <span>SeaWorld Aquatica SP2</span>
 
-                            <a href="{{route('project.seaworld-aquatica-sp2"><i
+                            <a href="{{route('projects.seaworld-aquatica-sp2')}}"><i
                                     class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
                                     More</span></a>
 
@@ -149,7 +149,7 @@
 
                             <span>701 Rio</span>
 
-                            <a href="{{route('project.701-rio"><i class="fa fa-arrow-circle-right"
+                            <a href="{{route('projects.701-rio')}}"><i class="fa fa-arrow-circle-right"
                                     aria-hidden="true"></i><span>Learn More</span></a>
 
                         </div>
@@ -211,7 +211,7 @@
 
                             <span>The GEO Group Corporate Headquarters</span>
 
-                            <a href="{{route('project.geo-group-corporate-headquarters"><i
+                            <a href="{{route('projects.geo-group-corporate-headquarters')}}"><i
                                     class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
                                     More</span></a>
 
@@ -243,7 +243,7 @@
 
                             <span>Alticor Inc Pacific District Office Renovation</span>
 
-                            <a href="{{route('project.hensel-phelps-pacific-district-office-renovation"><i
+                            <a href="{{route('projects.pacific-district-office-renovation')}}"><i
                                     class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
                                     More</span></a>
 
@@ -259,15 +259,7 @@
                 <li class="grid-item">
 
                     <div class="pro-image-box">
-
-
-
-
-
                         <img src="{{asset('wp-content/uploads/2019/04/sm5050-S-Syracuse4-480x320.jpg')}}">
-
-
-
 
                         <div class="pro-hover-content">
 
@@ -275,7 +267,7 @@
 
                             <span>50Fifty Office Tower</span>
 
-                            <a href="{{route('project.fifty-50-office-tower"><i
+                            <a href="{{route('projects.fifty-50-office-tower')}}"><i
                                     class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
                                     More</span></a>
 

@@ -119,7 +119,7 @@
 
                             <span>SFCSD Water Reclamation Facility Expansion</span>
 
-                            <a href="{{route('project.south-fort-collins-sanitation-district"><i
+                            <a href="{{route('projects.south-fort-collins-sanitation-district')}}"><i
                                     class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
                                     More</span></a>
 
@@ -151,7 +151,7 @@
 
                             <span>Drake Water Reclamation Facility</span>
 
-                            <a href="{{route('project.drake-water-reclamation-facility"><i
+                            <a href="{{route('projects.drake-water-reclamation-facility')}}"><i
                                     class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
                                     More</span></a>
 
@@ -184,7 +184,7 @@
                             <span>Waianae Wastewater Treatment Plant Improvements and Upgrade</span>
 
                             <a
-                                href="{{route('project.waianae-wastewater-treatment-plant-improvements-upgrade"><i
+                                href="{{route('projects.waianae-wastewater-treatment-plant-improvements-upgrade')}}"><i
                                     class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
                                     More</span></a>
 
@@ -216,7 +216,7 @@
 
                             <span>Kaneohe / Kailua Tunnel Influent Facility</span>
 
-                            <a href="{{route('project.kaneohe-kailua-tunnel-influent-facility"><i
+                            <a href="{{route('projects.kaneohe-kailua-tunnel-influent-facility')}}"><i
                                     class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
                                     More</span></a>
 
@@ -250,7 +250,7 @@
                                 Facility</span>
 
                             <a
-                                href="{{route('project.kailua-regional-wastewater-treatment-plant-tunnel-influent-pump-station-headworks-facility"><i
+                                href="{{route('projects.kailua-regional-wastewater-treatment-plant-tunnel-influent-pump-station-headworks-facility')}}"><i
                                     class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn
                                     More</span></a>
 

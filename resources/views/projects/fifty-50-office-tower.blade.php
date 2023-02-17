@@ -1,13 +1,13 @@
 @extends('_layout.others')
 @section('content')
 
-    <div class="page-banner" style="background-image:url({{asset('wp-content/uploads/2017/08/HERO-Block-A-Rendering-Creative-Suite.jpg')}});">
+    <div class="page-banner" style="background-image:url({{asset('wp-content/uploads/2019/03/Option-2-HP_Large_Hero_Template.jpg')}});">
 
         <div class="page-banner-block">
 
             <div class="page-banner-content">
 
-                <h1>Makers Quarter</h1>
+                <h1>50Fifty Office Tower</h1>
 
             </div>
         </div>
@@ -30,11 +30,9 @@
                 <div class="small-wrapper about-project">
 
                     <h2>About the Project</h2>
-<p>Comprised of approximately six blocks spanning 14th Street to 17th Street, Broadway Avenue to G Street, this neighborhood in the Upper East Village is surrounded by San Diego City College, the vibrant East Village, and Golden Hill.  Makers Quarter seeks to provide connectivity between each of these desirable regions while creating a central, live-work-play quarter for eastern Downtown.  Makers Quarter will create connections in transit housing, jobs, open space, and significant density with a vision to merge innovative economies with a strong urban community.</p>
+<p>50Fifty Office Tower consists of a 12-story office tower with six floors of office space, an enclosed parking garage, and ground floor retail space. This building is a precast concrete structure with a structural steel framed office podium above.</p>
 <p>&nbsp;</p>
-<p>The gradual, incremental build begins with the residential mixed-use block to combine market and community uses.  Next will be a combination of creative offices, a mixture of small, local, and mid-sized retail anchors as well as residential, all stitched together by a strong and significant office space plan.  Respectful of the long history in the area, Makers Quarter will incorporate historic elements and architecture into the design and function of the neighborhood with a strong focus on sustainability.</p>
-<p>&nbsp;</p>
-<p>The Navarra Family selected <a href="{{route('what-we-do.development')}}">Alticor Inc Development</a> and their associates to develop what has been creatively branded as Makers Quarter, an upcoming urban neighborhood to establish, enhance, and promote linkages throughout San Diego and downtown.  The Development team provided expertise in the areas of project management / owner&#8217;s representation.</p>
+<p>Emphasis for the building is natural light on the building’s exterior and interior. The building is wrapped in an unique curtain wall design: the exterior envelope is solid at the tower base, and gradually rises to a transparent top with a pattern inspired by nautical motifs.</p>
 
                 </div>
 
@@ -48,24 +46,48 @@
                             <ul>
                             	                                <li>
                                 	<strong>Location</strong>
-                                    <span>San Diego, CA</span>
+                                    <span>Denver, CO</span>
                                 </li>
                                 
                                                                 <li>
                                 	<strong>Client</strong>
-                                    <span>L2HP, LLC</span>
+                                    <span>5050 S. Syracuse LLC</span>
                                 </li>
-                                                                                                	                                <li>
+                                                                                                <li>
+                                	<strong>Architect</strong>
+                                    <span>Clutch Design Studio</span>
+                                </li>
+                                                                	                                <li>
                                 	<strong>Industry</strong>
                                     <span><a href="{{route('industry.commercial')}}">Commercial</a></span>
 								 	</li>
                                                                                                 	<li>
                                 		<strong>Line of Business</strong>
-                                    	<span><a href="../../line_of_business/development">Development</a></span>
+                                    	<span><a href="../../line_of_business/construction">Construction</a></span>
                                 	</li>
-                                                                                                                                                                                                                                                                	<li>
+                                                                                                	<li>
+                                	<strong>Delivery Method</strong>
+                                  	<span>CM at Risk</span>
+                                	</li>
+                                                                                                	<li>
+                                	<strong>Completion Date</strong>
+                                    <span>November 2018</span>
+                                	</li>
+                                                                                                	<li>
+                                	<strong>Duration</strong>
+                                    <span>24 Months</span>
+                                	</li>
+                                                                                               	 	<li>
+                                	<strong>Contract Value</strong>
+                                    <span>$ 65,000,000</span>
+                                	</li>
+                                                                                                	<li>
+                                	<strong>Sustainability</strong>
+                                    <span>LEED Gold</span>
+                                </li>
+                                                                                                	<li>
                                 	<strong>Square Footage</strong>
-                                    <span>317,000 SF</span>
+                                    <span>396,975 SF</span>
                                 	</li>
                                                                                             </ul>
                         </div>
@@ -92,7 +114,7 @@
 			  
 
 			  
-			<li><img src="{{asset('wp-content/uploads/2017/08/2-Block-B-GALLERY.jpg')}}" alt=""></li>
+			<li><img src="{{asset('wp-content/uploads/2019/04/sm5050-S-Syracuse5.jpg')}}" alt=""></li>
 
 			
 			  
@@ -105,7 +127,7 @@
 			  
 
 			  
-			<li><img src="{{asset('wp-content/uploads/2017/08/3-Block-C-GALLERY.jpg')}}" alt=""></li>
+			<li><img src="{{asset('wp-content/uploads/2019/04/5050-S-Syracuse18-1024x684.jpg')}}" alt=""></li>
 
 			
 			  
@@ -118,7 +140,7 @@
 			  
 
 			  
-			<li><img src="{{asset('wp-content/uploads/2017/08/4-Makers-Quarter-Block-D-GALLERYl.jpg')}}" alt=""></li>
+			<li><img src="{{asset('wp-content/uploads/2019/04/sm5050-S-Syracuse11.jpg')}}" alt=""></li>
 
 			
 			  
@@ -131,7 +153,7 @@
 			  
 
 			  
-			<li><img src="{{asset('wp-content/uploads/2017/08/5-Makers-Quarter-Block-D-GALLERY.jpg')}}" alt=""></li>
+			<li><img src="{{asset('wp-content/uploads/2019/04/sm5050-S-Syracuse13.jpg')}}" alt=""></li>
 
 			
 			  
@@ -144,7 +166,59 @@
 			  
 
 			  
-			<li><img src="{{asset('wp-content/uploads/2017/08/6-Makers-Quarter-Block-D-001-GALLERY.jpg')}}" alt=""></li>
+			<li><img src="{{asset('wp-content/uploads/2019/04/sm5050-S-Syracuse9.jpg')}}" alt=""></li>
+
+			
+			  
+
+			 
+
+            
+
+            
+			  
+
+			  
+			<li><img src="{{asset('wp-content/uploads/2019/04/sm5050-S-Syracuse10.jpg')}}" alt=""></li>
+
+			
+			  
+
+			 
+
+            
+
+            
+			  
+
+			  
+			<li><img src="{{asset('wp-content/uploads/2019/04/sm5050-S-Syracuse12.jpg')}}" alt=""></li>
+
+			
+			  
+
+			 
+
+            
+
+            
+			  
+
+			  
+			<li><img src="{{asset('wp-content/uploads/2019/04/sm5050-S-Syracuse14.jpg')}}" alt=""></li>
+
+			
+			  
+
+			 
+
+            
+
+            
+			  
+
+			  
+			<li><img src="{{asset('wp-content/uploads/2019/04/sm5050-S-Syracuse4.jpg')}}" alt=""></li>
 
 			
 			  
@@ -165,6 +239,28 @@
 
 
 
+
+                        
+                            
+	<div class="small-wrapper margin">
+        <div class="awards">
+        	            <h2>Awards</h2>
+                        
+                            <div class="acc-content">
+                                            <div class="acc-cont-box">
+                            <h4 class="acc-trigger"><a href="#">2019 Awards</a></h4>
+                            <div class="acc-para acc-container">
+                                <ul>
+<li>ABC Rocky Mountain 2019 Excellence In Construction Award &#8211; LEED</li>
+<li>ABC Rocky Mountain 2019 Excellence In Construction Award &#8211; Free Enterprise</li>
+<li>ABC Rocky Mountain 2019 Excellence In Construction Award &#8211; Commercial | $25 to $100 million</li>
+<li>AGC Award of Merit for Construction Excellence 2019 &#8211; Best Building Project, $40M-$70M General Contractor</li>
+</ul>
+                            </div>
+                        </div>
+                                    </div>
+                    </div>
+     </div>
 
                         
                     
@@ -248,7 +344,7 @@
                             <div class="pro-hover-content">
                                 <h4><em>Commercial project</em><b></b></h4>
                                 <span>Alticor Inc Pacific District Office Renovation</span>
-                                <a href="../hensel-phelps-pacific-district-office-renovation"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <a href="../pacific-district-office-renovation"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>
@@ -258,12 +354,12 @@
                                     <li class="grid-item">
                         <div class="pro-image-box">
 							
-							                            	<img src="{{asset('wp-content/uploads/2019/04/sm5050-S-Syracuse4-480x320.jpg')}}">
+							                            	<img src="{{asset('wp-content/uploads/2019/03/Hensel-Phelps-Colorado-Skyscraper-480x320.jpg')}}">
 							
                             <div class="pro-hover-content">
                                 <h4><em>Commercial project</em><b></b></h4>
-                                <span>50Fifty Office Tower</span>
-                                <a href="../fifty-50-office-tower"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
+                                <span>1144 15th Street Office Building</span>
+                                <a href="../1144-15th-street-office-building')}}"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><span>Learn More</span></a>
                             </div>
 
                         </div>
@@ -294,7 +390,7 @@
 	<option class="level-0" value="446">Plains</option>
 	<option class="level-0" value="454">Southeast</option>
 	<option class="level-0" value="362">Southern California</option>
-	<option class="level-0" value="456">Southwest</option>
+	<option class="level-0" value="456">Southwest</option>Alticor Inc.
 	<option class="level-0" value="458">Western</option>
 </select>
                         <script type="text/javascript">
@@ -314,7 +410,7 @@
                 </div>
             </div>
 
-        </div>Alticor Inc.
+        </div>
 
     </div>
 
